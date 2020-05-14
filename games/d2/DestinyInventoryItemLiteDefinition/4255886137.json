@@ -1,0 +1,79 @@
+{
+    "itemTypeAndTierDisplayName": "Legendary Armor Perk", 
+    "itemType": 19, 
+    "tooltipNotifications": [], 
+    "quality": {
+        "infusionCategoryHash": 0, 
+        "infusionCategoryHashes": [], 
+        "infusionCategoryName": "0", 
+        "progressionLevelRequirementHash": 0, 
+        "qualityLevel": 0, 
+        "itemLevels": []
+    }, 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "summaryItemHash": 3407672161, 
+    "inventory": {
+        "isInstanceItem": true, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Legendary", 
+        "bucketTypeHash": 1469714392, 
+        "tierTypeHash": 4008398120, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 5, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Armor Perk", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        59, 
+        303512563
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "displaySource": "", 
+    "perks": [
+        {
+            "requirementDisplayString": "", 
+            "perkHash": 447622382, 
+            "perkVisibility": 0
+        }
+    ], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/c3855c543a237a448da755c08953014b.png"
+                ]
+            }, 
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/0c8ad7177961cb5d922bd110a7311a36.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/c3855c543a237a448da755c08953014b.png", 
+        "hasIcon": true, 
+        "description": "Slightly increases reload speed of any equipped Power weapon.", 
+        "name": "Power Weapon Loader"
+    }
+}

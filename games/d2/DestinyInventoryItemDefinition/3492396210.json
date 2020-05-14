@@ -1,0 +1,121 @@
+{
+    "itemTypeAndTierDisplayName": "Legendary Magazine", 
+    "itemType": 19, 
+    "investmentStats": [
+        {
+            "value": 10, 
+            "statTypeHash": 2523465841, 
+            "isConditionallyActive": false
+        }, 
+        {
+            "value": 15, 
+            "statTypeHash": 155624089, 
+            "isConditionallyActive": false
+        }, 
+        {
+            "value": -10, 
+            "statTypeHash": 3614673599, 
+            "isConditionallyActive": false
+        }
+    ], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "index": 2374, 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "summaryItemHash": 3520001075, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Legendary", 
+        "bucketTypeHash": 1469714392, 
+        "tierTypeHash": 4008398120, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 5, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "hash": 3492396210, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Magazine", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/2a0232f77cee68e2945d11808f5a1d96.png"
+                ]
+            }, 
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/5c6d35c2d1f5de091033a05b6d811be9.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/2a0232f77cee68e2945d11808f5a1d96.png", 
+        "hasIcon": true, 
+        "description": "This weapon's projectiles travel faster and have a controlled explosion.\n  •  Increases projectile speed\n  •  Greatly increases stability\n  •  Decreases blast radius", 
+        "name": "Implosion Rounds"
+    }, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        4184407433, 
+        610365472, 
+        59
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "plug": {
+        "insertionMaterialRequirementHash": 0, 
+        "actionRewardSiteHash": 0, 
+        "enabledMaterialRequirementHash": 0, 
+        "previewItemOverrideHash": 0, 
+        "insertionRules": [], 
+        "enabledRules": [], 
+        "plugCategoryHash": 2718120384, 
+        "plugCategoryIdentifier": "magazines_gl", 
+        "onActionRecreateSelf": false, 
+        "plugStyle": 0, 
+        "isDummyPlug": false, 
+        "actionRewardItemOverrideHash": 0, 
+        "uiPlugLabel": "", 
+        "alternatePlugStyle": 0, 
+        "alternateUiPlugLabel": "", 
+        "plugAvailability": 0
+    }, 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "displaySource": "", 
+    "perks": [], 
+    "specialItemType": 0, 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Dismantle", 
+        "deleteOnAction": true, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "actionTypeLabel": "shard", 
+        "useOnAcquire": false, 
+        "isPositive": false, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }
+}

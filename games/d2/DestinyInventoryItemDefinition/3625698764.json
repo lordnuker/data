@@ -1,0 +1,104 @@
+{
+    "itemTypeAndTierDisplayName": "Common Outlaw Armor Mod", 
+    "itemType": 19, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "index": 8298, 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Common", 
+        "bucketTypeHash": 2422292810, 
+        "tierTypeHash": 3340296461, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 2, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "hash": 3625698764, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Outlaw Armor Mod", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Dismantle", 
+        "deleteOnAction": true, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "actionTypeLabel": "shard", 
+        "useOnAcquire": false, 
+        "isPositive": false, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        59, 
+        4104513227
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": true, 
+    "tooltipStyle": "vendor_action", 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "plug": {
+        "insertionMaterialRequirementHash": 0, 
+        "actionRewardSiteHash": 0, 
+        "enabledMaterialRequirementHash": 0, 
+        "previewItemOverrideHash": 0, 
+        "insertionRules": [], 
+        "enabledRules": [], 
+        "plugCategoryHash": 13646368, 
+        "plugCategoryIdentifier": "enhancements.season_outlaw", 
+        "onActionRecreateSelf": false, 
+        "plugStyle": 0, 
+        "isDummyPlug": false, 
+        "actionRewardItemOverrideHash": 0, 
+        "uiPlugLabel": "", 
+        "alternatePlugStyle": 0, 
+        "alternateUiPlugLabel": "", 
+        "plugAvailability": 0
+    }, 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "displaySource": "", 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/2310924191f6e42e632ed2f2a22cfe58.png"
+                ]
+            }, 
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/53cf9d8b0c4be2c6fbba741db8851463.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/2310924191f6e42e632ed2f2a22cfe58.png", 
+        "hasIcon": true, 
+        "description": "No mod currently selected.\n\nYou can select mods from Seasons 4 and 5 to use in this socket.", 
+        "name": "Empty Mod Socket"
+    }
+}

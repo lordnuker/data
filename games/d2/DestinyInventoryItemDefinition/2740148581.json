@@ -1,0 +1,114 @@
+{
+    "itemTypeAndTierDisplayName": "Legendary Package", 
+    "itemType": 25, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "sack": {
+        "openOnAcquire": false, 
+        "resolvedItemCountUnlockValueHash": 0, 
+        "openAction": "Open", 
+        "rollStateUnlockValueHash": 0, 
+        "selectItemCount": 0, 
+        "seedUnlockValueHash": 0, 
+        "rewardItemListHash": 0, 
+        "resolvedBitVectorUnlockValueHash": 0, 
+        "detailAction": "Preview"
+    }, 
+    "tooltipNotifications": [], 
+    "index": 8054, 
+    "stats": {
+        "hasDisplayableStats": false, 
+        "primaryBaseStatHash": 0, 
+        "disablePrimaryStatDisplay": false, 
+        "stats": {}
+    }, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": true, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Legendary", 
+        "bucketTypeHash": 1469714392, 
+        "tierTypeHash": 4008398120, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 5, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "preview": {
+        "screenStyle": "screen_style_vendor", 
+        "derivedItemCategories": [
+            {
+                "items": [
+                    {
+                        "itemHash": 3682636565, 
+                        "vendorItemIndex": 0
+                    }
+                ], 
+                "categoryDescription": "", 
+                "categoryIndex": 0
+            }, 
+            {
+                "items": [
+                    {
+                        "itemHash": 4101386442, 
+                        "vendorItemIndex": 1
+                    }, 
+                    {
+                        "itemHash": 1065442101, 
+                        "vendorItemIndex": 2
+                    }
+                ], 
+                "categoryDescription": "", 
+                "categoryIndex": 0
+            }
+        ], 
+        "previewVendorHash": 2740148581, 
+        "previewActionString": "Preview"
+    }, 
+    "hash": 2740148581, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Package", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        268598612
+    ], 
+    "uiItemDisplayStyle": "ui_display_style_box", 
+    "nonTransferrable": true, 
+    "tooltipStyle": "package", 
+    "allowActions": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "blacklisted": false, 
+    "displaySource": "", 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "hasIcon": true, 
+        "description": "A one-time bundle to kick off the Season of Opulence.\n\nContains 5 Bright Engrams, 3 Fireteam Medallions, and 250 Bright Dust.", 
+        "highResIcon": "/common/destiny2_content/icons/ab455ddc78083bf76f26cf411792d660.jpg", 
+        "name": "Opulent Starter Pack", 
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/cbc2850c644c25cf2c8d88241185e8e6.png", 
+                    "/common/destiny2_content/icons/6caf6082b6e585dd4345e4bc00f52c9c.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/cbc2850c644c25cf2c8d88241185e8e6.png"
+    }
+}

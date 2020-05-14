@@ -1,0 +1,82 @@
+{
+    "itemTypeAndTierDisplayName": "Common Daily Bounty", 
+    "itemType": 26, 
+    "tooltipNotifications": [], 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": true, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Common", 
+        "bucketTypeHash": 1345459588, 
+        "stackUniqueLabel": "events.solstice.bounties.daily.void_bounty10", 
+        "tierTypeHash": 3340296461, 
+        "expiredInActivityMessage": "Expired. Unless completed, this bounty will be removed when you return to orbit or load into a new activity.", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "Expires in .", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 2, 
+        "expiredInOrbitMessage": "Expired. Bounty will be removed upon leaving orbit."
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Daily Bounty", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        3441456675, 
+        1784235469
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "displaySource": "\"You all talk about this 'Savathûn' a lot. I don't think anyone's ever seen her, though. Are you all sure you've got your facts straight?\" —Eva Levante", 
+    "value": {
+        "itemValue": [
+            {
+                "itemHash": 1605352950, 
+                "quantity": 5
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }
+        ], 
+        "valueDescription": ""
+    }, 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "icon": "/common/destiny2_content/icons/cbcfc6d74b9a39d99f7a6e8915a6432f.png", 
+        "hasIcon": true, 
+        "description": "Complete the strike \"Savathûn's Song\" on Titan.", 
+        "name": "Dark Matters"
+    }
+}

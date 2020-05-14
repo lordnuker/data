@@ -1,0 +1,146 @@
+{
+    "itemTypeAndTierDisplayName": "Legendary Quest Step", 
+    "itemType": 12, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "index": 12852, 
+    "stats": {
+        "hasDisplayableStats": false, 
+        "primaryBaseStatHash": 0, 
+        "disablePrimaryStatDisplay": false, 
+        "stats": {}
+    }, 
+    "objectives": {
+        "objectiveVerbName": "Complete", 
+        "requireFullObjectiveCompletion": true, 
+        "questTypeIdentifier": "challenge", 
+        "perObjectiveDisplayProperties": [
+            {
+                "displayOnItemPreviewScreen": false
+            }
+        ], 
+        "objectiveHashes": [
+            2943714473
+        ], 
+        "displayAsStatTracker": false, 
+        "useOnObjectiveCompletion": false, 
+        "completionRewardSiteHash": 0, 
+        "timestampUnlockValueHash": 0, 
+        "questlineItemHash": 1866206611, 
+        "isGlobalObjectiveItem": false, 
+        "inhibitCompletionUnlockValueHash": 0, 
+        "narrative": "", 
+        "displayActivityHashes": [
+            2166136261
+        ], 
+        "nextQuestStepRewardSiteHash": 0, 
+        "questTypeHash": 1189762416
+    }, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": true, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Legendary", 
+        "bucketTypeHash": 1801258597, 
+        "tierTypeHash": 4008398120, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 5, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "hash": 2281718410, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Quest Step", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": true, 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Abandon", 
+        "deleteOnAction": true, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "useOnAcquire": false, 
+        "isPositive": false, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        16
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": true, 
+    "tooltipStyle": "build", 
+    "allowActions": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "displaySource": "", 
+    "traitIds": [
+        "inventory_filtering.quest", 
+        "quest.past"
+    ], 
+    "value": {
+        "itemValue": [
+            {
+                "itemHash": 3114385605, 
+                "quantity": 1
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }
+        ], 
+        "valueDescription": ""
+    }, 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/94e7c535759babd1fa31eb7697f498a4.png", 
+                    "/common/destiny2_content/icons/94e7c535759babd1fa31eb7697f498a4.png", 
+                    "/common/destiny2_content/icons/a8edec12a7a672759ce3877632907b65.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/94e7c535759babd1fa31eb7697f498a4.png", 
+        "hasIcon": true, 
+        "description": "Earn 5,000 XP for your clan.", 
+        "name": "Complete Clan Bounties"
+    }
+}

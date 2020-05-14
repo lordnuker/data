@@ -1,0 +1,127 @@
+{
+    "itemTypeAndTierDisplayName": "Exotic Emote", 
+    "translationBlock": {
+        "customDyes": [], 
+        "hasGeometry": true, 
+        "lockedDyes": [], 
+        "weaponPatternHash": 0, 
+        "defaultDyes": [], 
+        "arrangements": [
+            {
+                "classHash": 0, 
+                "artArrangementHash": 1852730129
+            }
+        ]
+    }, 
+    "itemType": 19, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "talentGrid": {
+        "talentGridHash": 521135891, 
+        "hudDamageType": 1, 
+        "itemDetailString": "Preview"
+    }, 
+    "index": 11837, 
+    "stats": {
+        "hasDisplayableStats": false, 
+        "primaryBaseStatHash": 0, 
+        "disablePrimaryStatDisplay": false, 
+        "stats": {}
+    }, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": true, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Exotic", 
+        "bucketTypeHash": 2401704334, 
+        "stackUniqueLabel": "v480.plugs.emotes.let_me_carry_you0", 
+        "tierTypeHash": 2759499571, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 6, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "hash": 2007350539, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Emote", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "displayProperties": {
+        "icon": "/common/destiny2_content/icons/fca468659c6708004bed709f9a6b2ab4.jpg", 
+        "hasIcon": true, 
+        "description": "Let's take a trip across the EDZ.", 
+        "highResIcon": "/common/destiny2_content/icons/ce912d77e40858f6600072e7d27f0bdc.jpg", 
+        "name": "Carry The Load"
+    }, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        44, 
+        59
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": true, 
+    "allowActions": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "plug": {
+        "insertionMaterialRequirementHash": 0, 
+        "actionRewardSiteHash": 0, 
+        "enabledMaterialRequirementHash": 0, 
+        "previewItemOverrideHash": 0, 
+        "insertionRules": [
+            {
+                "failureMessage": "You do not own this emote"
+            }
+        ], 
+        "enabledRules": [
+            {
+                "failureMessage": "You do not own this emote"
+            }
+        ], 
+        "plugCategoryHash": 3054419239, 
+        "plugCategoryIdentifier": "emote", 
+        "onActionRecreateSelf": true, 
+        "plugStyle": 0, 
+        "isDummyPlug": false, 
+        "actionRewardItemOverrideHash": 0, 
+        "uiPlugLabel": "", 
+        "alternatePlugStyle": 0, 
+        "alternateUiPlugLabel": "", 
+        "plugAvailability": 0
+    }, 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "displaySource": "", 
+    "traitIds": [
+        "item_type.emote"
+    ], 
+    "perks": [], 
+    "specialItemType": 0, 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Unlock", 
+        "deleteOnAction": true, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "useOnAcquire": false, 
+        "isPositive": true, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }
+}

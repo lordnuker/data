@@ -1,0 +1,85 @@
+{
+    "itemTypeAndTierDisplayName": "Exotic Quest Step", 
+    "nonTransferrable": true, 
+    "tooltipNotifications": [], 
+    "itemType": 12, 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": true, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Exotic", 
+        "bucketTypeHash": 1345459588, 
+        "tierTypeHash": 2759499571, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 6, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "setData": {
+        "trackingUnlockValueHash": 0, 
+        "setIsFeatured": false, 
+        "itemList": [
+            {
+                "itemHash": 2039588176, 
+                "trackingValue": 100
+            }, 
+            {
+                "itemHash": 1296357874, 
+                "trackingValue": 200
+            }, 
+            {
+                "itemHash": 1958926005, 
+                "trackingValue": 300
+            }
+        ], 
+        "requireOrderedSetItemAdd": true, 
+        "questLineName": "Pain and Gain", 
+        "abandonmentUnlockHash": 0, 
+        "setType": "quest_global"
+    }, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Quest Step", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": true, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        16
+    ], 
+    "uiItemDisplayStyle": "", 
+    "secondaryOverlay": "/img/misc/missing_icon_d2.png", 
+    "secondaryIcon": "/common/destiny2_content/icons/3142923bc72bcd5a769badc26bd8b508.jpg", 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "secondarySpecial": "/img/misc/missing_icon_d2.png", 
+    "displaySource": "\"Guardian—we can make this shooter shoot, but you'll need to put yourself in harm's way so we can synchronize its functions.\" —A note from Banshee-44", 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/d24f2d7bfcbebc0deebb24acfb36f156.jpg", 
+                    "/common/destiny2_content/icons/dbf893704df0cb85d3e9b288b6c6c11e.png", 
+                    "/common/destiny2_content/icons/cdcbb1e51c4329ae465b03a43d45ac8c.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/d24f2d7bfcbebc0deebb24acfb36f156.jpg", 
+        "hasIcon": true, 
+        "description": "Engage in dangerous activities for science. Complete a Lost Sector in the EDZ, any Heroic public event, and a Nightfall strike.", 
+        "name": "Joy in Suffering"
+    }
+}

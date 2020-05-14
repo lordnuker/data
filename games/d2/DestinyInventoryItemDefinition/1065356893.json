@@ -1,0 +1,97 @@
+{
+    "itemTypeAndTierDisplayName": "Common Chalice Improvements", 
+    "itemType": 0, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "index": 7974, 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Common", 
+        "bucketTypeHash": 1469714392, 
+        "tierTypeHash": 3340296461, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 2, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "hash": 1065356893, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Chalice Improvements", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": false, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "plug": {
+        "insertionMaterialRequirementHash": 2176662087, 
+        "actionRewardSiteHash": 0, 
+        "enabledMaterialRequirementHash": 0, 
+        "previewItemOverrideHash": 0, 
+        "insertionRules": [
+            {
+                "failureMessage": ""
+            }, 
+            {
+                "failureMessage": "Requires Quest Progress"
+            }
+        ], 
+        "enabledRules": [], 
+        "plugCategoryHash": 1221051048, 
+        "plugCategoryIdentifier": "penumbra.chalice.upgrades.power", 
+        "onActionRecreateSelf": false, 
+        "plugStyle": 0, 
+        "isDummyPlug": false, 
+        "actionRewardItemOverrideHash": 0, 
+        "uiPlugLabel": "", 
+        "alternatePlugStyle": 0, 
+        "alternateUiPlugLabel": "", 
+        "plugAvailability": 0
+    }, 
+    "blacklisted": false, 
+    "displaySource": "", 
+    "perks": [
+        {
+            "requirementDisplayString": "", 
+            "perkHash": 2458328740, 
+            "perkVisibility": 0
+        }
+    ], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/68f7f523e2f69b389235592a20cc03a6.png"
+                ]
+            }, 
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/ae1198a78c859b48e44964abba0631a2.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/68f7f523e2f69b389235592a20cc03a6.png", 
+        "hasIcon": true, 
+        "description": "Grants an additional weekly bonus reward from the final chest in the Menagerie and unlocks chests found on the Imperial Barge on Nessus.", 
+        "name": "Power and Efficiency I"
+    }
+}

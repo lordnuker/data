@@ -1,0 +1,149 @@
+{
+    "itemTypeAndTierDisplayName": "Legendary Nightfall Modifier", 
+    "itemType": 19, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "index": 3368, 
+    "allowActions": true, 
+    "objectives": {
+        "objectiveVerbName": "", 
+        "requireFullObjectiveCompletion": false, 
+        "questTypeIdentifier": "", 
+        "perObjectiveDisplayProperties": [
+            {
+                "displayOnItemPreviewScreen": false
+            }
+        ], 
+        "objectiveHashes": [
+            2761458239
+        ], 
+        "displayAsStatTracker": false, 
+        "useOnObjectiveCompletion": false, 
+        "completionRewardSiteHash": 0, 
+        "timestampUnlockValueHash": 0, 
+        "questlineItemHash": 0, 
+        "isGlobalObjectiveItem": false, 
+        "inhibitCompletionUnlockValueHash": 0, 
+        "narrative": "", 
+        "displayActivityHashes": [
+            2166136261
+        ], 
+        "nextQuestStepRewardSiteHash": 0, 
+        "questTypeHash": 2166136261
+    }, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Legendary", 
+        "bucketTypeHash": 3313201758, 
+        "tierTypeHash": 4008398120, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 5, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 178, 
+        "green": 178, 
+        "colorHash": 0, 
+        "red": 178, 
+        "alpha": 255
+    }, 
+    "hash": 1377943753, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Nightfall Modifier", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Discard", 
+        "deleteOnAction": true, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "useOnAcquire": false, 
+        "isPositive": false, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        59, 
+        3448069192
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": true, 
+    "tooltipStyle": "build", 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "plug": {
+        "insertionMaterialRequirementHash": 0, 
+        "actionRewardSiteHash": 0, 
+        "enabledMaterialRequirementHash": 0, 
+        "previewItemOverrideHash": 0, 
+        "insertionRules": [
+            {
+                "failureMessage": "Already Selected"
+            }, 
+            {
+                "failureMessage": "Mod Disabled"
+            }, 
+            {
+                "failureMessage": ""
+            }
+        ], 
+        "enabledRules": [
+            {
+                "failureMessage": "Mod Disabled"
+            }
+        ], 
+        "plugCategoryHash": 3332844716, 
+        "plugCategoryIdentifier": "v310.tickets.mods.nightfall", 
+        "onActionRecreateSelf": false, 
+        "plugStyle": 0, 
+        "isDummyPlug": false, 
+        "actionRewardItemOverrideHash": 0, 
+        "uiPlugLabel": "", 
+        "alternatePlugStyle": 0, 
+        "alternateUiPlugLabel": "", 
+        "plugAvailability": 0
+    }, 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "displaySource": "", 
+    "perks": [
+        {
+            "requirementDisplayString": "", 
+            "perkHash": 2181347043, 
+            "perkVisibility": 0
+        }
+    ], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/7585324ae75fcdbe5f990350b85560dc.png"
+                ]
+            }, 
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/db8348433a742eff43372a524059e18a.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/7585324ae75fcdbe5f990350b85560dc.png", 
+        "hasIcon": true, 
+        "description": "", 
+        "name": "Famine"
+    }
+}

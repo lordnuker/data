@@ -1,0 +1,116 @@
+{
+    "itemTypeAndTierDisplayName": "Legendary Barrel", 
+    "itemType": 19, 
+    "investmentStats": [
+        {
+            "value": 7, 
+            "statTypeHash": 155624089, 
+            "isConditionallyActive": false
+        }, 
+        {
+            "value": 7, 
+            "statTypeHash": 1240592695, 
+            "isConditionallyActive": false
+        }
+    ], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "index": 2219, 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "summaryItemHash": 3520001075, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Legendary", 
+        "bucketTypeHash": 1469714392, 
+        "tierTypeHash": 4008398120, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 5, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "hash": 1482024992, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Barrel", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png"
+                ]
+            }, 
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/473fa44a0bcd6984620891cc18049f86.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png", 
+        "hasIcon": true, 
+        "description": "Dual strength barrel.\n  •  Increases range\n  •  Increases stability", 
+        "name": "Smallbore"
+    }, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        3085181971, 
+        610365472, 
+        59
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "plug": {
+        "insertionMaterialRequirementHash": 0, 
+        "actionRewardSiteHash": 0, 
+        "enabledMaterialRequirementHash": 0, 
+        "previewItemOverrideHash": 0, 
+        "insertionRules": [], 
+        "enabledRules": [], 
+        "plugCategoryHash": 2833605196, 
+        "plugCategoryIdentifier": "barrels", 
+        "onActionRecreateSelf": false, 
+        "plugStyle": 0, 
+        "isDummyPlug": false, 
+        "actionRewardItemOverrideHash": 0, 
+        "uiPlugLabel": "", 
+        "alternatePlugStyle": 0, 
+        "alternateUiPlugLabel": "", 
+        "plugAvailability": 0
+    }, 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "displaySource": "", 
+    "perks": [], 
+    "specialItemType": 0, 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Dismantle", 
+        "deleteOnAction": true, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "actionTypeLabel": "shard", 
+        "useOnAcquire": false, 
+        "isPositive": false, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }
+}

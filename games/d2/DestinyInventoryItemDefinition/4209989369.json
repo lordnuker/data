@@ -1,0 +1,168 @@
+{
+    "itemTypeAndTierDisplayName": "Legendary Ship", 
+    "translationBlock": {
+        "customDyes": [], 
+        "hasGeometry": true, 
+        "lockedDyes": [], 
+        "weaponPatternHash": 617323734, 
+        "defaultDyes": [
+            {
+                "dyeHash": 806264605, 
+                "channelHash": 3073305669
+            }, 
+            {
+                "dyeHash": 806264604, 
+                "channelHash": 3073305668
+            }, 
+            {
+                "dyeHash": 806264607, 
+                "channelHash": 3073305671
+            }
+        ], 
+        "arrangements": [
+            {
+                "classHash": 0, 
+                "artArrangementHash": 875625297
+            }
+        ]
+    }, 
+    "itemType": 21, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "specialItemType": 0, 
+    "sockets": {
+        "socketEntries": [
+            {
+                "reusablePlugItems": [], 
+                "preventInitializationOnVendorPurchase": false, 
+                "reusablePlugSetHash": 4, 
+                "preventInitializationWhenVersioning": false, 
+                "overridesUiAppearance": false, 
+                "hidePerksInItemTooltip": false, 
+                "singleInitialItemHash": 4248210736, 
+                "socketTypeHash": 1255484163, 
+                "defaultVisible": true, 
+                "plugSources": 7
+            }, 
+            {
+                "reusablePlugItems": [], 
+                "preventInitializationOnVendorPurchase": false, 
+                "reusablePlugSetHash": 552950445, 
+                "preventInitializationWhenVersioning": false, 
+                "overridesUiAppearance": false, 
+                "hidePerksInItemTooltip": false, 
+                "singleInitialItemHash": 1390587439, 
+                "socketTypeHash": 199731397, 
+                "defaultVisible": true, 
+                "plugSources": 13
+            }
+        ], 
+        "socketCategories": [
+            {
+                "socketIndexes": [
+                    0, 
+                    1
+                ], 
+                "socketCategoryHash": 4265082475
+            }
+        ], 
+        "detail": "Details", 
+        "intrinsicSockets": []
+    }, 
+    "talentGrid": {
+        "talentGridHash": 521135891, 
+        "hudDamageType": 1, 
+        "itemDetailString": "Preview"
+    }, 
+    "index": 1802, 
+    "stats": {
+        "hasDisplayableStats": false, 
+        "primaryBaseStatHash": 0, 
+        "disablePrimaryStatDisplay": false, 
+        "stats": {}
+    }, 
+    "equippable": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": true, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Legendary", 
+        "bucketTypeHash": 284967655, 
+        "tierTypeHash": 4008398120, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 5, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "preview": {
+        "screenStyle": "screen_style_sockets", 
+        "previewVendorHash": 0, 
+        "previewActionString": ""
+    }, 
+    "hash": 4209989369, 
+    "screenshot": "/common/destiny2_content/screenshots/4209989369.jpg", 
+    "itemTypeDisplayName": "Ship", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "displayProperties": {
+        "icon": "/common/destiny2_content/icons/7e2d4ae0213923955b25f3b169abccd9.jpg", 
+        "hasIcon": true, 
+        "description": "Odyssey-class refit. Better than the sum of its parts.", 
+        "name": "Absolute/MN"
+    }, 
+    "itemSubType": 0, 
+    "allowActions": true, 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": false, 
+    "equippingBlock": {
+        "displayStrings": [], 
+        "equipmentSlotTypeHash": 284967655, 
+        "ammoType": 0, 
+        "equippingSoundHash": 0, 
+        "hornSoundHash": 0, 
+        "attributes": 0, 
+        "uniqueLabelHash": 0
+    }, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "collectibleHash": 2131855517, 
+    "displaySource": "", 
+    "traitIds": [
+        "item_type.ship"
+    ], 
+    "perks": [], 
+    "itemCategoryHashes": [
+        42, 
+        52
+    ], 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Dismantle", 
+        "deleteOnAction": true, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "actionTypeLabel": "shard", 
+        "useOnAcquire": false, 
+        "isPositive": false, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }
+}

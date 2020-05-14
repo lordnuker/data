@@ -1,0 +1,80 @@
+{
+    "itemTypeAndTierDisplayName": "Exotic Quest Step", 
+    "nonTransferrable": true, 
+    "tooltipNotifications": [], 
+    "itemType": 12, 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Exotic", 
+        "bucketTypeHash": 1345459588, 
+        "tierTypeHash": 2759499571, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 6, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "setData": {
+        "trackingUnlockValueHash": 0, 
+        "setIsFeatured": false, 
+        "itemList": [
+            {
+                "itemHash": 1295283020, 
+                "trackingValue": 10
+            }, 
+            {
+                "itemHash": 3918035165, 
+                "trackingValue": 20
+            }, 
+            {
+                "itemHash": 2574261183, 
+                "trackingValue": 30
+            }, 
+            {
+                "itemHash": 2101914852, 
+                "trackingValue": 40
+            }
+        ], 
+        "requireOrderedSetItemAdd": true, 
+        "questLineName": "Divine Fragmentation", 
+        "abandonmentUnlockHash": 0, 
+        "setType": "quest_global"
+    }, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Quest Step", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": true, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        16
+    ], 
+    "uiItemDisplayStyle": "", 
+    "secondaryOverlay": "/img/misc/missing_icon_d2.png", 
+    "secondaryIcon": "/common/destiny2_content/icons/25aec8dccdbb2d2c30f28b6a84460bb4.png", 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "secondarySpecial": "/img/misc/missing_icon_d2.png", 
+    "displaySource": "", 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "icon": "/common/destiny2_content/icons/ae7493975955f4bad6576ea308fabf86.jpg", 
+        "hasIcon": true, 
+        "description": "\"I had to dig deep into encrypted Vex data to find anything regarding the core. I didn't find much—only that it's designed for decryption of something and that its origin lies with the Sol Divisive Vex. I couldn't learn anything further. It's broken and its data is largely corrupted. We might be able to repair it if we had access to Sol Divisive parts.\" —Ghost", 
+        "name": "Defragmentation"
+    }
+}

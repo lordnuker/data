@@ -1,0 +1,151 @@
+{
+    "itemTypeAndTierDisplayName": "Legendary Quest Step", 
+    "itemType": 12, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "index": 14182, 
+    "allowActions": true, 
+    "objectives": {
+        "objectiveVerbName": "", 
+        "requireFullObjectiveCompletion": true, 
+        "questTypeIdentifier": "", 
+        "perObjectiveDisplayProperties": [
+            {
+                "displayOnItemPreviewScreen": false
+            }
+        ], 
+        "objectiveHashes": [
+            3215376623
+        ], 
+        "displayAsStatTracker": false, 
+        "useOnObjectiveCompletion": false, 
+        "completionRewardSiteHash": 0, 
+        "timestampUnlockValueHash": 0, 
+        "questlineItemHash": 2659620686, 
+        "isGlobalObjectiveItem": false, 
+        "inhibitCompletionUnlockValueHash": 0, 
+        "narrative": "", 
+        "displayActivityHashes": [
+            2166136261
+        ], 
+        "nextQuestStepRewardSiteHash": 0, 
+        "questTypeHash": 2166136261
+    }, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Legendary", 
+        "bucketTypeHash": 1345459588, 
+        "tierTypeHash": 4008398120, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 5, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "setData": {
+        "trackingUnlockValueHash": 0, 
+        "setIsFeatured": false, 
+        "itemList": [
+            {
+                "itemHash": 2457995100, 
+                "trackingValue": 100
+            }, 
+            {
+                "itemHash": 613001527, 
+                "trackingValue": 200
+            }, 
+            {
+                "itemHash": 2659620686, 
+                "trackingValue": 300
+            }, 
+            {
+                "itemHash": 544905217, 
+                "trackingValue": 400
+            }
+        ], 
+        "requireOrderedSetItemAdd": true, 
+        "questLineName": "The Dawning", 
+        "abandonmentUnlockHash": 0, 
+        "setType": ""
+    }, 
+    "hash": 2659620686, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Quest Step", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": true, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        16
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": true, 
+    "tooltipStyle": "bounty", 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "blacklisted": false, 
+    "displaySource": "\"He tries to be very serious, but he has such a warm smile. Get him talking about the City. You'll see.\" —Eva Levante", 
+    "traitIds": [
+        "inventory_filtering.quest", 
+        "quest.seasonal"
+    ], 
+    "value": {
+        "itemValue": [
+            {
+                "itemHash": 3136552544, 
+                "quantity": 1
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }
+        ], 
+        "valueDescription": ""
+    }, 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/000a658bf7431f902793ec40b7f29e23.jpg", 
+                    "/common/destiny2_content/icons/39fac8d6882827c3023a3a302dd16b8d.png", 
+                    "/common/destiny2_content/icons/8725b5a2d0ee0f7a7c17238b5a4db778.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/000a658bf7431f902793ec40b7f29e23.jpg", 
+        "hasIcon": true, 
+        "description": "Deliver your gift to Commander Zavala.\n\nAvailable only during the Dawning 2019.", 
+        "name": "The Dawning Begins"
+    }
+}

@@ -1,0 +1,111 @@
+{
+    "itemTypeAndTierDisplayName": "Legendary Trait", 
+    "itemType": 19, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "index": 2246, 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "summaryItemHash": 3520001075, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Legendary", 
+        "bucketTypeHash": 1469714392, 
+        "tierTypeHash": 4008398120, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 5, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "hash": 1866048759, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Trait", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/9f3c3ae1bddbed21af1cc6487338028e.png"
+                ]
+            }, 
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/6b02af08d26a1cecf1141fa6fd1e68b5.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/9f3c3ae1bddbed21af1cc6487338028e.png", 
+        "hasIcon": true, 
+        "description": "Ergonomic grips that increase accuracy and stability when firing from the hip.", 
+        "name": "Hip-Fire Grip"
+    }, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        3708671066, 
+        610365472, 
+        59
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "plug": {
+        "insertionMaterialRequirementHash": 0, 
+        "actionRewardSiteHash": 0, 
+        "enabledMaterialRequirementHash": 0, 
+        "previewItemOverrideHash": 0, 
+        "insertionRules": [], 
+        "enabledRules": [], 
+        "plugCategoryHash": 7906839, 
+        "plugCategoryIdentifier": "frames", 
+        "onActionRecreateSelf": false, 
+        "plugStyle": 0, 
+        "isDummyPlug": false, 
+        "actionRewardItemOverrideHash": 0, 
+        "uiPlugLabel": "", 
+        "alternatePlugStyle": 0, 
+        "alternateUiPlugLabel": "", 
+        "plugAvailability": 0
+    }, 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "displaySource": "", 
+    "perks": [
+        {
+            "requirementDisplayString": "", 
+            "perkHash": 2408129136, 
+            "perkVisibility": 0
+        }
+    ], 
+    "specialItemType": 0, 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Dismantle", 
+        "deleteOnAction": true, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "actionTypeLabel": "shard", 
+        "useOnAcquire": false, 
+        "isPositive": false, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }
+}

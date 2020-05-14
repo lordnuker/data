@@ -1,0 +1,173 @@
+{
+    "itemTypeAndTierDisplayName": "Legendary Quest Step", 
+    "itemType": 12, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "index": 14548, 
+    "allowActions": true, 
+    "objectives": {
+        "objectiveVerbName": "", 
+        "requireFullObjectiveCompletion": true, 
+        "questTypeIdentifier": "quest_global", 
+        "perObjectiveDisplayProperties": [
+            {
+                "displayOnItemPreviewScreen": false
+            }, 
+            {
+                "displayOnItemPreviewScreen": false
+            }, 
+            {
+                "displayOnItemPreviewScreen": false
+            }
+        ], 
+        "objectiveHashes": [
+            3734796271, 
+            3718018684, 
+            3768351541
+        ], 
+        "displayAsStatTracker": false, 
+        "useOnObjectiveCompletion": false, 
+        "completionRewardSiteHash": 0, 
+        "timestampUnlockValueHash": 0, 
+        "questlineItemHash": 39386534, 
+        "isGlobalObjectiveItem": false, 
+        "inhibitCompletionUnlockValueHash": 0, 
+        "narrative": "", 
+        "displayActivityHashes": [
+            2166136261, 
+            2166136261, 
+            2166136261
+        ], 
+        "nextQuestStepRewardSiteHash": 0, 
+        "questTypeHash": 3413310557
+    }, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Legendary", 
+        "bucketTypeHash": 1345459588, 
+        "tierTypeHash": 4008398120, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 5, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "setData": {
+        "trackingUnlockValueHash": 0, 
+        "setIsFeatured": false, 
+        "itemList": [
+            {
+                "itemHash": 22608947, 
+                "trackingValue": 100
+            }, 
+            {
+                "itemHash": 39386534, 
+                "trackingValue": 200
+            }, 
+            {
+                "itemHash": 56164121, 
+                "trackingValue": 300
+            }
+        ], 
+        "requireOrderedSetItemAdd": true, 
+        "questLineName": "Season 8: Keepin' On", 
+        "abandonmentUnlockHash": 0, 
+        "setType": "quest_global"
+    }, 
+    "hash": 39386534, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Quest Step", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": true, 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Abandon", 
+        "deleteOnAction": true, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "useOnAcquire": false, 
+        "isPositive": false, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        16
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": true, 
+    "tooltipStyle": "bounty", 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "displaySource": "\"Gambit's a tightrope walk; the bigger your name, the bigger the target on your back. Learn to love that thrill, and you'll be flying high.\" —The Drifter", 
+    "traitIds": [
+        "inventory_filtering.quest", 
+        "quest.playlists"
+    ], 
+    "value": {
+        "itemValue": [
+            {
+                "itemHash": 1359616732, 
+                "quantity": 5
+            }, 
+            {
+                "itemHash": 1359616733, 
+                "quantity": 5
+            }, 
+            {
+                "itemHash": 769892737, 
+                "quantity": 1
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }
+        ], 
+        "valueDescription": ""
+    }, 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "hasIcon": true, 
+        "description": "Complete the following objectives in Gambit matches to earn the \"Gambit Celadon\" shader. Fireteam members contribute toward combatants and Guardians defeated. Auras from Reaper and Invader sets, respectively, grant the most efficient progress.", 
+        "highResIcon": "/common/destiny2_content/icons/d9c6a6e1567caa3f2b656bd7cdb7cd7c.png", 
+        "name": "Survivalism", 
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/ab900fbc138d151f143435fd2d24df1b.jpg", 
+                    "/common/destiny2_content/icons/5069f0a39d9c5e03c94558bf7e1ac74f.png", 
+                    "/common/destiny2_content/icons/501d79778fa0f2d817f5d926de0370c5.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/ab900fbc138d151f143435fd2d24df1b.jpg"
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "itemTypeAndTierDisplayName": "Common Arms Armor Mod", 
+    "itemType": 19, 
+    "investmentStats": [
+        {
+            "value": 3, 
+            "statTypeHash": 3344745325, 
+            "isConditionallyActive": false
+        }
+    ], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "index": 8170, 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Common", 
+        "bucketTypeHash": 2422292810, 
+        "tierTypeHash": 3340296461, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 2, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "hash": 178399816, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Arms Armor Mod", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Dismantle", 
+        "deleteOnAction": true, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "actionTypeLabel": "shard", 
+        "useOnAcquire": false, 
+        "isPositive": false, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        59, 
+        4104513227, 
+        3872696960
+    ], 
+    "uiItemDisplayStyle": "ui_display_style_energy_mod", 
+    "nonTransferrable": true, 
+    "tooltipStyle": "build", 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "plug": {
+        "insertionMaterialRequirementHash": 1564811296, 
+        "actionRewardSiteHash": 0, 
+        "enabledMaterialRequirementHash": 0, 
+        "previewItemOverrideHash": 0, 
+        "insertionRules": [], 
+        "enabledRules": [], 
+        "plugCategoryHash": 3422420680, 
+        "plugCategoryIdentifier": "enhancements.v2_arms", 
+        "onActionRecreateSelf": false, 
+        "plugStyle": 0, 
+        "isDummyPlug": false, 
+        "actionRewardItemOverrideHash": 0, 
+        "uiPlugLabel": "", 
+        "alternatePlugStyle": 0, 
+        "energyCost": {
+            "energyCost": 3, 
+            "energyTypeHash": 591714140, 
+            "energyType": 2
+        }, 
+        "alternateUiPlugLabel": "", 
+        "plugAvailability": 0
+    }, 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "collectibleHash": 3097011261, 
+    "displaySource": "", 
+    "perks": [
+        {
+            "requirementDisplayString": "", 
+            "perkHash": 364323953, 
+            "perkVisibility": 0
+        }
+    ], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/57d179993b9470fb57285a1679aafba2.png"
+                ]
+            }, 
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/27bae90ff32b6b2b42bd19292b170cdf.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/57d179993b9470fb57285a1679aafba2.png", 
+        "hasIcon": true, 
+        "description": "", 
+        "name": "Linear Fusion Rifle Loader"
+    }
+}

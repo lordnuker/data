@@ -1,0 +1,78 @@
+{
+    "itemTypeAndTierDisplayName": "Legendary Class Item Mod", 
+    "itemType": 19, 
+    "tooltipNotifications": [], 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Legendary", 
+        "bucketTypeHash": 2422292810, 
+        "tierTypeHash": 4008398120, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 5, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Class Item Mod", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        59, 
+        4104513227, 
+        3196106184
+    ], 
+    "uiItemDisplayStyle": "ui_display_style_energy_mod", 
+    "nonTransferrable": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "collectibleHash": 664598889, 
+    "displaySource": "", 
+    "perks": [
+        {
+            "requirementDisplayString": "", 
+            "perkHash": 3050029375, 
+            "perkVisibility": 0
+        }, 
+        {
+            "requirementDisplayString": "", 
+            "perkHash": 3203577237, 
+            "perkVisibility": 0
+        }
+    ], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/fbed5ec7031366f2ec1fd4d0678eacbc.png", 
+                    "/common/destiny2_content/icons/f4a10d62b15de51a45f590f311234a47.png"
+                ]
+            }, 
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/f1c822a880924e42cd26ed0491db701c.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/fbed5ec7031366f2ec1fd4d0678eacbc.png", 
+        "hasIcon": true, 
+        "description": "", 
+        "name": "Soul of the Praxic Fire"
+    }
+}

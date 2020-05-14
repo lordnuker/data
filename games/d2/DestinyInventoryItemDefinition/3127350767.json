@@ -1,0 +1,162 @@
+{
+    "itemTypeAndTierDisplayName": "Legendary Armor Ornament", 
+    "translationBlock": {
+        "customDyes": [], 
+        "hasGeometry": true, 
+        "lockedDyes": [], 
+        "weaponPatternHash": 0, 
+        "defaultDyes": [
+            {
+                "dyeHash": 1653706416, 
+                "channelHash": 662199250
+            }, 
+            {
+                "dyeHash": 3589568805, 
+                "channelHash": 1367384683
+            }, 
+            {
+                "dyeHash": 2750085020, 
+                "channelHash": 218592586
+            }
+        ], 
+        "arrangements": [
+            {
+                "classHash": 0, 
+                "artArrangementHash": 2202941022
+            }
+        ]
+    }, 
+    "itemType": 19, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "index": 4179, 
+    "allowActions": true, 
+    "equippable": false, 
+    "objectives": {
+        "objectiveVerbName": "", 
+        "requireFullObjectiveCompletion": true, 
+        "questTypeIdentifier": "", 
+        "perObjectiveDisplayProperties": [
+            {
+                "displayOnItemPreviewScreen": false
+            }
+        ], 
+        "objectiveHashes": [
+            1594049918
+        ], 
+        "displayAsStatTracker": false, 
+        "useOnObjectiveCompletion": false, 
+        "completionRewardSiteHash": 0, 
+        "timestampUnlockValueHash": 0, 
+        "questlineItemHash": 0, 
+        "isGlobalObjectiveItem": false, 
+        "inhibitCompletionUnlockValueHash": 0, 
+        "narrative": "", 
+        "displayActivityHashes": [
+            2166136261
+        ], 
+        "nextQuestStepRewardSiteHash": 0, 
+        "questTypeHash": 2166136261
+    }, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Legendary", 
+        "bucketTypeHash": 3313201758, 
+        "stackUniqueLabel": "v320.plugs.armor.skins.hunter.dead_orbit.v300_arms0_skin1", 
+        "tierTypeHash": 4008398120, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 5, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "preview": {
+        "screenStyle": "screen_style_sockets", 
+        "previewVendorHash": 0, 
+        "previewActionString": "Preview"
+    }, 
+    "hash": 3127350767, 
+    "screenshot": "/common/destiny2_content/screenshots/3127350767.jpg", 
+    "itemTypeDisplayName": "Armor Ornament", 
+    "isWrapper": false, 
+    "classType": 1, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Unlock", 
+        "deleteOnAction": true, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "useOnAcquire": false, 
+        "isPositive": true, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }, 
+    "itemSubType": 21, 
+    "itemCategoryHashes": [
+        56, 
+        52, 
+        59, 
+        3683250363, 
+        1742617626, 
+        4104513227
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": false, 
+    "tooltipStyle": "record", 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "plug": {
+        "insertionMaterialRequirementHash": 0, 
+        "actionRewardSiteHash": 0, 
+        "enabledMaterialRequirementHash": 0, 
+        "previewItemOverrideHash": 0, 
+        "insertionRules": [
+            {
+                "failureMessage": "Complete Objective to Unlock"
+            }, 
+            {
+                "failureMessage": "Reach Rank 15 This Season"
+            }
+        ], 
+        "enabledRules": [], 
+        "plugCategoryHash": 2259726502, 
+        "plugCategoryIdentifier": "v300_armor_skins_hunter_dead_orbit_arms0", 
+        "onActionRecreateSelf": false, 
+        "plugStyle": 0, 
+        "isDummyPlug": false, 
+        "actionRewardItemOverrideHash": 0, 
+        "uiPlugLabel": "", 
+        "alternatePlugStyle": 0, 
+        "alternateUiPlugLabel": "", 
+        "plugAvailability": 0
+    }, 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "collectibleHash": 1388821945, 
+    "displaySource": "", 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "icon": "/common/destiny2_content/icons/424cbe4e52a3b6d9ea76b3008065a766.jpg", 
+        "hasIcon": true, 
+        "description": "Get Hive kills using fully charged melee abilities while pledged to Dead Orbit.", 
+        "name": "Arach's Chosen Grips"
+    }
+}

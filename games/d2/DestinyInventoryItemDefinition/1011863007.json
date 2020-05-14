@@ -1,0 +1,155 @@
+{
+    "itemTypeAndTierDisplayName": "Exotic Quest Step", 
+    "itemType": 12, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "index": 14184, 
+    "allowActions": true, 
+    "objectives": {
+        "objectiveVerbName": "", 
+        "requireFullObjectiveCompletion": true, 
+        "questTypeIdentifier": "quest_world", 
+        "perObjectiveDisplayProperties": [
+            {
+                "displayOnItemPreviewScreen": false
+            }, 
+            {
+                "displayOnItemPreviewScreen": false
+            }, 
+            {
+                "displayOnItemPreviewScreen": false
+            }
+        ], 
+        "objectiveHashes": [
+            1971057148, 
+            1971057149, 
+            1971057150
+        ], 
+        "displayAsStatTracker": false, 
+        "useOnObjectiveCompletion": false, 
+        "completionRewardSiteHash": 0, 
+        "timestampUnlockValueHash": 0, 
+        "questlineItemHash": 1011863007, 
+        "isGlobalObjectiveItem": false, 
+        "inhibitCompletionUnlockValueHash": 0, 
+        "narrative": "", 
+        "displayActivityHashes": [
+            2166136261, 
+            2166136261, 
+            2166136261
+        ], 
+        "nextQuestStepRewardSiteHash": 0, 
+        "questTypeHash": 1967639244
+    }, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Exotic", 
+        "bucketTypeHash": 1345459588, 
+        "tierTypeHash": 2759499571, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 6, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "setData": {
+        "trackingUnlockValueHash": 0, 
+        "setIsFeatured": false, 
+        "itemList": [
+            {
+                "itemHash": 1011863007, 
+                "trackingValue": 100
+            }
+        ], 
+        "requireOrderedSetItemAdd": true, 
+        "questLineName": "Spreading Cheer", 
+        "abandonmentUnlockHash": 0, 
+        "setType": "quest_world"
+    }, 
+    "hash": 1011863007, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Quest Step", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": true, 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Abandon", 
+        "deleteOnAction": true, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "useOnAcquire": false, 
+        "isPositive": false, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        16
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": true, 
+    "tooltipStyle": "bounty", 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "displaySource": "\"Even those on the fringes deserve a happy Dawning.\" —Eva Levante", 
+    "traitIds": [
+        "inventory_filtering.quest", 
+        "quest.seasonal"
+    ], 
+    "value": {
+        "itemValue": [
+            {
+                "itemHash": 3981634627, 
+                "quantity": 1
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }
+        ], 
+        "valueDescription": ""
+    }, 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "icon": "/common/destiny2_content/icons/0953cdadd1a867628a04a8289be1ad1c.jpg", 
+        "hasIcon": true, 
+        "description": "Bake holiday gifts, then deliver them to the Drifter and Brother Vance.\n\nAvailable only during the Dawning 2019.", 
+        "name": "Delivery: Drifter and Vance"
+    }
+}

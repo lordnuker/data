@@ -1,0 +1,72 @@
+{
+    "itemTypeAndTierDisplayName": "Exotic Intrinsic", 
+    "itemType": 19, 
+    "tooltipNotifications": [], 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "summaryItemHash": 3520001075, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Exotic", 
+        "bucketTypeHash": 1469714392, 
+        "tierTypeHash": 2759499571, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 6, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Intrinsic", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        2237038328, 
+        610365472, 
+        59
+    ], 
+    "uiItemDisplayStyle": "ui_display_style_intrinsic_plug", 
+    "nonTransferrable": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "displaySource": "", 
+    "perks": [
+        {
+            "requirementDisplayString": "", 
+            "perkHash": 2070794926, 
+            "perkVisibility": 0
+        }
+    ], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/af4e2b6e77f70521f77de7702ccc0eab.png"
+                ]
+            }, 
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/06f9b96b94c7cdb9107d23e142aba56c.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/af4e2b6e77f70521f77de7702ccc0eab.png", 
+        "hasIcon": true, 
+        "description": "Non-lethal hits with projectiles make this weapon charge faster until its wielder gets a kill.", 
+        "name": "Conserve Momentum"
+    }
+}

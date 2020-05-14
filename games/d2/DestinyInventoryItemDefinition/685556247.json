@@ -1,0 +1,67 @@
+{
+    "itemTypeAndTierDisplayName": "Uncommon Upgrade Material", 
+    "itemType": 0, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "index": 4974, 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Uncommon", 
+        "bucketTypeHash": 1469714392, 
+        "tierTypeHash": 2395677314, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 999, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 3, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "hash": 685556247, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Upgrade Material", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": true, 
+    "displayProperties": {
+        "hasIcon": false, 
+        "description": "Solstice Armor (Resplendent) Set", 
+        "name": "Rite of Superiority"
+    }, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": false, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "displaySource": "", 
+    "perks": [], 
+    "specialItemType": 0, 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Use", 
+        "deleteOnAction": true, 
+        "requiredItems": [
+            {
+                "count": 30, 
+                "deleteOnAction": true, 
+                "itemHash": 1142880965
+            }
+        ], 
+        "rewardItemHash": 0, 
+        "useOnAcquire": true, 
+        "isPositive": true, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "itemTypeAndTierDisplayName": "Legendary Quest Step", 
+    "itemType": 12, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "index": 14572, 
+    "allowActions": true, 
+    "objectives": {
+        "objectiveVerbName": "", 
+        "requireFullObjectiveCompletion": true, 
+        "questTypeIdentifier": "quest_global", 
+        "perObjectiveDisplayProperties": [
+            {
+                "displayOnItemPreviewScreen": false
+            }
+        ], 
+        "objectiveHashes": [
+            3344440429
+        ], 
+        "displayAsStatTracker": false, 
+        "useOnObjectiveCompletion": false, 
+        "completionRewardSiteHash": 0, 
+        "timestampUnlockValueHash": 0, 
+        "questlineItemHash": 3398477425, 
+        "isGlobalObjectiveItem": false, 
+        "inhibitCompletionUnlockValueHash": 0, 
+        "narrative": "", 
+        "displayActivityHashes": [
+            2166136261
+        ], 
+        "nextQuestStepRewardSiteHash": 0, 
+        "questTypeHash": 3413310557
+    }, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Legendary", 
+        "bucketTypeHash": 1345459588, 
+        "tierTypeHash": 4008398120, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 5, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "setData": {
+        "trackingUnlockValueHash": 0, 
+        "setIsFeatured": false, 
+        "itemList": [
+            {
+                "itemHash": 3398477426, 
+                "trackingValue": 100
+            }, 
+            {
+                "itemHash": 4280995080, 
+                "trackingValue": 200
+            }, 
+            {
+                "itemHash": 3398477425, 
+                "trackingValue": 300
+            }, 
+            {
+                "itemHash": 4197518657, 
+                "trackingValue": 400
+            }
+        ], 
+        "requireOrderedSetItemAdd": true, 
+        "questLineName": "Unlimited Power", 
+        "abandonmentUnlockHash": 0, 
+        "setType": "quest_global"
+    }, 
+    "hash": 3398477425, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Quest Step", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": true, 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Abandon", 
+        "deleteOnAction": true, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "useOnAcquire": false, 
+        "isPositive": false, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        16
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": true, 
+    "tooltipStyle": "bounty", 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "displaySource": "\"Push yourself to the limits of your capabilites and beyond, Guardian. Be an inspiration to your allies—and a force to be reckoned with in the eyes of all who threaten the Traveler.\" —A note from the Cryptarch", 
+    "traitIds": [
+        "inventory_filtering.quest", 
+        "quest.new_light"
+    ], 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/5f24d01080cb11a05dcfba15409a0f9b.jpg", 
+                    "/common/destiny2_content/icons/da7de3475613cf8435dbcfe972e8e627.png", 
+                    "/common/destiny2_content/icons/09caa7f3c55cc0fa42cfec507ca05300.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/5f24d01080cb11a05dcfba15409a0f9b.jpg", 
+        "hasIcon": true, 
+        "description": "You can increase your Power level by acquiring powerful gear.\n\nObtain powerful gear from challenges, Prime Engrams, and pinnacle activities such as raids.", 
+        "name": "Reach Power Level 910"
+    }
+}

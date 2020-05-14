@@ -1,0 +1,120 @@
+{
+    "itemTypeAndTierDisplayName": "Basic Quest Step", 
+    "nonTransferrable": true, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "secondaryIcon": "/common/destiny2_content/icons/15019dda029a1e4a7d6399eb7486854c.jpg", 
+    "tooltipNotifications": [], 
+    "itemType": 12, 
+    "index": 12825, 
+    "stats": {
+        "hasDisplayableStats": false, 
+        "primaryBaseStatHash": 0, 
+        "disablePrimaryStatDisplay": false, 
+        "stats": {}
+    }, 
+    "objectives": {
+        "objectiveVerbName": "Complete", 
+        "requireFullObjectiveCompletion": true, 
+        "questTypeIdentifier": "quest_global", 
+        "perObjectiveDisplayProperties": [
+            {
+                "displayOnItemPreviewScreen": false
+            }
+        ], 
+        "objectiveHashes": [
+            2330391471
+        ], 
+        "displayAsStatTracker": false, 
+        "useOnObjectiveCompletion": false, 
+        "completionRewardSiteHash": 0, 
+        "timestampUnlockValueHash": 0, 
+        "questlineItemHash": 2388937381, 
+        "isGlobalObjectiveItem": false, 
+        "inhibitCompletionUnlockValueHash": 0, 
+        "narrative": "", 
+        "displayActivityHashes": [
+            2166136261
+        ], 
+        "nextQuestStepRewardSiteHash": 0, 
+        "questTypeHash": 3413310557
+    }, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": true, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Basic", 
+        "bucketTypeHash": 1801258597, 
+        "tierTypeHash": 1801258597, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 0, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 142, 
+        "green": 12, 
+        "colorHash": 0, 
+        "red": 94, 
+        "alpha": 255
+    }, 
+    "hash": 2080470161, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Quest Step", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": true, 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Abandon", 
+        "deleteOnAction": true, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "useOnAcquire": false, 
+        "isPositive": false, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        16
+    ], 
+    "uiItemDisplayStyle": "", 
+    "secondaryOverlay": "/img/misc/missing_icon_d2.png", 
+    "tooltipStyle": "quest", 
+    "allowActions": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "secondarySpecial": "/img/misc/missing_icon_d2.png", 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "displaySource": "", 
+    "traitIds": [
+        "inventory_filtering.quest", 
+        "quest.past"
+    ], 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/ab84d289dc409aca385c44d7aa8025da.png", 
+                    "/common/destiny2_content/icons/6ef53d92b22781cbd43c61ac8a1727d9.png", 
+                    "/common/destiny2_content/icons/691503a854209dbd5b05cc0322e14ac8.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/ab84d289dc409aca385c44d7aa8025da.png", 
+        "hasIcon": true, 
+        "description": "Speak to the Drifter in the Tower.", 
+        "name": "Talk to the Drifter"
+    }
+}

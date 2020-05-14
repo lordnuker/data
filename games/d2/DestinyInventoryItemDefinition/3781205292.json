@@ -1,0 +1,136 @@
+{
+    "itemTypeAndTierDisplayName": "Legendary Prime \"Civic Duty\" Bounty", 
+    "itemType": 0, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "index": 13618, 
+    "stats": {
+        "hasDisplayableStats": false, 
+        "primaryBaseStatHash": 0, 
+        "disablePrimaryStatDisplay": false, 
+        "stats": {}
+    }, 
+    "objectives": {
+        "objectiveVerbName": "Claim Bounty", 
+        "requireFullObjectiveCompletion": true, 
+        "questTypeIdentifier": "patrol_tier1", 
+        "perObjectiveDisplayProperties": [
+            {
+                "displayOnItemPreviewScreen": false
+            }
+        ], 
+        "objectiveHashes": [
+            912479003
+        ], 
+        "displayAsStatTracker": false, 
+        "useOnObjectiveCompletion": false, 
+        "completionRewardSiteHash": 0, 
+        "timestampUnlockValueHash": 0, 
+        "questlineItemHash": 0, 
+        "isGlobalObjectiveItem": false, 
+        "inhibitCompletionUnlockValueHash": 0, 
+        "narrative": "", 
+        "displayActivityHashes": [
+            2166136261
+        ], 
+        "nextQuestStepRewardSiteHash": 0, 
+        "questTypeHash": 18743735
+    }, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": true, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Legendary", 
+        "bucketTypeHash": 1345459588, 
+        "stackUniqueLabel": "v420.bounties.pvecomp.mamba.daily_external.invader.bounty7", 
+        "tierTypeHash": 4008398120, 
+        "expiredInActivityMessage": "Expired. Unless completed, this bounty will be removed when you return to orbit or load into a new activity.", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "Expires in .", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 5, 
+        "expiredInOrbitMessage": "Expired. Bounty will be removed upon leaving orbit."
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "hash": 3781205292, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Prime \"Civic Duty\" Bounty", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": true, 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Abandon", 
+        "deleteOnAction": true, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "useOnAcquire": false, 
+        "isPositive": false, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": true, 
+    "tooltipStyle": "build", 
+    "allowActions": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "displaySource": "\"They say the Hive believe in something called sword logic, a real \"survival of the fittest\" kinda life lesson. I just really, really like to eat Hive. Shoot me some. I'll pay 'ya.\" —The Drifter", 
+    "traitIds": [
+        "inventory_filtering.bounty", 
+        "item_type.bounty"
+    ], 
+    "value": {
+        "itemValue": [
+            {
+                "itemHash": 1691570586, 
+                "quantity": 1
+            }, 
+            {
+                "itemHash": 372496383, 
+                "quantity": 50
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }
+        ], 
+        "valueDescription": ""
+    }, 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "icon": "/common/destiny2_content/icons/93bd5a3fc2dc212089ca2a5044cf5184.jpg", 
+        "hasIcon": true, 
+        "description": "Invader bounty. Defeat Hive Knights or Wizards on the Tangled Shore.", 
+        "name": "INVADER: Invading the Hive"
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "itemTypeAndTierDisplayName": "Legendary Quest Step", 
+    "nonTransferrable": true, 
+    "tooltipNotifications": [], 
+    "itemType": 12, 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": true, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Legendary", 
+        "bucketTypeHash": 1801258597, 
+        "tierTypeHash": 4008398120, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 5, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "setData": {
+        "trackingUnlockValueHash": 0, 
+        "setIsFeatured": true, 
+        "itemList": [
+            {
+                "itemHash": 253003205, 
+                "trackingValue": 100
+            }, 
+            {
+                "itemHash": 253003204, 
+                "trackingValue": 200
+            }, 
+            {
+                "itemHash": 253003207, 
+                "trackingValue": 300
+            }, 
+            {
+                "itemHash": 253003206, 
+                "trackingValue": 400
+            }, 
+            {
+                "itemHash": 253003201, 
+                "trackingValue": 500
+            }
+        ], 
+        "requireOrderedSetItemAdd": true, 
+        "questLineName": "The Solstice Begins", 
+        "abandonmentUnlockHash": 0, 
+        "setType": "quest_global"
+    }, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Quest Step", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": true, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        16
+    ], 
+    "uiItemDisplayStyle": "", 
+    "secondaryOverlay": "/img/misc/missing_icon_d2.png", 
+    "secondaryIcon": "/common/destiny2_content/icons/8aa2ee77cafe0aa1bdd1cd2202daf12a.jpg", 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "secondarySpecial": "/img/misc/missing_icon_d2.png", 
+    "displaySource": "\"I'm glad I didn't lose you.\" —Ghost", 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/8e5c144a90a5b6ec351daf875096bf5b.png", 
+                    "/common/destiny2_content/icons/8e5c144a90a5b6ec351daf875096bf5b.png", 
+                    "/common/destiny2_content/icons/6aa113bfd80fc4ae4984652801ccf511.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/8e5c144a90a5b6ec351daf875096bf5b.png", 
+        "hasIcon": true, 
+        "description": "Meditating at the statue has infused your new armor with the Light… but its connection to the Traveler could be made stronger.\n\nReturn to Eva.", 
+        "name": "Reforged in the Light"
+    }
+}

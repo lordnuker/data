@@ -1,0 +1,76 @@
+{
+    "itemTypeAndTierDisplayName": "Common Worthy Armor Mod", 
+    "itemType": 19, 
+    "tooltipNotifications": [], 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Common", 
+        "bucketTypeHash": 2422292810, 
+        "tierTypeHash": 3340296461, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 2, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Worthy Armor Mod", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        59, 
+        4104513227
+    ], 
+    "uiItemDisplayStyle": "ui_display_style_energy_mod", 
+    "nonTransferrable": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "collectibleHash": 723722196, 
+    "displaySource": "", 
+    "perks": [
+        {
+            "requirementDisplayString": "", 
+            "perkHash": 1925460035, 
+            "perkVisibility": 2
+        }, 
+        {
+            "requirementDisplayString": "", 
+            "perkHash": 4166086805, 
+            "perkVisibility": 2
+        }
+    ], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/a89fae65c07e2c6e4dfeee5d861eb6a3.png"
+                ]
+            }, 
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/4803af3c0e05ce06ee9155a61e6370ec.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/a89fae65c07e2c6e4dfeee5d861eb6a3.png", 
+        "hasIcon": true, 
+        "description": "Defeating a combatant with a Seventh Seraph weapon has a chance to drop a Warmind Cell. Multiple copies of this mod do not stack.", 
+        "name": "Rage of the Warmind"
+    }
+}

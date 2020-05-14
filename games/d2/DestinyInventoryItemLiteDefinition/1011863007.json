@@ -1,0 +1,94 @@
+{
+    "itemTypeAndTierDisplayName": "Exotic Quest Step", 
+    "itemType": 12, 
+    "tooltipNotifications": [], 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Exotic", 
+        "bucketTypeHash": 1345459588, 
+        "tierTypeHash": 2759499571, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 6, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "setData": {
+        "trackingUnlockValueHash": 0, 
+        "setIsFeatured": false, 
+        "itemList": [
+            {
+                "itemHash": 1011863007, 
+                "trackingValue": 100
+            }
+        ], 
+        "requireOrderedSetItemAdd": true, 
+        "questLineName": "Spreading Cheer", 
+        "abandonmentUnlockHash": 0, 
+        "setType": "quest_world"
+    }, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Quest Step", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": true, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        16
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "displaySource": "\"Even those on the fringes deserve a happy Dawning.\" —Eva Levante", 
+    "value": {
+        "itemValue": [
+            {
+                "itemHash": 3981634627, 
+                "quantity": 1
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }
+        ], 
+        "valueDescription": ""
+    }, 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "icon": "/common/destiny2_content/icons/0953cdadd1a867628a04a8289be1ad1c.jpg", 
+        "hasIcon": true, 
+        "description": "Bake holiday gifts, then deliver them to the Drifter and Brother Vance.\n\nAvailable only during the Dawning 2019.", 
+        "name": "Delivery: Drifter and Vance"
+    }
+}

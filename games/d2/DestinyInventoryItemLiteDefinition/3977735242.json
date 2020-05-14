@@ -1,0 +1,72 @@
+{
+    "itemTypeAndTierDisplayName": "Legendary Trait", 
+    "itemType": 19, 
+    "tooltipNotifications": [], 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "summaryItemHash": 3520001075, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Legendary", 
+        "bucketTypeHash": 1469714392, 
+        "tierTypeHash": 4008398120, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 5, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Trait", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        59, 
+        3708671066, 
+        610365472
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "displaySource": "", 
+    "perks": [
+        {
+            "requirementDisplayString": "", 
+            "perkHash": 3201246642, 
+            "perkVisibility": 0
+        }
+    ], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/50b794dcc2a372cbc216e287790f9aa5.png"
+                ]
+            }, 
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/1e12ebdd75a42f6200691c971abbcb46.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/50b794dcc2a372cbc216e287790f9aa5.png", 
+        "hasIcon": true, 
+        "description": "Adds tracking capability to rockets. Locks onto targets when aiming down sights.", 
+        "name": "Tracking Module"
+    }
+}

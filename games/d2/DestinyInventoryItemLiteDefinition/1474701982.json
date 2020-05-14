@@ -1,0 +1,85 @@
+{
+    "itemTypeAndTierDisplayName": "Exotic Quest Step", 
+    "itemType": 12, 
+    "tooltipNotifications": [], 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": true, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Exotic", 
+        "bucketTypeHash": 1345459588, 
+        "tierTypeHash": 2759499571, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 6, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "setData": {
+        "trackingUnlockValueHash": 0, 
+        "setIsFeatured": false, 
+        "itemList": [
+            {
+                "itemHash": 1474701982, 
+                "trackingValue": 1
+            }, 
+            {
+                "itemHash": 423858067, 
+                "trackingValue": 4
+            }, 
+            {
+                "itemHash": 1532490427, 
+                "trackingValue": 5
+            }, 
+            {
+                "itemHash": 1541524849, 
+                "trackingValue": 6
+            }, 
+            {
+                "itemHash": 2442639337, 
+                "trackingValue": 7
+            }, 
+            {
+                "itemHash": 2956794481, 
+                "trackingValue": 8
+            }
+        ], 
+        "requireOrderedSetItemAdd": true, 
+        "questLineName": "A Weapon of Hope", 
+        "abandonmentUnlockHash": 0, 
+        "setType": "quest_global"
+    }, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Quest Step", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": true, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        16
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "displaySource": "\"The fate of this wicked tool is in your hands now.\" —Shin Malphur", 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "icon": "/common/destiny2_content/icons/09c1bea8a3f443d1fc13f1e0014d8e1d.jpg", 
+        "hasIcon": true, 
+        "description": "You've discovered a letter in the ruined campsite where you found your mangled Thorn. The sender purports to be the legendary Shin Malphur, a supposed do-gooder with a complex approach to doing good. He claims he's entrusting you with the original Thorn, a hateful weapon capable of permanently killing Guardians. The gun is hidden away somewhere, and to find it, you'll have to use an enclosed system positioning device to track it down. Your Ghost observes that the signal changes once an hour, on the hour, so you'll have to be quick.\n\nIdentify the location of the original Thorn using your system positioning device.", 
+        "name": "A Fateful Gift"
+    }
+}

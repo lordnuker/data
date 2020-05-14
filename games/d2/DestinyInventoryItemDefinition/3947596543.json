@@ -1,0 +1,114 @@
+{
+    "itemTypeAndTierDisplayName": "Rare Transmat Effect", 
+    "itemType": 19, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "index": 3355, 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Rare", 
+        "bucketTypeHash": 3313201758, 
+        "tierTypeHash": 2127292149, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 999, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 4, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "preview": {
+        "screenStyle": "screen_style_sockets", 
+        "previewVendorHash": 0, 
+        "previewActionString": "Preview"
+    }, 
+    "hash": 3947596543, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Transmat Effect", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/d0d3a540be2bf08fa6a81a0eee7dc345.jpg"
+                ]
+            }, 
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/05b0b1eac023feabda4a9bfa2a1a5735.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/d0d3a540be2bf08fa6a81a0eee7dc345.jpg", 
+        "hasIcon": true, 
+        "description": "Modifications for your ship's transmat systems, so you'll always arrive in style.", 
+        "name": "Green Dawning Lanterns"
+    }, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        59, 
+        208981632, 
+        177260082
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": false, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "plug": {
+        "insertionMaterialRequirementHash": 593856806, 
+        "actionRewardSiteHash": 0, 
+        "enabledMaterialRequirementHash": 0, 
+        "previewItemOverrideHash": 0, 
+        "insertionRules": [], 
+        "enabledRules": [], 
+        "plugCategoryHash": 3189353766, 
+        "plugCategoryIdentifier": "ship.spawnfx", 
+        "onActionRecreateSelf": false, 
+        "plugStyle": 0, 
+        "isDummyPlug": false, 
+        "actionRewardItemOverrideHash": 0, 
+        "uiPlugLabel": "", 
+        "alternatePlugStyle": 0, 
+        "alternateUiPlugLabel": "", 
+        "plugAvailability": 0
+    }, 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "displaySource": "", 
+    "perks": [
+        {
+            "requirementDisplayString": "", 
+            "perkHash": 273234853, 
+            "perkVisibility": 0
+        }
+    ], 
+    "specialItemType": 0, 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Dismantle", 
+        "deleteOnAction": true, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "useOnAcquire": false, 
+        "isPositive": false, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }
+}

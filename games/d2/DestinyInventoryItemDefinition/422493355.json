@@ -1,0 +1,118 @@
+{
+    "itemTypeAndTierDisplayName": "Legendary Quest Step", 
+    "nonTransferrable": true, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "secondaryIcon": "/common/destiny2_content/icons/49a1289d13f7722a09e361f8e7fbf720.jpg", 
+    "tooltipNotifications": [], 
+    "itemType": 12, 
+    "index": 14421, 
+    "allowActions": true, 
+    "objectives": {
+        "objectiveVerbName": "", 
+        "requireFullObjectiveCompletion": true, 
+        "questTypeIdentifier": "quest_global", 
+        "perObjectiveDisplayProperties": [
+            {
+                "displayOnItemPreviewScreen": false
+            }
+        ], 
+        "objectiveHashes": [
+            913305812
+        ], 
+        "displayAsStatTracker": false, 
+        "useOnObjectiveCompletion": false, 
+        "completionRewardSiteHash": 0, 
+        "timestampUnlockValueHash": 0, 
+        "questlineItemHash": 422493355, 
+        "isGlobalObjectiveItem": false, 
+        "inhibitCompletionUnlockValueHash": 0, 
+        "narrative": "", 
+        "displayActivityHashes": [
+            2166136261
+        ], 
+        "nextQuestStepRewardSiteHash": 0, 
+        "questTypeHash": 3413310557
+    }, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Legendary", 
+        "bucketTypeHash": 1801258597, 
+        "tierTypeHash": 4008398120, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 5, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "setData": {
+        "trackingUnlockValueHash": 0, 
+        "setIsFeatured": true, 
+        "itemList": [
+            {
+                "itemHash": 422493355, 
+                "trackingValue": 100
+            }
+        ], 
+        "requireOrderedSetItemAdd": true, 
+        "questLineName": "An Imperial Summons", 
+        "abandonmentUnlockHash": 0, 
+        "setType": "quest_global"
+    }, 
+    "hash": 422493355, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Quest Step", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": true, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        16
+    ], 
+    "uiItemDisplayStyle": "", 
+    "secondaryOverlay": "/img/misc/missing_icon_d2.png", 
+    "tooltipStyle": "bounty", 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "secondarySpecial": "/img/misc/missing_icon_d2.png", 
+    "blacklisted": false, 
+    "displaySource": "", 
+    "traitIds": [
+        "inventory_filtering.quest", 
+        "quest.playlists"
+    ], 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/46d5b2b166937b2a1761e68c9be4e1fb.png", 
+                    "/common/destiny2_content/icons/b1b14841c448cb3cb70dc795455b5934.png", 
+                    "/common/destiny2_content/icons/cc36890a54be68de6aedce495d0561ed.png"
+                ]
+            }, 
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/abe471224a6ccd12d8544ea54667e1ec.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/46d5b2b166937b2a1761e68c9be4e1fb.png", 
+        "hasIcon": true, 
+        "description": "Ghost informs you that he's being spammed, non-stop, with messages from a malfunctioning maintenance frame somewhere in the Tower. \"It just keeps saying 'a summons,' over and over,\" he says. \"Let's see if we can find it.\"", 
+        "name": "An Imperial Summons"
+    }
+}

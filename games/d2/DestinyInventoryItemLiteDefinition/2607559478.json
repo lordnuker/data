@@ -1,0 +1,79 @@
+{
+    "itemTypeAndTierDisplayName": "Legendary Armor Perk", 
+    "itemType": 19, 
+    "tooltipNotifications": [], 
+    "quality": {
+        "infusionCategoryHash": 0, 
+        "infusionCategoryHashes": [], 
+        "infusionCategoryName": "0", 
+        "progressionLevelRequirementHash": 0, 
+        "qualityLevel": 0, 
+        "itemLevels": []
+    }, 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "summaryItemHash": 3407672161, 
+    "inventory": {
+        "isInstanceItem": true, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Legendary", 
+        "bucketTypeHash": 1469714392, 
+        "tierTypeHash": 4008398120, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 5, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Armor Perk", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        59, 
+        303512563
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "displaySource": "", 
+    "perks": [
+        {
+            "requirementDisplayString": "", 
+            "perkHash": 28098863, 
+            "perkVisibility": 0
+        }
+    ], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/8e3f39349cf0e60a86ec2772c3da4c82.png"
+                ]
+            }, 
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/805bd24a300f2ddb15c6faa2d536df83.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/8e3f39349cf0e60a86ec2772c3da4c82.png", 
+        "hasIcon": true, 
+        "description": "Increases reload speed of Sniper Rifles.", 
+        "name": "Sniper Rifle Loader"
+    }
+}

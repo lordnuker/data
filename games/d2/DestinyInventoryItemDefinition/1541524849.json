@@ -1,0 +1,142 @@
+{
+    "itemTypeAndTierDisplayName": "Exotic Quest Step", 
+    "itemType": 12, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "index": 14365, 
+    "stats": {
+        "hasDisplayableStats": false, 
+        "primaryBaseStatHash": 0, 
+        "disablePrimaryStatDisplay": false, 
+        "stats": {}
+    }, 
+    "objectives": {
+        "objectiveVerbName": "", 
+        "requireFullObjectiveCompletion": true, 
+        "questTypeIdentifier": "quest_global", 
+        "perObjectiveDisplayProperties": [
+            {
+                "displayOnItemPreviewScreen": false
+            }
+        ], 
+        "objectiveHashes": [
+            2477847074
+        ], 
+        "displayAsStatTracker": false, 
+        "useOnObjectiveCompletion": false, 
+        "completionRewardSiteHash": 0, 
+        "timestampUnlockValueHash": 0, 
+        "questlineItemHash": 1541524849, 
+        "isGlobalObjectiveItem": false, 
+        "inhibitCompletionUnlockValueHash": 0, 
+        "narrative": "", 
+        "displayActivityHashes": [
+            2166136261
+        ], 
+        "nextQuestStepRewardSiteHash": 0, 
+        "questTypeHash": 3413310557
+    }, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": true, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Exotic", 
+        "bucketTypeHash": 1345459588, 
+        "tierTypeHash": 2759499571, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 6, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "setData": {
+        "trackingUnlockValueHash": 0, 
+        "setIsFeatured": false, 
+        "itemList": [
+            {
+                "itemHash": 1474701982, 
+                "trackingValue": 1
+            }, 
+            {
+                "itemHash": 423858067, 
+                "trackingValue": 4
+            }, 
+            {
+                "itemHash": 1532490427, 
+                "trackingValue": 5
+            }, 
+            {
+                "itemHash": 1541524849, 
+                "trackingValue": 6
+            }, 
+            {
+                "itemHash": 2442639337, 
+                "trackingValue": 7
+            }, 
+            {
+                "itemHash": 2956794481, 
+                "trackingValue": 8
+            }
+        ], 
+        "requireOrderedSetItemAdd": true, 
+        "questLineName": "A Weapon of Hope", 
+        "abandonmentUnlockHash": 0, 
+        "setType": "quest_global"
+    }, 
+    "hash": 1541524849, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Quest Step", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": true, 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Abandon", 
+        "deleteOnAction": true, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "useOnAcquire": false, 
+        "isPositive": false, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        16
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": true, 
+    "tooltipStyle": "bounty", 
+    "allowActions": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "displaySource": "\"Hope is a currency. It buys tomorrow. It gives us what we need to survive today.\" —Rezyl Azzir", 
+    "traitIds": [
+        "inventory_filtering.quest", 
+        "quest.exotic"
+    ], 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "icon": "/common/destiny2_content/icons/81dcaa1ceb49629d91e3dcdca7019739.jpg", 
+        "hasIcon": true, 
+        "description": "Your project is going well. The gun is more than mechanically sound; it has synergized with your Light. But unlike your quest to restore your Thorn, there are no mentors here. This is you, forging a new path, following your intuition in search of a strong symbol of hope. If there's one thing you've learned since the Red Legion invaded, it is that single Guardians fall alone. Fireteams of like-minded individuals persevere.\n\nComplete activities throughout the solar system with Rose equipped. Fighting in a fireteam with other Rose wielders grants the most efficient progress.", 
+        "name": "Fireteam Leader"
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "itemTypeAndTierDisplayName": "Exotic Intrinsic", 
+    "itemType": 19, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "index": 2333, 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "summaryItemHash": 3520001075, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Exotic", 
+        "bucketTypeHash": 1469714392, 
+        "tierTypeHash": 2759499571, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 6, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "hash": 3755070117, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Intrinsic", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/ae8a8d8080c7470b74a041edddfd41e1.png"
+                ]
+            }, 
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/95b06059559410fa59cd837d1175bd85.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/ae8a8d8080c7470b74a041edddfd41e1.png", 
+        "hasIcon": true, 
+        "description": "Larger magazine. Increased accuracy when firing from the hip. Picking up ammo for this weapon immediately reloads it.", 
+        "name": "Payday"
+    }, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        2237038328, 
+        610365472, 
+        59
+    ], 
+    "uiItemDisplayStyle": "ui_display_style_intrinsic_plug", 
+    "nonTransferrable": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "plug": {
+        "insertionMaterialRequirementHash": 0, 
+        "actionRewardSiteHash": 0, 
+        "enabledMaterialRequirementHash": 0, 
+        "previewItemOverrideHash": 0, 
+        "insertionRules": [], 
+        "enabledRules": [], 
+        "plugCategoryHash": 1744546145, 
+        "plugCategoryIdentifier": "intrinsics", 
+        "onActionRecreateSelf": false, 
+        "plugStyle": 0, 
+        "isDummyPlug": false, 
+        "actionRewardItemOverrideHash": 0, 
+        "uiPlugLabel": "", 
+        "alternatePlugStyle": 0, 
+        "alternateUiPlugLabel": "", 
+        "plugAvailability": 0
+    }, 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "displaySource": "", 
+    "perks": [
+        {
+            "requirementDisplayString": "", 
+            "perkHash": 3650230567, 
+            "perkVisibility": 0
+        }, 
+        {
+            "requirementDisplayString": "", 
+            "perkHash": 2407654303, 
+            "perkVisibility": 0
+        }
+    ], 
+    "specialItemType": 0, 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Dismantle", 
+        "deleteOnAction": true, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "actionTypeLabel": "shard", 
+        "useOnAcquire": false, 
+        "isPositive": false, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }
+}

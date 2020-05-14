@@ -1,0 +1,92 @@
+{
+    "itemTypeAndTierDisplayName": "Common Restore Defaults", 
+    "itemType": 19, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "index": 5496, 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Common", 
+        "bucketTypeHash": 2973005342, 
+        "tierTypeHash": 3340296461, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1000, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 2, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "hash": 2426387438, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Restore Defaults", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 20, 
+    "itemCategoryHashes": [
+        41, 
+        52, 
+        59
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": false, 
+    "tooltipStyle": "vendor_action", 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "plug": {
+        "insertionMaterialRequirementHash": 0, 
+        "actionRewardSiteHash": 0, 
+        "enabledMaterialRequirementHash": 0, 
+        "previewItemOverrideHash": 0, 
+        "insertionRules": [], 
+        "enabledRules": [], 
+        "plugCategoryHash": 2272427828, 
+        "plugCategoryIdentifier": "hologram", 
+        "onActionRecreateSelf": false, 
+        "plugStyle": 0, 
+        "isDummyPlug": false, 
+        "actionRewardItemOverrideHash": 0, 
+        "uiPlugLabel": "", 
+        "alternatePlugStyle": 0, 
+        "alternateUiPlugLabel": "", 
+        "plugAvailability": 0
+    }, 
+    "blacklisted": false, 
+    "displaySource": "", 
+    "traitIds": [
+        "item_type.shader"
+    ], 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/c444a5370ea1a4447fda2c17267a20fc.png"
+                ]
+            }, 
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/3fa4a27656d4ad66176bd99e4eecda83.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/c444a5370ea1a4447fda2c17267a20fc.png", 
+        "hasIcon": true, 
+        "description": "Restores your Ghost to an empty projection.", 
+        "name": "No Projection"
+    }
+}

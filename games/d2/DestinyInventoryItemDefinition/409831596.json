@@ -1,0 +1,117 @@
+{
+    "itemTypeAndTierDisplayName": "Legendary Magazine", 
+    "itemType": 19, 
+    "investmentStats": [
+        {
+            "value": -20, 
+            "statTypeHash": 3614673599, 
+            "isConditionallyActive": false
+        }
+    ], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "index": 2367, 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "summaryItemHash": 3520001075, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Legendary", 
+        "bucketTypeHash": 1469714392, 
+        "tierTypeHash": 4008398120, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 5, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "hash": 409831596, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Magazine", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/88869f977fa3d145c1ece3e38c070bd2.png"
+                ]
+            }, 
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/e2e65524cf853c6ccdb5c643f7e88e6d.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/88869f977fa3d145c1ece3e38c070bd2.png", 
+        "hasIcon": true, 
+        "description": "Grenades fired from this weapon have increased proximity detection but a decreased blast radius.", 
+        "name": "Proximity Grenades"
+    }, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        4184407433, 
+        610365472, 
+        59
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "plug": {
+        "insertionMaterialRequirementHash": 0, 
+        "actionRewardSiteHash": 0, 
+        "enabledMaterialRequirementHash": 0, 
+        "previewItemOverrideHash": 0, 
+        "insertionRules": [], 
+        "enabledRules": [], 
+        "plugCategoryHash": 2718120384, 
+        "plugCategoryIdentifier": "magazines_gl", 
+        "onActionRecreateSelf": false, 
+        "plugStyle": 0, 
+        "isDummyPlug": false, 
+        "actionRewardItemOverrideHash": 0, 
+        "uiPlugLabel": "", 
+        "alternatePlugStyle": 0, 
+        "alternateUiPlugLabel": "", 
+        "plugAvailability": 0
+    }, 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "displaySource": "", 
+    "perks": [
+        {
+            "requirementDisplayString": "", 
+            "perkHash": 4269820856, 
+            "perkVisibility": 0
+        }
+    ], 
+    "specialItemType": 0, 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Dismantle", 
+        "deleteOnAction": true, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "actionTypeLabel": "shard", 
+        "useOnAcquire": false, 
+        "isPositive": false, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }
+}

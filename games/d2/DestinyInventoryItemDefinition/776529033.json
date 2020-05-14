@@ -1,0 +1,100 @@
+{
+    "itemTypeAndTierDisplayName": "Common Emblem", 
+    "nonTransferrable": true, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "itemType": 14, 
+    "index": 137, 
+    "stats": {
+        "hasDisplayableStats": false, 
+        "primaryBaseStatHash": 0, 
+        "disablePrimaryStatDisplay": false, 
+        "stats": {}
+    }, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": true, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Common", 
+        "bucketTypeHash": 4274335291, 
+        "stackUniqueLabel": "emblems.starter_warlock1", 
+        "tierTypeHash": 3340296461, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 2, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 5, 
+        "green": 159, 
+        "colorHash": 0, 
+        "red": 255, 
+        "alpha": 255
+    }, 
+    "allowActions": true, 
+    "hash": 776529033, 
+    "equippable": true, 
+    "itemTypeDisplayName": "Emblem", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "action": {
+        "progressionRewards": [
+            {
+                "amount": 0, 
+                "applyThrottles": false, 
+                "progressionMappingHash": 2596924925
+            }
+        ], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Discard", 
+        "deleteOnAction": true, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "useOnAcquire": false, 
+        "isPositive": false, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        19, 
+        52
+    ], 
+    "uiItemDisplayStyle": "", 
+    "secondaryOverlay": "/img/misc/missing_icon_d2.png", 
+    "secondaryIcon": "/common/destiny2_content/icons/2e1f4c73b41d528d781015975f866d96.jpg", 
+    "equippingBlock": {
+        "displayStrings": [], 
+        "equipmentSlotTypeHash": 4274335291, 
+        "ammoType": 0, 
+        "equippingSoundHash": 0, 
+        "hornSoundHash": 0, 
+        "attributes": 0, 
+        "uniqueLabelHash": 0
+    }, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "secondarySpecial": "/img/misc/missing_icon_d2.png", 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "displaySource": "", 
+    "traitIds": [
+        "item_type.emblem"
+    ], 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "icon": "/common/destiny2_content/icons/a668159664de05231d498db107e4a34c.jpg", 
+        "hasIcon": true, 
+        "description": "", 
+        "name": "Rune of the Adept"
+    }
+}

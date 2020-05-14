@@ -1,0 +1,40 @@
+{
+    "index": 29, 
+    "hash": 3598012278, 
+    "blacklisted": false, 
+    "avoidDuplicatesOnInitialization": false, 
+    "insertAction": {
+        "actionSoundHash": 0, 
+        "isPositiveAction": false, 
+        "actionType": 2, 
+        "actionExecuteSeconds": 1
+    }, 
+    "plugWhitelist": [
+        {
+            "categoryIdentifier": "plugs.masterworks.armor.default", 
+            "categoryHash": 2457930460
+        }, 
+        {
+            "reinitializationPossiblePlugHashes": [
+                4099793855, 
+                3597145518, 
+                4214298879
+            ], 
+            "categoryIdentifier": "v300.plugs.masterworks.generic.armor.super_dr", 
+            "categoryHash": 3547196371
+        }
+    ], 
+    "currencyScalars": [], 
+    "redacted": false, 
+    "visibility": 3, 
+    "isPreviewEnabled": false, 
+    "alwaysRandomizeSockets": false, 
+    "overridesUiAppearance": false, 
+    "displayProperties": {
+        "hasIcon": false, 
+        "description": "", 
+        "name": ""
+    }, 
+    "socketCategoryHash": 590099826, 
+    "hideDuplicateReusablePlugs": false
+}

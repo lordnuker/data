@@ -1,0 +1,35 @@
+{
+    "index": 226, 
+    "hash": 1953151173, 
+    "blacklisted": false, 
+    "avoidDuplicatesOnInitialization": false, 
+    "insertAction": {
+        "actionSoundHash": 0, 
+        "isPositiveAction": false, 
+        "actionType": 0, 
+        "actionExecuteSeconds": 1
+    }, 
+    "plugWhitelist": [
+        {
+            "categoryIdentifier": "events.dawning.oven.masterworked", 
+            "categoryHash": 2791193194
+        }, 
+        {
+            "categoryIdentifier": "events.dawning.oven.not_masterworked", 
+            "categoryHash": 966890896
+        }
+    ], 
+    "currencyScalars": [], 
+    "redacted": false, 
+    "visibility": 0, 
+    "isPreviewEnabled": false, 
+    "alwaysRandomizeSockets": false, 
+    "overridesUiAppearance": false, 
+    "displayProperties": {
+        "hasIcon": false, 
+        "description": "Once you've successfully baked a recipe, it will show up here for easy access.", 
+        "name": "Recipes"
+    }, 
+    "socketCategoryHash": 2059652296, 
+    "hideDuplicateReusablePlugs": false
+}

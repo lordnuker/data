@@ -1,0 +1,77 @@
+{
+    "itemTypeAndTierDisplayName": "Exotic Intrinsic", 
+    "itemType": 19, 
+    "tooltipNotifications": [], 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "summaryItemHash": 3520001075, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Exotic", 
+        "bucketTypeHash": 1469714392, 
+        "tierTypeHash": 2759499571, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 6, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Intrinsic", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        59, 
+        2237038328, 
+        610365472
+    ], 
+    "uiItemDisplayStyle": "ui_display_style_intrinsic_plug", 
+    "nonTransferrable": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "displaySource": "", 
+    "perks": [
+        {
+            "requirementDisplayString": "", 
+            "perkHash": 1037166774, 
+            "perkVisibility": 0
+        }, 
+        {
+            "requirementDisplayString": "", 
+            "perkHash": 57652913, 
+            "perkVisibility": 0
+        }
+    ], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/0e96ea8f7579377b6be6077dec83febd.png"
+                ]
+            }, 
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/3188f9601ae72b5f5009608ea81f30c3.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/0e96ea8f7579377b6be6077dec83febd.png", 
+        "hasIcon": true, 
+        "description": "Dealing damage with this weapon reduces your melee cooldown and grants a chance to fully charge your melee ability with each kill.", 
+        "name": "Monte Carlo Method"
+    }
+}

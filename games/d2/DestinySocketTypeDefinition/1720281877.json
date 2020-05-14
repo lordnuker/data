@@ -1,0 +1,73 @@
+{
+    "index": 385, 
+    "hash": 1720281877, 
+    "blacklisted": false, 
+    "avoidDuplicatesOnInitialization": false, 
+    "insertAction": {
+        "actionSoundHash": 0, 
+        "isPositiveAction": false, 
+        "actionType": 2, 
+        "actionExecuteSeconds": 0
+    }, 
+    "plugWhitelist": [
+        {
+            "categoryIdentifier": "v310.tickets.mods.power_handicap", 
+            "categoryHash": 1720281877
+        }, 
+        {
+            "reinitializationPossiblePlugHashes": [
+                1524950365
+            ], 
+            "categoryIdentifier": "v310.tickets.mods.power_handicap.increase", 
+            "categoryHash": 1098672153
+        }, 
+        {
+            "reinitializationPossiblePlugHashes": [
+                1524950365
+            ], 
+            "categoryIdentifier": "v310.tickets.mods.power_handicap.increase25", 
+            "categoryHash": 3117724286
+        }, 
+        {
+            "reinitializationPossiblePlugHashes": [
+                1524950365
+            ], 
+            "categoryIdentifier": "v310.tickets.mods.power_handicap.max", 
+            "categoryHash": 2256302521
+        }, 
+        {
+            "reinitializationPossiblePlugHashes": [
+                1524950365
+            ], 
+            "categoryIdentifier": "v310.tickets.mods.power_handicap.decrease", 
+            "categoryHash": 1139785001
+        }, 
+        {
+            "reinitializationPossiblePlugHashes": [
+                1524950365
+            ], 
+            "categoryIdentifier": "v310.tickets.mods.power_handicap.decrease25", 
+            "categoryHash": 3687606286
+        }, 
+        {
+            "reinitializationPossiblePlugHashes": [
+                1524950365
+            ], 
+            "categoryIdentifier": "v310.tickets.mods.power_handicap.floor", 
+            "categoryHash": 4023652069
+        }
+    ], 
+    "currencyScalars": [], 
+    "redacted": false, 
+    "visibility": 0, 
+    "isPreviewEnabled": false, 
+    "alwaysRandomizeSockets": false, 
+    "overridesUiAppearance": false, 
+    "displayProperties": {
+        "hasIcon": false, 
+        "description": "", 
+        "name": ""
+    }, 
+    "socketCategoryHash": 2622243744, 
+    "hideDuplicateReusablePlugs": false
+}

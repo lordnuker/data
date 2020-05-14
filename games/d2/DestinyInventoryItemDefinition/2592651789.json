@@ -1,0 +1,127 @@
+{
+    "itemTypeAndTierDisplayName": "Legendary Emote", 
+    "translationBlock": {
+        "customDyes": [], 
+        "hasGeometry": true, 
+        "lockedDyes": [], 
+        "weaponPatternHash": 0, 
+        "defaultDyes": [], 
+        "arrangements": [
+            {
+                "classHash": 0, 
+                "artArrangementHash": 854630480
+            }
+        ]
+    }, 
+    "itemType": 19, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "talentGrid": {
+        "talentGridHash": 521135891, 
+        "hudDamageType": 1, 
+        "itemDetailString": "Preview"
+    }, 
+    "index": 4527, 
+    "stats": {
+        "hasDisplayableStats": false, 
+        "primaryBaseStatHash": 0, 
+        "disablePrimaryStatDisplay": false, 
+        "stats": {}
+    }, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": true, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Legendary", 
+        "bucketTypeHash": 2401704334, 
+        "stackUniqueLabel": "v320.plugs.emotes.timely_dance0", 
+        "tierTypeHash": 4008398120, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 5, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 162, 
+        "green": 175, 
+        "colorHash": 0, 
+        "red": 23, 
+        "alpha": 255
+    }, 
+    "hash": 2592651789, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Emote", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "displayProperties": {
+        "icon": "/common/destiny2_content/icons/4da4c5c822e4f2d64e0152a19b8516f9.jpg", 
+        "hasIcon": true, 
+        "description": "Adapting the power of the Vex.", 
+        "name": "Timely Dance"
+    }, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        44, 
+        59
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": true, 
+    "allowActions": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "plug": {
+        "insertionMaterialRequirementHash": 0, 
+        "actionRewardSiteHash": 0, 
+        "enabledMaterialRequirementHash": 0, 
+        "previewItemOverrideHash": 0, 
+        "insertionRules": [
+            {
+                "failureMessage": "You do not own this emote"
+            }
+        ], 
+        "enabledRules": [
+            {
+                "failureMessage": "You do not own this emote"
+            }
+        ], 
+        "plugCategoryHash": 3054419239, 
+        "plugCategoryIdentifier": "emote", 
+        "onActionRecreateSelf": true, 
+        "plugStyle": 0, 
+        "isDummyPlug": false, 
+        "actionRewardItemOverrideHash": 0, 
+        "uiPlugLabel": "", 
+        "alternatePlugStyle": 0, 
+        "alternateUiPlugLabel": "", 
+        "plugAvailability": 0
+    }, 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "collectibleHash": 1666608009, 
+    "displaySource": "", 
+    "traitIds": [
+        "item_type.emote"
+    ], 
+    "perks": [], 
+    "specialItemType": 0, 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Unlock", 
+        "deleteOnAction": true, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "useOnAcquire": false, 
+        "isPositive": true, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }
+}

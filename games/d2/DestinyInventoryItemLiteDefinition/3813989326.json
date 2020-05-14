@@ -1,0 +1,79 @@
+{
+    "itemTypeAndTierDisplayName": "Legendary Armor Perk", 
+    "itemType": 19, 
+    "tooltipNotifications": [], 
+    "quality": {
+        "infusionCategoryHash": 0, 
+        "infusionCategoryHashes": [], 
+        "infusionCategoryName": "0", 
+        "progressionLevelRequirementHash": 0, 
+        "qualityLevel": 0, 
+        "itemLevels": []
+    }, 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "summaryItemHash": 3407672161, 
+    "inventory": {
+        "isInstanceItem": true, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Legendary", 
+        "bucketTypeHash": 1469714392, 
+        "tierTypeHash": 4008398120, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 5, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Armor Perk", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        59, 
+        303512563
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "displaySource": "", 
+    "perks": [
+        {
+            "requirementDisplayString": "", 
+            "perkHash": 2830191999, 
+            "perkVisibility": 0
+        }
+    ], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/db26e724b27f6242a9b8b35ee8b725c3.png"
+                ]
+            }, 
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/1922d96a7db732b8e4b56d4ef5a1c5a9.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/db26e724b27f6242a9b8b35ee8b725c3.png", 
+        "hasIcon": true, 
+        "description": "Improved target acquisition, accuracy, and aim-down-sights speed for Auto Rifles, Machine Guns, SMGs, Pulse Rifles, Sidearms, and Fusion Rifles.", 
+        "name": "Scatter Projectile Targeting"
+    }
+}

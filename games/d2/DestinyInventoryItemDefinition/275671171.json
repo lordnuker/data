@@ -1,0 +1,104 @@
+{
+    "itemTypeAndTierDisplayName": "Legendary Armor Mod", 
+    "itemType": 19, 
+    "investmentStats": [
+        {
+            "value": 10, 
+            "statTypeHash": 2996146975, 
+            "isConditionallyActive": false
+        }
+    ], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "index": 5300, 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Legendary", 
+        "bucketTypeHash": 3313201758, 
+        "tierTypeHash": 4008398120, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1000, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 5, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "hash": 275671171, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Armor Mod", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "displayProperties": {
+        "icon": "/common/destiny2_content/icons/31af931cbec60fc43f0daf05ac0fba4d.jpg", 
+        "hasIcon": true, 
+        "description": "", 
+        "name": "Mobility Mod"
+    }, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        59, 
+        4062965806, 
+        4104513227
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": false, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "plug": {
+        "insertionMaterialRequirementHash": 1633988883, 
+        "actionRewardSiteHash": 0, 
+        "enabledMaterialRequirementHash": 0, 
+        "previewItemOverrideHash": 0, 
+        "insertionRules": [], 
+        "enabledRules": [], 
+        "plugCategoryHash": 3347429529, 
+        "plugCategoryIdentifier": "enhancements.universal", 
+        "onActionRecreateSelf": true, 
+        "plugStyle": 0, 
+        "isDummyPlug": false, 
+        "actionRewardItemOverrideHash": 0, 
+        "uiPlugLabel": "", 
+        "alternatePlugStyle": 0, 
+        "alternateUiPlugLabel": "", 
+        "plugAvailability": 0
+    }, 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "displaySource": "", 
+    "perks": [
+        {
+            "requirementDisplayString": "", 
+            "perkHash": 3293909674, 
+            "perkVisibility": 0
+        }
+    ], 
+    "specialItemType": 0, 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Dismantle", 
+        "deleteOnAction": true, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "actionTypeLabel": "shard", 
+        "useOnAcquire": false, 
+        "isPositive": false, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }
+}

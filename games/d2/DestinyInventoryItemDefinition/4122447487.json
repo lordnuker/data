@@ -1,0 +1,171 @@
+{
+    "itemTypeAndTierDisplayName": "Legendary Quest Step", 
+    "nonTransferrable": true, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "secondaryIcon": "/common/destiny2_content/icons/6a8e558269c36d9c24d69e7b1b7be568.jpg", 
+    "tooltipNotifications": [], 
+    "itemType": 12, 
+    "index": 14232, 
+    "stats": {
+        "hasDisplayableStats": false, 
+        "primaryBaseStatHash": 0, 
+        "disablePrimaryStatDisplay": false, 
+        "stats": {}
+    }, 
+    "objectives": {
+        "objectiveVerbName": "", 
+        "requireFullObjectiveCompletion": true, 
+        "questTypeIdentifier": "quest_story", 
+        "perObjectiveDisplayProperties": [
+            {
+                "displayOnItemPreviewScreen": false, 
+                "activityHash": 1194986370
+            }
+        ], 
+        "objectiveHashes": [
+            198056742
+        ], 
+        "displayAsStatTracker": false, 
+        "useOnObjectiveCompletion": false, 
+        "completionRewardSiteHash": 0, 
+        "timestampUnlockValueHash": 0, 
+        "questlineItemHash": 4122447487, 
+        "isGlobalObjectiveItem": false, 
+        "inhibitCompletionUnlockValueHash": 0, 
+        "narrative": "", 
+        "displayActivityHashes": [
+            2166136261
+        ], 
+        "nextQuestStepRewardSiteHash": 0, 
+        "questTypeHash": 1889621735
+    }, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": true, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Legendary", 
+        "bucketTypeHash": 1345459588, 
+        "tierTypeHash": 4008398120, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 5, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 114, 
+        "green": 111, 
+        "colorHash": 0, 
+        "red": 23, 
+        "alpha": 255
+    }, 
+    "setData": {
+        "trackingUnlockValueHash": 0, 
+        "setIsFeatured": false, 
+        "itemList": [
+            {
+                "itemHash": 4122447487, 
+                "trackingValue": 100
+            }, 
+            {
+                "itemHash": 3575754323, 
+                "trackingValue": 200
+            }, 
+            {
+                "itemHash": 50742572, 
+                "trackingValue": 300
+            }, 
+            {
+                "itemHash": 3072358633, 
+                "trackingValue": 400
+            }, 
+            {
+                "itemHash": 823187045, 
+                "trackingValue": 500
+            }, 
+            {
+                "itemHash": 2347946510, 
+                "trackingValue": 600
+            }, 
+            {
+                "itemHash": 1095937013, 
+                "trackingValue": 700
+            }, 
+            {
+                "itemHash": 2237931050, 
+                "trackingValue": 800
+            }, 
+            {
+                "itemHash": 13903920, 
+                "trackingValue": 900
+            }, 
+            {
+                "itemHash": 3767487431, 
+                "trackingValue": 1000
+            }
+        ], 
+        "requireOrderedSetItemAdd": true, 
+        "questLineName": "Legacy: Warmind", 
+        "abandonmentUnlockHash": 0, 
+        "setType": "quest_story"
+    }, 
+    "hash": 4122447487, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Quest Step", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": true, 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Abandon", 
+        "deleteOnAction": true, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "useOnAcquire": false, 
+        "isPositive": false, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        16
+    ], 
+    "uiItemDisplayStyle": "", 
+    "secondaryOverlay": "/img/misc/missing_icon_d2.png", 
+    "tooltipStyle": "bounty", 
+    "allowActions": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "secondarySpecial": "/img/misc/missing_icon_d2.png", 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "displaySource": "", 
+    "traitIds": [
+        "inventory_filtering.quest", 
+        "quest.past"
+    ], 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/4b1377381bd8fafbb77db6350f19c728.jpg", 
+                    "/common/destiny2_content/icons/1266a910287db396e949cfc348369822.png", 
+                    "/common/destiny2_content/icons/728938826a6d9c3f7bb7095e8511fc50.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/4b1377381bd8fafbb77db6350f19c728.jpg", 
+        "hasIcon": true, 
+        "description": "A friendly Guardian has requested assistance on Mars. Help her investigate falling Warsats and battle a new threat.", 
+        "name": "Ice and Shadow"
+    }
+}

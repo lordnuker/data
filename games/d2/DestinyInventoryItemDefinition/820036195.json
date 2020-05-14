@@ -1,0 +1,136 @@
+{
+    "itemTypeAndTierDisplayName": "Legendary Worthy Armor Mod", 
+    "itemType": 19, 
+    "investmentStats": [
+        {
+            "value": 4, 
+            "statTypeHash": 3578062600, 
+            "isConditionallyActive": false
+        }
+    ], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "index": 500, 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Legendary", 
+        "bucketTypeHash": 2422292810, 
+        "tierTypeHash": 4008398120, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 5, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "hash": 820036195, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Worthy Armor Mod", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Dismantle", 
+        "deleteOnAction": true, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "actionTypeLabel": "shard", 
+        "useOnAcquire": false, 
+        "isPositive": false, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        59, 
+        4104513227
+    ], 
+    "uiItemDisplayStyle": "ui_display_style_energy_mod", 
+    "nonTransferrable": true, 
+    "tooltipStyle": "build", 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "plug": {
+        "insertionMaterialRequirementHash": 1564811296, 
+        "actionRewardSiteHash": 0, 
+        "enabledMaterialRequirementHash": 0, 
+        "previewItemOverrideHash": 0, 
+        "insertionRules": [
+            {
+                "failureMessage": "Similar mod already applied."
+            }
+        ], 
+        "enabledRules": [
+            {
+                "failureMessage": ""
+            }
+        ], 
+        "plugCategoryHash": 426869514, 
+        "plugCategoryIdentifier": "enhancements.season_v480", 
+        "onActionRecreateSelf": false, 
+        "plugStyle": 0, 
+        "isDummyPlug": false, 
+        "actionRewardItemOverrideHash": 0, 
+        "uiPlugLabel": "", 
+        "alternatePlugStyle": 0, 
+        "energyCost": {
+            "energyCost": 4, 
+            "energyTypeHash": 1198124803, 
+            "energyType": 0
+        }, 
+        "alternateUiPlugLabel": "", 
+        "plugAvailability": 0
+    }, 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "collectibleHash": 1471058943, 
+    "displaySource": "", 
+    "perks": [
+        {
+            "requirementDisplayString": "", 
+            "perkHash": 981580760, 
+            "perkVisibility": 2
+        }, 
+        {
+            "requirementDisplayString": "", 
+            "perkHash": 1080733616, 
+            "perkVisibility": 2
+        }
+    ], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/39eca80c96095adc51e77654f30e4c53.png", 
+                    "/common/destiny2_content/icons/86ae957224219eb5933b08033f0ffe83.png"
+                ]
+            }, 
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/a52f988d1766623cd9f7ee333f824c6f.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/39eca80c96095adc51e77654f30e4c53.png", 
+        "hasIcon": true, 
+        "description": "Defeating a combatant with a Seventh Seraph weapon has a chance to drop a Warmind Cell. Multiple copies of this mod do not stack.", 
+        "name": "Hammer of the Warmind"
+    }
+}

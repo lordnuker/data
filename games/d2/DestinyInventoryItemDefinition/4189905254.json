@@ -1,0 +1,149 @@
+{
+    "itemTypeAndTierDisplayName": "Legendary Quest Step", 
+    "itemType": 12, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "index": 14392, 
+    "allowActions": true, 
+    "objectives": {
+        "objectiveVerbName": "", 
+        "requireFullObjectiveCompletion": true, 
+        "questTypeIdentifier": "quest_global", 
+        "perObjectiveDisplayProperties": [
+            {
+                "displayOnItemPreviewScreen": false
+            }
+        ], 
+        "objectiveHashes": [
+            1108054231
+        ], 
+        "displayAsStatTracker": false, 
+        "useOnObjectiveCompletion": false, 
+        "completionRewardSiteHash": 0, 
+        "timestampUnlockValueHash": 0, 
+        "questlineItemHash": 4189905254, 
+        "isGlobalObjectiveItem": false, 
+        "inhibitCompletionUnlockValueHash": 0, 
+        "narrative": "", 
+        "displayActivityHashes": [
+            2166136261
+        ], 
+        "nextQuestStepRewardSiteHash": 0, 
+        "questTypeHash": 3413310557
+    }, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Legendary", 
+        "bucketTypeHash": 1345459588, 
+        "tierTypeHash": 4008398120, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 5, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "setData": {
+        "trackingUnlockValueHash": 0, 
+        "setIsFeatured": false, 
+        "itemList": [
+            {
+                "itemHash": 2141144851, 
+                "trackingValue": 100
+            }, 
+            {
+                "itemHash": 2141144850, 
+                "trackingValue": 200
+            }, 
+            {
+                "itemHash": 2141144849, 
+                "trackingValue": 300
+            }, 
+            {
+                "itemHash": 2141144848, 
+                "trackingValue": 400
+            }, 
+            {
+                "itemHash": 2141144855, 
+                "trackingValue": 500
+            }, 
+            {
+                "itemHash": 2141144854, 
+                "trackingValue": 600
+            }, 
+            {
+                "itemHash": 2141144853, 
+                "trackingValue": 700
+            }, 
+            {
+                "itemHash": 2141144852, 
+                "trackingValue": 800
+            }, 
+            {
+                "itemHash": 2141144859, 
+                "trackingValue": 900
+            }, 
+            {
+                "itemHash": 2141144858, 
+                "trackingValue": 1000
+            }, 
+            {
+                "itemHash": 4189905254, 
+                "trackingValue": 1100
+            }, 
+            {
+                "itemHash": 4189905255, 
+                "trackingValue": 1200
+            }, 
+            {
+                "itemHash": 4189905252, 
+                "trackingValue": 1300
+            }
+        ], 
+        "requireOrderedSetItemAdd": true, 
+        "questLineName": "The Invitation", 
+        "abandonmentUnlockHash": 0, 
+        "setType": "quest_global"
+    }, 
+    "hash": 4189905254, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Quest Step", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": true, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        16
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": true, 
+    "tooltipStyle": "bounty", 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "blacklisted": false, 
+    "displaySource": "\"I don't think it's a good idea to accept gifts from Calus.\" —Ghost", 
+    "traitIds": [
+        "inventory_filtering.quest", 
+        "quest.past"
+    ], 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "icon": "/common/destiny2_content/icons/5bc77c643d9e3661e613c28795c4ee44.jpg", 
+        "hasIcon": true, 
+        "description": "Claim your reward from the Menagerie Triumph.", 
+        "name": "The Invitation"
+    }
+}

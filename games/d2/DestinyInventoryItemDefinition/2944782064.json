@@ -1,0 +1,115 @@
+{
+    "itemTypeAndTierDisplayName": "Rare Sparrow Engine", 
+    "itemType": 19, 
+    "investmentStats": [
+        {
+            "value": 140, 
+            "statTypeHash": 1501155019, 
+            "isConditionallyActive": false
+        }
+    ], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "index": 1441, 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Rare", 
+        "bucketTypeHash": 3313201758, 
+        "tierTypeHash": 2127292149, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "", 
+        "maxStackSize": 999, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 4, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "hash": 2944782064, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Sparrow Engine", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/a2cbc16edc4bf03e78090dae6d118a00.png"
+                ]
+            }, 
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/21458f70fb9848b054a70dddce8f14f8.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/a2cbc16edc4bf03e78090dae6d118a00.png", 
+        "hasIcon": true, 
+        "description": "A baseline NLS drive. No modifications.", 
+        "name": "Standard Drive"
+    }, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        59, 
+        2294843884, 
+        152608020
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": false, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "plug": {
+        "insertionMaterialRequirementHash": 0, 
+        "actionRewardSiteHash": 0, 
+        "enabledMaterialRequirementHash": 0, 
+        "previewItemOverrideHash": 0, 
+        "insertionRules": [], 
+        "enabledRules": [], 
+        "plugCategoryHash": 231630128, 
+        "plugCategoryIdentifier": "v300.vehicles.mod.speed", 
+        "onActionRecreateSelf": false, 
+        "plugStyle": 0, 
+        "isDummyPlug": false, 
+        "actionRewardItemOverrideHash": 0, 
+        "uiPlugLabel": "", 
+        "alternatePlugStyle": 0, 
+        "alternateUiPlugLabel": "", 
+        "plugAvailability": 0
+    }, 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "displaySource": "", 
+    "perks": [
+        {
+            "requirementDisplayString": "", 
+            "perkHash": 2944782064, 
+            "perkVisibility": 0
+        }
+    ], 
+    "specialItemType": 0, 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Discard", 
+        "deleteOnAction": true, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "useOnAcquire": false, 
+        "isPositive": false, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }
+}

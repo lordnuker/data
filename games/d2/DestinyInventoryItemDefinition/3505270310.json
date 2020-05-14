@@ -1,0 +1,170 @@
+{
+    "itemTypeAndTierDisplayName": "Exotic Quest Step", 
+    "nonTransferrable": true, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "secondaryIcon": "/common/destiny2_content/icons/87d8defc659df7747a7a9d7b47708297.jpg", 
+    "tooltipNotifications": [], 
+    "itemType": 12, 
+    "index": 14646, 
+    "stats": {
+        "hasDisplayableStats": false, 
+        "primaryBaseStatHash": 0, 
+        "disablePrimaryStatDisplay": false, 
+        "stats": {}
+    }, 
+    "objectives": {
+        "objectiveVerbName": "", 
+        "requireFullObjectiveCompletion": true, 
+        "questTypeIdentifier": "quest_global", 
+        "perObjectiveDisplayProperties": [
+            {
+                "displayOnItemPreviewScreen": false
+            }
+        ], 
+        "objectiveHashes": [
+            79890446
+        ], 
+        "displayAsStatTracker": false, 
+        "useOnObjectiveCompletion": false, 
+        "completionRewardSiteHash": 0, 
+        "timestampUnlockValueHash": 0, 
+        "questlineItemHash": 3505270310, 
+        "isGlobalObjectiveItem": false, 
+        "inhibitCompletionUnlockValueHash": 0, 
+        "narrative": "", 
+        "displayActivityHashes": [
+            2166136261
+        ], 
+        "nextQuestStepRewardSiteHash": 0, 
+        "questTypeHash": 3413310557
+    }, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": true, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Exotic", 
+        "bucketTypeHash": 1345459588, 
+        "tierTypeHash": 2759499571, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 6, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "setData": {
+        "trackingUnlockValueHash": 0, 
+        "setIsFeatured": false, 
+        "itemList": [
+            {
+                "itemHash": 3572380754, 
+                "trackingValue": 10
+            }, 
+            {
+                "itemHash": 3555603199, 
+                "trackingValue": 20
+            }, 
+            {
+                "itemHash": 3538825484, 
+                "trackingValue": 30
+            }, 
+            {
+                "itemHash": 3522047897, 
+                "trackingValue": 40
+            }, 
+            {
+                "itemHash": 3505270310, 
+                "trackingValue": 50
+            }, 
+            {
+                "itemHash": 3488492723, 
+                "trackingValue": 60
+            }, 
+            {
+                "itemHash": 3471715008, 
+                "trackingValue": 70
+            }, 
+            {
+                "itemHash": 3723379389, 
+                "trackingValue": 80
+            }, 
+            {
+                "itemHash": 3723379384, 
+                "trackingValue": 85
+            }, 
+            {
+                "itemHash": 3706601674, 
+                "trackingValue": 90
+            }
+        ], 
+        "requireOrderedSetItemAdd": true, 
+        "questLineName": "In Rides a Pale Horse", 
+        "abandonmentUnlockHash": 0, 
+        "setType": "quest_global"
+    }, 
+    "hash": 3505270310, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Quest Step", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": true, 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Abandon", 
+        "deleteOnAction": true, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "useOnAcquire": false, 
+        "isPositive": false, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        16
+    ], 
+    "uiItemDisplayStyle": "", 
+    "secondaryOverlay": "/img/misc/missing_icon_d2.png", 
+    "tooltipStyle": "bounty", 
+    "allowActions": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "secondarySpecial": "/img/misc/missing_icon_d2.png", 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "displaySource": "\"We're close. I can feel it.\" —Ana Bray", 
+    "traitIds": [
+        "inventory_filtering.quest", 
+        "quest.seasonal"
+    ], 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/6c3ce929c619036001fabcf90edfd46a.jpg", 
+                    "/common/destiny2_content/icons/c9dfb15fa2d33b0c7a5b31ad720fcf43.png", 
+                    "/common/destiny2_content/icons/8e6d9a66efd3d341175eccfcbbbeda3e.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/6c3ce929c619036001fabcf90edfd46a.jpg", 
+        "hasIcon": true, 
+        "description": "Take the collected intel back to Ana and see what she can discover.", 
+        "name": "Return to Ana"
+    }
+}

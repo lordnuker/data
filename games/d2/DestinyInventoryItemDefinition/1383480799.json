@@ -1,0 +1,97 @@
+{
+    "itemTypeAndTierDisplayName": "Common Aura", 
+    "itemType": 0, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "index": 5956, 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Common", 
+        "bucketTypeHash": 3313201758, 
+        "tierTypeHash": 3340296461, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 2, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "hash": 1383480799, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Aura", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": false, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "plug": {
+        "insertionMaterialRequirementHash": 0, 
+        "actionRewardSiteHash": 0, 
+        "enabledMaterialRequirementHash": 0, 
+        "previewItemOverrideHash": 0, 
+        "insertionRules": [], 
+        "enabledRules": [
+            {
+                "failureMessage": "Score Not Yet Reached"
+            }
+        ], 
+        "plugCategoryHash": 734522343, 
+        "plugCategoryIdentifier": "emblem.perk", 
+        "onActionRecreateSelf": false, 
+        "plugStyle": 0, 
+        "isDummyPlug": false, 
+        "actionRewardItemOverrideHash": 0, 
+        "uiPlugLabel": "", 
+        "alternatePlugStyle": 0, 
+        "alternateUiPlugLabel": "", 
+        "plugAvailability": 0
+    }, 
+    "blacklisted": false, 
+    "displaySource": "", 
+    "traitIds": [
+        "item_type.aura"
+    ], 
+    "perks": [
+        {
+            "requirementDisplayString": "", 
+            "perkHash": 1818239813, 
+            "perkVisibility": 0
+        }
+    ], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/3473f39d491dcd8c416fd326cb6961a4.png"
+                ]
+            }, 
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/38bdfed1b1ff3450b45c0957f73e4a4b.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/3473f39d491dcd8c416fd326cb6961a4.png", 
+        "hasIcon": true, 
+        "description": "If your personal score is above the bonus threshold, you will be surrounded by a purple aura.", 
+        "name": "Crown of Bravery"
+    }
+}

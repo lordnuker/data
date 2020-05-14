@@ -1,0 +1,107 @@
+{
+    "itemTypeAndTierDisplayName": "Legendary Quest Step", 
+    "itemType": 12, 
+    "tooltipNotifications": [], 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Legendary", 
+        "bucketTypeHash": 1345459588, 
+        "tierTypeHash": 4008398120, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 5, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "setData": {
+        "trackingUnlockValueHash": 0, 
+        "setIsFeatured": false, 
+        "itemList": [
+            {
+                "itemHash": 1163398941, 
+                "trackingValue": 100
+            }, 
+            {
+                "itemHash": 727327974, 
+                "trackingValue": 200
+            }
+        ], 
+        "requireOrderedSetItemAdd": true, 
+        "questLineName": "Fighting in Style", 
+        "abandonmentUnlockHash": 0, 
+        "setType": "quest_global"
+    }, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Quest Step", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": true, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        16
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "displaySource": "\"There is nothing more satisfying than seeing a fireteam work in perfect harmony. It is a beautiful dance.\" —Lord Shaxx", 
+    "value": {
+        "itemValue": [
+            {
+                "itemHash": 2811768631, 
+                "quantity": 5
+            }, 
+            {
+                "itemHash": 1119385345, 
+                "quantity": 1
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }
+        ], 
+        "valueDescription": ""
+    }, 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/bd4964cb9e5f8a69272425bf20858c1f.jpg", 
+                    "/common/destiny2_content/icons/c9dfb15fa2d33b0c7a5b31ad720fcf43.png", 
+                    "/common/destiny2_content/icons/aefde6614fde650d6ae2897b6e1ead79.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/bd4964cb9e5f8a69272425bf20858c1f.jpg", 
+        "hasIcon": true, 
+        "description": "Defeat Guardians as a team, earn Valor, and rapidly defeat opponents in the Crucible during Season 10.", 
+        "name": "Team Spirit"
+    }
+}

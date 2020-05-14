@@ -1,0 +1,159 @@
+{
+    "itemTypeAndTierDisplayName": "Legendary Armor Ornament", 
+    "translationBlock": {
+        "customDyes": [], 
+        "hasGeometry": true, 
+        "lockedDyes": [], 
+        "weaponPatternHash": 0, 
+        "defaultDyes": [
+            {
+                "dyeHash": 904221637, 
+                "channelHash": 662199250
+            }, 
+            {
+                "dyeHash": 2882713580, 
+                "channelHash": 1367384683
+            }, 
+            {
+                "dyeHash": 419658107, 
+                "channelHash": 218592586
+            }
+        ], 
+        "arrangements": [
+            {
+                "classHash": 0, 
+                "artArrangementHash": 554266414
+            }
+        ]
+    }, 
+    "itemType": 19, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "index": 3195, 
+    "allowActions": true, 
+    "equippable": false, 
+    "objectives": {
+        "objectiveVerbName": "", 
+        "requireFullObjectiveCompletion": true, 
+        "questTypeIdentifier": "", 
+        "perObjectiveDisplayProperties": [
+            {
+                "displayOnItemPreviewScreen": false
+            }
+        ], 
+        "objectiveHashes": [
+            1318174238
+        ], 
+        "displayAsStatTracker": false, 
+        "useOnObjectiveCompletion": false, 
+        "completionRewardSiteHash": 0, 
+        "timestampUnlockValueHash": 0, 
+        "questlineItemHash": 0, 
+        "isGlobalObjectiveItem": false, 
+        "inhibitCompletionUnlockValueHash": 0, 
+        "narrative": "", 
+        "displayActivityHashes": [
+            2166136261
+        ], 
+        "nextQuestStepRewardSiteHash": 0, 
+        "questTypeHash": 2166136261
+    }, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Legendary", 
+        "bucketTypeHash": 3313201758, 
+        "stackUniqueLabel": "v310.plugs.armor.skins.titan.iron_banner.v300_class0_skin0", 
+        "tierTypeHash": 4008398120, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 5, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "preview": {
+        "screenStyle": "screen_style_sockets", 
+        "previewVendorHash": 0, 
+        "previewActionString": "Preview"
+    }, 
+    "hash": 2851718150, 
+    "screenshot": "/common/destiny2_content/screenshots/2851718150.jpg", 
+    "itemTypeDisplayName": "Armor Ornament", 
+    "isWrapper": false, 
+    "classType": 0, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Unlock", 
+        "deleteOnAction": true, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "useOnAcquire": false, 
+        "isPositive": true, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }, 
+    "itemSubType": 21, 
+    "itemCategoryHashes": [
+        56, 
+        52, 
+        59, 
+        3229540061, 
+        1742617626, 
+        4104513227
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": false, 
+    "tooltipStyle": "record", 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "plug": {
+        "insertionMaterialRequirementHash": 0, 
+        "actionRewardSiteHash": 0, 
+        "enabledMaterialRequirementHash": 0, 
+        "previewItemOverrideHash": 0, 
+        "insertionRules": [
+            {
+                "failureMessage": "Complete Objective to Unlock"
+            }
+        ], 
+        "enabledRules": [], 
+        "plugCategoryHash": 1533259569, 
+        "plugCategoryIdentifier": "v300_armor_skins_titan_iron_banner_class0", 
+        "onActionRecreateSelf": false, 
+        "plugStyle": 0, 
+        "isDummyPlug": false, 
+        "actionRewardItemOverrideHash": 0, 
+        "uiPlugLabel": "", 
+        "alternatePlugStyle": 0, 
+        "alternateUiPlugLabel": "", 
+        "plugAvailability": 0
+    }, 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "collectibleHash": 628433219, 
+    "displaySource": "", 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "icon": "/common/destiny2_content/icons/6ba56b05f2bb9a4df3dc980b71e29b17.jpg", 
+        "hasIcon": true, 
+        "description": "Claim Iron Banner reward engrams during Season 2 to earn this ornament. It is unlocked to the Mantle of Efrideet, Radegast's Iron Sash, and Timur's Iron Bond.", 
+        "name": "Iron Pledge Ornament"
+    }
+}

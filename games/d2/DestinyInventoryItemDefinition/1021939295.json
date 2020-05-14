@@ -1,0 +1,133 @@
+{
+    "itemTypeAndTierDisplayName": "Exotic Weapon Ornament", 
+    "translationBlock": {
+        "customDyes": [], 
+        "hasGeometry": true, 
+        "lockedDyes": [
+            {
+                "dyeHash": 2777729786, 
+                "channelHash": 1667433279
+            }, 
+            {
+                "dyeHash": 2777729787, 
+                "channelHash": 1667433278
+            }, 
+            {
+                "dyeHash": 2777729784, 
+                "channelHash": 1667433277
+            }
+        ], 
+        "weaponPatternHash": 0, 
+        "defaultDyes": [], 
+        "arrangements": [
+            {
+                "classHash": 0, 
+                "artArrangementHash": 2195151630
+            }
+        ]
+    }, 
+    "itemType": 19, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "index": 6260, 
+    "allowActions": true, 
+    "equippable": false, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Exotic", 
+        "bucketTypeHash": 3313201758, 
+        "tierTypeHash": 2759499571, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 999, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 6, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "preview": {
+        "screenStyle": "screen_style_sockets", 
+        "previewVendorHash": 0, 
+        "previewActionString": "Preview"
+    }, 
+    "hash": 1021939295, 
+    "screenshot": "/common/destiny2_content/screenshots/1021939295.jpg", 
+    "itemTypeDisplayName": "Weapon Ornament", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "displayProperties": {
+        "icon": "/common/destiny2_content/icons/2442f963df490b7730a7ba12e47b8d99.jpg", 
+        "hasIcon": true, 
+        "description": "Equip this weapon ornament to change the appearance of Thunderlord.", 
+        "highResIcon": "/common/destiny2_content/icons/95a42ba9f30b09b0d11c77e081f662be.jpg", 
+        "name": "Hypervelocity"
+    }, 
+    "itemSubType": 21, 
+    "itemCategoryHashes": [
+        56, 
+        52, 
+        59, 
+        3124752623, 
+        610365472
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": false, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "plug": {
+        "insertionMaterialRequirementHash": 0, 
+        "actionRewardSiteHash": 0, 
+        "enabledMaterialRequirementHash": 0, 
+        "previewItemOverrideHash": 0, 
+        "insertionRules": [
+            {
+                "failureMessage": "Requires Mod Item"
+            }
+        ], 
+        "enabledRules": [], 
+        "plugCategoryHash": 4273350564, 
+        "plugCategoryIdentifier": "v404_repackage_machinegun0_skins", 
+        "onActionRecreateSelf": false, 
+        "plugStyle": 0, 
+        "isDummyPlug": false, 
+        "actionRewardItemOverrideHash": 0, 
+        "uiPlugLabel": "", 
+        "alternatePlugStyle": 0, 
+        "alternateUiPlugLabel": "", 
+        "plugAvailability": 0
+    }, 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "displaySource": "", 
+    "traitIds": [
+        "item_type.weapon_ornament"
+    ], 
+    "perks": [], 
+    "specialItemType": 0, 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Unlock", 
+        "deleteOnAction": true, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "useOnAcquire": false, 
+        "isPositive": true, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }
+}

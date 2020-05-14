@@ -1,0 +1,130 @@
+{
+    "itemTypeAndTierDisplayName": "Exotic Titan Ornament", 
+    "translationBlock": {
+        "customDyes": [], 
+        "hasGeometry": true, 
+        "lockedDyes": [], 
+        "weaponPatternHash": 0, 
+        "defaultDyes": [
+            {
+                "dyeHash": 1248492198, 
+                "channelHash": 662199250
+            }, 
+            {
+                "dyeHash": 3109388167, 
+                "channelHash": 1367384683
+            }, 
+            {
+                "dyeHash": 1932756966, 
+                "channelHash": 218592586
+            }
+        ], 
+        "arrangements": [
+            {
+                "classHash": 0, 
+                "artArrangementHash": 111669045
+            }
+        ]
+    }, 
+    "itemType": 19, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "index": 6652, 
+    "allowActions": true, 
+    "equippable": false, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Exotic", 
+        "bucketTypeHash": 3313201758, 
+        "tierTypeHash": 2759499571, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 999, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 6, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "preview": {
+        "screenStyle": "screen_style_sockets", 
+        "previewVendorHash": 0, 
+        "previewActionString": "Preview"
+    }, 
+    "hash": 3054468233, 
+    "screenshot": "/common/destiny2_content/screenshots/3054468233.jpg", 
+    "itemTypeDisplayName": "Titan Ornament", 
+    "isWrapper": false, 
+    "classType": 0, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "displayProperties": {
+        "icon": "/common/destiny2_content/icons/52486218961e0cbdc7bd321a64e5ff7b.jpg", 
+        "hasIcon": true, 
+        "description": "Equip this ornament to change the appearance of Doom Fang Pauldrons. Once you get an ornament, it's unlocked for all characters on your account.", 
+        "name": "Lordly Homage"
+    }, 
+    "itemSubType": 21, 
+    "itemCategoryHashes": [
+        56, 
+        52, 
+        59, 
+        3229540061, 
+        1742617626, 
+        4104513227
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": false, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "plug": {
+        "insertionMaterialRequirementHash": 0, 
+        "actionRewardSiteHash": 0, 
+        "enabledMaterialRequirementHash": 0, 
+        "previewItemOverrideHash": 0, 
+        "insertionRules": [
+            {
+                "failureMessage": "Requires Mod Item"
+            }
+        ], 
+        "enabledRules": [], 
+        "plugCategoryHash": 3355032071, 
+        "plugCategoryIdentifier": "v300_titan_arms1_skins", 
+        "onActionRecreateSelf": false, 
+        "plugStyle": 0, 
+        "isDummyPlug": false, 
+        "actionRewardItemOverrideHash": 0, 
+        "uiPlugLabel": "", 
+        "alternatePlugStyle": 0, 
+        "alternateUiPlugLabel": "", 
+        "plugAvailability": 0
+    }, 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "displaySource": "", 
+    "perks": [], 
+    "specialItemType": 0, 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Unlock", 
+        "deleteOnAction": true, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "useOnAcquire": false, 
+        "isPositive": true, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }
+}

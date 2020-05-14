@@ -1,0 +1,65 @@
+{
+    "itemTypeAndTierDisplayName": "Common Emblem", 
+    "itemType": 19, 
+    "tooltipNotifications": [], 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Common", 
+        "bucketTypeHash": 3313201758, 
+        "tierTypeHash": 3340296461, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 2, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 178, 
+        "green": 178, 
+        "colorHash": 0, 
+        "red": 178, 
+        "alpha": 255
+    }, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Emblem", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        19, 
+        52, 
+        59
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": false, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "displaySource": "", 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/307abc22d48ffa5ab748fc181d6ca724.png"
+                ]
+            }, 
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/b89ff39f133b1774e876614b76804e6f.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/307abc22d48ffa5ab748fc181d6ca724.png", 
+        "hasIcon": true, 
+        "description": "Restore this emblem to its default appearance.", 
+        "name": "Default Emblem"
+    }
+}

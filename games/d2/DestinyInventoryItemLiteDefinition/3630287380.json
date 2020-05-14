@@ -1,0 +1,71 @@
+{
+    "itemTypeAndTierDisplayName": "Common Undying Armor Mod", 
+    "itemType": 19, 
+    "tooltipNotifications": [], 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Common", 
+        "bucketTypeHash": 2422292810, 
+        "tierTypeHash": 3340296461, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 2, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Undying Armor Mod", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        59, 
+        4104513227
+    ], 
+    "uiItemDisplayStyle": "ui_display_style_energy_mod", 
+    "nonTransferrable": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "collectibleHash": 2004577896, 
+    "displaySource": "", 
+    "perks": [
+        {
+            "requirementDisplayString": "Active only in the \"Garden of Salvation\" raid.", 
+            "perkHash": 2741637230, 
+            "perkVisibility": 1
+        }
+    ], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/98bf1afa62bf3a4d89df9a01b3fd4dc6.png"
+                ]
+            }, 
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/b442e56e1d7d00f17057e1a53085e6ae.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/98bf1afa62bf3a4d89df9a01b3fd4dc6.png", 
+        "hasIcon": true, 
+        "description": "Active only in the \"Garden of Salvation\" raid.", 
+        "name": "Enhanced Relay Defender"
+    }
+}

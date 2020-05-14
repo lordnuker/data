@@ -1,0 +1,60 @@
+{
+    "itemTypeAndTierDisplayName": "Rare Currency", 
+    "itemType": 20, 
+    "tooltipNotifications": [], 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Rare", 
+        "bucketTypeHash": 3621873013, 
+        "tierTypeHash": 2127292149, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 4, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Currency", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        3109687656
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "displaySource": "", 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/00b8fd588be5678ad3f94d75dc6a3b19.png", 
+                    "/common/destiny2_content/icons/6c20a6123c35cc076653eb9b6f842cbe.png", 
+                    "/common/destiny2_content/icons/92b18f8a2f2093c08f4ff6737df8a687.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/00b8fd588be5678ad3f94d75dc6a3b19.png", 
+        "hasIcon": true, 
+        "description": "Remnants of finely crafted items. Used to purchase new items from certain vendors.", 
+        "name": "Bright Dust"
+    }
+}

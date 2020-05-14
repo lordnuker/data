@@ -1,0 +1,73 @@
+{
+    "itemTypeAndTierDisplayName": "Rare Consumable", 
+    "itemType": 9, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "index": 344, 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Rare", 
+        "bucketTypeHash": 1469714392, 
+        "stackUniqueLabel": "dawning.consumables.buffs.essence0_expired", 
+        "tierTypeHash": 2127292149, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 9999, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 4, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "hash": 2467173942, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Consumable", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "displayProperties": {
+        "icon": "/common/destiny2_content/icons/1c9912f94a12789d0624ab7d51624e6b.jpg", 
+        "hasIcon": true, 
+        "description": "This expired Dawning consumable no longer serves a purpose and can be dismantled into Bright Dust.", 
+        "name": "Fizzled Enhanced Cheer"
+    }, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        35, 
+        52
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": false, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "displaySource": "", 
+    "perks": [], 
+    "specialItemType": 0, 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Dismantle", 
+        "deleteOnAction": true, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "useOnAcquire": false, 
+        "isPositive": false, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }
+}

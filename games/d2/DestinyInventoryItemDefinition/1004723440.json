@@ -1,0 +1,94 @@
+{
+    "itemTypeAndTierDisplayName": "", 
+    "itemType": 0, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "index": 7981, 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Common", 
+        "bucketTypeHash": 1469714392, 
+        "tierTypeHash": 3340296461, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 2, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "hash": 1004723440, 
+    "equippable": false, 
+    "itemTypeDisplayName": "", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": false, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "plug": {
+        "insertionMaterialRequirementHash": 330809705, 
+        "actionRewardSiteHash": 0, 
+        "enabledMaterialRequirementHash": 0, 
+        "previewItemOverrideHash": 0, 
+        "insertionRules": [
+            {
+                "failureMessage": "Requires \"Gear Specialization\" slot"
+            }, 
+            {
+                "failureMessage": ""
+            }, 
+            {
+                "failureMessage": "Requires Quest Progress"
+            }
+        ], 
+        "enabledRules": [], 
+        "plugCategoryHash": 2045070417, 
+        "plugCategoryIdentifier": "penumbra.runes.chalice_locked_slot", 
+        "onActionRecreateSelf": false, 
+        "plugStyle": 0, 
+        "isDummyPlug": false, 
+        "actionRewardItemOverrideHash": 0, 
+        "uiPlugLabel": "locked_rune_slot", 
+        "alternatePlugStyle": 0, 
+        "alternateUiPlugLabel": "", 
+        "plugAvailability": 0
+    }, 
+    "blacklisted": false, 
+    "displaySource": "", 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/5b0da51db142c2ac3d16cbdfba13f546.png"
+                ]
+            }, 
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/26c2e9bed1300abeec79da47b843d95c.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/5b0da51db142c2ac3d16cbdfba13f546.png", 
+        "hasIcon": true, 
+        "description": "Unlock this rune slot to control the Masterwork properties of the gear defined in the top \"Gear Type\" slot of the Chalice.\n\nUnlocking this rune slot increases the number of runes rewarded from Treasure Hunt bounties.", 
+        "name": "Unlock Masterworks slot"
+    }
+}

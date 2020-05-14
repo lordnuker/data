@@ -1,0 +1,135 @@
+{
+    "itemTypeAndTierDisplayName": "", 
+    "itemType": 19, 
+    "investmentStats": [
+        {
+            "value": 10, 
+            "statTypeHash": 2018193158, 
+            "isConditionallyActive": false
+        }, 
+        {
+            "value": 2, 
+            "statTypeHash": 2996146975, 
+            "isConditionallyActive": false
+        }, 
+        {
+            "value": 2, 
+            "statTypeHash": 392767087, 
+            "isConditionallyActive": false
+        }, 
+        {
+            "value": 2, 
+            "statTypeHash": 1735777505, 
+            "isConditionallyActive": false
+        }, 
+        {
+            "value": 2, 
+            "statTypeHash": 144602215, 
+            "isConditionallyActive": false
+        }, 
+        {
+            "value": 2, 
+            "statTypeHash": 1943323491, 
+            "isConditionallyActive": false
+        }, 
+        {
+            "value": 2, 
+            "statTypeHash": 4244567218, 
+            "isConditionallyActive": false
+        }
+    ], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "index": 8720, 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Legendary", 
+        "bucketTypeHash": 3313201758, 
+        "tierTypeHash": 4008398120, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 5, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "hash": 2601359289, 
+    "equippable": false, 
+    "itemTypeDisplayName": "", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Dismantle", 
+        "deleteOnAction": true, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "useOnAcquire": false, 
+        "isPositive": true, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        59
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": false, 
+    "tooltipStyle": "vendor_action", 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "plug": {
+        "insertionMaterialRequirementHash": 108835217, 
+        "actionRewardSiteHash": 0, 
+        "enabledMaterialRequirementHash": 0, 
+        "previewItemOverrideHash": 0, 
+        "insertionRules": [
+            {
+                "failureMessage": "Remove all equipped mods."
+            }
+        ], 
+        "enabledRules": [], 
+        "plugCategoryHash": 400813042, 
+        "plugCategoryIdentifier": "v460.plugs.armor.masterworks.stat.resistance_3", 
+        "onActionRecreateSelf": false, 
+        "plugStyle": 1, 
+        "energyCapacity": {
+            "capacityValue": 10, 
+            "energyTypeHash": 591714140, 
+            "energyType": 2
+        }, 
+        "isDummyPlug": false, 
+        "actionRewardItemOverrideHash": 0, 
+        "uiPlugLabel": "masterwork", 
+        "alternatePlugStyle": 0, 
+        "alternateUiPlugLabel": "", 
+        "plugAvailability": 0
+    }, 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "displaySource": "", 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "icon": "/common/destiny2_content/icons/427d6c6b962095d9935b23a6b9d77c3b.png", 
+        "hasIcon": true, 
+        "description": "Change this armor's energy type to Solar.\n\nThis action will not change this armor's energy capacity.\n\nMaterials and currencies used previously on this armor will not be refunded.", 
+        "name": "Upgrade Armor"
+    }
+}

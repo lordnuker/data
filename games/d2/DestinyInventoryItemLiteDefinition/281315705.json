@@ -1,0 +1,77 @@
+{
+    "itemTypeAndTierDisplayName": "Exotic Intrinsic", 
+    "itemType": 19, 
+    "tooltipNotifications": [], 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "summaryItemHash": 3520001075, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Exotic", 
+        "bucketTypeHash": 3313201758, 
+        "tierTypeHash": 2759499571, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 6, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Intrinsic", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        59, 
+        2237038328, 
+        610365472
+    ], 
+    "uiItemDisplayStyle": "ui_display_style_intrinsic_plug", 
+    "nonTransferrable": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "displaySource": "", 
+    "perks": [
+        {
+            "requirementDisplayString": "", 
+            "perkHash": 2896783797, 
+            "perkVisibility": 0
+        }, 
+        {
+            "requirementDisplayString": "", 
+            "perkHash": 4602482, 
+            "perkVisibility": 0
+        }
+    ], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/3f90b971d9297f8d45613aed0bb4d094.png"
+                ]
+            }, 
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/54bbeeb7d30b62f48a7acf27a700f1a9.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/3f90b971d9297f8d45613aed0bb4d094.png", 
+        "hasIcon": true, 
+        "description": "Higher base precision damage. Rapidly landing three precision hits will refill the magazine.", 
+        "name": "White Nail"
+    }
+}

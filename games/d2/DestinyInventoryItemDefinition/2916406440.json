@@ -1,0 +1,75 @@
+{
+    "itemTypeAndTierDisplayName": "Rare Consumable", 
+    "itemType": 9, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "index": 2866, 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Rare", 
+        "bucketTypeHash": 1469714392, 
+        "tierTypeHash": 2127292149, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 250, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 4, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "hash": 2916406440, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Consumable", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "displayProperties": {
+        "icon": "/common/destiny2_content/icons/cf9f5ff7471449d5f45296fffe419e2c.jpg", 
+        "hasIcon": true, 
+        "description": "When this is used during a strike, all players receive a Vanguard Gift at the end of that strike.\n\nOnly one gift consumable may be used per player in an activity.", 
+        "name": "Boon of the Vanguard"
+    }, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        35, 
+        52
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": false, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "displaySource": "", 
+    "traitIds": [
+        "item_type.consumable"
+    ], 
+    "perks": [], 
+    "specialItemType": 0, 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 2751363793, 
+        "verbName": "Use", 
+        "deleteOnAction": true, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "useOnAcquire": false, 
+        "isPositive": true, 
+        "requiredCooldownSeconds": 15, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }
+}

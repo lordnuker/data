@@ -1,0 +1,71 @@
+{
+    "itemTypeAndTierDisplayName": "Rare Sparrow Mod", 
+    "itemType": 19, 
+    "tooltipNotifications": [], 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Rare", 
+        "bucketTypeHash": 3313201758, 
+        "tierTypeHash": 2127292149, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "", 
+        "maxStackSize": 999, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 4, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Sparrow Mod", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        59, 
+        319279448, 
+        152608020
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": false, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "displaySource": "", 
+    "perks": [
+        {
+            "requirementDisplayString": "", 
+            "perkHash": 1024894484, 
+            "perkVisibility": 0
+        }
+    ], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/25efbfe2c049eb72f9d64009193fc588.png"
+                ]
+            }, 
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/9afd31d296bef2fb93fb7542f9e2feeb.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/25efbfe2c049eb72f9d64009193fc588.png", 
+        "hasIcon": true, 
+        "description": "Landing a trick while riding Dawning Cheer will spawn multiple Glimmer presents. This perk is available only during the Dawning.", 
+        "name": "Dawning Dare"
+    }
+}

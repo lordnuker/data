@@ -1,0 +1,190 @@
+{
+    "itemTypeAndTierDisplayName": "Common Leg Armor", 
+    "translationBlock": {
+        "customDyes": [], 
+        "hasGeometry": true, 
+        "lockedDyes": [], 
+        "weaponPatternHash": 0, 
+        "defaultDyes": [
+            {
+                "dyeHash": 2743808964, 
+                "channelHash": 662199250
+            }, 
+            {
+                "dyeHash": 1420856097, 
+                "channelHash": 1367384683
+            }, 
+            {
+                "dyeHash": 4179235240, 
+                "channelHash": 218592586
+            }
+        ], 
+        "arrangements": [
+            {
+                "classHash": 671679327, 
+                "artArrangementHash": 2080050252
+            }, 
+            {
+                "classHash": 3655393761, 
+                "artArrangementHash": 2080050252
+            }, 
+            {
+                "classHash": 2271682572, 
+                "artArrangementHash": 2080050252
+            }, 
+            {
+                "classHash": 0, 
+                "artArrangementHash": 2080050252
+            }
+        ]
+    }, 
+    "itemType": 0, 
+    "investmentStats": [
+        {
+            "value": 0, 
+            "statTypeHash": 3897883278, 
+            "isConditionallyActive": false
+        }, 
+        {
+            "value": 0, 
+            "statTypeHash": 1935470627, 
+            "isConditionallyActive": false
+        }, 
+        {
+            "value": 1, 
+            "statTypeHash": 2996146975, 
+            "isConditionallyActive": false
+        }
+    ], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "quality": {
+        "infusionCategoryHash": 0, 
+        "infusionCategoryHashes": [], 
+        "infusionCategoryName": "0", 
+        "progressionLevelRequirementHash": 1432934783, 
+        "qualityLevel": 0, 
+        "itemLevels": []
+    }, 
+    "sockets": {
+        "socketEntries": [
+            {
+                "reusablePlugItems": [], 
+                "preventInitializationOnVendorPurchase": false, 
+                "reusablePlugSetHash": 4, 
+                "preventInitializationWhenVersioning": false, 
+                "overridesUiAppearance": false, 
+                "hidePerksInItemTooltip": false, 
+                "singleInitialItemHash": 4248210736, 
+                "socketTypeHash": 2321980680, 
+                "defaultVisible": true, 
+                "plugSources": 7
+            }
+        ], 
+        "socketCategories": [
+            {
+                "socketIndexes": [
+                    0
+                ], 
+                "socketCategoryHash": 1926152773
+            }
+        ], 
+        "detail": "Details", 
+        "intrinsicSockets": []
+    }, 
+    "talentGrid": {
+        "talentGridHash": 521135891, 
+        "hudDamageType": 1, 
+        "itemDetailString": "Details"
+    }, 
+    "index": 1151, 
+    "stats": {
+        "hasDisplayableStats": true, 
+        "primaryBaseStatHash": 3897883278, 
+        "disablePrimaryStatDisplay": false, 
+        "stats": {
+            "1935470627": {
+                "statHash": 1935470627, 
+                "minimum": 0, 
+                "maximum": 0, 
+                "value": 0, 
+                "displayMaximum": 42
+            }, 
+            "3897883278": {
+                "statHash": 3897883278, 
+                "minimum": 0, 
+                "maximum": 0, 
+                "value": 0, 
+                "displayMaximum": 42
+            }, 
+            "2996146975": {
+                "statHash": 2996146975, 
+                "minimum": 0, 
+                "maximum": 0, 
+                "value": 1, 
+                "displayMaximum": 42
+            }
+        }, 
+        "statGroupHash": 3568793270
+    }, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": true, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Common", 
+        "bucketTypeHash": 18606351, 
+        "tierTypeHash": 3340296461, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 2, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "specialItemType": 0, 
+    "preview": {
+        "screenStyle": "screen_style_sockets", 
+        "previewVendorHash": 0, 
+        "previewActionString": ""
+    }, 
+    "hash": 2311027942, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Leg Armor", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "allowActions": true, 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": true, 
+    "equippingBlock": {
+        "displayStrings": [], 
+        "equipmentSlotTypeHash": 18606351, 
+        "ammoType": 0, 
+        "equippingSoundHash": 0, 
+        "hornSoundHash": 0, 
+        "attributes": 0, 
+        "uniqueLabelHash": 0
+    }, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "blacklisted": false, 
+    "displaySource": "", 
+    "perks": [], 
+    "itemCategoryHashes": [], 
+    "displayProperties": {
+        "icon": "/common/destiny2_content/icons/a054074a1ea02f9660152d6177b3e3e2.jpg", 
+        "hasIcon": true, 
+        "description": "Keep it moving. Swift of foot and long of stride.", 
+        "name": "Refugee Boots"
+    }
+}

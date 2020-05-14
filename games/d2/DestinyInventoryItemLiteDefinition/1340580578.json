@@ -1,0 +1,77 @@
+{
+    "itemTypeAndTierDisplayName": "Legendary Quest Step", 
+    "itemType": 12, 
+    "tooltipNotifications": [], 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Legendary", 
+        "bucketTypeHash": 1345459588, 
+        "tierTypeHash": 4008398120, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 5, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "setData": {
+        "trackingUnlockValueHash": 0, 
+        "setIsFeatured": false, 
+        "itemList": [
+            {
+                "itemHash": 1340580576, 
+                "trackingValue": 10
+            }, 
+            {
+                "itemHash": 1340580577, 
+                "trackingValue": 20
+            }, 
+            {
+                "itemHash": 1340580578, 
+                "trackingValue": 30
+            }, 
+            {
+                "itemHash": 1340580579, 
+                "trackingValue": 40
+            }
+        ], 
+        "requireOrderedSetItemAdd": true, 
+        "questLineName": "Memory of Sai Mota", 
+        "abandonmentUnlockHash": 0, 
+        "setType": "quest_world"
+    }, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Quest Step", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": true, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        16
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "displaySource": "\"A toast, then! To the best fireteam I've ever worked with. We may not be the smartest. And we may not be the bravest. But we are the dumbest! To victory!\" —Sai Mota", 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "icon": "/common/destiny2_content/icons/c038f4cfc4904e036f8f10746e99d75d.jpg", 
+        "hasIcon": true, 
+        "description": "Use the portal in Sanctuary to return Sai Mota's Repaired Necklace to Eris.", 
+        "name": "Sai Mota's Repaired Necklace"
+    }
+}

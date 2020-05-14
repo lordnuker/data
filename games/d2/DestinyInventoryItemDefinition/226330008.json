@@ -1,0 +1,115 @@
+{
+    "itemTypeAndTierDisplayName": "Legendary Engram", 
+    "itemType": 8, 
+    "investmentStats": [
+        {
+            "value": 0, 
+            "statTypeHash": 1935470627, 
+            "isConditionallyActive": false
+        }
+    ], 
+    "redacted": false, 
+    "sack": {
+        "openOnAcquire": false, 
+        "resolvedItemCountUnlockValueHash": 0, 
+        "openAction": "Decrypt", 
+        "rollStateUnlockValueHash": 0, 
+        "selectItemCount": 0, 
+        "vendorSackType": "engram.cryptarch", 
+        "seedUnlockValueHash": 0, 
+        "rewardItemListHash": 0, 
+        "resolvedBitVectorUnlockValueHash": 0, 
+        "detailAction": ""
+    }, 
+    "tooltipNotifications": [], 
+    "quality": {
+        "infusionCategoryHash": 0, 
+        "infusionCategoryHashes": [], 
+        "infusionCategoryName": "0", 
+        "progressionLevelRequirementHash": 0, 
+        "qualityLevel": 0, 
+        "itemLevels": []
+    }, 
+    "index": 5981, 
+    "stats": {
+        "hasDisplayableStats": false, 
+        "primaryBaseStatHash": 1935470627, 
+        "disablePrimaryStatDisplay": false, 
+        "stats": {
+            "1935470627": {
+                "statHash": 1935470627, 
+                "minimum": 0, 
+                "maximum": 0, 
+                "value": 0
+            }
+        }
+    }, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": true, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Legendary", 
+        "bucketTypeHash": 375726501, 
+        "tierTypeHash": 4008398120, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 5, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 13, 
+        "green": 70, 
+        "colorHash": 0, 
+        "red": 158, 
+        "alpha": 89
+    }, 
+    "hash": 226330008, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Engram", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Discard", 
+        "deleteOnAction": true, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "actionTypeLabel": "shard", 
+        "useOnAcquire": false, 
+        "isPositive": false, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        34
+    ], 
+    "uiItemDisplayStyle": "ui_display_style_engram", 
+    "nonTransferrable": true, 
+    "tooltipStyle": "package", 
+    "allowActions": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "displaySource": "", 
+    "traitIds": [
+        "item_type.engram"
+    ], 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "icon": "/common/destiny2_content/icons/962055a3f8c73eff98f140f6fac79392.png", 
+        "hasIcon": true, 
+        "description": "An engram humming with wild energy. A Cryptarch should be able to decode this into a piece of powerful equipment.", 
+        "name": "Prime Engram"
+    }
+}

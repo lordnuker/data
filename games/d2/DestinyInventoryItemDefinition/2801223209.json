@@ -1,0 +1,127 @@
+{
+    "itemTypeAndTierDisplayName": "Common Bowstring", 
+    "itemType": 19, 
+    "investmentStats": [
+        {
+            "value": -10, 
+            "statTypeHash": 1591432999, 
+            "isConditionallyActive": false
+        }, 
+        {
+            "value": 5, 
+            "statTypeHash": 943549884, 
+            "isConditionallyActive": false
+        }, 
+        {
+            "value": 20, 
+            "statTypeHash": 2961396640, 
+            "isConditionallyActive": false
+        }, 
+        {
+            "value": 20, 
+            "statTypeHash": 447667954, 
+            "isConditionallyActive": false
+        }
+    ], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "index": 5541, 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "summaryItemHash": 3520001075, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Common", 
+        "bucketTypeHash": 1469714392, 
+        "tierTypeHash": 3340296461, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 2, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "hash": 2801223209, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Bowstring", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/a8aee4de9f46b3209f45a6fe65c57ada.png"
+                ]
+            }, 
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/1b9f17fffb22cdebff3bfc6bcb276209.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/a8aee4de9f46b3209f45a6fe65c57ada.png", 
+        "hasIcon": true, 
+        "description": "Excellent snapback.\n  •  Decreases accuracy\n  •  Faster draw time\n  •  Slightly increases handling speed", 
+        "name": "Elastic String"
+    }, 
+    "itemSubType": 31, 
+    "itemCategoryHashes": [
+        59, 
+        3317538576, 
+        444756050, 
+        610365472
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "plug": {
+        "insertionMaterialRequirementHash": 0, 
+        "actionRewardSiteHash": 0, 
+        "enabledMaterialRequirementHash": 0, 
+        "previewItemOverrideHash": 0, 
+        "insertionRules": [], 
+        "enabledRules": [], 
+        "plugCategoryHash": 3809303875, 
+        "plugCategoryIdentifier": "bowstrings", 
+        "onActionRecreateSelf": false, 
+        "plugStyle": 0, 
+        "isDummyPlug": false, 
+        "actionRewardItemOverrideHash": 0, 
+        "uiPlugLabel": "", 
+        "alternatePlugStyle": 0, 
+        "alternateUiPlugLabel": "", 
+        "plugAvailability": 0
+    }, 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "displaySource": "", 
+    "perks": [], 
+    "specialItemType": 0, 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Dismantle", 
+        "deleteOnAction": true, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "actionTypeLabel": "shard", 
+        "useOnAcquire": false, 
+        "isPositive": false, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }
+}

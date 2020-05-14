@@ -1,0 +1,1070 @@
+{
+    "ignoreSaleItemHashes": [], 
+    "redacted": false, 
+    "actions": [], 
+    "visible": false, 
+    "BungieNet.Engine.Contract.Destiny.World.Definitions.IDestinyDisplayDefinition.displayProperties": {
+        "smallTransparentIcon": "/common/destiny2_content/icons/26a3c580befaa0426a02f68dc3cadbf2.png", 
+        "subtitle": "Cryptarch Archivist", 
+        "originalIcon": "/common/destiny2_content/icons/f9595107134f34c85960bd614fcb1b6b.png", 
+        "mapIcon": "/common/destiny2_content/icons/25cb99cbbe842bd7e9102e9efa3cb0a9.png", 
+        "name": "Tyra Karn", 
+        "requirementsDisplay": [
+            {
+                "source": "", 
+                "type": "", 
+                "name": "", 
+                "icon": "/common/destiny2_content/icons/afffb5a817e160fbc2e4ede13af26d6c.png"
+            }
+        ], 
+        "hasIcon": true, 
+        "largeTransparentIcon": "/common/destiny2_content/icons/1ce9f709222be8e12d2f35a06c81f9de.png", 
+        "icon": "/common/destiny2_content/icons/f9595107134f34c85960bd614fcb1b6b.png", 
+        "description": "A historian and Cryptarch, Tyra Karn decodes engrams and seeks the treasures of humanity's past."
+    }, 
+    "hash": 1748437699, 
+    "inventoryFlyouts": [], 
+    "index": 9, 
+    "resetOffsetMinutes": 900, 
+    "inhibitSelling": true, 
+    "acceptedItems": [], 
+    "inhibitBuying": false, 
+    "originalCategories": [
+        {
+            "categoryIndex": 0, 
+            "buyStringOverride": "Decode", 
+            "categoryHash": 1220364428, 
+            "disabledDescription": "", 
+            "showUnavailableItems": false, 
+            "resetIntervalMinutesOverride": -1, 
+            "overlay": {
+                "title": "Decode Engram", 
+                "choiceDescription": "Select engram to decode:", 
+                "description": "Each engram decoded sheds light on lost history.", 
+                "icon": "/common/destiny2_content/icons/e2f64b69186dd6e34b7a1eca168593af.png"
+            }, 
+            "isPreview": false, 
+            "sortValue": 0, 
+            "isDisplayOnly": false, 
+            "hideIfNoCurrency": true, 
+            "vendorItemIndexes": [], 
+            "quantityAvailable": 0, 
+            "hideFromRegularPurchase": false, 
+            "resetOffsetMinutesOverride": -1
+        }, 
+        {
+            "categoryIndex": 1, 
+            "buyStringOverride": "", 
+            "categoryHash": 2111413039, 
+            "disabledDescription": "", 
+            "showUnavailableItems": false, 
+            "resetIntervalMinutesOverride": -1, 
+            "isPreview": false, 
+            "sortValue": 0, 
+            "isDisplayOnly": false, 
+            "hideIfNoCurrency": false, 
+            "vendorItemIndexes": [
+                0, 
+                1, 
+                2
+            ], 
+            "quantityAvailable": 0, 
+            "hideFromRegularPurchase": true, 
+            "resetOffsetMinutesOverride": -1
+        }, 
+        {
+            "categoryIndex": 2, 
+            "buyStringOverride": "", 
+            "categoryHash": 1101153490, 
+            "disabledDescription": "", 
+            "showUnavailableItems": false, 
+            "resetIntervalMinutesOverride": -1, 
+            "isPreview": false, 
+            "sortValue": 0, 
+            "isDisplayOnly": false, 
+            "hideIfNoCurrency": false, 
+            "vendorItemIndexes": [
+                3
+            ], 
+            "quantityAvailable": 0, 
+            "hideFromRegularPurchase": true, 
+            "resetOffsetMinutesOverride": -1
+        }, 
+        {
+            "categoryIndex": 3, 
+            "buyStringOverride": "", 
+            "categoryHash": 1450515425, 
+            "disabledDescription": "", 
+            "showUnavailableItems": false, 
+            "resetIntervalMinutesOverride": -1, 
+            "isPreview": false, 
+            "sortValue": -1000, 
+            "isDisplayOnly": false, 
+            "hideIfNoCurrency": false, 
+            "vendorItemIndexes": [
+                10
+            ], 
+            "quantityAvailable": 0, 
+            "hideFromRegularPurchase": false, 
+            "resetOffsetMinutesOverride": -1
+        }, 
+        {
+            "categoryIndex": 4, 
+            "buyStringOverride": "", 
+            "categoryHash": 3089520252, 
+            "disabledDescription": "", 
+            "showUnavailableItems": false, 
+            "resetIntervalMinutesOverride": -1, 
+            "isPreview": false, 
+            "sortValue": 0, 
+            "isDisplayOnly": false, 
+            "hideIfNoCurrency": false, 
+            "vendorItemIndexes": [
+                4
+            ], 
+            "quantityAvailable": 0, 
+            "hideFromRegularPurchase": true, 
+            "resetOffsetMinutesOverride": -1
+        }, 
+        {
+            "categoryIndex": 5, 
+            "buyStringOverride": "", 
+            "categoryHash": 1584066945, 
+            "disabledDescription": "", 
+            "showUnavailableItems": false, 
+            "resetIntervalMinutesOverride": -1, 
+            "isPreview": false, 
+            "sortValue": 0, 
+            "isDisplayOnly": false, 
+            "hideIfNoCurrency": false, 
+            "vendorItemIndexes": [
+                5, 
+                6, 
+                7, 
+                8, 
+                9
+            ], 
+            "quantityAvailable": 0, 
+            "hideFromRegularPurchase": false, 
+            "resetOffsetMinutesOverride": -1
+        }, 
+        {
+            "categoryIndex": 6, 
+            "buyStringOverride": "", 
+            "categoryHash": 533092164, 
+            "disabledDescription": "", 
+            "showUnavailableItems": false, 
+            "resetIntervalMinutesOverride": -1, 
+            "isPreview": false, 
+            "sortValue": 0, 
+            "isDisplayOnly": false, 
+            "hideIfNoCurrency": false, 
+            "vendorItemIndexes": [], 
+            "quantityAvailable": 0, 
+            "hideFromRegularPurchase": true, 
+            "resetOffsetMinutesOverride": -1
+        }
+    ], 
+    "itemList": [
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 6, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [], 
+            "originalCategoryIndex": 1, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 1, 
+            "creationLevels": [
+                {
+                    "level": 2
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 0, 
+            "displayCategoryIndex": 0, 
+            "displayCategory": "Armor", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 0.0, 
+                "isPositive": false
+            }, 
+            "inventoryBucketHash": 1585787867, 
+            "minimumLevel": 0, 
+            "itemHash": 11686456, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 6, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [], 
+            "originalCategoryIndex": 1, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 1, 
+            "creationLevels": [
+                {
+                    "level": 2
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 1, 
+            "displayCategoryIndex": 0, 
+            "displayCategory": "Armor", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 0.0, 
+                "isPositive": false
+            }, 
+            "inventoryBucketHash": 1585787867, 
+            "minimumLevel": 0, 
+            "itemHash": 2426340790, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 6, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [], 
+            "originalCategoryIndex": 1, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 1, 
+            "creationLevels": [
+                {
+                    "level": 2
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 2, 
+            "displayCategoryIndex": 0, 
+            "displayCategory": "Armor", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 0.0, 
+                "isPositive": false
+            }, 
+            "inventoryBucketHash": 1585787867, 
+            "minimumLevel": 0, 
+            "itemHash": 320310251, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 0, 
+            "weight": 0.0, 
+            "visibilityScope": 0, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [], 
+            "originalCategoryIndex": 2, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 2, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 3, 
+            "displayCategoryIndex": 1, 
+            "displayCategory": "", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 0.0, 
+                "isPositive": false
+            }, 
+            "inventoryBucketHash": 1345459588, 
+            "minimumLevel": 0, 
+            "itemHash": 3906702045, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 0, 
+            "weight": 0.0, 
+            "visibilityScope": 0, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [], 
+            "originalCategoryIndex": 4, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 4, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 4, 
+            "displayCategoryIndex": 1, 
+            "displayCategory": "", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 0.0, 
+                "isPositive": false
+            }, 
+            "inventoryBucketHash": 3621873013, 
+            "minimumLevel": 0, 
+            "itemHash": 3935138332, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 4, 
+            "weight": 0.0, 
+            "visibilityScope": 4, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [], 
+            "originalCategoryIndex": 5, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 5, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 5, 
+            "displayCategoryIndex": 2, 
+            "displayCategory": "Abandoned Quests", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 0.0, 
+                "isPositive": false
+            }, 
+            "inventoryBucketHash": 1345459588, 
+            "minimumLevel": 0, 
+            "itemHash": 3445216955, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 4, 
+            "weight": 0.0, 
+            "visibilityScope": 4, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [], 
+            "originalCategoryIndex": 5, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 5, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 6, 
+            "displayCategoryIndex": 2, 
+            "displayCategory": "Abandoned Quests", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 0.0, 
+                "isPositive": false
+            }, 
+            "inventoryBucketHash": 1345459588, 
+            "minimumLevel": 0, 
+            "itemHash": 196262240, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 4, 
+            "weight": 0.0, 
+            "visibilityScope": 4, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [], 
+            "originalCategoryIndex": 5, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 5, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 7, 
+            "displayCategoryIndex": 2, 
+            "displayCategory": "Abandoned Quests", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 0.0, 
+                "isPositive": false
+            }, 
+            "inventoryBucketHash": 1345459588, 
+            "minimumLevel": 0, 
+            "itemHash": 196262241, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 4, 
+            "weight": 0.0, 
+            "visibilityScope": 4, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [], 
+            "originalCategoryIndex": 5, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 5, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 8, 
+            "displayCategoryIndex": 2, 
+            "displayCategory": "Abandoned Quests", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 0.0, 
+                "isPositive": false
+            }, 
+            "inventoryBucketHash": 1345459588, 
+            "minimumLevel": 0, 
+            "itemHash": 196262246, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 4, 
+            "weight": 0.0, 
+            "visibilityScope": 4, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [], 
+            "originalCategoryIndex": 5, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 5, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 9, 
+            "displayCategoryIndex": 2, 
+            "displayCategory": "Abandoned Quests", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 0.0, 
+                "isPositive": false
+            }, 
+            "inventoryBucketHash": 1345459588, 
+            "minimumLevel": 0, 
+            "itemHash": 196262247, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 4, 
+            "weight": 0.0, 
+            "visibilityScope": 4, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [], 
+            "originalCategoryIndex": 3, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 3, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 10, 
+            "displayCategoryIndex": 2, 
+            "displayCategory": "Abandoned Quests", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 0.0, 
+                "isPositive": false
+            }, 
+            "inventoryBucketHash": 1345459588, 
+            "minimumLevel": 0, 
+            "itemHash": 3906702045, 
+            "quantity": 1
+        }
+    ], 
+    "displayCategories": [
+        {
+            "index": 0, 
+            "displayCategoryHash": 4048174561, 
+            "displayInBanner": false, 
+            "sortOrder": 0, 
+            "displayProperties": {
+                "hasIcon": false, 
+                "description": "", 
+                "name": "Armor"
+            }, 
+            "identifier": "category_armor"
+        }, 
+        {
+            "index": 1, 
+            "displayCategoryHash": 2166136261, 
+            "displayInBanner": false, 
+            "sortOrder": 0, 
+            "displayProperties": {
+                "hasIcon": false, 
+                "description": "", 
+                "name": ""
+            }, 
+            "identifier": ""
+        }, 
+        {
+            "index": 2, 
+            "displayCategoryHash": 779658507, 
+            "displayInBanner": false, 
+            "sortOrder": 0, 
+            "displayProperties": {
+                "hasIcon": false, 
+                "description": "", 
+                "name": "Abandoned Quests"
+            }, 
+            "identifier": "generic_quest_resume_display_category"
+        }
+    ], 
+    "consolidateCategories": false, 
+    "unlockValueHash": 0, 
+    "interactions": [
+        {
+            "flavorLineTwo": "", 
+            "headerDisplayProperties": {
+                "iconSequences": [
+                    {
+                        "frames": [
+                            "/common/destiny2_content/icons/26a3c580befaa0426a02f68dc3cadbf2.png", 
+                            "/common/destiny2_content/icons/25cb99cbbe842bd7e9102e9efa3cb0a9.png", 
+                            "/common/destiny2_content/icons/1ce9f709222be8e12d2f35a06c81f9de.png"
+                        ]
+                    }
+                ], 
+                "icon": "/common/destiny2_content/icons/26a3c580befaa0426a02f68dc3cadbf2.png", 
+                "hasIcon": true, 
+                "description": "Tyra has heard that you've recovered your connection to the Light, and wishes to speak with you at the Farm.", 
+                "name": "Tyra Karn"
+            }, 
+            "uiInteractionType": 2716011929, 
+            "rewardVendorCategoryIndex": -1, 
+            "flavorLineOne": "Tyra is overjoyed by the return of your Light. She wishes you good luck in the battles to come.", 
+            "rewardBlockLabel": "", 
+            "questlineItemHash": 0, 
+            "vendorCategoryIndex": -1, 
+            "replies": [
+                {
+                    "reply": "", 
+                    "rewardSiteHash": 0, 
+                    "replyType": 2, 
+                    "itemRewardsSelection": 0
+                }
+            ], 
+            "instructions": "", 
+            "interactionType": 2, 
+            "interactionIndex": 0, 
+            "sackInteractionList": []
+        }, 
+        {
+            "flavorLineTwo": "", 
+            "headerDisplayProperties": {
+                "hasIcon": false, 
+                "description": "", 
+                "name": "Relics of the Golden Age"
+            }, 
+            "uiInteractionType": 2716011929, 
+            "rewardVendorCategoryIndex": -1, 
+            "flavorLineOne": "\"It is not surprising that Rahool would find this data challenging. This weapon has a mate, Guardian. One that we may yet be able to find. Take your weapon. Make use of it, and return it to me with your data. It will be a place to start.\" —Tyra Karn", 
+            "rewardBlockLabel": "", 
+            "questlineItemHash": 0, 
+            "vendorCategoryIndex": -1, 
+            "replies": [
+                {
+                    "reply": "", 
+                    "rewardSiteHash": 0, 
+                    "replyType": 2, 
+                    "itemRewardsSelection": 0
+                }
+            ], 
+            "instructions": "\"It is not surprising that Rahool would find this data challenging. This weapon has a mate, Guardian. One that we may yet be able to find. Take your weapon. Make use of it, and return it to me with your data. It will be a place to start.\" —Tyra Karn", 
+            "interactionType": 2, 
+            "interactionIndex": 1, 
+            "sackInteractionList": []
+        }, 
+        {
+            "flavorLineTwo": "", 
+            "headerDisplayProperties": {
+                "hasIcon": false, 
+                "description": "", 
+                "name": "Relics of the Golden Age"
+            }, 
+            "uiInteractionType": 2716011929, 
+            "rewardVendorCategoryIndex": -1, 
+            "flavorLineOne": "\"Just as I suspected. The crash of the Exodus Black carries this weapon's mate. Return to Nessus once more and seek it out in the wreckage of that massive vessel.\" —Tyra Karn", 
+            "rewardBlockLabel": "", 
+            "questlineItemHash": 0, 
+            "vendorCategoryIndex": -1, 
+            "replies": [
+                {
+                    "reply": "", 
+                    "rewardSiteHash": 0, 
+                    "replyType": 2, 
+                    "itemRewardsSelection": 0
+                }
+            ], 
+            "instructions": "\"Just as I suspected. The crash of the Exodus Black carries this weapon's mate. Return to Nessus once more and seek it out in the wreckage of that massive vessel.\" —Tyra Karn", 
+            "interactionType": 2, 
+            "interactionIndex": 2, 
+            "sackInteractionList": []
+        }, 
+        {
+            "flavorLineTwo": "", 
+            "headerDisplayProperties": {
+                "hasIcon": false, 
+                "description": "", 
+                "name": "Relics of the Golden Age"
+            }, 
+            "uiInteractionType": 2716011929, 
+            "rewardVendorCategoryIndex": -1, 
+            "flavorLineOne": "\"And so the pair are reunited. Sturm and Drang. For the first time in centuries. Thank you, Guardian, for allowing me to see history firsthand. Go with these relics of war. And may your place in their story be a worthy one.\" —Tyra Karn", 
+            "rewardBlockLabel": "", 
+            "questlineItemHash": 0, 
+            "vendorCategoryIndex": 4, 
+            "replies": [
+                {
+                    "reply": "", 
+                    "rewardSiteHash": 0, 
+                    "replyType": 2, 
+                    "itemRewardsSelection": 1
+                }
+            ], 
+            "instructions": "ACCEPT REWARD:", 
+            "interactionType": 2, 
+            "interactionIndex": 3, 
+            "sackInteractionList": []
+        }, 
+        {
+            "flavorLineTwo": "", 
+            "headerDisplayProperties": {
+                "iconSequences": [
+                    {
+                        "frames": [
+                            "/common/destiny2_content/icons/26a3c580befaa0426a02f68dc3cadbf2.png", 
+                            "/common/destiny2_content/icons/25cb99cbbe842bd7e9102e9efa3cb0a9.png", 
+                            "/common/destiny2_content/icons/1ce9f709222be8e12d2f35a06c81f9de.png"
+                        ]
+                    }
+                ], 
+                "icon": "/common/destiny2_content/icons/26a3c580befaa0426a02f68dc3cadbf2.png", 
+                "hasIcon": true, 
+                "description": "With her Light restored, Tyra has chosen to remain at the Farm—and wishes to congratulate you on your defeat of Ghaul.", 
+                "name": "Tyra Karn"
+            }, 
+            "uiInteractionType": 2716011929, 
+            "rewardVendorCategoryIndex": -1, 
+            "flavorLineOne": "Tyra Karn chose to remain at the Farm to study the Traveler's Shard. With the Traveler reborn and humanity united in celebration, Tyra's curiosity lingers. Why did the Traveler choose to wake up now and not when the Red Legion first attacked the City? Is the Traveler's Light a beacon of hope… or a beacon for something else? \n\nVisit Tyra at the Farm to decrypt engrams or just say hello.", 
+            "rewardBlockLabel": "", 
+            "questlineItemHash": 0, 
+            "vendorCategoryIndex": -1, 
+            "replies": [
+                {
+                    "reply": "", 
+                    "rewardSiteHash": 0, 
+                    "replyType": 2, 
+                    "itemRewardsSelection": 0
+                }
+            ], 
+            "instructions": "", 
+            "interactionType": 2, 
+            "interactionIndex": 4, 
+            "sackInteractionList": []
+        }, 
+        {
+            "flavorLineTwo": "", 
+            "headerDisplayProperties": {
+                "icon": "/common/destiny2_content/icons/d9c71aaf3dda2f320e6a05b847a0ae21.png", 
+                "hasIcon": true, 
+                "description": "", 
+                "name": "Strike Up Peace"
+            }, 
+            "uiInteractionType": 2716011929, 
+            "rewardVendorCategoryIndex": -1, 
+            "flavorLineOne": "The storykeeper of the Iron Lords, Tyra Karn, has lived through more bad years than good ones. She knows the true value of peace and friendship.", 
+            "rewardBlockLabel": "", 
+            "questlineItemHash": 2690615087, 
+            "vendorCategoryIndex": 6, 
+            "replies": [
+                {
+                    "reply": "Complete", 
+                    "rewardSiteHash": 0, 
+                    "replyType": 2, 
+                    "itemRewardsSelection": 0
+                }
+            ], 
+            "instructions": "", 
+            "interactionType": 2, 
+            "interactionIndex": 5, 
+            "sackInteractionList": []
+        }, 
+        {
+            "flavorLineTwo": "", 
+            "headerDisplayProperties": {
+                "icon": "/common/destiny2_content/icons/d9c71aaf3dda2f320e6a05b847a0ae21.png", 
+                "hasIcon": true, 
+                "description": "", 
+                "name": "Independent Study"
+            }, 
+            "uiInteractionType": 1897987959, 
+            "rewardVendorCategoryIndex": -1, 
+            "flavorLineOne": "Tyra is pleased to have a visitor. She is not pleased that you're here to talk about a DIY \"build-your-own-Thorn\" project. \"I won't lecture you,\" she says, \"but I do hope that you know exactly what sort of misdirected selfishness and reprehensible cruelty this gun symbolizes. A Young Wolf of the Iron Lords would not carry this gun.\n\n\"That said. The provenance of the original Thorn has been vigorously debated. We have incomplete texts which speak of a so-called 'hated path.' One must 'bathe their Light in horrors,' one must 'feed the weapon with death,' one must maintain their Light while 'binding a sickness' to the weapon itself… Hive heresy, all of it. I advise you speak to Ikora about this if you have further questions.\"", 
+            "rewardBlockLabel": "", 
+            "questlineItemHash": 3080875461, 
+            "vendorCategoryIndex": 2, 
+            "replies": [
+                {
+                    "reply": "Continue", 
+                    "rewardSiteHash": 0, 
+                    "replyType": 2, 
+                    "itemRewardsSelection": 0
+                }
+            ], 
+            "instructions": "Accept", 
+            "interactionType": 3, 
+            "interactionIndex": 6, 
+            "sackInteractionList": []
+        }, 
+        {
+            "flavorLineTwo": "", 
+            "headerDisplayProperties": {
+                "hasIcon": false, 
+                "description": "", 
+                "name": "Tyra Karn"
+            }, 
+            "uiInteractionType": 1897987959, 
+            "rewardVendorCategoryIndex": -1, 
+            "flavorLineOne": "Tyra escaped the City and found refuge in this camp as well. She, too, lost her connection to the Light and learned you had a vision of the Shard. Tyra cautions you against the danger of the surrounding Dark Forest and your newfound mortality. \n\nTake this gift from Tyra and go talk to the reluctant leader of this camp, Suraya Hawthorne.", 
+            "rewardBlockLabel": "", 
+            "questlineItemHash": 0, 
+            "vendorCategoryIndex": -1, 
+            "replies": [
+                {
+                    "reply": "Continue", 
+                    "rewardSiteHash": 0, 
+                    "replyType": 2, 
+                    "itemRewardsSelection": 0
+                }
+            ], 
+            "instructions": "", 
+            "interactionType": 3, 
+            "interactionIndex": 7, 
+            "sackInteractionList": []
+        }, 
+        {
+            "flavorLineTwo": "", 
+            "headerDisplayProperties": {
+                "hasIcon": false, 
+                "description": "", 
+                "name": "Decrypt Engrams"
+            }, 
+            "uiInteractionType": 1503645381, 
+            "rewardVendorCategoryIndex": -1, 
+            "flavorLineOne": "A Cryptarch can decrypt complex engrams into powerful gear and other items.", 
+            "rewardBlockLabel": "", 
+            "questlineItemHash": 0, 
+            "vendorCategoryIndex": -1, 
+            "replies": [], 
+            "instructions": "Select Engram", 
+            "interactionType": 8, 
+            "interactionIndex": 8, 
+            "sackInteractionList": [
+                {
+                    "sackType": 2628415147
+                }, 
+                {
+                    "sackType": 1500435668
+                }, 
+                {
+                    "sackType": 3891223537
+                }, 
+                {
+                    "sackType": 1824162088
+                }, 
+                {
+                    "sackType": 3758046600
+                }, 
+                {
+                    "sackType": 1834914060
+                }, 
+                {
+                    "sackType": 203713065
+                }, 
+                {
+                    "sackType": 4056833198
+                }, 
+                {
+                    "sackType": 1490807501
+                }, 
+                {
+                    "sackType": 3408665165
+                }, 
+                {
+                    "sackType": 3022125889
+                }
+            ]
+        }
+    ], 
+    "resetIntervalMinutes": 30, 
+    "services": [], 
+    "displayItemHash": 0, 
+    "categories": [
+        {
+            "categoryIndex": 0, 
+            "buyStringOverride": "Decode", 
+            "displayTitle": "Decode Engram", 
+            "categoryHash": 1220364428, 
+            "disabledDescription": "", 
+            "showUnavailableItems": false, 
+            "resetIntervalMinutesOverride": -1, 
+            "overlay": {
+                "title": "Decode Engram", 
+                "choiceDescription": "Select engram to decode:", 
+                "description": "Each engram decoded sheds light on lost history.", 
+                "icon": "/common/destiny2_content/icons/e2f64b69186dd6e34b7a1eca168593af.png"
+            }, 
+            "isPreview": false, 
+            "sortValue": 0, 
+            "isDisplayOnly": false, 
+            "hideIfNoCurrency": true, 
+            "vendorItemIndexes": [], 
+            "quantityAvailable": 0, 
+            "hideFromRegularPurchase": false, 
+            "resetOffsetMinutesOverride": -1
+        }, 
+        {
+            "categoryIndex": 1, 
+            "buyStringOverride": "", 
+            "displayTitle": "Armor", 
+            "categoryHash": 2111413039, 
+            "disabledDescription": "", 
+            "showUnavailableItems": false, 
+            "resetIntervalMinutesOverride": -1, 
+            "isPreview": false, 
+            "sortValue": 0, 
+            "isDisplayOnly": false, 
+            "hideIfNoCurrency": false, 
+            "vendorItemIndexes": [
+                0, 
+                1, 
+                2
+            ], 
+            "quantityAvailable": 0, 
+            "hideFromRegularPurchase": true, 
+            "resetOffsetMinutesOverride": -1
+        }, 
+        {
+            "categoryIndex": 2, 
+            "buyStringOverride": "", 
+            "categoryHash": 1101153490, 
+            "disabledDescription": "", 
+            "showUnavailableItems": false, 
+            "resetIntervalMinutesOverride": -1, 
+            "isPreview": false, 
+            "sortValue": 0, 
+            "isDisplayOnly": false, 
+            "hideIfNoCurrency": false, 
+            "vendorItemIndexes": [
+                3
+            ], 
+            "quantityAvailable": 0, 
+            "hideFromRegularPurchase": true, 
+            "resetOffsetMinutesOverride": -1
+        }, 
+        {
+            "categoryIndex": 3, 
+            "buyStringOverride": "", 
+            "displayTitle": "Abandoned Quests", 
+            "categoryHash": 1450515425, 
+            "disabledDescription": "", 
+            "showUnavailableItems": false, 
+            "resetIntervalMinutesOverride": -1, 
+            "isPreview": false, 
+            "sortValue": -1000, 
+            "isDisplayOnly": false, 
+            "hideIfNoCurrency": false, 
+            "vendorItemIndexes": [
+                10
+            ], 
+            "quantityAvailable": 0, 
+            "hideFromRegularPurchase": false, 
+            "resetOffsetMinutesOverride": -1
+        }, 
+        {
+            "categoryIndex": 4, 
+            "buyStringOverride": "", 
+            "categoryHash": 3089520252, 
+            "disabledDescription": "", 
+            "showUnavailableItems": false, 
+            "resetIntervalMinutesOverride": -1, 
+            "isPreview": false, 
+            "sortValue": 0, 
+            "isDisplayOnly": false, 
+            "hideIfNoCurrency": false, 
+            "vendorItemIndexes": [
+                4
+            ], 
+            "quantityAvailable": 0, 
+            "hideFromRegularPurchase": true, 
+            "resetOffsetMinutesOverride": -1
+        }, 
+        {
+            "categoryIndex": 5, 
+            "buyStringOverride": "", 
+            "displayTitle": "Abandoned Quests", 
+            "categoryHash": 1584066945, 
+            "disabledDescription": "", 
+            "showUnavailableItems": false, 
+            "resetIntervalMinutesOverride": -1, 
+            "isPreview": false, 
+            "sortValue": 0, 
+            "isDisplayOnly": false, 
+            "hideIfNoCurrency": false, 
+            "vendorItemIndexes": [
+                5, 
+                6, 
+                7, 
+                8, 
+                9
+            ], 
+            "quantityAvailable": 0, 
+            "hideFromRegularPurchase": false, 
+            "resetOffsetMinutesOverride": -1
+        }, 
+        {
+            "categoryIndex": 6, 
+            "buyStringOverride": "", 
+            "categoryHash": 533092164, 
+            "disabledDescription": "", 
+            "showUnavailableItems": false, 
+            "resetIntervalMinutesOverride": -1, 
+            "isPreview": false, 
+            "sortValue": 0, 
+            "isDisplayOnly": false, 
+            "hideIfNoCurrency": false, 
+            "vendorItemIndexes": [], 
+            "quantityAvailable": 0, 
+            "hideFromRegularPurchase": true, 
+            "resetOffsetMinutesOverride": -1
+        }
+    ], 
+    "blacklisted": false, 
+    "failureStrings": [], 
+    "factionHash": 1647279527, 
+    "enabled": false, 
+    "unlockRanges": [], 
+    "returnWithVendorRequest": false, 
+    "displayProperties": {
+        "smallTransparentIcon": "/common/destiny2_content/icons/26a3c580befaa0426a02f68dc3cadbf2.png", 
+        "subtitle": "Cryptarch Archivist", 
+        "originalIcon": "/common/destiny2_content/icons/f9595107134f34c85960bd614fcb1b6b.png", 
+        "mapIcon": "/common/destiny2_content/icons/25cb99cbbe842bd7e9102e9efa3cb0a9.png", 
+        "name": "Tyra Karn", 
+        "requirementsDisplay": [
+            {
+                "source": "", 
+                "type": "", 
+                "name": "", 
+                "icon": "/common/destiny2_content/icons/afffb5a817e160fbc2e4ede13af26d6c.png"
+            }
+        ], 
+        "hasIcon": true, 
+        "largeTransparentIcon": "/common/destiny2_content/icons/1ce9f709222be8e12d2f35a06c81f9de.png", 
+        "icon": "/common/destiny2_content/icons/f9595107134f34c85960bd614fcb1b6b.png", 
+        "description": "A historian and Cryptarch, Tyra Karn decodes engrams and seeks the treasures of humanity's past."
+    }
+}

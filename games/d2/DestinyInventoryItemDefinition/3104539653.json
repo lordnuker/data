@@ -1,0 +1,152 @@
+{
+    "itemTypeAndTierDisplayName": "Legendary Package", 
+    "itemType": 25, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "sack": {
+        "openOnAcquire": true, 
+        "resolvedItemCountUnlockValueHash": 0, 
+        "openAction": "Open", 
+        "rollStateUnlockValueHash": 0, 
+        "selectItemCount": 0, 
+        "seedUnlockValueHash": 0, 
+        "rewardItemListHash": 0, 
+        "resolvedBitVectorUnlockValueHash": 0, 
+        "detailAction": "Preview"
+    }, 
+    "tooltipNotifications": [], 
+    "index": 10718, 
+    "stats": {
+        "hasDisplayableStats": false, 
+        "primaryBaseStatHash": 0, 
+        "disablePrimaryStatDisplay": false, 
+        "stats": {}
+    }, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": true, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Legendary", 
+        "bucketTypeHash": 1469714392, 
+        "tierTypeHash": 4008398120, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 5, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "preview": {
+        "screenStyle": "screen_style_vendor", 
+        "derivedItemCategories": [
+            {
+                "items": [
+                    {
+                        "itemHash": 1305274547, 
+                        "vendorItemIndex": 0
+                    }, 
+                    {
+                        "itemHash": 950899352, 
+                        "vendorItemIndex": 1
+                    }, 
+                    {
+                        "itemHash": 2014411539, 
+                        "vendorItemIndex": 2
+                    }, 
+                    {
+                        "itemHash": 3487922223, 
+                        "vendorItemIndex": 3
+                    }, 
+                    {
+                        "itemHash": 49145143, 
+                        "vendorItemIndex": 4
+                    }, 
+                    {
+                        "itemHash": 31293053, 
+                        "vendorItemIndex": 5
+                    }, 
+                    {
+                        "itemHash": 1177810185, 
+                        "vendorItemIndex": 6
+                    }, 
+                    {
+                        "itemHash": 592227263, 
+                        "vendorItemIndex": 7
+                    }, 
+                    {
+                        "itemHash": 3592324052, 
+                        "vendorItemIndex": 8
+                    }
+                ], 
+                "categoryDescription": "", 
+                "categoryIndex": 0
+            }
+        ], 
+        "previewVendorHash": 3104539653, 
+        "previewActionString": "Preview"
+    }, 
+    "hash": 3104539653, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Package", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": true, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        268598612
+    ], 
+    "uiItemDisplayStyle": "ui_display_style_box", 
+    "nonTransferrable": true, 
+    "tooltipStyle": "package", 
+    "allowActions": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "blacklisted": false, 
+    "displaySource": "", 
+    "value": {
+        "itemValue": [
+            {
+                "itemHash": 3592324052, 
+                "quantity": 50
+            }, 
+            {
+                "itemHash": 31293053, 
+                "quantity": 50
+            }, 
+            {
+                "itemHash": 49145143, 
+                "quantity": 50
+            }, 
+            {
+                "itemHash": 2014411539, 
+                "quantity": 50
+            }, 
+            {
+                "itemHash": 1305274547, 
+                "quantity": 50
+            }, 
+            {
+                "itemHash": 2209241083, 
+                "quantity": 0
+            }
+        ], 
+        "valueDescription": ""
+    }, 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "icon": "/common/destiny2_content/icons/6d461c4e0f92434d1832714a0d34cc61.png", 
+        "hasIcon": true, 
+        "description": "Contains a large quantity of planetary resources that can be used to purchase valuable items such as Upgrade Modules and Enhancement Cores or exchanged with destination vendors for gear.", 
+        "name": "Destination Resource Bundle"
+    }
+}

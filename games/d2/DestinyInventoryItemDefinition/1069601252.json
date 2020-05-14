@@ -1,0 +1,133 @@
+{
+    "itemTypeAndTierDisplayName": "Legendary Weapon Ornament", 
+    "translationBlock": {
+        "customDyes": [], 
+        "hasGeometry": true, 
+        "lockedDyes": [], 
+        "weaponPatternHash": 0, 
+        "defaultDyes": [
+            {
+                "dyeHash": 4249089252, 
+                "channelHash": 1667433279
+            }, 
+            {
+                "dyeHash": 4249089253, 
+                "channelHash": 1667433278
+            }, 
+            {
+                "dyeHash": 4249089254, 
+                "channelHash": 1667433277
+            }
+        ], 
+        "arrangements": [
+            {
+                "classHash": 0, 
+                "artArrangementHash": 1069601252
+            }
+        ]
+    }, 
+    "itemType": 19, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "index": 7891, 
+    "allowActions": true, 
+    "equippable": false, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Legendary", 
+        "bucketTypeHash": 3313201758, 
+        "tierTypeHash": 4008398120, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 999, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 5, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "preview": {
+        "screenStyle": "screen_style_sockets", 
+        "previewVendorHash": 0, 
+        "previewActionString": "Preview"
+    }, 
+    "hash": 1069601252, 
+    "screenshot": "/common/destiny2_content/screenshots/1069601252.jpg", 
+    "itemTypeDisplayName": "Weapon Ornament", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "displayProperties": {
+        "icon": "/common/destiny2_content/icons/061a78be9197203d27814fc3041fa234.jpg", 
+        "hasIcon": true, 
+        "description": "Equip this weapon ornament to change the appearance of Fixed Odds. Once you get an ornament, it's unlocked for all characters on your account.", 
+        "highResIcon": "/common/destiny2_content/icons/a9e2d5b9fbce56708134c24844f14baf.png", 
+        "name": "Unseeing, to Be Shown"
+    }, 
+    "itemSubType": 21, 
+    "itemCategoryHashes": [
+        56, 
+        52, 
+        59, 
+        3124752623, 
+        610365472
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": false, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "plug": {
+        "insertionMaterialRequirementHash": 0, 
+        "actionRewardSiteHash": 0, 
+        "enabledMaterialRequirementHash": 0, 
+        "previewItemOverrideHash": 0, 
+        "insertionRules": [
+            {
+                "failureMessage": "Requires Mod Item"
+            }
+        ], 
+        "enabledRules": [], 
+        "plugCategoryHash": 1977936579, 
+        "plugCategoryIdentifier": "v450_activities_caluseum_machinegun0_skins", 
+        "onActionRecreateSelf": false, 
+        "plugStyle": 0, 
+        "isDummyPlug": false, 
+        "actionRewardItemOverrideHash": 0, 
+        "uiPlugLabel": "", 
+        "alternatePlugStyle": 0, 
+        "alternateUiPlugLabel": "", 
+        "plugAvailability": 0
+    }, 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "displaySource": "", 
+    "traitIds": [
+        "item_type.weapon_ornament"
+    ], 
+    "perks": [], 
+    "specialItemType": 0, 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Unlock", 
+        "deleteOnAction": true, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "useOnAcquire": false, 
+        "isPositive": true, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }
+}

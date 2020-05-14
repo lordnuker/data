@@ -1,0 +1,94 @@
+{
+    "itemTypeAndTierDisplayName": "Legendary Quest Step", 
+    "itemType": 12, 
+    "tooltipNotifications": [], 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": true, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Legendary", 
+        "bucketTypeHash": 1345459588, 
+        "tierTypeHash": 4008398120, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 5, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "setData": {
+        "trackingUnlockValueHash": 0, 
+        "setIsFeatured": false, 
+        "itemList": [
+            {
+                "itemHash": 761498811, 
+                "trackingValue": 100
+            }, 
+            {
+                "itemHash": 761498810, 
+                "trackingValue": 200
+            }, 
+            {
+                "itemHash": 761498809, 
+                "trackingValue": 300
+            }, 
+            {
+                "itemHash": 761498808, 
+                "trackingValue": 400
+            }, 
+            {
+                "itemHash": 761498815, 
+                "trackingValue": 500
+            }
+        ], 
+        "requireOrderedSetItemAdd": true, 
+        "questLineName": "", 
+        "abandonmentUnlockHash": 0, 
+        "setType": "quest_global"
+    }, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Quest Step", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": true, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        16
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "displaySource": "", 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/adbc04466c0b6402b683dcf0ece85d11.png", 
+                    "/common/destiny2_content/icons/6ec0c6e83b3763391239dff1de580b98.png"
+                ]
+            }, 
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/d39f0d9e8a11a993510c68a71447c802.jpg"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/adbc04466c0b6402b683dcf0ece85d11.png", 
+        "hasIcon": true, 
+        "description": "", 
+        "name": ""
+    }
+}

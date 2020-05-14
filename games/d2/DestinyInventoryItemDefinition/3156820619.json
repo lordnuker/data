@@ -1,0 +1,181 @@
+{
+    "itemTypeAndTierDisplayName": "Common Intrinsic", 
+    "itemType": 19, 
+    "investmentStats": [
+        {
+            "value": 10, 
+            "statTypeHash": 2996146975, 
+            "isConditionallyActive": false
+        }, 
+        {
+            "value": 10, 
+            "statTypeHash": 392767087, 
+            "isConditionallyActive": false
+        }, 
+        {
+            "value": 10, 
+            "statTypeHash": 144602215, 
+            "isConditionallyActive": false
+        }, 
+        {
+            "value": 5, 
+            "statTypeHash": 4244567218, 
+            "isConditionallyActive": false
+        }, 
+        {
+            "value": 5, 
+            "statTypeHash": 1735777505, 
+            "isConditionallyActive": false
+        }
+    ], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "quality": {
+        "infusionCategoryHash": 0, 
+        "infusionCategoryHashes": [], 
+        "infusionCategoryName": "0", 
+        "progressionLevelRequirementHash": 0, 
+        "qualityLevel": 0, 
+        "itemLevels": []
+    }, 
+    "index": 1085, 
+    "stats": {
+        "hasDisplayableStats": false, 
+        "primaryBaseStatHash": 2996146975, 
+        "disablePrimaryStatDisplay": false, 
+        "stats": {
+            "2996146975": {
+                "statHash": 2996146975, 
+                "minimum": 0, 
+                "maximum": 0, 
+                "value": 10
+            }, 
+            "144602215": {
+                "statHash": 144602215, 
+                "minimum": 0, 
+                "maximum": 0, 
+                "value": 10
+            }, 
+            "1735777505": {
+                "statHash": 1735777505, 
+                "minimum": 0, 
+                "maximum": 0, 
+                "value": 5
+            }, 
+            "392767087": {
+                "statHash": 392767087, 
+                "minimum": 0, 
+                "maximum": 0, 
+                "value": 10
+            }, 
+            "4244567218": {
+                "statHash": 4244567218, 
+                "minimum": 0, 
+                "maximum": 0, 
+                "value": 5
+            }
+        }
+    }, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": true, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Common", 
+        "bucketTypeHash": 3313201758, 
+        "tierTypeHash": 3340296461, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 2, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "hash": 3156820619, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Intrinsic", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/e52628a709fe1fe96c5da73d5f7e957e.png"
+                ]
+            }, 
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/00db2281f719a7afcdc41783d3347eda.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/e52628a709fe1fe96c5da73d5f7e957e.png", 
+        "hasIcon": true, 
+        "description": "Improved resilience.", 
+        "name": "Heavy Hunter Armor"
+    }, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        2237038328, 
+        610365472, 
+        59
+    ], 
+    "uiItemDisplayStyle": "ui_display_style_intrinsic_plug", 
+    "nonTransferrable": true, 
+    "allowActions": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "plug": {
+        "insertionMaterialRequirementHash": 0, 
+        "actionRewardSiteHash": 0, 
+        "enabledMaterialRequirementHash": 0, 
+        "previewItemOverrideHash": 0, 
+        "insertionRules": [], 
+        "enabledRules": [], 
+        "plugCategoryHash": 1744546145, 
+        "plugCategoryIdentifier": "intrinsics", 
+        "onActionRecreateSelf": false, 
+        "plugStyle": 0, 
+        "isDummyPlug": false, 
+        "actionRewardItemOverrideHash": 0, 
+        "uiPlugLabel": "", 
+        "alternatePlugStyle": 0, 
+        "alternateUiPlugLabel": "", 
+        "plugAvailability": 0
+    }, 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "displaySource": "", 
+    "perks": [
+        {
+            "requirementDisplayString": "", 
+            "perkHash": 29391997, 
+            "perkVisibility": 0
+        }
+    ], 
+    "specialItemType": 0, 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Dismantle", 
+        "deleteOnAction": false, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "actionTypeLabel": "shard", 
+        "useOnAcquire": false, 
+        "isPositive": false, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }
+}

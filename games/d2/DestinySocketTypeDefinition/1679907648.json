@@ -1,0 +1,47 @@
+{
+    "index": 110, 
+    "hash": 1679907648, 
+    "blacklisted": false, 
+    "avoidDuplicatesOnInitialization": false, 
+    "insertAction": {
+        "actionSoundHash": 0, 
+        "isPositiveAction": false, 
+        "actionType": 0, 
+        "actionExecuteSeconds": 1
+    }, 
+    "plugWhitelist": [
+        {
+            "categoryIdentifier": "v300.weapon.functional.energy.aggressive", 
+            "categoryHash": 2023178023
+        }, 
+        {
+            "categoryIdentifier": "v300.weapon.functional.firearms.aggressive", 
+            "categoryHash": 2523514856
+        }, 
+        {
+            "categoryIdentifier": "v300.weapon.functional.small_arms.aggressive", 
+            "categoryHash": 1201234600
+        }, 
+        {
+            "categoryIdentifier": "v300.weapon.functional.energy", 
+            "categoryHash": 1059021935
+        }, 
+        {
+            "categoryIdentifier": "v300.weapon.functional", 
+            "categoryHash": 79042699
+        }
+    ], 
+    "currencyScalars": [], 
+    "redacted": false, 
+    "visibility": 0, 
+    "isPreviewEnabled": false, 
+    "alwaysRandomizeSockets": false, 
+    "overridesUiAppearance": false, 
+    "displayProperties": {
+        "hasIcon": false, 
+        "description": "", 
+        "name": ""
+    }, 
+    "socketCategoryHash": 2685412949, 
+    "hideDuplicateReusablePlugs": false
+}

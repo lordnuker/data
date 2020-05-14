@@ -1,0 +1,82 @@
+{
+    "itemTypeAndTierDisplayName": "Rare Weekly Bounty", 
+    "itemType": 26, 
+    "tooltipNotifications": [], 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": true, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Rare", 
+        "bucketTypeHash": 1345459588, 
+        "stackUniqueLabel": "v450.bounties.clan.weekly_raids.eclipse_03", 
+        "tierTypeHash": 2127292149, 
+        "expiredInActivityMessage": "Expired. Unless completed, this bounty will be removed when you return to orbit or load into a new activity.", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "Expires in .", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 4, 
+        "expiredInOrbitMessage": "Expired. Bounty will be removed upon leaving orbit."
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Weekly Bounty", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        579365201, 
+        1784235469
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "displaySource": "\"Gahlran believed the Crown made the Hive his. Now he is [mine].\" —The Witch, Insidious", 
+    "value": {
+        "itemValue": [
+            {
+                "itemHash": 2127149322, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }
+        ], 
+        "valueDescription": ""
+    }, 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "icon": "/common/destiny2_content/icons/8b5eabb6dd8cb92123e542693474a707.jpg", 
+        "hasIcon": true, 
+        "description": "Complete the With Both Hands challenge.", 
+        "name": "With Both Hands"
+    }
+}

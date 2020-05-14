@@ -1,0 +1,3253 @@
+{
+    "ignoreSaleItemHashes": [], 
+    "redacted": false, 
+    "locations": [], 
+    "actions": [], 
+    "visible": true, 
+    "BungieNet.Engine.Contract.Destiny.World.Definitions.IDestinyDisplayDefinition.displayProperties": {
+        "subtitle": "", 
+        "description": "Rasputin can supply powerful tools to arm you. Here, you may purchase weapons and weapon pursuits for Io.", 
+        "originalIcon": "/common/destiny2_content/icons/098d905a29bb98e5e217e7b33f0d1c0c.jpg", 
+        "name": "Io Armory", 
+        "requirementsDisplay": [], 
+        "hasIcon": true, 
+        "icon": "/common/destiny2_content/icons/098d905a29bb98e5e217e7b33f0d1c0c.jpg"
+    }, 
+    "hash": 1787368894, 
+    "inventoryFlyouts": [], 
+    "index": 439, 
+    "resetOffsetMinutes": 0, 
+    "inhibitSelling": true, 
+    "acceptedItems": [], 
+    "inhibitBuying": false, 
+    "originalCategories": [
+        {
+            "categoryIndex": 0, 
+            "buyStringOverride": "Acquire", 
+            "categoryHash": 3734062960, 
+            "disabledDescription": "", 
+            "showUnavailableItems": false, 
+            "resetIntervalMinutesOverride": -1, 
+            "isPreview": false, 
+            "sortValue": -980, 
+            "isDisplayOnly": false, 
+            "hideIfNoCurrency": false, 
+            "vendorItemIndexes": [
+                0, 
+                1
+            ], 
+            "quantityAvailable": 1, 
+            "hideFromRegularPurchase": false, 
+            "resetOffsetMinutesOverride": -1
+        }, 
+        {
+            "categoryIndex": 1, 
+            "buyStringOverride": "Acquire", 
+            "categoryHash": 2408381504, 
+            "disabledDescription": "", 
+            "showUnavailableItems": false, 
+            "resetIntervalMinutesOverride": -1, 
+            "isPreview": false, 
+            "sortValue": -970, 
+            "isDisplayOnly": false, 
+            "hideIfNoCurrency": false, 
+            "vendorItemIndexes": [
+                4, 
+                5
+            ], 
+            "quantityAvailable": 1, 
+            "hideFromRegularPurchase": false, 
+            "resetOffsetMinutesOverride": -1
+        }, 
+        {
+            "categoryIndex": 2, 
+            "buyStringOverride": "Acquire", 
+            "categoryHash": 2681498063, 
+            "disabledDescription": "", 
+            "showUnavailableItems": false, 
+            "resetIntervalMinutesOverride": -1, 
+            "isPreview": false, 
+            "sortValue": -960, 
+            "isDisplayOnly": false, 
+            "hideIfNoCurrency": false, 
+            "vendorItemIndexes": [
+                2, 
+                3
+            ], 
+            "quantityAvailable": 1, 
+            "hideFromRegularPurchase": false, 
+            "resetOffsetMinutesOverride": -1
+        }, 
+        {
+            "categoryIndex": 3, 
+            "buyStringOverride": "Acquire", 
+            "categoryHash": 2307764340, 
+            "disabledDescription": "", 
+            "showUnavailableItems": false, 
+            "resetIntervalMinutesOverride": -1, 
+            "isPreview": false, 
+            "sortValue": -950, 
+            "isDisplayOnly": false, 
+            "hideIfNoCurrency": false, 
+            "vendorItemIndexes": [
+                6, 
+                7
+            ], 
+            "quantityAvailable": 1, 
+            "hideFromRegularPurchase": false, 
+            "resetOffsetMinutesOverride": -1
+        }, 
+        {
+            "categoryIndex": 4, 
+            "buyStringOverride": "", 
+            "categoryHash": 2024196945, 
+            "disabledDescription": "", 
+            "showUnavailableItems": false, 
+            "resetIntervalMinutesOverride": -1, 
+            "isPreview": false, 
+            "sortValue": -930, 
+            "isDisplayOnly": false, 
+            "hideIfNoCurrency": false, 
+            "vendorItemIndexes": [], 
+            "quantityAvailable": 5, 
+            "hideFromRegularPurchase": false, 
+            "resetOffsetMinutesOverride": -1
+        }, 
+        {
+            "categoryIndex": 5, 
+            "buyStringOverride": "Acquire", 
+            "categoryHash": 4282278221, 
+            "disabledDescription": "", 
+            "showUnavailableItems": false, 
+            "resetIntervalMinutesOverride": -1, 
+            "isPreview": false, 
+            "sortValue": -920, 
+            "isDisplayOnly": false, 
+            "hideIfNoCurrency": false, 
+            "vendorItemIndexes": [
+                26, 
+                27, 
+                28, 
+                29, 
+                30, 
+                31, 
+                32, 
+                33, 
+                34, 
+                35, 
+                36, 
+                37, 
+                38, 
+                39, 
+                40, 
+                41, 
+                42, 
+                43
+            ], 
+            "quantityAvailable": 1, 
+            "hideFromRegularPurchase": false, 
+            "resetOffsetMinutesOverride": -1
+        }, 
+        {
+            "categoryIndex": 6, 
+            "buyStringOverride": "", 
+            "categoryHash": 1801044047, 
+            "disabledDescription": "", 
+            "showUnavailableItems": false, 
+            "resetIntervalMinutesOverride": -1, 
+            "isPreview": false, 
+            "sortValue": -910, 
+            "isDisplayOnly": false, 
+            "hideIfNoCurrency": false, 
+            "vendorItemIndexes": [], 
+            "quantityAvailable": 1, 
+            "hideFromRegularPurchase": false, 
+            "resetOffsetMinutesOverride": -1
+        }, 
+        {
+            "categoryIndex": 7, 
+            "buyStringOverride": "", 
+            "categoryHash": 622775775, 
+            "disabledDescription": "", 
+            "showUnavailableItems": false, 
+            "resetIntervalMinutesOverride": -1, 
+            "isPreview": false, 
+            "sortValue": -900, 
+            "isDisplayOnly": false, 
+            "hideIfNoCurrency": false, 
+            "vendorItemIndexes": [], 
+            "quantityAvailable": 2, 
+            "hideFromRegularPurchase": false, 
+            "resetOffsetMinutesOverride": -1
+        }, 
+        {
+            "categoryIndex": 8, 
+            "buyStringOverride": "Acquire", 
+            "categoryHash": 830954567, 
+            "disabledDescription": "", 
+            "showUnavailableItems": false, 
+            "resetIntervalMinutesOverride": -1, 
+            "isPreview": false, 
+            "sortValue": -890, 
+            "isDisplayOnly": false, 
+            "hideIfNoCurrency": false, 
+            "vendorItemIndexes": [
+                44, 
+                45, 
+                46, 
+                47
+            ], 
+            "quantityAvailable": 4, 
+            "hideFromRegularPurchase": false, 
+            "resetOffsetMinutesOverride": -1
+        }, 
+        {
+            "categoryIndex": 9, 
+            "buyStringOverride": "Acquire", 
+            "categoryHash": 4146473058, 
+            "disabledDescription": "", 
+            "showUnavailableItems": false, 
+            "resetIntervalMinutesOverride": -1, 
+            "isPreview": false, 
+            "sortValue": -890, 
+            "isDisplayOnly": false, 
+            "hideIfNoCurrency": false, 
+            "vendorItemIndexes": [
+                8, 
+                9, 
+                10, 
+                11, 
+                12, 
+                13, 
+                14, 
+                15, 
+                16, 
+                17, 
+                18, 
+                19, 
+                20, 
+                21, 
+                22, 
+                23, 
+                24, 
+                25
+            ], 
+            "quantityAvailable": 3, 
+            "hideFromRegularPurchase": false, 
+            "resetOffsetMinutesOverride": -1
+        }, 
+        {
+            "categoryIndex": 10, 
+            "buyStringOverride": "Acquire", 
+            "categoryHash": 1547156651, 
+            "disabledDescription": "", 
+            "showUnavailableItems": false, 
+            "resetIntervalMinutesOverride": -1, 
+            "isPreview": false, 
+            "sortValue": -860, 
+            "isDisplayOnly": false, 
+            "hideIfNoCurrency": false, 
+            "vendorItemIndexes": [
+                48, 
+                49
+            ], 
+            "quantityAvailable": 10, 
+            "hideFromRegularPurchase": false, 
+            "resetOffsetMinutesOverride": -1
+        }
+    ], 
+    "itemList": [
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 3, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                0, 
+                1, 
+                2, 
+                3
+            ], 
+            "originalCategoryIndex": 0, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 0, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 3000, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 3159615086
+                }, 
+                {
+                    "quantity": 3, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 1096700575
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 0, 
+            "displayCategoryIndex": 4, 
+            "displayCategory": "Seraph Weapon Frames", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 1345459588, 
+            "minimumLevel": 0, 
+            "itemHash": 96140780, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 3, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                0, 
+                1, 
+                2, 
+                3
+            ], 
+            "originalCategoryIndex": 0, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 0, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 2000, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 3159615086
+                }, 
+                {
+                    "quantity": 2, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 1096700575
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 1, 
+            "displayCategoryIndex": 4, 
+            "displayCategory": "Seraph Weapon Frames", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 1345459588, 
+            "minimumLevel": 0, 
+            "itemHash": 96140780, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 3, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                0, 
+                4, 
+                2, 
+                3
+            ], 
+            "originalCategoryIndex": 2, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 2, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 3000, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 3159615086
+                }, 
+                {
+                    "quantity": 3, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 1096700575
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 2, 
+            "displayCategoryIndex": 4, 
+            "displayCategory": "Seraph Weapon Frames", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 1345459588, 
+            "minimumLevel": 0, 
+            "itemHash": 2137757111, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 3, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                0, 
+                4, 
+                2, 
+                3
+            ], 
+            "originalCategoryIndex": 2, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 2, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 2000, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 3159615086
+                }, 
+                {
+                    "quantity": 2, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 1096700575
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 3, 
+            "displayCategoryIndex": 4, 
+            "displayCategory": "Seraph Weapon Frames", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 1345459588, 
+            "minimumLevel": 0, 
+            "itemHash": 2137757111, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 3, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                0, 
+                5, 
+                2, 
+                3
+            ], 
+            "originalCategoryIndex": 1, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 1, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 3000, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 3159615086
+                }, 
+                {
+                    "quantity": 3, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 1096700575
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 4, 
+            "displayCategoryIndex": 4, 
+            "displayCategory": "Seraph Weapon Frames", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 1345459588, 
+            "minimumLevel": 0, 
+            "itemHash": 60244376, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 3, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                0, 
+                5, 
+                2, 
+                3
+            ], 
+            "originalCategoryIndex": 1, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 1, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 2000, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 3159615086
+                }, 
+                {
+                    "quantity": 2, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 1096700575
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 5, 
+            "displayCategoryIndex": 4, 
+            "displayCategory": "Seraph Weapon Frames", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 1345459588, 
+            "minimumLevel": 0, 
+            "itemHash": 60244376, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 3, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                0, 
+                6, 
+                2, 
+                3
+            ], 
+            "originalCategoryIndex": 3, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 3, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 3000, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 3159615086
+                }, 
+                {
+                    "quantity": 3, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 1096700575
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 6, 
+            "displayCategoryIndex": 4, 
+            "displayCategory": "Seraph Weapon Frames", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 1345459588, 
+            "minimumLevel": 0, 
+            "itemHash": 637369230, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 3, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                0, 
+                6, 
+                2, 
+                3
+            ], 
+            "originalCategoryIndex": 3, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 3, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 2000, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 3159615086
+                }, 
+                {
+                    "quantity": 2, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 1096700575
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 7, 
+            "displayCategoryIndex": 4, 
+            "displayCategory": "Seraph Weapon Frames", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 1345459588, 
+            "minimumLevel": 0, 
+            "itemHash": 637369230, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 6, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                7, 
+                8, 
+                2, 
+                9
+            ], 
+            "originalCategoryIndex": 9, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 9, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 1, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 1096700575
+                }, 
+                {
+                    "quantity": 6, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 535079318
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 8, 
+            "displayCategoryIndex": 2, 
+            "displayCategory": "", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 2422292810, 
+            "minimumLevel": 0, 
+            "itemHash": 614874719, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 6, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                7, 
+                8, 
+                10, 
+                9
+            ], 
+            "originalCategoryIndex": 9, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 9, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 2, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 1096700575
+                }, 
+                {
+                    "quantity": 12, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 535079318
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 9, 
+            "displayCategoryIndex": 2, 
+            "displayCategory": "", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 2422292810, 
+            "minimumLevel": 0, 
+            "itemHash": 1507626749, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 6, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                7, 
+                8, 
+                9
+            ], 
+            "originalCategoryIndex": 9, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 9, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 4, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 1096700575
+                }, 
+                {
+                    "quantity": 24, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 535079318
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 10, 
+            "displayCategoryIndex": 2, 
+            "displayCategory": "", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 2422292810, 
+            "minimumLevel": 0, 
+            "itemHash": 2481874212, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 6, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                7, 
+                8, 
+                2, 
+                9
+            ], 
+            "originalCategoryIndex": 9, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 9, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 3, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 535079318
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 11, 
+            "displayCategoryIndex": 2, 
+            "displayCategory": "", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 2422292810, 
+            "minimumLevel": 0, 
+            "itemHash": 614874719, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 6, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                7, 
+                8, 
+                10, 
+                9
+            ], 
+            "originalCategoryIndex": 9, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 9, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 1, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 1096700575
+                }, 
+                {
+                    "quantity": 6, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 535079318
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 12, 
+            "displayCategoryIndex": 2, 
+            "displayCategory": "", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 2422292810, 
+            "minimumLevel": 0, 
+            "itemHash": 1507626749, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 6, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                7, 
+                8, 
+                9
+            ], 
+            "originalCategoryIndex": 9, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 9, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 2, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 1096700575
+                }, 
+                {
+                    "quantity": 12, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 535079318
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 13, 
+            "displayCategoryIndex": 2, 
+            "displayCategory": "", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 2422292810, 
+            "minimumLevel": 0, 
+            "itemHash": 2481874212, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 6, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                7, 
+                8, 
+                2, 
+                9
+            ], 
+            "originalCategoryIndex": 9, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 9, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 1, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 1096700575
+                }, 
+                {
+                    "quantity": 6, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 535079318
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 14, 
+            "displayCategoryIndex": 2, 
+            "displayCategory": "", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 2422292810, 
+            "minimumLevel": 0, 
+            "itemHash": 614874719, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 6, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                7, 
+                8, 
+                10, 
+                9
+            ], 
+            "originalCategoryIndex": 9, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 9, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 2, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 1096700575
+                }, 
+                {
+                    "quantity": 12, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 535079318
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 15, 
+            "displayCategoryIndex": 2, 
+            "displayCategory": "", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 2422292810, 
+            "minimumLevel": 0, 
+            "itemHash": 1507626749, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 6, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                7, 
+                8, 
+                9
+            ], 
+            "originalCategoryIndex": 9, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 9, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 4, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 1096700575
+                }, 
+                {
+                    "quantity": 24, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 535079318
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 16, 
+            "displayCategoryIndex": 2, 
+            "displayCategory": "", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 2422292810, 
+            "minimumLevel": 0, 
+            "itemHash": 2481874212, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 6, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                7, 
+                8, 
+                2, 
+                9
+            ], 
+            "originalCategoryIndex": 9, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 9, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 3, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 535079318
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 17, 
+            "displayCategoryIndex": 2, 
+            "displayCategory": "", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 2422292810, 
+            "minimumLevel": 0, 
+            "itemHash": 614874719, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 6, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                7, 
+                8, 
+                10, 
+                9
+            ], 
+            "originalCategoryIndex": 9, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 9, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 1, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 1096700575
+                }, 
+                {
+                    "quantity": 6, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 535079318
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 18, 
+            "displayCategoryIndex": 2, 
+            "displayCategory": "", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 2422292810, 
+            "minimumLevel": 0, 
+            "itemHash": 1507626749, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 6, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                7, 
+                8, 
+                9
+            ], 
+            "originalCategoryIndex": 9, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 9, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 2, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 1096700575
+                }, 
+                {
+                    "quantity": 12, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 535079318
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 19, 
+            "displayCategoryIndex": 2, 
+            "displayCategory": "", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 2422292810, 
+            "minimumLevel": 0, 
+            "itemHash": 2481874212, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 6, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                7, 
+                8, 
+                2, 
+                9
+            ], 
+            "originalCategoryIndex": 9, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 9, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 1, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 1096700575
+                }, 
+                {
+                    "quantity": 6, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 535079318
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 20, 
+            "displayCategoryIndex": 2, 
+            "displayCategory": "", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 2422292810, 
+            "minimumLevel": 0, 
+            "itemHash": 614874719, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 6, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                7, 
+                8, 
+                10, 
+                9
+            ], 
+            "originalCategoryIndex": 9, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 9, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 2, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 1096700575
+                }, 
+                {
+                    "quantity": 12, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 535079318
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 21, 
+            "displayCategoryIndex": 2, 
+            "displayCategory": "", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 2422292810, 
+            "minimumLevel": 0, 
+            "itemHash": 1507626749, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 6, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                7, 
+                8, 
+                9
+            ], 
+            "originalCategoryIndex": 9, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 9, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 4, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 1096700575
+                }, 
+                {
+                    "quantity": 24, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 535079318
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 22, 
+            "displayCategoryIndex": 2, 
+            "displayCategory": "", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 2422292810, 
+            "minimumLevel": 0, 
+            "itemHash": 2481874212, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 6, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                7, 
+                8, 
+                2, 
+                9
+            ], 
+            "originalCategoryIndex": 9, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 9, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 3, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 535079318
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 23, 
+            "displayCategoryIndex": 2, 
+            "displayCategory": "", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 2422292810, 
+            "minimumLevel": 0, 
+            "itemHash": 614874719, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 6, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                7, 
+                8, 
+                10, 
+                9
+            ], 
+            "originalCategoryIndex": 9, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 9, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 1, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 1096700575
+                }, 
+                {
+                    "quantity": 6, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 535079318
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 24, 
+            "displayCategoryIndex": 2, 
+            "displayCategory": "", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 2422292810, 
+            "minimumLevel": 0, 
+            "itemHash": 1507626749, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 6, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                7, 
+                8, 
+                9
+            ], 
+            "originalCategoryIndex": 9, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 9, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 2, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 1096700575
+                }, 
+                {
+                    "quantity": 12, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 535079318
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 25, 
+            "displayCategoryIndex": 2, 
+            "displayCategory": "", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 2422292810, 
+            "minimumLevel": 0, 
+            "itemHash": 2481874212, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 6, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                11, 
+                8, 
+                2, 
+                12
+            ], 
+            "originalCategoryIndex": 5, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 5, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 60, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 535079318
+                }, 
+                {
+                    "quantity": 3000, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 3159615086
+                }, 
+                {
+                    "quantity": 5, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 1022552290
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 26, 
+            "displayCategoryIndex": 4, 
+            "displayCategory": "Seraph Weapon Frames", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 2422292810, 
+            "minimumLevel": 0, 
+            "itemHash": 3021602042, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 6, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                11, 
+                8, 
+                2, 
+                12
+            ], 
+            "originalCategoryIndex": 5, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 5, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 60, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 535079318
+                }, 
+                {
+                    "quantity": 3000, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 3159615086
+                }, 
+                {
+                    "quantity": 5, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 1022552290
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 27, 
+            "displayCategoryIndex": 4, 
+            "displayCategory": "Seraph Weapon Frames", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 2422292810, 
+            "minimumLevel": 0, 
+            "itemHash": 3021602042, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 6, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                11, 
+                8, 
+                2, 
+                12
+            ], 
+            "originalCategoryIndex": 5, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 5, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 60, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 535079318
+                }, 
+                {
+                    "quantity": 3000, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 3159615086
+                }, 
+                {
+                    "quantity": 5, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 1022552290
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 28, 
+            "displayCategoryIndex": 4, 
+            "displayCategory": "Seraph Weapon Frames", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 2422292810, 
+            "minimumLevel": 0, 
+            "itemHash": 3021602042, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 6, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                11, 
+                8, 
+                2, 
+                12
+            ], 
+            "originalCategoryIndex": 5, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 5, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 60, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 535079318
+                }, 
+                {
+                    "quantity": 3000, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 3159615086
+                }, 
+                {
+                    "quantity": 5, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 1022552290
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 29, 
+            "displayCategoryIndex": 4, 
+            "displayCategory": "Seraph Weapon Frames", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 2422292810, 
+            "minimumLevel": 0, 
+            "itemHash": 2778883494, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 6, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                11, 
+                8, 
+                2, 
+                12
+            ], 
+            "originalCategoryIndex": 5, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 5, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 60, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 535079318
+                }, 
+                {
+                    "quantity": 3000, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 3159615086
+                }, 
+                {
+                    "quantity": 5, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 1022552290
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 30, 
+            "displayCategoryIndex": 4, 
+            "displayCategory": "Seraph Weapon Frames", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 2422292810, 
+            "minimumLevel": 0, 
+            "itemHash": 2778883494, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 6, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                11, 
+                8, 
+                2, 
+                12
+            ], 
+            "originalCategoryIndex": 5, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 5, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 60, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 535079318
+                }, 
+                {
+                    "quantity": 3000, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 3159615086
+                }, 
+                {
+                    "quantity": 5, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 1022552290
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 31, 
+            "displayCategoryIndex": 4, 
+            "displayCategory": "Seraph Weapon Frames", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 2422292810, 
+            "minimumLevel": 0, 
+            "itemHash": 2778883494, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 6, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                11, 
+                8, 
+                2, 
+                12
+            ], 
+            "originalCategoryIndex": 5, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 5, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 60, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 535079318
+                }, 
+                {
+                    "quantity": 3000, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 3159615086
+                }, 
+                {
+                    "quantity": 5, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 1022552290
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 32, 
+            "displayCategoryIndex": 4, 
+            "displayCategory": "Seraph Weapon Frames", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 2422292810, 
+            "minimumLevel": 0, 
+            "itemHash": 1382789457, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 6, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                11, 
+                8, 
+                2, 
+                12
+            ], 
+            "originalCategoryIndex": 5, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 5, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 60, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 535079318
+                }, 
+                {
+                    "quantity": 3000, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 3159615086
+                }, 
+                {
+                    "quantity": 5, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 1022552290
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 33, 
+            "displayCategoryIndex": 4, 
+            "displayCategory": "Seraph Weapon Frames", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 2422292810, 
+            "minimumLevel": 0, 
+            "itemHash": 1382789457, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 6, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                11, 
+                8, 
+                2, 
+                12
+            ], 
+            "originalCategoryIndex": 5, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 5, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 60, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 535079318
+                }, 
+                {
+                    "quantity": 3000, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 3159615086
+                }, 
+                {
+                    "quantity": 5, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 1022552290
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 34, 
+            "displayCategoryIndex": 4, 
+            "displayCategory": "Seraph Weapon Frames", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 2422292810, 
+            "minimumLevel": 0, 
+            "itemHash": 1382789457, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 6, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                11, 
+                8, 
+                2, 
+                12
+            ], 
+            "originalCategoryIndex": 5, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 5, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 60, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 535079318
+                }, 
+                {
+                    "quantity": 3000, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 3159615086
+                }, 
+                {
+                    "quantity": 5, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 1022552290
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 35, 
+            "displayCategoryIndex": 4, 
+            "displayCategory": "Seraph Weapon Frames", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 2422292810, 
+            "minimumLevel": 0, 
+            "itemHash": 3294557246, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 6, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                11, 
+                8, 
+                2, 
+                12
+            ], 
+            "originalCategoryIndex": 5, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 5, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 60, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 535079318
+                }, 
+                {
+                    "quantity": 3000, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 3159615086
+                }, 
+                {
+                    "quantity": 5, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 1022552290
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 36, 
+            "displayCategoryIndex": 4, 
+            "displayCategory": "Seraph Weapon Frames", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 2422292810, 
+            "minimumLevel": 0, 
+            "itemHash": 3294557246, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 6, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                11, 
+                8, 
+                2, 
+                12
+            ], 
+            "originalCategoryIndex": 5, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 5, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 60, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 535079318
+                }, 
+                {
+                    "quantity": 3000, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 3159615086
+                }, 
+                {
+                    "quantity": 5, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 1022552290
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 37, 
+            "displayCategoryIndex": 4, 
+            "displayCategory": "Seraph Weapon Frames", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 2422292810, 
+            "minimumLevel": 0, 
+            "itemHash": 3294557246, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 6, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                11, 
+                8, 
+                2, 
+                12
+            ], 
+            "originalCategoryIndex": 5, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 5, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 60, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 535079318
+                }, 
+                {
+                    "quantity": 3000, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 3159615086
+                }, 
+                {
+                    "quantity": 5, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 1022552290
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 38, 
+            "displayCategoryIndex": 4, 
+            "displayCategory": "Seraph Weapon Frames", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 2422292810, 
+            "minimumLevel": 0, 
+            "itemHash": 2803258773, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 6, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                11, 
+                8, 
+                2, 
+                12
+            ], 
+            "originalCategoryIndex": 5, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 5, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 60, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 535079318
+                }, 
+                {
+                    "quantity": 3000, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 3159615086
+                }, 
+                {
+                    "quantity": 5, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 1022552290
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 39, 
+            "displayCategoryIndex": 4, 
+            "displayCategory": "Seraph Weapon Frames", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 2422292810, 
+            "minimumLevel": 0, 
+            "itemHash": 2803258773, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 6, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                11, 
+                8, 
+                2, 
+                12
+            ], 
+            "originalCategoryIndex": 5, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 5, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 60, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 535079318
+                }, 
+                {
+                    "quantity": 3000, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 3159615086
+                }, 
+                {
+                    "quantity": 5, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 1022552290
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 40, 
+            "displayCategoryIndex": 4, 
+            "displayCategory": "Seraph Weapon Frames", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 2422292810, 
+            "minimumLevel": 0, 
+            "itemHash": 2803258773, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 6, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                11, 
+                8, 
+                2, 
+                12
+            ], 
+            "originalCategoryIndex": 5, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 5, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 60, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 535079318
+                }, 
+                {
+                    "quantity": 3000, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 3159615086
+                }, 
+                {
+                    "quantity": 5, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 1022552290
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 41, 
+            "displayCategoryIndex": 4, 
+            "displayCategory": "Seraph Weapon Frames", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 2422292810, 
+            "minimumLevel": 0, 
+            "itemHash": 500319914, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 6, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                11, 
+                8, 
+                2, 
+                12
+            ], 
+            "originalCategoryIndex": 5, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 5, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 60, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 535079318
+                }, 
+                {
+                    "quantity": 3000, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 3159615086
+                }, 
+                {
+                    "quantity": 5, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 1022552290
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 42, 
+            "displayCategoryIndex": 4, 
+            "displayCategory": "Seraph Weapon Frames", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 2422292810, 
+            "minimumLevel": 0, 
+            "itemHash": 500319914, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 6, 
+            "weight": 0.0, 
+            "visibilityScope": 6, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                11, 
+                8, 
+                2, 
+                12
+            ], 
+            "originalCategoryIndex": 5, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 5, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 60, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 535079318
+                }, 
+                {
+                    "quantity": 3000, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 3159615086
+                }, 
+                {
+                    "quantity": 5, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 1022552290
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 43, 
+            "displayCategoryIndex": 4, 
+            "displayCategory": "Seraph Weapon Frames", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 2422292810, 
+            "minimumLevel": 0, 
+            "itemHash": 500319914, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 3, 
+            "weight": 0.0, 
+            "visibilityScope": 3, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                13
+            ], 
+            "originalCategoryIndex": 8, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 8, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 44, 
+            "displayCategoryIndex": 1, 
+            "displayCategory": "", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 2973005342, 
+            "minimumLevel": 0, 
+            "itemHash": 737170668, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 3, 
+            "weight": 0.0, 
+            "visibilityScope": 3, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                13
+            ], 
+            "originalCategoryIndex": 8, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 8, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 45, 
+            "displayCategoryIndex": 1, 
+            "displayCategory": "", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 2973005342, 
+            "minimumLevel": 0, 
+            "itemHash": 737170669, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 3, 
+            "weight": 0.0, 
+            "visibilityScope": 3, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                13
+            ], 
+            "originalCategoryIndex": 8, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 8, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 46, 
+            "displayCategoryIndex": 1, 
+            "displayCategory": "", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 4274335291, 
+            "minimumLevel": 0, 
+            "itemHash": 1983519839, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 3, 
+            "weight": 0.0, 
+            "visibilityScope": 3, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                13
+            ], 
+            "originalCategoryIndex": 8, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 8, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 47, 
+            "displayCategoryIndex": 1, 
+            "displayCategory": "", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 284967655, 
+            "minimumLevel": 0, 
+            "itemHash": 3508741484, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 3, 
+            "weight": 0.0, 
+            "visibilityScope": 3, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                14, 
+                15
+            ], 
+            "originalCategoryIndex": 10, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 10, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 5, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 1096700575
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 48, 
+            "displayCategoryIndex": 3, 
+            "displayCategory": "", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 2422292810, 
+            "minimumLevel": 0, 
+            "itemHash": 179977568, 
+            "quantity": 1
+        }, 
+        {
+            "refundPolicy": 0, 
+            "purchasableScope": 3, 
+            "weight": 0.0, 
+            "visibilityScope": 3, 
+            "priceOverrideEnabled": false, 
+            "failureIndexes": [
+                14, 
+                15
+            ], 
+            "originalCategoryIndex": 10, 
+            "maximumLevel": 0, 
+            "exclusivity": -1, 
+            "categoryIndex": 10, 
+            "creationLevels": [
+                {
+                    "level": 0
+                }
+            ], 
+            "seedOverride": 0, 
+            "redirectToSaleIndexes": [], 
+            "licenseUnlockHash": 0, 
+            "expirationTooltip": "", 
+            "currencies": [
+                {
+                    "quantity": 5, 
+                    "scalarDenominator": 0, 
+                    "itemHash": 1096700575
+                }
+            ], 
+            "socketOverrides": [], 
+            "rewardAdjustorPointerHash": 0, 
+            "refundTimeLimit": 0, 
+            "vendorItemIndex": 49, 
+            "displayCategoryIndex": 3, 
+            "displayCategory": "", 
+            "sortValue": 0, 
+            "action": {
+                "executeSeconds": 1.0, 
+                "isPositive": true
+            }, 
+            "inventoryBucketHash": 2422292810, 
+            "minimumLevel": 0, 
+            "itemHash": 2597888506, 
+            "quantity": 1
+        }
+    ], 
+    "vendorIdentifier": "RASPUTIN_EDEN_GEAR", 
+    "displayCategories": [
+        {
+            "index": 0, 
+            "displayCategoryHash": 3064646675, 
+            "displayInBanner": false, 
+            "sortOrder": 0, 
+            "displayProperties": {
+                "hasIcon": false, 
+                "description": "", 
+                "name": "Weapon Pursuits"
+            }, 
+            "identifier": "vendor_display.misc.category.weapon_pursuits.name"
+        }, 
+        {
+            "index": 1, 
+            "displayCategoryHash": 609069785, 
+            "displayInBanner": false, 
+            "sortOrder": 0, 
+            "displayProperties": {
+                "hasIcon": false, 
+                "description": "", 
+                "name": "Seraph Cosmetics"
+            }, 
+            "identifier": "vendor_display.misc.category.cosmetics.name"
+        }, 
+        {
+            "index": 2, 
+            "displayCategoryHash": 3327542303, 
+            "displayInBanner": false, 
+            "sortOrder": 0, 
+            "displayProperties": {
+                "hasIcon": false, 
+                "description": "", 
+                "name": "Seraph Bunker PDS"
+            }, 
+            "identifier": "vendor_display.misc.category.bunker_defense.name"
+        }, 
+        {
+            "index": 3, 
+            "displayCategoryHash": 1516796039, 
+            "displayInBanner": false, 
+            "sortOrder": 0, 
+            "displayProperties": {
+                "hasIcon": false, 
+                "description": "", 
+                "name": "Miscellaneous"
+            }, 
+            "identifier": "category_class_misc"
+        }, 
+        {
+            "index": 4, 
+            "displayCategoryHash": 4110743674, 
+            "displayInBanner": false, 
+            "sortOrder": 0, 
+            "displayProperties": {
+                "hasIcon": false, 
+                "description": "", 
+                "name": "Seraph Weapon Frames"
+            }, 
+            "identifier": "vendor_display_category_gear_frames_name"
+        }
+    ], 
+    "consolidateCategories": false, 
+    "unlockValueHash": 0, 
+    "interactions": [], 
+    "resetIntervalMinutes": 5, 
+    "groups": [], 
+    "services": [], 
+    "displayItemHash": 0, 
+    "categories": [
+        {
+            "categoryIndex": 0, 
+            "buyStringOverride": "Acquire", 
+            "displayTitle": "Seraph Weapon Frames", 
+            "categoryHash": 3734062960, 
+            "disabledDescription": "", 
+            "showUnavailableItems": false, 
+            "resetIntervalMinutesOverride": -1, 
+            "isPreview": false, 
+            "sortValue": -980, 
+            "isDisplayOnly": false, 
+            "hideIfNoCurrency": false, 
+            "vendorItemIndexes": [
+                0, 
+                1
+            ], 
+            "quantityAvailable": 1, 
+            "hideFromRegularPurchase": false, 
+            "resetOffsetMinutesOverride": -1
+        }, 
+        {
+            "categoryIndex": 1, 
+            "buyStringOverride": "Acquire", 
+            "displayTitle": "Seraph Weapon Frames", 
+            "categoryHash": 2408381504, 
+            "disabledDescription": "", 
+            "showUnavailableItems": false, 
+            "resetIntervalMinutesOverride": -1, 
+            "isPreview": false, 
+            "sortValue": -970, 
+            "isDisplayOnly": false, 
+            "hideIfNoCurrency": false, 
+            "vendorItemIndexes": [
+                4, 
+                5
+            ], 
+            "quantityAvailable": 1, 
+            "hideFromRegularPurchase": false, 
+            "resetOffsetMinutesOverride": -1
+        }, 
+        {
+            "categoryIndex": 2, 
+            "buyStringOverride": "Acquire", 
+            "displayTitle": "Seraph Weapon Frames", 
+            "categoryHash": 2681498063, 
+            "disabledDescription": "", 
+            "showUnavailableItems": false, 
+            "resetIntervalMinutesOverride": -1, 
+            "isPreview": false, 
+            "sortValue": -960, 
+            "isDisplayOnly": false, 
+            "hideIfNoCurrency": false, 
+            "vendorItemIndexes": [
+                2, 
+                3
+            ], 
+            "quantityAvailable": 1, 
+            "hideFromRegularPurchase": false, 
+            "resetOffsetMinutesOverride": -1
+        }, 
+        {
+            "categoryIndex": 3, 
+            "buyStringOverride": "Acquire", 
+            "displayTitle": "Seraph Weapon Frames", 
+            "categoryHash": 2307764340, 
+            "disabledDescription": "", 
+            "showUnavailableItems": false, 
+            "resetIntervalMinutesOverride": -1, 
+            "isPreview": false, 
+            "sortValue": -950, 
+            "isDisplayOnly": false, 
+            "hideIfNoCurrency": false, 
+            "vendorItemIndexes": [
+                6, 
+                7
+            ], 
+            "quantityAvailable": 1, 
+            "hideFromRegularPurchase": false, 
+            "resetOffsetMinutesOverride": -1
+        }, 
+        {
+            "categoryIndex": 4, 
+            "buyStringOverride": "", 
+            "categoryHash": 2024196945, 
+            "disabledDescription": "", 
+            "showUnavailableItems": false, 
+            "resetIntervalMinutesOverride": -1, 
+            "isPreview": false, 
+            "sortValue": -930, 
+            "isDisplayOnly": false, 
+            "hideIfNoCurrency": false, 
+            "vendorItemIndexes": [], 
+            "quantityAvailable": 5, 
+            "hideFromRegularPurchase": false, 
+            "resetOffsetMinutesOverride": -1
+        }, 
+        {
+            "categoryIndex": 5, 
+            "buyStringOverride": "Acquire", 
+            "displayTitle": "Seraph Weapon Frames", 
+            "categoryHash": 4282278221, 
+            "disabledDescription": "", 
+            "showUnavailableItems": false, 
+            "resetIntervalMinutesOverride": -1, 
+            "isPreview": false, 
+            "sortValue": -920, 
+            "isDisplayOnly": false, 
+            "hideIfNoCurrency": false, 
+            "vendorItemIndexes": [
+                26, 
+                27, 
+                28, 
+                29, 
+                30, 
+                31, 
+                32, 
+                33, 
+                34, 
+                35, 
+                36, 
+                37, 
+                38, 
+                39, 
+                40, 
+                41, 
+                42, 
+                43
+            ], 
+            "quantityAvailable": 1, 
+            "hideFromRegularPurchase": false, 
+            "resetOffsetMinutesOverride": -1
+        }, 
+        {
+            "categoryIndex": 6, 
+            "buyStringOverride": "", 
+            "categoryHash": 1801044047, 
+            "disabledDescription": "", 
+            "showUnavailableItems": false, 
+            "resetIntervalMinutesOverride": -1, 
+            "isPreview": false, 
+            "sortValue": -910, 
+            "isDisplayOnly": false, 
+            "hideIfNoCurrency": false, 
+            "vendorItemIndexes": [], 
+            "quantityAvailable": 1, 
+            "hideFromRegularPurchase": false, 
+            "resetOffsetMinutesOverride": -1
+        }, 
+        {
+            "categoryIndex": 7, 
+            "buyStringOverride": "", 
+            "categoryHash": 622775775, 
+            "disabledDescription": "", 
+            "showUnavailableItems": false, 
+            "resetIntervalMinutesOverride": -1, 
+            "isPreview": false, 
+            "sortValue": -900, 
+            "isDisplayOnly": false, 
+            "hideIfNoCurrency": false, 
+            "vendorItemIndexes": [], 
+            "quantityAvailable": 2, 
+            "hideFromRegularPurchase": false, 
+            "resetOffsetMinutesOverride": -1
+        }, 
+        {
+            "categoryIndex": 8, 
+            "buyStringOverride": "Acquire", 
+            "categoryHash": 830954567, 
+            "disabledDescription": "", 
+            "showUnavailableItems": false, 
+            "resetIntervalMinutesOverride": -1, 
+            "isPreview": false, 
+            "sortValue": -890, 
+            "isDisplayOnly": false, 
+            "hideIfNoCurrency": false, 
+            "vendorItemIndexes": [
+                44, 
+                45, 
+                46, 
+                47
+            ], 
+            "quantityAvailable": 4, 
+            "hideFromRegularPurchase": false, 
+            "resetOffsetMinutesOverride": -1
+        }, 
+        {
+            "categoryIndex": 9, 
+            "buyStringOverride": "Acquire", 
+            "categoryHash": 4146473058, 
+            "disabledDescription": "", 
+            "showUnavailableItems": false, 
+            "resetIntervalMinutesOverride": -1, 
+            "isPreview": false, 
+            "sortValue": -890, 
+            "isDisplayOnly": false, 
+            "hideIfNoCurrency": false, 
+            "vendorItemIndexes": [
+                8, 
+                9, 
+                10, 
+                11, 
+                12, 
+                13, 
+                14, 
+                15, 
+                16, 
+                17, 
+                18, 
+                19, 
+                20, 
+                21, 
+                22, 
+                23, 
+                24, 
+                25
+            ], 
+            "quantityAvailable": 3, 
+            "hideFromRegularPurchase": false, 
+            "resetOffsetMinutesOverride": -1
+        }, 
+        {
+            "categoryIndex": 10, 
+            "buyStringOverride": "Acquire", 
+            "categoryHash": 1547156651, 
+            "disabledDescription": "", 
+            "showUnavailableItems": false, 
+            "resetIntervalMinutesOverride": -1, 
+            "isPreview": false, 
+            "sortValue": -860, 
+            "isDisplayOnly": false, 
+            "hideIfNoCurrency": false, 
+            "vendorItemIndexes": [
+                48, 
+                49
+            ], 
+            "quantityAvailable": 10, 
+            "hideFromRegularPurchase": false, 
+            "resetOffsetMinutesOverride": -1
+        }
+    ], 
+    "blacklisted": false, 
+    "failureStrings": [
+        "Requires Season Pass", 
+        "Requires EDZ Seraph Bunker Rank 3", 
+        "Bunker Offline: Clear this bunker of combatants.", 
+        "Bounty Limit Reached", 
+        "Requires Io Seraph Bunker Rank 3", 
+        "Requires Moon Seraph Bunker Rank 3", 
+        "Requires all Seraph Bunkers at Rank 3", 
+        "Season Pass Rank 32 Perk Required", 
+        "Manual Bunker Clear Required", 
+        "Seraph Bunker PDS online", 
+        "Bunker is Clear", 
+        "Season Pass Rank 92 Perk Required", 
+        "Limit: one per day", 
+        "Seraph Warsat Network", 
+        "Bunker Rank 7 Required", 
+        "Already Owned"
+    ], 
+    "factionHash": 0, 
+    "enabled": true, 
+    "unlockRanges": [], 
+    "returnWithVendorRequest": false, 
+    "displayProperties": {
+        "subtitle": "", 
+        "description": "Rasputin can supply powerful tools to arm you. Here, you may purchase weapons and weapon pursuits for Io.", 
+        "originalIcon": "/common/destiny2_content/icons/098d905a29bb98e5e217e7b33f0d1c0c.jpg", 
+        "name": "Io Armory", 
+        "requirementsDisplay": [], 
+        "hasIcon": true, 
+        "icon": "/common/destiny2_content/icons/098d905a29bb98e5e217e7b33f0d1c0c.jpg"
+    }
+}

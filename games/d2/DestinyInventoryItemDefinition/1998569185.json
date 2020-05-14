@@ -1,0 +1,133 @@
+{
+    "itemTypeAndTierDisplayName": "Exotic Weapon Ornament", 
+    "translationBlock": {
+        "customDyes": [], 
+        "hasGeometry": true, 
+        "lockedDyes": [
+            {
+                "dyeHash": 811913739, 
+                "channelHash": 1667433279
+            }, 
+            {
+                "dyeHash": 811913738, 
+                "channelHash": 1667433278
+            }, 
+            {
+                "dyeHash": 811913737, 
+                "channelHash": 1667433277
+            }
+        ], 
+        "weaponPatternHash": 0, 
+        "defaultDyes": [], 
+        "arrangements": [
+            {
+                "classHash": 0, 
+                "artArrangementHash": 1998569185
+            }
+        ]
+    }, 
+    "itemType": 19, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "index": 11694, 
+    "allowActions": true, 
+    "equippable": false, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Exotic", 
+        "bucketTypeHash": 3313201758, 
+        "tierTypeHash": 2759499571, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 999, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 6, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "preview": {
+        "screenStyle": "screen_style_sockets", 
+        "previewVendorHash": 0, 
+        "previewActionString": "Preview"
+    }, 
+    "hash": 1998569185, 
+    "screenshot": "/common/destiny2_content/screenshots/1998569185.jpg", 
+    "itemTypeDisplayName": "Weapon Ornament", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "displayProperties": {
+        "icon": "/common/destiny2_content/icons/4ffb3561b5e564280af3649c728672ba.jpg", 
+        "hasIcon": true, 
+        "description": "Equip this weapon ornament to change the appearance of Worldline Zero. Once you get an ornament, it's unlocked for all characters on your account.", 
+        "highResIcon": "/common/destiny2_content/icons/cf99cefd85ee69fa7e1854302a5770b7.jpg", 
+        "name": "Timeline Zero"
+    }, 
+    "itemSubType": 21, 
+    "itemCategoryHashes": [
+        56, 
+        52, 
+        59, 
+        3124752623, 
+        610365472
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": false, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "plug": {
+        "insertionMaterialRequirementHash": 0, 
+        "actionRewardSiteHash": 0, 
+        "enabledMaterialRequirementHash": 0, 
+        "previewItemOverrideHash": 0, 
+        "insertionRules": [
+            {
+                "failureMessage": "Requires Mod Item"
+            }
+        ], 
+        "enabledRules": [], 
+        "plugCategoryHash": 2415152446, 
+        "plugCategoryIdentifier": "v320_new_sword0_skins", 
+        "onActionRecreateSelf": false, 
+        "plugStyle": 0, 
+        "isDummyPlug": false, 
+        "actionRewardItemOverrideHash": 0, 
+        "uiPlugLabel": "", 
+        "alternatePlugStyle": 0, 
+        "alternateUiPlugLabel": "", 
+        "plugAvailability": 0
+    }, 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "displaySource": "", 
+    "traitIds": [
+        "item_type.weapon_ornament"
+    ], 
+    "perks": [], 
+    "specialItemType": 0, 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Unlock", 
+        "deleteOnAction": true, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "useOnAcquire": false, 
+        "isPositive": true, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }
+}

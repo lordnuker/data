@@ -1,0 +1,92 @@
+{
+    "itemTypeAndTierDisplayName": "Basic Quest Step", 
+    "nonTransferrable": true, 
+    "tooltipNotifications": [], 
+    "itemType": 12, 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": true, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Basic", 
+        "bucketTypeHash": 1345459588, 
+        "tierTypeHash": 1801258597, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 0, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Quest Step", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": true, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        16
+    ], 
+    "uiItemDisplayStyle": "", 
+    "secondaryOverlay": "/img/misc/missing_icon_d2.png", 
+    "secondaryIcon": "/common/destiny2_content/icons/70ce659ab213faa350604b2258ffa1fc.jpg", 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "secondarySpecial": "/img/misc/missing_icon_d2.png", 
+    "displaySource": "", 
+    "value": {
+        "itemValue": [
+            {
+                "itemHash": 422795638, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }
+        ], 
+        "valueDescription": ""
+    }, 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/4a60dc558cafdec702e5012fccc059e1.png", 
+                    "/common/destiny2_content/icons/4a60dc558cafdec702e5012fccc059e1.png", 
+                    "/common/destiny2_content/icons/e2d77d947f7dbedf8bd68ae1e805d1c7.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/4a60dc558cafdec702e5012fccc059e1.png", 
+        "hasIcon": true, 
+        "description": "Hear out Lakshmi-2", 
+        "name": "Faction Rallies"
+    }
+}

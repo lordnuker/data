@@ -1,0 +1,77 @@
+{
+    "itemTypeAndTierDisplayName": "Basic Quest Step", 
+    "nonTransferrable": true, 
+    "tooltipNotifications": [], 
+    "itemType": 12, 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": true, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Basic", 
+        "bucketTypeHash": 1801258597, 
+        "tierTypeHash": 1801258597, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 0, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "setData": {
+        "trackingUnlockValueHash": 0, 
+        "setIsFeatured": true, 
+        "itemList": [
+            {
+                "itemHash": 4121463065, 
+                "trackingValue": 100
+            }
+        ], 
+        "requireOrderedSetItemAdd": true, 
+        "questLineName": "Trials Returns", 
+        "abandonmentUnlockHash": 0, 
+        "setType": "quest_global"
+    }, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Quest Step", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": true, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        16
+    ], 
+    "uiItemDisplayStyle": "", 
+    "secondaryOverlay": "/img/misc/missing_icon_d2.png", 
+    "secondaryIcon": "/common/destiny2_content/icons/d1b03d37c680a09753ceb9f49a37891c.jpg", 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "secondarySpecial": "/img/misc/missing_icon_d2.png", 
+    "displaySource": "", 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/2402ce367c3bd4cdc3668a1a87f80c11.png", 
+                    "/common/destiny2_content/icons/2402ce367c3bd4cdc3668a1a87f80c11.png", 
+                    "/common/destiny2_content/icons/1129010d89051f8461d8f1627615700e.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/2402ce367c3bd4cdc3668a1a87f80c11.png", 
+        "hasIcon": true, 
+        "description": "Speak with Saint-14 in the Tower Hangar.", 
+        "name": "The Trials of Osiris"
+    }
+}

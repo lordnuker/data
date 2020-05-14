@@ -1,0 +1,81 @@
+{
+    "itemTypeAndTierDisplayName": "Common Crucible Bounty", 
+    "itemType": 0, 
+    "tooltipNotifications": [], 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": true, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Common", 
+        "bucketTypeHash": 1345459588, 
+        "stackUniqueLabel": "launchpad.bounties.crucible.bounty0", 
+        "tierTypeHash": 3340296461, 
+        "expiredInActivityMessage": "Expired. Unless completed, this bounty will be removed when you return to orbit or load into a new activity.", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "Expires in .", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 2, 
+        "expiredInOrbitMessage": "Expired. Bounty will be removed upon leaving orbit."
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Crucible Bounty", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        28
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "displaySource": "", 
+    "value": {
+        "itemValue": [
+            {
+                "itemHash": 2211488305, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 183980811, 
+                "quantity": 5
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }
+        ], 
+        "valueDescription": ""
+    }, 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "icon": "/common/destiny2_content/icons/619ac29fe998248f84e10ea906d4eda0.jpg", 
+        "hasIcon": true, 
+        "description": "INTRODUCTION: CRUCIBLE\nDefeat Guardians in the Crucible.", 
+        "name": "Combat Training"
+    }
+}

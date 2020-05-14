@@ -1,0 +1,153 @@
+{
+    "itemTypeAndTierDisplayName": "Legendary Quest Step", 
+    "itemType": 12, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "index": 14630, 
+    "allowActions": true, 
+    "objectives": {
+        "objectiveVerbName": "", 
+        "requireFullObjectiveCompletion": true, 
+        "questTypeIdentifier": "quest_global", 
+        "perObjectiveDisplayProperties": [
+            {
+                "displayOnItemPreviewScreen": false
+            }
+        ], 
+        "objectiveHashes": [
+            1071042885
+        ], 
+        "displayAsStatTracker": false, 
+        "useOnObjectiveCompletion": false, 
+        "completionRewardSiteHash": 0, 
+        "timestampUnlockValueHash": 0, 
+        "questlineItemHash": 1234243665, 
+        "isGlobalObjectiveItem": false, 
+        "inhibitCompletionUnlockValueHash": 0, 
+        "narrative": "", 
+        "displayActivityHashes": [
+            2166136261
+        ], 
+        "nextQuestStepRewardSiteHash": 0, 
+        "questTypeHash": 3413310557
+    }, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Legendary", 
+        "bucketTypeHash": 1345459588, 
+        "tierTypeHash": 4008398120, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 5, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "setData": {
+        "trackingUnlockValueHash": 0, 
+        "setIsFeatured": false, 
+        "itemList": [
+            {
+                "itemHash": 1217466081, 
+                "trackingValue": 200
+            }, 
+            {
+                "itemHash": 1217466084, 
+                "trackingValue": 250
+            }, 
+            {
+                "itemHash": 1167133224, 
+                "trackingValue": 300
+            }, 
+            {
+                "itemHash": 1183910811, 
+                "trackingValue": 400
+            }, 
+            {
+                "itemHash": 1267798970, 
+                "trackingValue": 500
+            }, 
+            {
+                "itemHash": 1234243668, 
+                "trackingValue": 700
+            }, 
+            {
+                "itemHash": 1234243665, 
+                "trackingValue": 750
+            }, 
+            {
+                "itemHash": 1251021255, 
+                "trackingValue": 800
+            }
+        ], 
+        "requireOrderedSetItemAdd": true, 
+        "questLineName": "Raising Our Defenses", 
+        "abandonmentUnlockHash": 0, 
+        "setType": "quest_global"
+    }, 
+    "hash": 1234243665, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Quest Step", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": true, 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Abandon", 
+        "deleteOnAction": true, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "useOnAcquire": false, 
+        "isPositive": false, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        16
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": true, 
+    "tooltipStyle": "bounty", 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "displaySource": "\"I am elevating your clearance level, Guardian. You now have full authorization in regards to Rasputin's integration here.\" —Commander Zavala", 
+    "traitIds": [
+        "inventory_filtering.quest", 
+        "quest.seasonal"
+    ], 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/8e1f24b3c61bd07ab6b330c722b6e772.jpg", 
+                    "/common/destiny2_content/icons/c9dfb15fa2d33b0c7a5b31ad720fcf43.png", 
+                    "/common/destiny2_content/icons/9e2f4bae43a759eb9e125b18efb45b36.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/8e1f24b3c61bd07ab6b330c722b6e772.jpg", 
+        "hasIcon": true, 
+        "description": "With the bunker back online, you can purchase upgrades to bring new bunker systems online. These systems will strengthen Rasputin's integration and your capabilities.", 
+        "name": "Purchase Bunker Upgrade"
+    }
+}

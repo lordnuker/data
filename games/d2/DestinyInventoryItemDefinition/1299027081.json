@@ -1,0 +1,121 @@
+{
+    "itemTypeAndTierDisplayName": "", 
+    "itemType": 20, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "quality": {
+        "infusionCategoryHash": 0, 
+        "infusionCategoryHashes": [], 
+        "infusionCategoryName": "0", 
+        "progressionLevelRequirementHash": 0, 
+        "qualityLevel": 0, 
+        "itemLevels": []
+    }, 
+    "sockets": {
+        "socketEntries": [
+            {
+                "reusablePlugItems": [], 
+                "preventInitializationOnVendorPurchase": false, 
+                "preventInitializationWhenVersioning": false, 
+                "overridesUiAppearance": false, 
+                "hidePerksInItemTooltip": false, 
+                "singleInitialItemHash": 0, 
+                "socketTypeHash": 2283881058, 
+                "defaultVisible": true, 
+                "plugSources": 1
+            }
+        ], 
+        "socketCategories": [
+            {
+                "socketIndexes": [
+                    0
+                ], 
+                "socketCategoryHash": 279738248
+            }
+        ], 
+        "detail": "Shader", 
+        "intrinsicSockets": []
+    }, 
+    "index": 5275, 
+    "stats": {
+        "hasDisplayableStats": false, 
+        "primaryBaseStatHash": 0, 
+        "disablePrimaryStatDisplay": false, 
+        "stats": {}
+    }, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": true, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Common", 
+        "bucketTypeHash": 3621873013, 
+        "tierTypeHash": 3340296461, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 2, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "hash": 1299027081, 
+    "equippable": false, 
+    "itemTypeDisplayName": "", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Use", 
+        "deleteOnAction": false, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "useOnAcquire": false, 
+        "isPositive": false, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        3109687656
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": true, 
+    "tooltipStyle": "vendor_action", 
+    "allowActions": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "displaySource": "", 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/7d0c1deffa867a4bd624e26d485e8099.jpg", 
+                    "/common/destiny2_content/icons/d0555d64ba77d598a687fef79ef10e12.png", 
+                    "/common/destiny2_content/icons/ab4776cd7f8fd7d81c341fca9be296fd.png", 
+                    "/common/destiny2_content/icons/0b41a0baa5f01abd71abda08ba42d3b9.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/7d0c1deffa867a4bd624e26d485e8099.jpg", 
+        "hasIcon": true, 
+        "description": "Dismantle a stack of these shaders to recover useful materials or currencies.", 
+        "name": "Recycle Shaders"
+    }
+}

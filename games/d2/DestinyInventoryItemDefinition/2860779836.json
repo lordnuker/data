@@ -1,0 +1,137 @@
+{
+    "itemTypeAndTierDisplayName": "", 
+    "itemType": 20, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "index": 12970, 
+    "stats": {
+        "hasDisplayableStats": false, 
+        "primaryBaseStatHash": 0, 
+        "disablePrimaryStatDisplay": false, 
+        "stats": {}
+    }, 
+    "objectives": {
+        "objectiveVerbName": "Complete", 
+        "requireFullObjectiveCompletion": true, 
+        "questTypeIdentifier": "black_armory_run", 
+        "perObjectiveDisplayProperties": [
+            {
+                "displayOnItemPreviewScreen": false, 
+                "activityHash": 1506080581
+            }
+        ], 
+        "objectiveHashes": [
+            442341569
+        ], 
+        "displayAsStatTracker": false, 
+        "useOnObjectiveCompletion": false, 
+        "completionRewardSiteHash": 0, 
+        "timestampUnlockValueHash": 0, 
+        "questlineItemHash": 2828806725, 
+        "isGlobalObjectiveItem": false, 
+        "inhibitCompletionUnlockValueHash": 0, 
+        "narrative": "", 
+        "displayActivityHashes": [
+            2166136261
+        ], 
+        "nextQuestStepRewardSiteHash": 0, 
+        "questTypeHash": 838603889
+    }, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": true, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "bucketTypeHash": 1801258597, 
+        "tierTypeHash": 0, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 0, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 5, 
+        "green": 3, 
+        "colorHash": 0, 
+        "red": 9, 
+        "alpha": 255
+    }, 
+    "hash": 2860779836, 
+    "equippable": false, 
+    "itemTypeDisplayName": "", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": true, 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Abandon", 
+        "deleteOnAction": true, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "useOnAcquire": false, 
+        "isPositive": false, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        3109687656
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": true, 
+    "tooltipStyle": "bounty", 
+    "allowActions": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "displaySource": "", 
+    "traitIds": [
+        "inventory_filtering.quest", 
+        "quest.past"
+    ], 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/ca3b64faef669af751333cee69081a5a.png", 
+                    "/common/destiny2_content/icons/cb7c8c538d038d751e330d1087c6bdc4.png", 
+                    "/common/destiny2_content/icons/fc11377852310f234067b97bae7f7067.png", 
+                    "/common/destiny2_content/icons/99187d2f892cfe0844cf6b3acb84cc0d.png", 
+                    "/common/destiny2_content/icons/cfd00f2ee47d99f4f042d9e44dc239f8.png", 
+                    "/common/destiny2_content/icons/e00bd080ae3cfdb17fe753c1faa40975.png"
+                ]
+            }, 
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/4bc74cdde2879015600a62b4631b42c3.png", 
+                    "/common/destiny2_content/icons/fc19a01b02627cb40091631bd097bc19.png", 
+                    "/common/destiny2_content/icons/568880ba657580e32495801fd850d589.png"
+                ]
+            }, 
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/74711330dc58d137524fa4e56530197a.png"
+                ]
+            }, 
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/0d3d36140da7975fad4235d208bdd842.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/ca3b64faef669af751333cee69081a5a.png", 
+        "hasIcon": true, 
+        "description": "Bring any Black Armory weapon frame or research frame to the Volundr Forge to be crafted.", 
+        "name": "Forge Ignition"
+    }
+}

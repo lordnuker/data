@@ -1,0 +1,89 @@
+{
+    "itemTypeAndTierDisplayName": "Common Season of the Worthy Perk", 
+    "itemType": 20, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "tooltipNotifications": [
+        {
+            "displayString": "Expires at the end of Season 10", 
+            "displayStyle": ""
+        }
+    ], 
+    "index": 11465, 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Common", 
+        "bucketTypeHash": 2422292810, 
+        "tierTypeHash": 3340296461, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 2, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "hash": 4184362616, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Season of the Worthy Perk", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": true, 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Discard", 
+        "deleteOnAction": true, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "actionTypeLabel": "shard", 
+        "useOnAcquire": false, 
+        "isPositive": false, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": true
+    }, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        3109687656
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": true, 
+    "tooltipStyle": "vendor_action", 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "displaySource": "", 
+    "traitIds": [
+        "item_type.boost"
+    ], 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/4670104c2de268d2ca220183c1653dd7.png", 
+                    "/common/destiny2_content/icons/3b49f3735b82f82558728d1eb5538544.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/4670104c2de268d2ca220183c1653dd7.png", 
+        "hasIcon": true, 
+        "description": "The resource frames in the Seraph bunkers have an increased maximum storage capacity.", 
+        "name": "Enhanced Resource Frames"
+    }
+}

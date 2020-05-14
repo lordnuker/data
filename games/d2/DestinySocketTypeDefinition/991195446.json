@@ -1,0 +1,35 @@
+{
+    "index": 223, 
+    "hash": 991195446, 
+    "blacklisted": false, 
+    "avoidDuplicatesOnInitialization": false, 
+    "insertAction": {
+        "actionSoundHash": 0, 
+        "isPositiveAction": false, 
+        "actionType": 0, 
+        "actionExecuteSeconds": 1
+    }, 
+    "plugWhitelist": [
+        {
+            "categoryIdentifier": "events.dawning.ingredient_b", 
+            "categoryHash": 134161966
+        }, 
+        {
+            "categoryIdentifier": "events.dawning.oven.empty", 
+            "categoryHash": 166881535
+        }
+    ], 
+    "currencyScalars": [], 
+    "redacted": false, 
+    "visibility": 0, 
+    "isPreviewEnabled": false, 
+    "alwaysRandomizeSockets": false, 
+    "overridesUiAppearance": false, 
+    "displayProperties": {
+        "hasIcon": false, 
+        "description": "Select from the ingredients you've collected during the Dawning to create something special.", 
+        "name": "Ingredients"
+    }, 
+    "socketCategoryHash": 322810736, 
+    "hideDuplicateReusablePlugs": false
+}

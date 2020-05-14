@@ -1,0 +1,112 @@
+{
+    "itemTypeAndTierDisplayName": "Legendary Armor Mod", 
+    "itemType": 19, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "index": 176, 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Legendary", 
+        "bucketTypeHash": 1469714392, 
+        "tierTypeHash": 4008398120, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 5, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "hash": 1666207339, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Armor Mod", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        59, 
+        4104513227
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": true, 
+    "tooltipStyle": "record", 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "plug": {
+        "insertionMaterialRequirementHash": 0, 
+        "actionRewardSiteHash": 0, 
+        "enabledMaterialRequirementHash": 0, 
+        "previewItemOverrideHash": 0, 
+        "insertionRules": [
+            {
+                "failureMessage": "Requires a Festival of the Lost mask."
+            }
+        ], 
+        "enabledRules": [
+            {
+                "failureMessage": "Requires a Festival of the Lost mask."
+            }
+        ], 
+        "plugCategoryHash": 457704685, 
+        "plugCategoryIdentifier": "v404.armor.fotl.masks.abyss.perks", 
+        "onActionRecreateSelf": false, 
+        "plugStyle": 0, 
+        "isDummyPlug": false, 
+        "actionRewardItemOverrideHash": 0, 
+        "uiPlugLabel": "", 
+        "alternatePlugStyle": 0, 
+        "alternateUiPlugLabel": "", 
+        "plugAvailability": 0
+    }, 
+    "blacklisted": false, 
+    "displaySource": "", 
+    "perks": [
+        {
+            "requirementDisplayString": "", 
+            "perkHash": 2010243965, 
+            "perkVisibility": 1
+        }, 
+        {
+            "requirementDisplayString": "", 
+            "perkHash": 2980325776, 
+            "perkVisibility": 1
+        }, 
+        {
+            "requirementDisplayString": "", 
+            "perkHash": 2364811786, 
+            "perkVisibility": 1
+        }
+    ], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/2b7415d0ce6f2cf76bbac4d7418d4068.png"
+                ]
+            }, 
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/4618600e0a503881c36bc6cc725f0da3.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/2b7415d0ce6f2cf76bbac4d7418d4068.png", 
+        "hasIcon": true, 
+        "description": "This mask can be upgraded to increase damage to challenging enemies and trigger health regeneration on precision kills. Unlock these upgrades by defeating Terrors in the Haunted Forest.\n\nThese perks are active only inside the Haunted Forest.", 
+        "name": "Vampiric Touch"
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "itemTypeAndTierDisplayName": "Legendary Container", 
+    "itemType": 0, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "sockets": {
+        "socketEntries": [
+            {
+                "reusablePlugItems": [
+                    {
+                        "plugItemHash": 229375444
+                    }, 
+                    {
+                        "plugItemHash": 3211523352
+                    }, 
+                    {
+                        "plugItemHash": 417422411
+                    }, 
+                    {
+                        "plugItemHash": 3924367995
+                    }, 
+                    {
+                        "plugItemHash": 978797309
+                    }, 
+                    {
+                        "plugItemHash": 3054254657
+                    }
+                ], 
+                "preventInitializationOnVendorPurchase": true, 
+                "reusablePlugSetHash": 2713467499, 
+                "preventInitializationWhenVersioning": false, 
+                "overridesUiAppearance": false, 
+                "hidePerksInItemTooltip": false, 
+                "singleInitialItemHash": 3357307896, 
+                "socketTypeHash": 3254670087, 
+                "defaultVisible": true, 
+                "plugSources": 3
+            }
+        ], 
+        "socketCategories": [
+            {
+                "socketIndexes": [
+                    0
+                ], 
+                "socketCategoryHash": 524367450
+            }
+        ], 
+        "detail": "Reveler's Tonic", 
+        "intrinsicSockets": []
+    }, 
+    "talentGrid": {
+        "talentGridHash": 521135891, 
+        "hudDamageType": 1, 
+        "itemDetailString": "Details"
+    }, 
+    "index": 7348, 
+    "stats": {
+        "hasDisplayableStats": false, 
+        "primaryBaseStatHash": 0, 
+        "disablePrimaryStatDisplay": false, 
+        "stats": {}
+    }, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": true, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Legendary", 
+        "bucketTypeHash": 1345459588, 
+        "tierTypeHash": 4008398120, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 5, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "preview": {
+        "screenStyle": "screen_style_sockets", 
+        "previewVendorHash": 0, 
+        "previewActionString": ""
+    }, 
+    "hash": 3254670087, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Container", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Discard", 
+        "deleteOnAction": true, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "useOnAcquire": false, 
+        "isPositive": false, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": true, 
+    "tooltipStyle": "quest", 
+    "allowActions": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "displaySource": "", 
+    "traitIds": [
+        "inventory_filtering.quest", 
+        "quest.seasonal"
+    ], 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "icon": "/common/destiny2_content/icons/199fc402d1b51f73fbdc3d7b867d0513.jpg", 
+        "hasIcon": true, 
+        "description": "A refreshing, fizzy concoction brewed with love and Light in recognition of this year's Revelry. Even the tiniest swig is guaranteed to put you in a good mood.", 
+        "name": "Reveler's Tonic"
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "itemTypeAndTierDisplayName": "Common Aura", 
+    "itemType": 19, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "index": 3276, 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Common", 
+        "bucketTypeHash": 3313201758, 
+        "tierTypeHash": 3340296461, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 2, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "hash": 3719164773, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Aura", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        59
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": false, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "plug": {
+        "insertionMaterialRequirementHash": 0, 
+        "actionRewardSiteHash": 0, 
+        "enabledMaterialRequirementHash": 0, 
+        "previewItemOverrideHash": 0, 
+        "insertionRules": [], 
+        "enabledRules": [
+            {
+                "failureMessage": "Requires Recent Flawless Ticket"
+            }
+        ], 
+        "plugCategoryHash": 734522343, 
+        "plugCategoryIdentifier": "emblem.perk", 
+        "onActionRecreateSelf": false, 
+        "plugStyle": 0, 
+        "isDummyPlug": false, 
+        "actionRewardItemOverrideHash": 0, 
+        "uiPlugLabel": "", 
+        "alternatePlugStyle": 0, 
+        "alternateUiPlugLabel": "", 
+        "plugAvailability": 0
+    }, 
+    "blacklisted": false, 
+    "displaySource": "", 
+    "traitIds": [
+        "item_type.aura"
+    ], 
+    "perks": [
+        {
+            "requirementDisplayString": "", 
+            "perkHash": 2744522971, 
+            "perkVisibility": 0
+        }
+    ], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/caf266981c744a0a899ca4001df526cc.png"
+                ]
+            }, 
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/b185a64fd011625cfea5d261b8fe249f.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/caf266981c744a0a899ca4001df526cc.png", 
+        "hasIcon": true, 
+        "description": "If you've completed a flawless ticket in the last 14 days, you will be surrounded by a blue aura.", 
+        "name": "Crown of Will"
+    }
+}

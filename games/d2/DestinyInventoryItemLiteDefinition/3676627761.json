@@ -1,0 +1,79 @@
+{
+    "itemTypeAndTierDisplayName": "Legendary Armor Perk", 
+    "itemType": 19, 
+    "tooltipNotifications": [], 
+    "quality": {
+        "infusionCategoryHash": 0, 
+        "infusionCategoryHashes": [], 
+        "infusionCategoryName": "0", 
+        "progressionLevelRequirementHash": 0, 
+        "qualityLevel": 0, 
+        "itemLevels": []
+    }, 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "summaryItemHash": 3407672161, 
+    "inventory": {
+        "isInstanceItem": true, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Legendary", 
+        "bucketTypeHash": 1469714392, 
+        "tierTypeHash": 4008398120, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 5, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Armor Perk", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        59, 
+        303512563
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "displaySource": "", 
+    "perks": [
+        {
+            "requirementDisplayString": "", 
+            "perkHash": 1837889056, 
+            "perkVisibility": 0
+        }
+    ], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/02f12b81e20f52d3c48d6783c5684cd4.png"
+                ]
+            }, 
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/c78b5a342fae4b6488fe53f9870fe3b3.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/02f12b81e20f52d3c48d6783c5684cd4.png", 
+        "hasIcon": true, 
+        "description": "Reduces flinching from incoming fire while aiming Sidearms, Hand Cannons, Bows, and Submachine Guns.", 
+        "name": "Unflinching Light Arms Aim"
+    }
+}

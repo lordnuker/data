@@ -1,2 +1,2 @@
 # data
-Various game data
+Various data for connectivity purposes

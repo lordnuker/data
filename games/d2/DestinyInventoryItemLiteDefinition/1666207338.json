@@ -1,0 +1,80 @@
+{
+    "itemTypeAndTierDisplayName": "Legendary Armor Mod", 
+    "itemType": 19, 
+    "tooltipNotifications": [], 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Legendary", 
+        "bucketTypeHash": 1469714392, 
+        "tierTypeHash": 4008398120, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 5, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Armor Mod", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        59, 
+        4104513227
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "displaySource": "", 
+    "perks": [
+        {
+            "requirementDisplayString": "", 
+            "perkHash": 3833502575, 
+            "perkVisibility": 1
+        }, 
+        {
+            "requirementDisplayString": "", 
+            "perkHash": 1190464935, 
+            "perkVisibility": 1
+        }, 
+        {
+            "requirementDisplayString": "", 
+            "perkHash": 2364811786, 
+            "perkVisibility": 1
+        }
+    ], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/a39ed5dcaa0e667b323944f46642923b.png"
+                ]
+            }, 
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/4dc11a8e1d90da800b3e09657d1c026a.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/a39ed5dcaa0e667b323944f46642923b.png", 
+        "hasIcon": true, 
+        "description": "This mask can be upgraded to increase damage to enemies and provide near-invulnerability while airborne. Unlock these upgrades by defeating Terrors in the Haunted Forest.\n\nThese perks are active only inside the Haunted Forest.", 
+        "name": "Higher Purpose"
+    }
+}

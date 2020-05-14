@@ -1,0 +1,163 @@
+{
+    "itemTypeAndTierDisplayName": "Exotic Quest Step", 
+    "itemType": 12, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "index": 14601, 
+    "stats": {
+        "hasDisplayableStats": false, 
+        "primaryBaseStatHash": 0, 
+        "disablePrimaryStatDisplay": false, 
+        "stats": {}
+    }, 
+    "objectives": {
+        "objectiveVerbName": "", 
+        "requireFullObjectiveCompletion": true, 
+        "questTypeIdentifier": "", 
+        "perObjectiveDisplayProperties": [
+            {
+                "displayOnItemPreviewScreen": false
+            }
+        ], 
+        "objectiveHashes": [
+            4149758371
+        ], 
+        "displayAsStatTracker": false, 
+        "useOnObjectiveCompletion": false, 
+        "completionRewardSiteHash": 0, 
+        "timestampUnlockValueHash": 0, 
+        "questlineItemHash": 4130345975, 
+        "isGlobalObjectiveItem": false, 
+        "inhibitCompletionUnlockValueHash": 0, 
+        "narrative": "", 
+        "displayActivityHashes": [
+            2166136261
+        ], 
+        "nextQuestStepRewardSiteHash": 0, 
+        "questTypeHash": 2166136261
+    }, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": true, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Exotic", 
+        "bucketTypeHash": 1345459588, 
+        "tierTypeHash": 2759499571, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 6, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "setData": {
+        "trackingUnlockValueHash": 0, 
+        "setIsFeatured": false, 
+        "itemList": [
+            {
+                "itemHash": 561253450, 
+                "trackingValue": 100
+            }, 
+            {
+                "itemHash": 1659870161, 
+                "trackingValue": 200
+            }, 
+            {
+                "itemHash": 1410515624, 
+                "trackingValue": 300
+            }, 
+            {
+                "itemHash": 4130345974, 
+                "trackingValue": 400
+            }, 
+            {
+                "itemHash": 1410515625, 
+                "trackingValue": 600
+            }, 
+            {
+                "itemHash": 1134691, 
+                "trackingValue": 700
+            }, 
+            {
+                "itemHash": 4130345975, 
+                "trackingValue": 500
+            }, 
+            {
+                "itemHash": 188041967, 
+                "trackingValue": 800
+            }, 
+            {
+                "itemHash": 561253451, 
+                "trackingValue": 900
+            }
+        ], 
+        "requireOrderedSetItemAdd": true, 
+        "questLineName": "Memento", 
+        "abandonmentUnlockHash": 0, 
+        "setType": ""
+    }, 
+    "hash": 4130345975, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Quest Step", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": true, 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Abandon", 
+        "deleteOnAction": true, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "useOnAcquire": false, 
+        "isPositive": false, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        16
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": true, 
+    "tooltipStyle": "bounty", 
+    "allowActions": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "displaySource": "\"Apply some pressure, and everything tends to spill out.\" —The Spider", 
+    "traitIds": [
+        "inventory_filtering.quest", 
+        "quest.exotic"
+    ], 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/6d5fe679dc8c3f88df752dc13a679b62.jpg", 
+                    "/common/destiny2_content/icons/abc05b114f671446af640a4572dff62a.png", 
+                    "/common/destiny2_content/icons/4ce793ffc2191b8ae9e9a60e01b3b891.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/6d5fe679dc8c3f88df752dc13a679b62.jpg", 
+        "hasIcon": true, 
+        "description": "Spider's associates have found several talkative Fallen willing to sell information for safety. Travel to the Lost Sector Trapper's Cave in Four-Horn Gulch.", 
+        "name": "Rude Awakening"
+    }
+}

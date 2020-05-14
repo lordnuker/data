@@ -1,0 +1,77 @@
+{
+    "itemTypeAndTierDisplayName": "Basic Quest", 
+    "nonTransferrable": true, 
+    "tooltipNotifications": [], 
+    "itemType": 15, 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Basic", 
+        "bucketTypeHash": 2422292810, 
+        "tierTypeHash": 1801258597, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 0, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 142, 
+        "green": 12, 
+        "colorHash": 0, 
+        "red": 94, 
+        "alpha": 255
+    }, 
+    "setData": {
+        "trackingUnlockValueHash": 0, 
+        "setIsFeatured": true, 
+        "itemList": [
+            {
+                "itemHash": 2080470161, 
+                "trackingValue": 2106123429
+            }
+        ], 
+        "requireOrderedSetItemAdd": true, 
+        "questLineName": "", 
+        "abandonmentUnlockHash": 0, 
+        "setType": "quest_global"
+    }, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Quest", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        53
+    ], 
+    "uiItemDisplayStyle": "", 
+    "secondaryOverlay": "/common/destiny2_content/icons/0669efb55951e8bc9e99f3989eacc861.png", 
+    "secondaryIcon": "/common/destiny2_content/icons/a8c03d229e839ebed9e9cdb96d705888.png", 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "secondarySpecial": "/img/misc/missing_icon_d2.png", 
+    "displaySource": "", 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/ab84d289dc409aca385c44d7aa8025da.png", 
+                    "/common/destiny2_content/icons/6ef53d92b22781cbd43c61ac8a1727d9.png", 
+                    "/common/destiny2_content/icons/691503a854209dbd5b05cc0322e14ac8.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/ab84d289dc409aca385c44d7aa8025da.png", 
+        "hasIcon": true, 
+        "description": "", 
+        "name": "Gambit"
+    }
+}

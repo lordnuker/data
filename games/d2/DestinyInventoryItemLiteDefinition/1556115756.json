@@ -1,0 +1,81 @@
+{
+    "itemTypeAndTierDisplayName": "Exotic Quest Step", 
+    "itemType": 12, 
+    "tooltipNotifications": [], 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Exotic", 
+        "bucketTypeHash": 1345459588, 
+        "tierTypeHash": 2759499571, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 6, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "setData": {
+        "trackingUnlockValueHash": 0, 
+        "setIsFeatured": false, 
+        "itemList": [
+            {
+                "itemHash": 1556115758, 
+                "trackingValue": 200
+            }, 
+            {
+                "itemHash": 1556115756, 
+                "trackingValue": 400
+            }, 
+            {
+                "itemHash": 1556115755, 
+                "trackingValue": 500
+            }, 
+            {
+                "itemHash": 1556115754, 
+                "trackingValue": 600
+            }, 
+            {
+                "itemHash": 1556115753, 
+                "trackingValue": 700
+            }
+        ], 
+        "requireOrderedSetItemAdd": true, 
+        "questLineName": "The Tribute Hall", 
+        "abandonmentUnlockHash": 0, 
+        "setType": "quest_global"
+    }, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Quest Step", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": true, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        16
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "displaySource": "\"Let me gild you with the riches you so truly deserve.\" —Emperor Calus", 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "icon": "/common/destiny2_content/icons/30967f74d67942edd7af83b27857132e.jpg", 
+        "hasIcon": true, 
+        "description": "Calus built you a Tribute Hall. To fill it with trophies, you'll need to curry his favor.\n\nComplete a bounty from the Visage of Calus in the Tribute Hall aboard the Leviathan.", 
+        "name": "Invitation from the Emperor"
+    }
+}

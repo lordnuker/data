@@ -1,0 +1,39 @@
+{
+    "index": 105, 
+    "hash": 1296979086, 
+    "blacklisted": false, 
+    "avoidDuplicatesOnInitialization": false, 
+    "insertAction": {
+        "actionSoundHash": 0, 
+        "isPositiveAction": false, 
+        "actionType": 0, 
+        "actionExecuteSeconds": 1
+    }, 
+    "plugWhitelist": [
+        {
+            "categoryIdentifier": "v300.weapon.functional.power.adaptive", 
+            "categoryHash": 3558678354
+        }, 
+        {
+            "categoryIdentifier": "v300.weapon.functional.firearms.adaptive", 
+            "categoryHash": 3488585866
+        }, 
+        {
+            "categoryIdentifier": "v300.weapon.functional", 
+            "categoryHash": 79042699
+        }
+    ], 
+    "currencyScalars": [], 
+    "redacted": false, 
+    "visibility": 0, 
+    "isPreviewEnabled": false, 
+    "alwaysRandomizeSockets": false, 
+    "overridesUiAppearance": false, 
+    "displayProperties": {
+        "hasIcon": false, 
+        "description": "", 
+        "name": ""
+    }, 
+    "socketCategoryHash": 2685412949, 
+    "hideDuplicateReusablePlugs": false
+}

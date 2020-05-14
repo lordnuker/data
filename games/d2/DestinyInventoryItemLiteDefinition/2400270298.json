@@ -1,0 +1,110 @@
+{
+    "itemTypeAndTierDisplayName": "Quest Step", 
+    "itemType": 12, 
+    "tooltipNotifications": [], 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "bucketTypeHash": 1801258597, 
+        "tierTypeHash": 0, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 0, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "setData": {
+        "trackingUnlockValueHash": 0, 
+        "setIsFeatured": true, 
+        "itemList": [
+            {
+                "itemHash": 1936537072, 
+                "trackingValue": 100
+            }, 
+            {
+                "itemHash": 2202741131, 
+                "trackingValue": 200
+            }, 
+            {
+                "itemHash": 2400270298, 
+                "trackingValue": 300
+            }
+        ], 
+        "requireOrderedSetItemAdd": true, 
+        "questLineName": "Summer Arrives at Eververse", 
+        "abandonmentUnlockHash": 0, 
+        "setType": "quest_global"
+    }, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Quest Step", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": true, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        16
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "displaySource": "", 
+    "value": {
+        "itemValue": [
+            {
+                "itemHash": 476782113, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }
+        ], 
+        "valueDescription": ""
+    }, 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/590714a59033b03379eb170a49f0a49d.png", 
+                    "/common/destiny2_content/icons/590714a59033b03379eb170a49f0a49d.png", 
+                    "/common/destiny2_content/icons/162b6ea6da074b2cb3c66fddc110031b.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/590714a59033b03379eb170a49f0a49d.png", 
+        "hasIcon": true, 
+        "description": "Speak with Tess Everis in the Tower.", 
+        "name": "Summer Style"
+    }
+}

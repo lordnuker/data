@@ -1,0 +1,187 @@
+{
+    "itemTypeAndTierDisplayName": "Common Leg Armor", 
+    "translationBlock": {
+        "customDyes": [], 
+        "hasGeometry": true, 
+        "lockedDyes": [
+            {
+                "dyeHash": 771103135, 
+                "channelHash": 662199250
+            }, 
+            {
+                "dyeHash": 2506183026, 
+                "channelHash": 1367384683
+            }, 
+            {
+                "dyeHash": 210654713, 
+                "channelHash": 218592586
+            }
+        ], 
+        "weaponPatternHash": 0, 
+        "defaultDyes": [], 
+        "arrangements": [
+            {
+                "classHash": 0, 
+                "artArrangementHash": 229821046
+            }
+        ]
+    }, 
+    "itemType": 2, 
+    "investmentStats": [
+        {
+            "value": 0, 
+            "statTypeHash": 3897883278, 
+            "isConditionallyActive": false
+        }, 
+        {
+            "value": 0, 
+            "statTypeHash": 1935470627, 
+            "isConditionallyActive": false
+        }, 
+        {
+            "value": 0, 
+            "statTypeHash": 1885944937, 
+            "isConditionallyActive": false
+        }, 
+        {
+            "value": 1, 
+            "statTypeHash": 392767087, 
+            "isConditionallyActive": false
+        }
+    ], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "quality": {
+        "infusionCategoryHash": 0, 
+        "infusionCategoryHashes": [], 
+        "infusionCategoryName": "0", 
+        "progressionLevelRequirementHash": 1432934783, 
+        "qualityLevel": 0, 
+        "itemLevels": []
+    }, 
+    "talentGrid": {
+        "talentGridHash": 521135891, 
+        "hudDamageType": 1, 
+        "itemDetailString": "Details"
+    }, 
+    "index": 848, 
+    "stats": {
+        "hasDisplayableStats": true, 
+        "primaryBaseStatHash": 3897883278, 
+        "disablePrimaryStatDisplay": false, 
+        "stats": {
+            "1935470627": {
+                "statHash": 1935470627, 
+                "minimum": 0, 
+                "maximum": 0, 
+                "value": 0, 
+                "displayMaximum": 42
+            }, 
+            "3897883278": {
+                "statHash": 3897883278, 
+                "minimum": 0, 
+                "maximum": 0, 
+                "value": 0, 
+                "displayMaximum": 42
+            }, 
+            "1885944937": {
+                "statHash": 1885944937, 
+                "minimum": 0, 
+                "maximum": 0, 
+                "value": 0, 
+                "displayMaximum": 42
+            }, 
+            "392767087": {
+                "statHash": 392767087, 
+                "minimum": 0, 
+                "maximum": 0, 
+                "value": 1, 
+                "displayMaximum": 42
+            }
+        }, 
+        "statGroupHash": 3568793270
+    }, 
+    "equippable": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": true, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Common", 
+        "bucketTypeHash": 20886954, 
+        "tierTypeHash": 3340296461, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 2, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "specialItemType": 0, 
+    "hash": 229821046, 
+    "screenshot": "/common/destiny2_content/screenshots/229821046.jpg", 
+    "itemTypeDisplayName": "Leg Armor", 
+    "isWrapper": false, 
+    "classType": 0, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "displayProperties": {
+        "icon": "/common/destiny2_content/icons/578e88237a7a6afb7ab3150de6ae3f6a.jpg", 
+        "hasIcon": true, 
+        "description": "These boots are unaccustomed to retreat.", 
+        "name": "Wrecked Titan Greaves"
+    }, 
+    "itemSubType": 29, 
+    "allowActions": true, 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": false, 
+    "equippingBlock": {
+        "displayStrings": [
+            ""
+        ], 
+        "equipmentSlotTypeHash": 20886954, 
+        "ammoType": 0, 
+        "equippingSoundHash": 0, 
+        "hornSoundHash": 0, 
+        "attributes": 0, 
+        "uniqueLabelHash": 0
+    }, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "collectibleHash": 4294622880, 
+    "displaySource": "", 
+    "traitIds": [
+        "armor_type.legs", 
+        "item_type.armor"
+    ], 
+    "perks": [], 
+    "itemCategoryHashes": [
+        22, 
+        48, 
+        20
+    ], 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Dismantle", 
+        "deleteOnAction": true, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "actionTypeLabel": "shard", 
+        "useOnAcquire": false, 
+        "isPositive": false, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }
+}

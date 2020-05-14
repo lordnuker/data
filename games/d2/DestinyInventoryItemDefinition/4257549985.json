@@ -1,0 +1,82 @@
+{
+    "itemTypeAndTierDisplayName": "Exotic Material", 
+    "itemType": 0, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "index": 10708, 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Exotic", 
+        "bucketTypeHash": 1469714392, 
+        "stackUniqueLabel": "v460.materials.currencies.masterwork_t3", 
+        "tierTypeHash": 2759499571, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 10, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 6, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 142, 
+        "green": 12, 
+        "colorHash": 0, 
+        "red": 94, 
+        "alpha": 255
+    }, 
+    "hash": 4257549985, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Material", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/2bd6547fa8f170d8868c8ab24b9fe84a.jpg", 
+                    "/common/destiny2_content/icons/ca23fcdc2e191bb003d297f36bc88883.png", 
+                    "/common/destiny2_content/icons/e3c42aa8d5c9644c3ef9f28d18ccd168.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/2bd6547fa8f170d8868c8ab24b9fe84a.jpg", 
+        "hasIcon": true, 
+        "description": "Required for forging Masterwork gear. Obtained from challenging activities or purchasable from the Gunsmith in the Tower.", 
+        "name": "Ascendant Shard"
+    }, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        40, 
+        52
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "displaySource": "", 
+    "perks": [], 
+    "specialItemType": 0, 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Discard", 
+        "deleteOnAction": true, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "useOnAcquire": false, 
+        "isPositive": false, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }
+}

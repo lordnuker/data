@@ -1,0 +1,75 @@
+{
+    "itemTypeAndTierDisplayName": "Uncommon Upgrade Material", 
+    "itemType": 0, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "index": 4972, 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Uncommon", 
+        "bucketTypeHash": 1469714392, 
+        "tierTypeHash": 2395677314, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 999, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 3, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "hash": 685556245, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Upgrade Material", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": true, 
+    "displayProperties": {
+        "icon": "/common/destiny2_content/icons/b5c5a149e55b9c6f48efa38ebd60271b.jpg", 
+        "hasIcon": true, 
+        "description": "Solstice Armor (Scorched) Set", 
+        "name": "Rite of Mending"
+    }, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": false, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "displaySource": "", 
+    "perks": [], 
+    "specialItemType": 0, 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Use", 
+        "deleteOnAction": true, 
+        "requiredItems": [
+            {
+                "count": 10, 
+                "deleteOnAction": true, 
+                "itemHash": 1142880965
+            }
+        ], 
+        "rewardItemHash": 0, 
+        "useOnAcquire": true, 
+        "isPositive": true, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }
+}

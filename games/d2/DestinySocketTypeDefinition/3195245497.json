@@ -1,0 +1,41 @@
+{
+    "index": 612, 
+    "hash": 3195245497, 
+    "blacklisted": false, 
+    "avoidDuplicatesOnInitialization": false, 
+    "insertAction": {
+        "actionSoundHash": 0, 
+        "isPositiveAction": false, 
+        "actionType": 2, 
+        "actionExecuteSeconds": 1
+    }, 
+    "plugWhitelist": [
+        {
+            "reinitializationPossiblePlugHashes": [
+                2923440561, 
+                318003668, 
+                318003671, 
+                318003670
+            ], 
+            "categoryIdentifier": "penumbra.chalice.upgrades.efficiency", 
+            "categoryHash": 2419970938
+        }, 
+        {
+            "categoryIdentifier": "penumbra.runes.chalice_upgrade1", 
+            "categoryHash": 589156345
+        }
+    ], 
+    "currencyScalars": [], 
+    "redacted": false, 
+    "visibility": 0, 
+    "isPreviewEnabled": false, 
+    "alwaysRandomizeSockets": false, 
+    "overridesUiAppearance": false, 
+    "displayProperties": {
+        "hasIcon": false, 
+        "description": "Improve this aspect of your Chalice to earn increased rune and loot drops.", 
+        "name": "Rune Bonus"
+    }, 
+    "socketCategoryHash": 879083882, 
+    "hideDuplicateReusablePlugs": false
+}

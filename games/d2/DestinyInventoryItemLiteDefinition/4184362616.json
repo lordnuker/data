@@ -1,0 +1,64 @@
+{
+    "itemTypeAndTierDisplayName": "Common Season of the Worthy Perk", 
+    "itemType": 20, 
+    "tooltipNotifications": [
+        {
+            "displayString": "Expires at the end of Season 10", 
+            "displayStyle": ""
+        }
+    ], 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Common", 
+        "bucketTypeHash": 2422292810, 
+        "tierTypeHash": 3340296461, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 2, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Season of the Worthy Perk", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": true, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        3109687656
+    ], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "displaySource": "", 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/4670104c2de268d2ca220183c1653dd7.png", 
+                    "/common/destiny2_content/icons/3b49f3735b82f82558728d1eb5538544.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/4670104c2de268d2ca220183c1653dd7.png", 
+        "hasIcon": true, 
+        "description": "The resource frames in the Seraph bunkers have an increased maximum storage capacity.", 
+        "name": "Enhanced Resource Frames"
+    }
+}

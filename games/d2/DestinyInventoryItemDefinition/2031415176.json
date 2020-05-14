@@ -1,0 +1,100 @@
+{
+    "itemTypeAndTierDisplayName": "Common Chalice Improvements", 
+    "itemType": 0, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "index": 7966, 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Common", 
+        "bucketTypeHash": 1469714392, 
+        "tierTypeHash": 3340296461, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 2, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "hash": 2031415176, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Chalice Improvements", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": false, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "plug": {
+        "insertionMaterialRequirementHash": 483714888, 
+        "actionRewardSiteHash": 0, 
+        "enabledMaterialRequirementHash": 0, 
+        "previewItemOverrideHash": 0, 
+        "insertionRules": [
+            {
+                "failureMessage": "Requires \"Rune Compatibility II\""
+            }, 
+            {
+                "failureMessage": ""
+            }, 
+            {
+                "failureMessage": "Requires Quest Progress"
+            }
+        ], 
+        "enabledRules": [], 
+        "plugCategoryHash": 602171999, 
+        "plugCategoryIdentifier": "penumbra.chalice.upgrades.compatibility", 
+        "onActionRecreateSelf": false, 
+        "plugStyle": 0, 
+        "isDummyPlug": false, 
+        "actionRewardItemOverrideHash": 0, 
+        "uiPlugLabel": "", 
+        "alternatePlugStyle": 0, 
+        "alternateUiPlugLabel": "", 
+        "plugAvailability": 0
+    }, 
+    "blacklisted": false, 
+    "displaySource": "", 
+    "perks": [
+        {
+            "requirementDisplayString": "", 
+            "perkHash": 2757881567, 
+            "perkVisibility": 0
+        }
+    ], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/f3eae4d2f31eb2b26261fc652c396d6e.png"
+                ]
+            }, 
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/8b79faf60b8939f1b6333911ea720ec1.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/f3eae4d2f31eb2b26261fc652c396d6e.png", 
+        "hasIcon": true, 
+        "description": "Grants the ability to obtain and slot blue runes, which can be used to guarantee the drop of class-specific chest armor, Fusion Rifles, and Shotguns.", 
+        "name": "Rune Compatibility III"
+    }
+}

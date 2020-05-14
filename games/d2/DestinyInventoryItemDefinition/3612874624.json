@@ -1,0 +1,100 @@
+{
+    "itemTypeAndTierDisplayName": "Common Chalice Improvements", 
+    "itemType": 0, 
+    "investmentStats": [], 
+    "redacted": false, 
+    "tooltipNotifications": [], 
+    "index": 7976, 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": false, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Common", 
+        "bucketTypeHash": 1469714392, 
+        "tierTypeHash": 3340296461, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 2, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "hash": 3612874624, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Chalice Improvements", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": false, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "plug": {
+        "insertionMaterialRequirementHash": 2176662084, 
+        "actionRewardSiteHash": 0, 
+        "enabledMaterialRequirementHash": 0, 
+        "previewItemOverrideHash": 0, 
+        "insertionRules": [
+            {
+                "failureMessage": "Requires \"Power and Efficiency I\""
+            }, 
+            {
+                "failureMessage": ""
+            }, 
+            {
+                "failureMessage": "Requires Quest Progress"
+            }
+        ], 
+        "enabledRules": [], 
+        "plugCategoryHash": 1221051048, 
+        "plugCategoryIdentifier": "penumbra.chalice.upgrades.power", 
+        "onActionRecreateSelf": false, 
+        "plugStyle": 0, 
+        "isDummyPlug": false, 
+        "actionRewardItemOverrideHash": 0, 
+        "uiPlugLabel": "", 
+        "alternatePlugStyle": 0, 
+        "alternateUiPlugLabel": "", 
+        "plugAvailability": 0
+    }, 
+    "blacklisted": false, 
+    "displaySource": "", 
+    "perks": [
+        {
+            "requirementDisplayString": "", 
+            "perkHash": 2458328743, 
+            "perkVisibility": 0
+        }
+    ], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "iconSequences": [
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/b63025729560b2af869c937c36bd9631.png"
+                ]
+            }, 
+            {
+                "frames": [
+                    "/common/destiny2_content/icons/98f3a5f477110c0648bc441e80d42681.png"
+                ]
+            }
+        ], 
+        "icon": "/common/destiny2_content/icons/b63025729560b2af869c937c36bd9631.png", 
+        "hasIcon": true, 
+        "description": "Grants an additional weekly bonus reward from the final chest in the Menagerie. Playlist activities may now rarely award Imperials.", 
+        "name": "Power and Efficiency II"
+    }
+}

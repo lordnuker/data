@@ -1,0 +1,79 @@
+{
+    "itemTypeAndTierDisplayName": "Rare Weekly Clan Bounty", 
+    "itemType": 0, 
+    "tooltipNotifications": [], 
+    "allowActions": true, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": true, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Rare", 
+        "bucketTypeHash": 1345459588, 
+        "stackUniqueLabel": "v450.bounties.clan.weekly_bonus.caluseum", 
+        "tierTypeHash": 2127292149, 
+        "expiredInActivityMessage": "Expired. Unless completed, this bounty will be removed when you return to orbit or load into a new activity.", 
+        "recoveryBucketTypeHash": 0, 
+        "expirationTooltip": "Expires in .", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 4, 
+        "expiredInOrbitMessage": "Expired. Bounty will be removed upon leaving orbit."
+    }, 
+    "backgroundColor": {
+        "blue": 0, 
+        "green": 0, 
+        "colorHash": 0, 
+        "red": 0, 
+        "alpha": 0
+    }, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Weekly Clan Bounty", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "acquireUnlockHash": 0, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [], 
+    "uiItemDisplayStyle": "", 
+    "nonTransferrable": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "displaySource": "\"When guys like Calus hit on me, I show 'em the business end of my Shotgun. But… you do you, I guess.\" —Suraya Hawthorne", 
+    "value": {
+        "itemValue": [
+            {
+                "itemHash": 4039143015, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 304443327, 
+                "quantity": 2000
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }, 
+            {
+                "itemHash": 0, 
+                "quantity": 0
+            }
+        ], 
+        "valueDescription": ""
+    }, 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "icon": "/common/destiny2_content/icons/77285bc2aecd8c8f51c807771e3c168b.jpg", 
+        "hasIcon": true, 
+        "description": "Complete Menagerie runs with clanmates.", 
+        "name": "A Calus Affair"
+    }
+}

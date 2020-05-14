@@ -1,0 +1,218 @@
+{
+    "itemTypeAndTierDisplayName": "Legendary Engram", 
+    "itemType": 8, 
+    "investmentStats": [
+        {
+            "value": 0, 
+            "statTypeHash": 1935470627, 
+            "isConditionallyActive": false
+        }
+    ], 
+    "redacted": false, 
+    "sack": {
+        "openOnAcquire": false, 
+        "resolvedItemCountUnlockValueHash": 0, 
+        "openAction": "Decrypt", 
+        "rollStateUnlockValueHash": 0, 
+        "selectItemCount": 0, 
+        "vendorSackType": "engram.faction.ikora", 
+        "seedUnlockValueHash": 0, 
+        "rewardItemListHash": 0, 
+        "resolvedBitVectorUnlockValueHash": 0, 
+        "detailAction": ""
+    }, 
+    "tooltipNotifications": [], 
+    "quality": {
+        "infusionCategoryHash": 0, 
+        "infusionCategoryHashes": [], 
+        "infusionCategoryName": "0", 
+        "progressionLevelRequirementHash": 0, 
+        "qualityLevel": 0, 
+        "itemLevels": []
+    }, 
+    "index": 3392, 
+    "stats": {
+        "hasDisplayableStats": false, 
+        "primaryBaseStatHash": 1935470627, 
+        "disablePrimaryStatDisplay": false, 
+        "stats": {
+            "1935470627": {
+                "statHash": 1935470627, 
+                "minimum": 0, 
+                "maximum": 0, 
+                "value": 0
+            }
+        }
+    }, 
+    "gearset": {
+        "trackingValueMax": 0, 
+        "itemList": [
+            4248632159, 
+            4224076198, 
+            385045066, 
+            3741528736, 
+            555828571, 
+            4081859017, 
+            1490387264, 
+            2682045448, 
+            185326970, 
+            89175653, 
+            2615512594, 
+            3081969019, 
+            868792277, 
+            1532009197, 
+            4285708584
+        ]
+    }, 
+    "defaultDamageType": 0, 
+    "inventory": {
+        "isInstanceItem": true, 
+        "suppressExpirationWhenObjectivesComplete": true, 
+        "tierTypeName": "Legendary", 
+        "bucketTypeHash": 375726501, 
+        "tierTypeHash": 4008398120, 
+        "expiredInActivityMessage": "", 
+        "recoveryBucketTypeHash": 215593132, 
+        "expirationTooltip": "", 
+        "maxStackSize": 1, 
+        "nonTransferrableOriginal": false, 
+        "tierType": 5, 
+        "expiredInOrbitMessage": ""
+    }, 
+    "backgroundColor": {
+        "blue": 13, 
+        "green": 70, 
+        "colorHash": 0, 
+        "red": 158, 
+        "alpha": 89
+    }, 
+    "preview": {
+        "screenStyle": "screen_style_vendor", 
+        "derivedItemCategories": [
+            {
+                "items": [
+                    {
+                        "itemHash": 3511221544, 
+                        "vendorItemIndex": 1
+                    }, 
+                    {
+                        "itemHash": 1735538848, 
+                        "vendorItemIndex": 2
+                    }, 
+                    {
+                        "itemHash": 662797277, 
+                        "vendorItemIndex": 3
+                    }, 
+                    {
+                        "itemHash": 558125905, 
+                        "vendorItemIndex": 4
+                    }, 
+                    {
+                        "itemHash": 4146629762, 
+                        "vendorItemIndex": 5
+                    }, 
+                    {
+                        "itemHash": 2688111404, 
+                        "vendorItemIndex": 6
+                    }, 
+                    {
+                        "itemHash": 1940451444, 
+                        "vendorItemIndex": 7
+                    }, 
+                    {
+                        "itemHash": 2684281417, 
+                        "vendorItemIndex": 8
+                    }, 
+                    {
+                        "itemHash": 4225579453, 
+                        "vendorItemIndex": 9
+                    }, 
+                    {
+                        "itemHash": 3758301014, 
+                        "vendorItemIndex": 10
+                    }, 
+                    {
+                        "itemHash": 1842727357, 
+                        "vendorItemIndex": 11
+                    }, 
+                    {
+                        "itemHash": 2416730691, 
+                        "vendorItemIndex": 12
+                    }, 
+                    {
+                        "itemHash": 1698434490, 
+                        "vendorItemIndex": 13
+                    }, 
+                    {
+                        "itemHash": 1895532772, 
+                        "vendorItemIndex": 14
+                    }, 
+                    {
+                        "itemHash": 4208352991, 
+                        "vendorItemIndex": 15
+                    }
+                ], 
+                "categoryDescription": "", 
+                "categoryIndex": 0
+            }, 
+            {
+                "items": [
+                    {
+                        "itemHash": 4195309789, 
+                        "vendorItemIndex": 0
+                    }
+                ], 
+                "categoryDescription": "", 
+                "categoryIndex": 0
+            }
+        ], 
+        "previewVendorHash": 2016450349, 
+        "previewActionString": "Preview"
+    }, 
+    "hash": 2016450349, 
+    "equippable": false, 
+    "itemTypeDisplayName": "Engram", 
+    "isWrapper": false, 
+    "classType": 3, 
+    "doesPostmasterPullHaveSideEffects": false, 
+    "action": {
+        "progressionRewards": [], 
+        "requiredCooldownHash": 0, 
+        "verbName": "Discard", 
+        "deleteOnAction": true, 
+        "requiredItems": [], 
+        "rewardItemHash": 0, 
+        "actionTypeLabel": "shard", 
+        "useOnAcquire": false, 
+        "isPositive": false, 
+        "requiredCooldownSeconds": 0, 
+        "rewardSheetHash": 0, 
+        "verbDescription": "", 
+        "rewardSiteHash": 0, 
+        "consumeEntireStack": false
+    }, 
+    "itemSubType": 0, 
+    "itemCategoryHashes": [
+        34
+    ], 
+    "uiItemDisplayStyle": "ui_display_style_engram", 
+    "nonTransferrable": true, 
+    "tooltipStyle": "package", 
+    "allowActions": true, 
+    "acquireRewardSiteHash": 0, 
+    "breakerType": 0, 
+    "blacklisted": false, 
+    "acquireUnlockHash": 0, 
+    "displaySource": "", 
+    "traitIds": [
+        "item_type.engram"
+    ], 
+    "perks": [], 
+    "specialItemType": 0, 
+    "displayProperties": {
+        "icon": "/common/destiny2_content/icons/7eea47cc31d9b065213f85169e668b6e.png", 
+        "hasIcon": true, 
+        "description": "Contains a reward for your efforts assisting Ikora Rey with her research.", 
+        "name": "Vanguard Research Engram"
+    }
+}

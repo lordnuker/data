@@ -1,72 +1,72 @@
 {
-    "itemTypeAndTierDisplayName": "Exotic Intrinsic", 
-    "itemType": 19, 
-    "tooltipNotifications": [], 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "summaryItemHash": 3520001075, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Exotic", 
-        "bucketTypeHash": 1469714392, 
-        "tierTypeHash": 2759499571, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 6, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Intrinsic", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        59, 
-        2237038328, 
-        610365472
-    ], 
-    "uiItemDisplayStyle": "ui_display_style_intrinsic_plug", 
-    "nonTransferrable": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "displaySource": "", 
-    "perks": [
-        {
-            "requirementDisplayString": "", 
-            "perkHash": 676892469, 
-            "perkVisibility": 0
-        }
-    ], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/0c272a75c973e3ccc5236c5c7e2b5c7d.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/fa1bb3ff8b24c1f5543d727bc29aebff.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/0c272a75c973e3ccc5236c5c7e2b5c7d.png", 
-        "hasIcon": true, 
-        "description": "Superb handling. Move faster with this lightweight weapon equipped. This weapon grants additional speed benefits when MIDA Multi-Tool is also equipped.", 
-        "name": "MIDA Synergy"
-    }
+	"displayProperties": {
+		"description": "Superb handling. Move faster with this lightweight weapon equipped. This weapon grants additional speed benefits when MIDA Multi-Tool is also equipped.",
+		"name": "MIDA Synergy",
+		"icon": "/common/destiny2_content/icons/0c272a75c973e3ccc5236c5c7e2b5c7d.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/0c272a75c973e3ccc5236c5c7e2b5c7d.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/fa1bb3ff8b24c1f5543d727bc29aebff.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Intrinsic",
+	"uiItemDisplayStyle": "ui_display_style_intrinsic_plug",
+	"itemTypeAndTierDisplayName": "Exotic Intrinsic",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1469714392,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 2759499571,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Exotic",
+		"tierType": 6,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [
+		{
+			"requirementDisplayString": "",
+			"perkHash": 676892469,
+			"perkVisibility": 0
+		}
+	],
+	"summaryItemHash": 3520001075,
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		59,
+		2237038328,
+		610365472
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

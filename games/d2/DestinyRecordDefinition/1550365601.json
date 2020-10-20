@@ -1,62 +1,62 @@
 {
-    "index": 1566, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        1776099090
-    ], 
-    "parentNodeHashes": [
-        289742222
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 150, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/f7df8c4438656c5ae23da926f94c2645.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/23e85c6064feba667f4bf436b6f80b1f.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/f7df8c4438656c5ae23da926f94c2645.png", 
-        "hasIcon": true, 
-        "description": "Unlock all pages in \"For Every Rose, a Thorn\" to complete this Triumph.", 
-        "name": "For Every Rose, a Thorn"
-    }, 
-    "scope": 0, 
-    "hash": 1550365601
+	"displayProperties": {
+		"description": "Unlock all pages in \"For Every Rose, a Thorn\" to complete this Triumph.",
+		"name": "For Every Rose, a Thorn",
+		"icon": "/common/destiny2_content/icons/f7df8c4438656c5ae23da926f94c2645.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/f7df8c4438656c5ae23da926f94c2645.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/23e85c6064feba667f4bf436b6f80b1f.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		1776099090
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 150,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		289742222
+	],
+	"hash": 1550365601,
+	"index": 1578,
+	"redacted": false,
+	"blacklisted": false
 }

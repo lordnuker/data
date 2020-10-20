@@ -1,131 +1,131 @@
 {
-    "itemTypeAndTierDisplayName": "Exotic Quest Step", 
-    "itemType": 12, 
-    "investmentStats": [], 
-    "redacted": false, 
-    "tooltipNotifications": [], 
-    "index": 14283, 
-    "stats": {
-        "hasDisplayableStats": false, 
-        "primaryBaseStatHash": 0, 
-        "disablePrimaryStatDisplay": false, 
-        "stats": {}
-    }, 
-    "objectives": {
-        "objectiveVerbName": "", 
-        "requireFullObjectiveCompletion": true, 
-        "questTypeIdentifier": "quest_global", 
-        "perObjectiveDisplayProperties": [
-            {
-                "displayOnItemPreviewScreen": false
-            }
-        ], 
-        "objectiveHashes": [
-            1447852208
-        ], 
-        "displayAsStatTracker": false, 
-        "useOnObjectiveCompletion": false, 
-        "completionRewardSiteHash": 0, 
-        "timestampUnlockValueHash": 0, 
-        "questlineItemHash": 2411744491, 
-        "isGlobalObjectiveItem": false, 
-        "inhibitCompletionUnlockValueHash": 0, 
-        "narrative": "", 
-        "displayActivityHashes": [
-            2166136261
-        ], 
-        "nextQuestStepRewardSiteHash": 0, 
-        "questTypeHash": 3413310557
-    }, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Exotic", 
-        "bucketTypeHash": 1345459588, 
-        "tierTypeHash": 2759499571, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 6, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "setData": {
-        "trackingUnlockValueHash": 0, 
-        "setIsFeatured": false, 
-        "itemList": [
-            {
-                "itemHash": 2411744491, 
-                "trackingValue": 100
-            }
-        ], 
-        "requireOrderedSetItemAdd": true, 
-        "questLineName": "Wish-Ender", 
-        "abandonmentUnlockHash": 0, 
-        "setType": "quest_global"
-    }, 
-    "hash": 2411744491, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Quest Step", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": true, 
-    "action": {
-        "progressionRewards": [], 
-        "requiredCooldownHash": 0, 
-        "verbName": "Abandon", 
-        "deleteOnAction": true, 
-        "requiredItems": [], 
-        "rewardItemHash": 0, 
-        "useOnAcquire": false, 
-        "isPositive": false, 
-        "requiredCooldownSeconds": 0, 
-        "rewardSheetHash": 0, 
-        "verbDescription": "", 
-        "rewardSiteHash": 0, 
-        "consumeEntireStack": false
-    }, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        16
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": true, 
-    "tooltipStyle": "bounty", 
-    "allowActions": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "blacklisted": false, 
-    "acquireUnlockHash": 0, 
-    "displaySource": "", 
-    "traitIds": [
-        "inventory_filtering.quest", 
-        "quest.exotic"
-    ], 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/754b2ae7fb8f832d6863456b9e8f050f.jpg", 
-                    "/common/destiny2_content/icons/ba998a8e4e70586dbc41c5de72c99bf6.png", 
-                    "/common/destiny2_content/icons/6394ba870887c8361fca4bcb0b91264c.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/754b2ae7fb8f832d6863456b9e8f050f.jpg", 
-        "hasIcon": true, 
-        "description": "Present this talisman to an Awoken warrior within the Shattered Throne.", 
-        "name": "Wish-Ender"
-    }
+	"displayProperties": {
+		"description": "Present this talisman to an Awoken warrior within the Shattered Throne.",
+		"name": "Wish-Ender",
+		"icon": "/common/destiny2_content/icons/754b2ae7fb8f832d6863456b9e8f050f.jpg",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/754b2ae7fb8f832d6863456b9e8f050f.jpg",
+					"/common/destiny2_content/icons/ba998a8e4e70586dbc41c5de72c99bf6.png",
+					"/common/destiny2_content/icons/6394ba870887c8361fca4bcb0b91264c.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Quest Step",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Exotic Quest Step",
+	"displaySource": "",
+	"tooltipStyle": "bounty",
+	"action": {
+		"verbName": "Abandon",
+		"verbDescription": "",
+		"isPositive": false,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1345459588,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 2759499571,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Exotic",
+		"tierType": 6,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"setData": {
+		"itemList": [
+			{
+				"trackingValue": 100,
+				"itemHash": 2411744491
+			}
+		],
+		"trackingUnlockValueHash": 0,
+		"abandonmentUnlockHash": 0,
+		"requireOrderedSetItemAdd": true,
+		"setIsFeatured": false,
+		"setType": "quest_global",
+		"questLineName": "Wish-Ender"
+	},
+	"stats": {
+		"disablePrimaryStatDisplay": false,
+		"stats": {},
+		"hasDisplayableStats": false,
+		"primaryBaseStatHash": 0
+	},
+	"objectives": {
+		"objectiveHashes": [
+			1447852208
+		],
+		"displayActivityHashes": [
+			2166136261
+		],
+		"requireFullObjectiveCompletion": true,
+		"questlineItemHash": 2411744491,
+		"narrative": "",
+		"objectiveVerbName": "",
+		"questTypeIdentifier": "quest_global",
+		"questTypeHash": 3413310557,
+		"completionRewardSiteHash": 0,
+		"nextQuestStepRewardSiteHash": 0,
+		"timestampUnlockValueHash": 0,
+		"isGlobalObjectiveItem": false,
+		"useOnObjectiveCompletion": false,
+		"inhibitCompletionUnlockValueHash": 0,
+		"perObjectiveDisplayProperties": [
+			{
+				"displayOnItemPreviewScreen": false
+			}
+		],
+		"displayAsStatTracker": false
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": true,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		16
+	],
+	"specialItemType": 0,
+	"itemType": 12,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"traitIds": [
+		"inventory_filtering.quest",
+		"quest.exotic"
+	],
+	"hash": 2411744491,
+	"index": 15005,
+	"redacted": false,
+	"blacklisted": false
 }

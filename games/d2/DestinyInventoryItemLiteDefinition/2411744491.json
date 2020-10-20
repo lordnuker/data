@@ -1,74 +1,74 @@
 {
-    "itemTypeAndTierDisplayName": "Exotic Quest Step", 
-    "itemType": 12, 
-    "tooltipNotifications": [], 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Exotic", 
-        "bucketTypeHash": 1345459588, 
-        "tierTypeHash": 2759499571, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 6, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "setData": {
-        "trackingUnlockValueHash": 0, 
-        "setIsFeatured": false, 
-        "itemList": [
-            {
-                "itemHash": 2411744491, 
-                "trackingValue": 100
-            }
-        ], 
-        "requireOrderedSetItemAdd": true, 
-        "questLineName": "Wish-Ender", 
-        "abandonmentUnlockHash": 0, 
-        "setType": "quest_global"
-    }, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Quest Step", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": true, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        16
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "displaySource": "", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/754b2ae7fb8f832d6863456b9e8f050f.jpg", 
-                    "/common/destiny2_content/icons/ba998a8e4e70586dbc41c5de72c99bf6.png", 
-                    "/common/destiny2_content/icons/6394ba870887c8361fca4bcb0b91264c.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/754b2ae7fb8f832d6863456b9e8f050f.jpg", 
-        "hasIcon": true, 
-        "description": "Present this talisman to an Awoken warrior within the Shattered Throne.", 
-        "name": "Wish-Ender"
-    }
+	"displayProperties": {
+		"description": "Present this talisman to an Awoken warrior within the Shattered Throne.",
+		"name": "Wish-Ender",
+		"icon": "/common/destiny2_content/icons/754b2ae7fb8f832d6863456b9e8f050f.jpg",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/754b2ae7fb8f832d6863456b9e8f050f.jpg",
+					"/common/destiny2_content/icons/ba998a8e4e70586dbc41c5de72c99bf6.png",
+					"/common/destiny2_content/icons/6394ba870887c8361fca4bcb0b91264c.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Quest Step",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Exotic Quest Step",
+	"displaySource": "",
+	"setData": {
+		"itemList": [
+			{
+				"trackingValue": 100,
+				"itemHash": 2411744491
+			}
+		],
+		"trackingUnlockValueHash": 0,
+		"abandonmentUnlockHash": 0,
+		"requireOrderedSetItemAdd": true,
+		"setIsFeatured": false,
+		"setType": "quest_global",
+		"questLineName": "Wish-Ender"
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1345459588,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 2759499571,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Exotic",
+		"tierType": 6,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": true,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		16
+	],
+	"specialItemType": 0,
+	"itemType": 12,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

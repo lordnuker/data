@@ -1,0 +1,147 @@
+{
+	"displayProperties": {
+		"description": "Use the Cipher Decoder on a cache in the Haunted Forest.",
+		"name": "A Masked Treasure",
+		"icon": "/common/destiny2_content/icons/881aec7c44af88d06ac62f8ebc6787c7.jpg",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/881aec7c44af88d06ac62f8ebc6787c7.jpg",
+					"/common/destiny2_content/icons/16b1a1abb6b329f1334ae070ad22ed30.png",
+					"/common/destiny2_content/icons/92517bf338c290b149497da68386777f.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Quest Step",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Quest Step",
+	"displaySource": "\"Something about this feels off. What would the Vex want with Fallen salvage? Why bring it into one of their simulations? I have a very bad feeling about this.\" —Ghost",
+	"tooltipStyle": "bounty",
+	"action": {
+		"verbName": "Abandon",
+		"verbDescription": "",
+		"isPositive": false,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1345459588,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"setData": {
+		"itemList": [
+			{
+				"trackingValue": 50,
+				"itemHash": 3271578316
+			},
+			{
+				"trackingValue": 200,
+				"itemHash": 2646102288
+			},
+			{
+				"trackingValue": 300,
+				"itemHash": 2646102291
+			},
+			{
+				"trackingValue": 400,
+				"itemHash": 2646102290
+			},
+			{
+				"trackingValue": 500,
+				"itemHash": 2646102293
+			}
+		],
+		"trackingUnlockValueHash": 0,
+		"abandonmentUnlockHash": 0,
+		"requireOrderedSetItemAdd": true,
+		"setIsFeatured": false,
+		"setType": "quest_global",
+		"questLineName": "A Festival of Masks"
+	},
+	"stats": {
+		"disablePrimaryStatDisplay": false,
+		"stats": {},
+		"hasDisplayableStats": false,
+		"primaryBaseStatHash": 0
+	},
+	"objectives": {
+		"objectiveHashes": [
+			2103520683
+		],
+		"displayActivityHashes": [
+			2166136261
+		],
+		"requireFullObjectiveCompletion": true,
+		"questlineItemHash": 2646102290,
+		"narrative": "",
+		"objectiveVerbName": "",
+		"questTypeIdentifier": "quest_global",
+		"questTypeHash": 3413310557,
+		"completionRewardSiteHash": 0,
+		"nextQuestStepRewardSiteHash": 0,
+		"timestampUnlockValueHash": 0,
+		"isGlobalObjectiveItem": false,
+		"useOnObjectiveCompletion": false,
+		"inhibitCompletionUnlockValueHash": 0,
+		"perObjectiveDisplayProperties": [
+			{
+				"displayOnItemPreviewScreen": false
+			}
+		],
+		"displayAsStatTracker": false
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": true,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		16
+	],
+	"specialItemType": 0,
+	"itemType": 12,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"traitIds": [
+		"inventory_filtering.quest",
+		"quest.seasonal"
+	],
+	"hash": 2646102290,
+	"index": 15410,
+	"redacted": false,
+	"blacklisted": false
+}

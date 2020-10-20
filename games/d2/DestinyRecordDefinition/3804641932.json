@@ -1,67 +1,67 @@
 {
-    "index": 233, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 1, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": true, 
-        "titlesByGenderHash": {
-            "3111576190": "Golden Armory", 
-            "2204441813": "Golden Armory"
-        }, 
-        "titlesByGender": {
-            "Male": "Golden Armory", 
-            "Female": "Golden Armory"
-        }
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [], 
-    "parentNodeHashes": [], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 5, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/43be80feb0b4746e0338e93b0bf2596c.png", 
-                    "/common/destiny2_content/icons/fe026423b2832146cd3b2cb831720f06.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/38b2daeecefdb2acd31431ee224787d3.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/43be80feb0b4746e0338e93b0bf2596c.png", 
-        "hasIcon": true, 
-        "description": "Complete all Exotic Armory Triumphs.", 
-        "name": "Exotic Armory"
-    }, 
-    "scope": 0, 
-    "hash": 3804641932
+	"displayProperties": {
+		"description": "Complete all Exotic Armory Triumphs.",
+		"name": "Exotic Armory",
+		"icon": "/common/destiny2_content/icons/43be80feb0b4746e0338e93b0bf2596c.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/43be80feb0b4746e0338e93b0bf2596c.png",
+					"/common/destiny2_content/icons/fe026423b2832146cd3b2cb831720f06.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/38b2daeecefdb2acd31431ee224787d3.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": true,
+		"titlesByGender": {
+			"Male": "Golden Armory",
+			"Female": "Golden Armory"
+		},
+		"titlesByGenderHash": {
+			"2204441813": "Golden Armory",
+			"3111576190": "Golden Armory"
+		}
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 5
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 1,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [],
+	"hash": 3804641932,
+	"index": 233,
+	"redacted": false,
+	"blacklisted": false
 }

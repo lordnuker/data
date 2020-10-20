@@ -1,56 +1,56 @@
 {
-    "index": 1669, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        4241954140
-    ], 
-    "parentNodeHashes": [
-        3170835069, 
-        1117466231
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 100, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [
-        {
-            "itemHash": 2627035363, 
-            "quantity": 1
-        }
-    ], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/cef32825c1da6ed5db3ed84e69c4bb60.png", 
-        "hasIcon": true, 
-        "description": "Complete a run through the Menagerie without running out of time in any encounter.", 
-        "name": "Like Clockwork"
-    }, 
-    "scope": 0, 
-    "hash": 2439024319
+	"displayProperties": {
+		"description": "Complete a run through the Menagerie without running out of time in any encounter.",
+		"name": "Like Clockwork",
+		"icon": "/common/destiny2_content/icons/cef32825c1da6ed5db3ed84e69c4bb60.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		4241954140
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 100,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [
+		{
+			"itemHash": 2627035363,
+			"quantity": 1
+		}
+	],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		3170835069,
+		1117466231
+	],
+	"hash": 2439024319,
+	"index": 1681,
+	"redacted": false,
+	"blacklisted": false
 }

@@ -1,44 +1,44 @@
 {
-    "index": 300, 
-    "hash": 1081633270, 
-    "blacklisted": false, 
-    "redacted": false, 
-    "vendorHash": 1735426333, 
-    "locationReleases": [
-        {
-            "worldPosition": [
-                -333, 
-                -365, 
-                34, 
-                0
-            ], 
-            "smallTransparentIcon": "/common/destiny2_content/icons/a24735c49623caf24079d0e3e7dfb249.png", 
-            "mapIcon": "/common/destiny2_content/icons/c08b3f3761472a2d4876928bc3967ad8.png", 
-            "spawnPoint": 0, 
-            "activityPathBundle": 219898063, 
-            "activityBubbleName": 1461622515, 
-            "destinationHash": 308080871, 
-            "activityGraphNodeHash": 0, 
-            "activityPathDestination": 2527054255, 
-            "activityGraphHash": 339930669, 
-            "displayProperties": {
-                "iconSequences": [
-                    {
-                        "frames": [
-                            "/common/destiny2_content/icons/a24735c49623caf24079d0e3e7dfb249.png", 
-                            "/common/destiny2_content/icons/c08b3f3761472a2d4876928bc3967ad8.png", 
-                            "/common/destiny2_content/icons/ec039a7b698281e1543a92b5436f4ced.png"
-                        ]
-                    }
-                ], 
-                "icon": "/common/destiny2_content/icons/a24735c49623caf24079d0e3e7dfb249.png", 
-                "hasIcon": true, 
-                "description": "Warmind Crypto-Linguist", 
-                "name": "Ana Bray"
-            }, 
-            "largeTransparentIcon": "/common/destiny2_content/icons/ec039a7b698281e1543a92b5436f4ced.png", 
-            "navPointType": 0, 
-            "activityHash": 1233767907
-        }
-    ]
+	"vendorHash": 1735426333,
+	"locationReleases": [
+		{
+			"displayProperties": {
+				"description": "Warmind Crypto-Linguist",
+				"name": "Ana Bray",
+				"icon": "/common/destiny2_content/icons/a24735c49623caf24079d0e3e7dfb249.png",
+				"iconSequences": [
+					{
+						"frames": [
+							"/common/destiny2_content/icons/a24735c49623caf24079d0e3e7dfb249.png",
+							"/common/destiny2_content/icons/c08b3f3761472a2d4876928bc3967ad8.png",
+							"/common/destiny2_content/icons/ec039a7b698281e1543a92b5436f4ced.png"
+						]
+					}
+				],
+				"hasIcon": true
+			},
+			"smallTransparentIcon": "/common/destiny2_content/icons/a24735c49623caf24079d0e3e7dfb249.png",
+			"mapIcon": "/common/destiny2_content/icons/c08b3f3761472a2d4876928bc3967ad8.png",
+			"largeTransparentIcon": "/common/destiny2_content/icons/ec039a7b698281e1543a92b5436f4ced.png",
+			"spawnPoint": 0,
+			"destinationHash": 308080871,
+			"activityHash": 1233767907,
+			"activityGraphHash": 339930669,
+			"activityGraphNodeHash": 0,
+			"activityBubbleName": 1461622515,
+			"activityPathBundle": 219898063,
+			"activityPathDestination": 2527054255,
+			"navPointType": 0,
+			"worldPosition": [
+				-333,
+				-365,
+				34,
+				0
+			]
+		}
+	],
+	"hash": 1081633270,
+	"index": 300,
+	"redacted": false,
+	"blacklisted": false
 }

@@ -1,152 +1,152 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Quest Step", 
-    "itemType": 12, 
-    "investmentStats": [], 
-    "redacted": false, 
-    "tooltipNotifications": [], 
-    "index": 14618, 
-    "stats": {
-        "hasDisplayableStats": false, 
-        "primaryBaseStatHash": 0, 
-        "disablePrimaryStatDisplay": false, 
-        "stats": {}
-    }, 
-    "objectives": {
-        "objectiveVerbName": "", 
-        "requireFullObjectiveCompletion": true, 
-        "questTypeIdentifier": "quest_global", 
-        "perObjectiveDisplayProperties": [
-            {
-                "displayOnItemPreviewScreen": false
-            }, 
-            {
-                "displayOnItemPreviewScreen": false
-            }, 
-            {
-                "displayOnItemPreviewScreen": false
-            }
-        ], 
-        "objectiveHashes": [
-            2074564937, 
-            2074564936, 
-            2074564939
-        ], 
-        "displayAsStatTracker": false, 
-        "useOnObjectiveCompletion": false, 
-        "completionRewardSiteHash": 0, 
-        "timestampUnlockValueHash": 0, 
-        "questlineItemHash": 2066275732, 
-        "isGlobalObjectiveItem": false, 
-        "inhibitCompletionUnlockValueHash": 0, 
-        "narrative": "", 
-        "displayActivityHashes": [
-            2166136261, 
-            2166136261, 
-            2166136261
-        ], 
-        "nextQuestStepRewardSiteHash": 0, 
-        "questTypeHash": 3413310557
-    }, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 1345459588, 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "setData": {
-        "trackingUnlockValueHash": 0, 
-        "setIsFeatured": false, 
-        "itemList": [
-            {
-                "itemHash": 3878552806, 
-                "trackingValue": 100
-            }, 
-            {
-                "itemHash": 19656477, 
-                "trackingValue": 200
-            }, 
-            {
-                "itemHash": 2066275732, 
-                "trackingValue": 300
-            }, 
-            {
-                "itemHash": 1965462955, 
-                "trackingValue": 400
-            }, 
-            {
-                "itemHash": 1864650146, 
-                "trackingValue": 500
-            }, 
-            {
-                "itemHash": 1763837369, 
-                "trackingValue": 600
-            }
-        ], 
-        "requireOrderedSetItemAdd": true, 
-        "questLineName": "Iron Banner: Season 9", 
-        "abandonmentUnlockHash": 0, 
-        "setType": "quest_global"
-    }, 
-    "hash": 2066275732, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Quest Step", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": true, 
-    "action": {
-        "progressionRewards": [], 
-        "requiredCooldownHash": 0, 
-        "verbName": "Abandon", 
-        "deleteOnAction": true, 
-        "requiredItems": [], 
-        "rewardItemHash": 0, 
-        "useOnAcquire": false, 
-        "isPositive": false, 
-        "requiredCooldownSeconds": 0, 
-        "rewardSheetHash": 0, 
-        "verbDescription": "", 
-        "rewardSiteHash": 0, 
-        "consumeEntireStack": false
-    }, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        16
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": true, 
-    "tooltipStyle": "bounty", 
-    "allowActions": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "blacklisted": false, 
-    "acquireUnlockHash": 0, 
-    "displaySource": "\"Consider why you fight, Guardian. For honor? For glory? Your actions tell the story that will be passed down through the generations. Make them pure.\" —Lord Saladin", 
-    "traitIds": [
-        "inventory_filtering.quest", 
-        "quest.playlists"
-    ], 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/6f00249300e7448124710b203ac2e3c2.jpg", 
-        "hasIcon": true, 
-        "description": "At any time during Season 9, defeat opponents, capture zones, and land final blows using Shotguns in the Iron Banner.", 
-        "name": "Pump Iron"
-    }
+	"displayProperties": {
+		"description": "At any time during Season 9, defeat opponents, capture zones, and land final blows using Shotguns in the Iron Banner.",
+		"name": "Pump Iron",
+		"icon": "/common/destiny2_content/icons/6f00249300e7448124710b203ac2e3c2.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Quest Step",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Quest Step",
+	"displaySource": "\"Consider why you fight, Guardian. For honor? For glory? Your actions tell the story that will be passed down through the generations. Make them pure.\" —Lord Saladin",
+	"tooltipStyle": "bounty",
+	"action": {
+		"verbName": "Abandon",
+		"verbDescription": "",
+		"isPositive": false,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1345459588,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"setData": {
+		"itemList": [
+			{
+				"trackingValue": 100,
+				"itemHash": 3878552806
+			},
+			{
+				"trackingValue": 200,
+				"itemHash": 19656477
+			},
+			{
+				"trackingValue": 300,
+				"itemHash": 2066275732
+			},
+			{
+				"trackingValue": 400,
+				"itemHash": 1965462955
+			},
+			{
+				"trackingValue": 500,
+				"itemHash": 1864650146
+			},
+			{
+				"trackingValue": 600,
+				"itemHash": 1763837369
+			}
+		],
+		"trackingUnlockValueHash": 0,
+		"abandonmentUnlockHash": 0,
+		"requireOrderedSetItemAdd": true,
+		"setIsFeatured": false,
+		"setType": "quest_global",
+		"questLineName": "Iron Banner: Season 9"
+	},
+	"stats": {
+		"disablePrimaryStatDisplay": false,
+		"stats": {},
+		"hasDisplayableStats": false,
+		"primaryBaseStatHash": 0
+	},
+	"objectives": {
+		"objectiveHashes": [
+			2074564937,
+			2074564936,
+			2074564939
+		],
+		"displayActivityHashes": [
+			2166136261,
+			2166136261,
+			2166136261
+		],
+		"requireFullObjectiveCompletion": true,
+		"questlineItemHash": 2066275732,
+		"narrative": "",
+		"objectiveVerbName": "",
+		"questTypeIdentifier": "quest_global",
+		"questTypeHash": 3413310557,
+		"completionRewardSiteHash": 0,
+		"nextQuestStepRewardSiteHash": 0,
+		"timestampUnlockValueHash": 0,
+		"isGlobalObjectiveItem": false,
+		"useOnObjectiveCompletion": false,
+		"inhibitCompletionUnlockValueHash": 0,
+		"perObjectiveDisplayProperties": [
+			{
+				"displayOnItemPreviewScreen": false
+			},
+			{
+				"displayOnItemPreviewScreen": false
+			},
+			{
+				"displayOnItemPreviewScreen": false
+			}
+		],
+		"displayAsStatTracker": false
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": true,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		16
+	],
+	"specialItemType": 0,
+	"itemType": 12,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"traitIds": [
+		"inventory_filtering.quest",
+		"quest.playlists"
+	],
+	"hash": 2066275732,
+	"index": 15299,
+	"redacted": false,
+	"blacklisted": false
 }

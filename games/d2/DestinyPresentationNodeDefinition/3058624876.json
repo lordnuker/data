@@ -1,189 +1,198 @@
 {
-    "index": 607, 
-    "traitHashes": [], 
-    "nodeType": 1, 
-    "blacklisted": false, 
-    "presentationNodeType": 1, 
-    "redacted": false, 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "objectiveHash": 3409761290, 
-    "parentNodeHashes": [
-        638914517
-    ], 
-    "displayStyle": 0, 
-    "screenStyle": 0, 
-    "traitIds": [], 
-    "disableChildSubscreenNavigation": false, 
-    "displayProperties": {
-        "hasIcon": false, 
-        "description": "", 
-        "name": "Shotguns"
-    }, 
-    "scope": 1, 
-    "children": {
-        "metrics": [], 
-        "collectibles": [
-            {
-                "collectibleHash": 1058083667
-            }, 
-            {
-                "collectibleHash": 1058083666
-            }, 
-            {
-                "collectibleHash": 1058083671
-            }, 
-            {
-                "collectibleHash": 1058083670
-            }, 
-            {
-                "collectibleHash": 1058083669
-            }, 
-            {
-                "collectibleHash": 1058083668
-            }, 
-            {
-                "collectibleHash": 1058083665
-            }, 
-            {
-                "collectibleHash": 1058083664
-            }, 
-            {
-                "collectibleHash": 1058083679
-            }, 
-            {
-                "collectibleHash": 1058083678
-            }, 
-            {
-                "collectibleHash": 1041306084
-            }, 
-            {
-                "collectibleHash": 1041306085
-            }, 
-            {
-                "collectibleHash": 2677096593
-            }, 
-            {
-                "collectibleHash": 1100183748
-            }, 
-            {
-                "collectibleHash": 2596090783
-            }, 
-            {
-                "collectibleHash": 2014766405
-            }, 
-            {
-                "collectibleHash": 4021830821
-            }, 
-            {
-                "collectibleHash": 3844835635
-            }, 
-            {
-                "collectibleHash": 1894288229
-            }, 
-            {
-                "collectibleHash": 1041306086
-            }, 
-            {
-                "collectibleHash": 1041306087
-            }, 
-            {
-                "collectibleHash": 1041306080
-            }, 
-            {
-                "collectibleHash": 1041306081
-            }, 
-            {
-                "collectibleHash": 1041306082
-            }, 
-            {
-                "collectibleHash": 4004455465
-            }, 
-            {
-                "collectibleHash": 474322793
-            }, 
-            {
-                "collectibleHash": 1041306083
-            }, 
-            {
-                "collectibleHash": 2953546804
-            }, 
-            {
-                "collectibleHash": 1091638972
-            }, 
-            {
-                "collectibleHash": 1041306092
-            }, 
-            {
-                "collectibleHash": 1041306093
-            }, 
-            {
-                "collectibleHash": 1091638973
-            }, 
-            {
-                "collectibleHash": 1074861258
-            }, 
-            {
-                "collectibleHash": 3548815731
-            }, 
-            {
-                "collectibleHash": 1445681328
-            }, 
-            {
-                "collectibleHash": 2694759742
-            }, 
-            {
-                "collectibleHash": 4228109048
-            }, 
-            {
-                "collectibleHash": 1957285904
-            }, 
-            {
-                "collectibleHash": 3972149937
-            }, 
-            {
-                "collectibleHash": 2796607130
-            }, 
-            {
-                "collectibleHash": 2133721659
-            }, 
-            {
-                "collectibleHash": 1091638975
-            }, 
-            {
-                "collectibleHash": 1091638974
-            }, 
-            {
-                "collectibleHash": 1091638969
-            }, 
-            {
-                "collectibleHash": 1091638968
-            }, 
-            {
-                "collectibleHash": 1709454423
-            }, 
-            {
-                "collectibleHash": 1593810954
-            }, 
-            {
-                "collectibleHash": 3961745685
-            }, 
-            {
-                "collectibleHash": 1091638971
-            }, 
-            {
-                "collectibleHash": 1091638970
-            }, 
-            {
-                "collectibleHash": 1091638965
-            }, 
-            {
-                "collectibleHash": 1091638964
-            }
-        ], 
-        "presentationNodes": [], 
-        "records": []
-    }, 
-    "hash": 3058624876
+	"displayProperties": {
+		"description": "",
+		"name": "Shotguns",
+		"hasIcon": false
+	},
+	"nodeType": 1,
+	"scope": 1,
+	"objectiveHash": 3409761290,
+	"children": {
+		"presentationNodes": [],
+		"collectibles": [
+			{
+				"collectibleHash": 1058083667
+			},
+			{
+				"collectibleHash": 1058083666
+			},
+			{
+				"collectibleHash": 1058083671
+			},
+			{
+				"collectibleHash": 1058083670
+			},
+			{
+				"collectibleHash": 1058083669
+			},
+			{
+				"collectibleHash": 1058083668
+			},
+			{
+				"collectibleHash": 1058083665
+			},
+			{
+				"collectibleHash": 1058083664
+			},
+			{
+				"collectibleHash": 1058083679
+			},
+			{
+				"collectibleHash": 1058083678
+			},
+			{
+				"collectibleHash": 1041306084
+			},
+			{
+				"collectibleHash": 1041306085
+			},
+			{
+				"collectibleHash": 2677096593
+			},
+			{
+				"collectibleHash": 1100183748
+			},
+			{
+				"collectibleHash": 2596090783
+			},
+			{
+				"collectibleHash": 2014766405
+			},
+			{
+				"collectibleHash": 4021830821
+			},
+			{
+				"collectibleHash": 3844835635
+			},
+			{
+				"collectibleHash": 1894288229
+			},
+			{
+				"collectibleHash": 1041306086
+			},
+			{
+				"collectibleHash": 1041306087
+			},
+			{
+				"collectibleHash": 1041306080
+			},
+			{
+				"collectibleHash": 1041306081
+			},
+			{
+				"collectibleHash": 1041306082
+			},
+			{
+				"collectibleHash": 4004455465
+			},
+			{
+				"collectibleHash": 474322793
+			},
+			{
+				"collectibleHash": 1041306083
+			},
+			{
+				"collectibleHash": 2953546804
+			},
+			{
+				"collectibleHash": 1091638972
+			},
+			{
+				"collectibleHash": 1041306092
+			},
+			{
+				"collectibleHash": 1041306093
+			},
+			{
+				"collectibleHash": 1091638973
+			},
+			{
+				"collectibleHash": 1074861258
+			},
+			{
+				"collectibleHash": 3548815731
+			},
+			{
+				"collectibleHash": 1445681328
+			},
+			{
+				"collectibleHash": 2694759742
+			},
+			{
+				"collectibleHash": 4228109048
+			},
+			{
+				"collectibleHash": 1957285904
+			},
+			{
+				"collectibleHash": 3972149937
+			},
+			{
+				"collectibleHash": 2796607130
+			},
+			{
+				"collectibleHash": 2133721659
+			},
+			{
+				"collectibleHash": 3371544734
+			},
+			{
+				"collectibleHash": 1729827465
+			},
+			{
+				"collectibleHash": 3460224980
+			},
+			{
+				"collectibleHash": 1091638975
+			},
+			{
+				"collectibleHash": 1091638974
+			},
+			{
+				"collectibleHash": 1091638969
+			},
+			{
+				"collectibleHash": 1091638968
+			},
+			{
+				"collectibleHash": 1709454423
+			},
+			{
+				"collectibleHash": 1593810954
+			},
+			{
+				"collectibleHash": 3961745685
+			},
+			{
+				"collectibleHash": 1091638971
+			},
+			{
+				"collectibleHash": 1091638970
+			},
+			{
+				"collectibleHash": 1091638965
+			},
+			{
+				"collectibleHash": 1091638964
+			}
+		],
+		"records": [],
+		"metrics": []
+	},
+	"displayStyle": 0,
+	"screenStyle": 0,
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"disableChildSubscreenNavigation": false,
+	"presentationNodeType": 1,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		638914517
+	],
+	"hash": 3058624876,
+	"index": 665,
+	"redacted": false,
+	"blacklisted": false
 }

@@ -1,71 +1,71 @@
 {
-    "itemTypeAndTierDisplayName": "Rare Ghost Module", 
-    "itemType": 19, 
-    "tooltipNotifications": [], 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Rare", 
-        "bucketTypeHash": 3313201758, 
-        "tierTypeHash": 2127292149, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 4, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Ghost Module", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        59, 
-        4176831154, 
-        1449602859
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": false, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "displaySource": "", 
-    "perks": [
-        {
-            "requirementDisplayString": "", 
-            "perkHash": 3246016689, 
-            "perkVisibility": 0
-        }
-    ], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/d6fa97e633406d809f9a3d52e572bfb4.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/ed5d405fc3d10d0333c71b5033dd534c.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/d6fa97e633406d809f9a3d52e572bfb4.png", 
-        "hasIcon": true, 
-        "description": "In addition to their normal rewards, encounters in the raids \"Leviathan\" and \"Leviathan, Eater of Worlds\" can award Bright Engrams. This chance increases each time no Bright Engram drops.", 
-        "name": "Seeker of Brilliance"
-    }
+	"displayProperties": {
+		"description": "In addition to their normal rewards, encounters in the raids \"Leviathan\" and \"Leviathan, Eater of Worlds\" can award Bright Engrams. This chance increases each time no Bright Engram drops.",
+		"name": "Seeker of Brilliance",
+		"icon": "/common/destiny2_content/icons/d6fa97e633406d809f9a3d52e572bfb4.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/d6fa97e633406d809f9a3d52e572bfb4.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/ed5d405fc3d10d0333c71b5033dd534c.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Ghost Module",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Rare Ghost Module",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 3313201758,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 2127292149,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Rare",
+		"tierType": 4,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [
+		{
+			"requirementDisplayString": "",
+			"perkHash": 3246016689,
+			"perkVisibility": 0
+		}
+	],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [
+		59,
+		4176831154,
+		1449602859
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

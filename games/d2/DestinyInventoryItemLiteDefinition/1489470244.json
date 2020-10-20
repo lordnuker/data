@@ -1,71 +1,71 @@
 {
-    "itemTypeAndTierDisplayName": "Common Opulent Armor Mod", 
-    "itemType": 19, 
-    "tooltipNotifications": [], 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Common", 
-        "bucketTypeHash": 2422292810, 
-        "tierTypeHash": 3340296461, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 2, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Opulent Armor Mod", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        59, 
-        4104513227
-    ], 
-    "uiItemDisplayStyle": "ui_display_style_energy_mod", 
-    "nonTransferrable": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "collectibleHash": 3702797496, 
-    "displaySource": "", 
-    "perks": [
-        {
-            "requirementDisplayString": "", 
-            "perkHash": 1240646492, 
-            "perkVisibility": 0
-        }
-    ], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/e3987609749fad10bbc632cddb2582e3.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/6d79891fe020641326a71dafcc41b75f.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/e3987609749fad10bbc632cddb2582e3.png", 
-        "hasIcon": true, 
-        "description": "", 
-        "name": "Power Overwhelming"
-    }
+	"displayProperties": {
+		"description": "",
+		"name": "Power Overwhelming",
+		"icon": "/common/destiny2_content/icons/e3987609749fad10bbc632cddb2582e3.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/e3987609749fad10bbc632cddb2582e3.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/6d79891fe020641326a71dafcc41b75f.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"collectibleHash": 3702797496,
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Opulent Armor Mod",
+	"uiItemDisplayStyle": "ui_display_style_energy_mod",
+	"itemTypeAndTierDisplayName": "Common Opulent Armor Mod",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 2422292810,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 3340296461,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Common",
+		"tierType": 2,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [
+		{
+			"requirementDisplayString": "",
+			"perkHash": 1240646492,
+			"perkVisibility": 1
+		}
+	],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		59,
+		4104513227
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

@@ -1,50 +1,50 @@
 {
-    "index": 1515, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        2890433093
-    ], 
-    "parentNodeHashes": [
-        4235544934
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 100, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/29d4882ffc759013f40030d3ba254f4e.png", 
-        "hasIcon": true, 
-        "description": "In a single invasion, drain multiple Motes from the opposing team's bank while near their bank.", 
-        "name": "Bank Heist"
-    }, 
-    "scope": 0, 
-    "hash": 3599006440
+	"displayProperties": {
+		"description": "In a single invasion, drain multiple Motes from the opposing team's bank while near their bank.",
+		"name": "Bank Heist",
+		"icon": "/common/destiny2_content/icons/29d4882ffc759013f40030d3ba254f4e.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		2890433093
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 100,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		4235544934
+	],
+	"hash": 3599006440,
+	"index": 1527,
+	"redacted": false,
+	"blacklisted": false
 }

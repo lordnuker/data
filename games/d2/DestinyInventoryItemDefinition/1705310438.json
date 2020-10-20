@@ -1,137 +1,137 @@
 {
-    "itemTypeAndTierDisplayName": "Exotic Quest Step", 
-    "nonTransferrable": true, 
-    "investmentStats": [], 
-    "redacted": false, 
-    "secondaryIcon": "/common/destiny2_content/icons/bd99270d3276b2bae9be15ef06a0d8b3.png", 
-    "tooltipNotifications": [], 
-    "itemType": 12, 
-    "index": 14381, 
-    "stats": {
-        "hasDisplayableStats": false, 
-        "primaryBaseStatHash": 0, 
-        "disablePrimaryStatDisplay": false, 
-        "stats": {}
-    }, 
-    "objectives": {
-        "objectiveVerbName": "", 
-        "requireFullObjectiveCompletion": true, 
-        "questTypeIdentifier": "quest_global", 
-        "perObjectiveDisplayProperties": [
-            {
-                "displayOnItemPreviewScreen": false
-            }
-        ], 
-        "objectiveHashes": [
-            2985393889
-        ], 
-        "displayAsStatTracker": false, 
-        "useOnObjectiveCompletion": false, 
-        "completionRewardSiteHash": 0, 
-        "timestampUnlockValueHash": 0, 
-        "questlineItemHash": 1705310438, 
-        "isGlobalObjectiveItem": false, 
-        "inhibitCompletionUnlockValueHash": 0, 
-        "narrative": "", 
-        "displayActivityHashes": [
-            2166136261
-        ], 
-        "nextQuestStepRewardSiteHash": 0, 
-        "questTypeHash": 3413310557
-    }, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Exotic", 
-        "bucketTypeHash": 1345459588, 
-        "tierTypeHash": 2759499571, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 6, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "setData": {
-        "trackingUnlockValueHash": 0, 
-        "setIsFeatured": false, 
-        "itemList": [
-            {
-                "itemHash": 884082918, 
-                "trackingValue": 1
-            }, 
-            {
-                "itemHash": 300686946, 
-                "trackingValue": 2
-            }, 
-            {
-                "itemHash": 462487772, 
-                "trackingValue": 3
-            }, 
-            {
-                "itemHash": 1705310438, 
-                "trackingValue": 4
-            }
-        ], 
-        "requireOrderedSetItemAdd": true, 
-        "questLineName": "Truth Behind the Stories", 
-        "abandonmentUnlockHash": 0, 
-        "setType": "quest_global"
-    }, 
-    "hash": 1705310438, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Quest Step", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": true, 
-    "action": {
-        "progressionRewards": [], 
-        "requiredCooldownHash": 0, 
-        "verbName": "Abandon", 
-        "deleteOnAction": true, 
-        "requiredItems": [], 
-        "rewardItemHash": 0, 
-        "useOnAcquire": false, 
-        "isPositive": false, 
-        "requiredCooldownSeconds": 0, 
-        "rewardSheetHash": 0, 
-        "verbDescription": "", 
-        "rewardSiteHash": 0, 
-        "consumeEntireStack": false
-    }, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        16
-    ], 
-    "uiItemDisplayStyle": "", 
-    "secondaryOverlay": "/common/destiny2_content/icons/785e5a64153cabd5637d68dcccb7fea6.png", 
-    "tooltipStyle": "bounty", 
-    "allowActions": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "secondarySpecial": "/img/misc/missing_icon_d2.png", 
-    "blacklisted": false, 
-    "acquireUnlockHash": 0, 
-    "displaySource": "well done, best beloved. one final trial awaits you. seek out the relics, as i have shown you. there are seven, all told, and all well-hidden. the more you find, the easier your final climb will be.\n\nyou deserve this. we will be reunited soon. be well. grow huge.", 
-    "traitIds": [
-        "inventory_filtering.quest", 
-        "quest.exotic"
-    ], 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/e2be20d703e3e86fe2b4f2271c5830ab.jpg", 
-        "hasIcon": true, 
-        "description": "You've successfully decoded and reassembled the map, revealing additional instructions clearly intended for someone else. However, that someone else is apparently Fallen, and in your mind, that makes this whole thing fair game. That Rocket Launcher is so close you can almost taste it. Metal… soot… finders-keepers-style thievery… Delicious.\n\nComplete the \"Warden of Nothing\" strike while Ascendant, and find the final hidden Ascendant chest.", 
-        "name": "Candy from a Baby"
-    }
+	"displayProperties": {
+		"description": "You've successfully decoded and reassembled the map, revealing additional instructions clearly intended for someone else. However, that someone else is apparently Fallen, and in your mind, that makes this whole thing fair game. That Rocket Launcher is so close you can almost taste it. Metal… soot… finders-keepers-style thievery… Delicious.\n\nComplete the \"Warden of Nothing\" strike while Ascendant, and find the final hidden Ascendant chest.",
+		"name": "Candy from a Baby",
+		"icon": "/common/destiny2_content/icons/e2be20d703e3e86fe2b4f2271c5830ab.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"secondaryIcon": "/common/destiny2_content/icons/bd99270d3276b2bae9be15ef06a0d8b3.png",
+	"secondaryOverlay": "/common/destiny2_content/icons/785e5a64153cabd5637d68dcccb7fea6.png",
+	"secondarySpecial": "/img/misc/missing_icon_d2.png",
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Quest Step",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Exotic Quest Step",
+	"displaySource": "well done, best beloved. one final trial awaits you. seek out the relics, as i have shown you. there are seven, all told, and all well-hidden. the more you find, the easier your final climb will be.\n\nyou deserve this. we will be reunited soon. be well. grow huge.",
+	"tooltipStyle": "bounty",
+	"action": {
+		"verbName": "Abandon",
+		"verbDescription": "",
+		"isPositive": false,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1345459588,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 2759499571,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Exotic",
+		"tierType": 6,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"setData": {
+		"itemList": [
+			{
+				"trackingValue": 1,
+				"itemHash": 884082918
+			},
+			{
+				"trackingValue": 2,
+				"itemHash": 300686946
+			},
+			{
+				"trackingValue": 3,
+				"itemHash": 462487772
+			},
+			{
+				"trackingValue": 4,
+				"itemHash": 1705310438
+			}
+		],
+		"trackingUnlockValueHash": 0,
+		"abandonmentUnlockHash": 0,
+		"requireOrderedSetItemAdd": true,
+		"setIsFeatured": false,
+		"setType": "quest_global",
+		"questLineName": "Truth Behind the Stories"
+	},
+	"stats": {
+		"disablePrimaryStatDisplay": false,
+		"stats": {},
+		"hasDisplayableStats": false,
+		"primaryBaseStatHash": 0
+	},
+	"objectives": {
+		"objectiveHashes": [
+			2985393889
+		],
+		"displayActivityHashes": [
+			2166136261
+		],
+		"requireFullObjectiveCompletion": true,
+		"questlineItemHash": 1705310438,
+		"narrative": "",
+		"objectiveVerbName": "",
+		"questTypeIdentifier": "quest_global",
+		"questTypeHash": 3413310557,
+		"completionRewardSiteHash": 0,
+		"nextQuestStepRewardSiteHash": 0,
+		"timestampUnlockValueHash": 0,
+		"isGlobalObjectiveItem": false,
+		"useOnObjectiveCompletion": false,
+		"inhibitCompletionUnlockValueHash": 0,
+		"perObjectiveDisplayProperties": [
+			{
+				"displayOnItemPreviewScreen": false
+			}
+		],
+		"displayAsStatTracker": false
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": true,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		16
+	],
+	"specialItemType": 0,
+	"itemType": 12,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"traitIds": [
+		"inventory_filtering.quest",
+		"quest.exotic"
+	],
+	"hash": 1705310438,
+	"index": 15103,
+	"redacted": false,
+	"blacklisted": false
 }

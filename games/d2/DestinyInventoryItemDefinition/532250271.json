@@ -1,106 +1,106 @@
 {
-    "itemTypeAndTierDisplayName": "Quest", 
-    "nonTransferrable": true, 
-    "investmentStats": [], 
-    "redacted": false, 
-    "tooltipNotifications": [], 
-    "itemType": 20, 
-    "index": 12971, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "bucketTypeHash": 2422292810, 
-        "tierTypeHash": 0, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 0, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 5, 
-        "green": 3, 
-        "colorHash": 0, 
-        "red": 9, 
-        "alpha": 255
-    }, 
-    "setData": {
-        "trackingUnlockValueHash": 0, 
-        "setIsFeatured": false, 
-        "itemList": [
-            {
-                "itemHash": 2780353998, 
-                "trackingValue": 1469631760
-            }
-        ], 
-        "requireOrderedSetItemAdd": true, 
-        "questLineName": "", 
-        "abandonmentUnlockHash": 0, 
-        "setType": "black_armory_run"
-    }, 
-    "hash": 532250271, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Quest", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        53, 
-        3109687656
-    ], 
-    "uiItemDisplayStyle": "", 
-    "secondaryOverlay": "/img/misc/missing_icon_d2.png", 
-    "secondaryIcon": "/common/destiny2_content/icons/ca3b64faef669af751333cee69081a5a.png", 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "secondarySpecial": "/img/misc/missing_icon_d2.png", 
-    "blacklisted": false, 
-    "displaySource": "", 
-    "traitIds": [
-        "inventory_filtering.quest", 
-        "quest.past"
-    ], 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/ca3b64faef669af751333cee69081a5a.png", 
-                    "/common/destiny2_content/icons/cb7c8c538d038d751e330d1087c6bdc4.png", 
-                    "/common/destiny2_content/icons/fc11377852310f234067b97bae7f7067.png", 
-                    "/common/destiny2_content/icons/99187d2f892cfe0844cf6b3acb84cc0d.png", 
-                    "/common/destiny2_content/icons/cfd00f2ee47d99f4f042d9e44dc239f8.png", 
-                    "/common/destiny2_content/icons/e00bd080ae3cfdb17fe753c1faa40975.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/4bc74cdde2879015600a62b4631b42c3.png", 
-                    "/common/destiny2_content/icons/fc19a01b02627cb40091631bd097bc19.png", 
-                    "/common/destiny2_content/icons/568880ba657580e32495801fd850d589.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/74711330dc58d137524fa4e56530197a.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/0d3d36140da7975fad4235d208bdd842.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/ca3b64faef669af751333cee69081a5a.png", 
-        "hasIcon": true, 
-        "description": "", 
-        "name": "Bergusia Forge"
-    }
+	"displayProperties": {
+		"description": "",
+		"name": "Bergusia Forge",
+		"icon": "/common/destiny2_content/icons/ca3b64faef669af751333cee69081a5a.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/ca3b64faef669af751333cee69081a5a.png",
+					"/common/destiny2_content/icons/cb7c8c538d038d751e330d1087c6bdc4.png",
+					"/common/destiny2_content/icons/fc11377852310f234067b97bae7f7067.png",
+					"/common/destiny2_content/icons/99187d2f892cfe0844cf6b3acb84cc0d.png",
+					"/common/destiny2_content/icons/cfd00f2ee47d99f4f042d9e44dc239f8.png",
+					"/common/destiny2_content/icons/e00bd080ae3cfdb17fe753c1faa40975.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/4bc74cdde2879015600a62b4631b42c3.png",
+					"/common/destiny2_content/icons/fc19a01b02627cb40091631bd097bc19.png",
+					"/common/destiny2_content/icons/568880ba657580e32495801fd850d589.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/74711330dc58d137524fa4e56530197a.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/0d3d36140da7975fad4235d208bdd842.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"secondaryIcon": "/common/destiny2_content/icons/ca3b64faef669af751333cee69081a5a.png",
+	"secondaryOverlay": "/img/misc/missing_icon_d2.png",
+	"secondarySpecial": "/img/misc/missing_icon_d2.png",
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 9,
+		"green": 3,
+		"blue": 5,
+		"alpha": 255
+	},
+	"itemTypeDisplayName": "Quest",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Quest",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 2422292810,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 0,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierType": 0,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"setData": {
+		"itemList": [
+			{
+				"trackingValue": 1469631760,
+				"itemHash": 2780353998
+			}
+		],
+		"trackingUnlockValueHash": 0,
+		"abandonmentUnlockHash": 0,
+		"requireOrderedSetItemAdd": true,
+		"setIsFeatured": false,
+		"setType": "black_armory_run",
+		"questLineName": ""
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		53,
+		3109687656
+	],
+	"specialItemType": 0,
+	"itemType": 20,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"traitIds": [
+		"inventory_filtering.quest",
+		"quest.past"
+	],
+	"hash": 532250271,
+	"index": 13559,
+	"redacted": false,
+	"blacklisted": false
 }

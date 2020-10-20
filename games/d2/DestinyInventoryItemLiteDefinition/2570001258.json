@@ -1,77 +1,86 @@
 {
-    "itemTypeAndTierDisplayName": "Common Chest Armor", 
-    "itemType": 2, 
-    "tooltipNotifications": [], 
-    "quality": {
-        "infusionCategoryHash": 0, 
-        "infusionCategoryHashes": [], 
-        "infusionCategoryName": "0", 
-        "progressionLevelRequirementHash": 1432934783, 
-        "qualityLevel": 0, 
-        "itemLevels": []
-    }, 
-    "talentGrid": {
-        "talentGridHash": 521135891, 
-        "hudDamageType": 1, 
-        "itemDetailString": "Details"
-    }, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Common", 
-        "bucketTypeHash": 14239492, 
-        "tierTypeHash": 3340296461, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 2, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "equippable": true, 
-    "itemTypeDisplayName": "Chest Armor", 
-    "isWrapper": false, 
-    "classType": 0, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 28, 
-    "itemCategoryHashes": [
-        22, 
-        47, 
-        20
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": false, 
-    "equippingBlock": {
-        "displayStrings": [
-            ""
-        ], 
-        "equipmentSlotTypeHash": 14239492, 
-        "ammoType": 0, 
-        "equippingSoundHash": 0, 
-        "hornSoundHash": 0, 
-        "attributes": 0, 
-        "uniqueLabelHash": 0
-    }, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "displaySource": "", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/10f9753d4e287960d6ebcbeec7a5a6f2.jpg", 
-        "hasIcon": true, 
-        "description": "Titans honor their armor, no matter its strength.", 
-        "name": "Refugee Plate"
-    }
+	"displayProperties": {
+		"description": "Titans honor their armor, no matter its strength.",
+		"name": "Refugee Plate",
+		"icon": "/common/destiny2_content/icons/10f9753d4e287960d6ebcbeec7a5a6f2.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Chest Armor",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Common Chest Armor",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 14239492,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 3340296461,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Common",
+		"tierType": 2,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"equippingBlock": {
+		"uniqueLabelHash": 0,
+		"equipmentSlotTypeHash": 14239492,
+		"attributes": 0,
+		"equippingSoundHash": 0,
+		"hornSoundHash": 0,
+		"ammoType": 0,
+		"displayStrings": [
+			""
+		]
+	},
+	"quality": {
+		"itemLevels": [],
+		"qualityLevel": 0,
+		"infusionCategoryName": "0",
+		"infusionCategoryHash": 0,
+		"infusionCategoryHashes": [],
+		"progressionLevelRequirementHash": 1432934783,
+		"currentVersion": 0,
+		"versions": [
+			{
+				"powerCapHash": 3340296461
+			}
+		],
+		"displayVersionWatermarkIcons": [
+			"/common/destiny2_content/icons/0dac2f181f0245cfc64494eccb7db9f7.png"
+		]
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"talentGrid": {
+		"talentGridHash": 521135891,
+		"itemDetailString": "Details",
+		"hudDamageType": 1
+	},
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [
+		22,
+		47,
+		20
+	],
+	"specialItemType": 0,
+	"itemType": 2,
+	"itemSubType": 28,
+	"classType": 0,
+	"breakerType": 0,
+	"equippable": true,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

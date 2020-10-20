@@ -1,112 +1,112 @@
 {
-    "itemTypeAndTierDisplayName": "Basic Quest Step", 
-    "nonTransferrable": true, 
-    "investmentStats": [], 
-    "redacted": false, 
-    "secondaryIcon": "/common/destiny2_content/icons/0441db280ecf124d1aa4c79c3dfd8690.jpg", 
-    "tooltipNotifications": [], 
-    "itemType": 12, 
-    "index": 12800, 
-    "stats": {
-        "hasDisplayableStats": false, 
-        "primaryBaseStatHash": 0, 
-        "disablePrimaryStatDisplay": false, 
-        "stats": {}
-    }, 
-    "objectives": {
-        "objectiveVerbName": "Complete", 
-        "requireFullObjectiveCompletion": true, 
-        "questTypeIdentifier": "quest_global", 
-        "perObjectiveDisplayProperties": [
-            {
-                "displayOnItemPreviewScreen": false, 
-                "activityHash": 3151789989
-            }
-        ], 
-        "objectiveHashes": [
-            2115017593
-        ], 
-        "displayAsStatTracker": false, 
-        "useOnObjectiveCompletion": false, 
-        "completionRewardSiteHash": 0, 
-        "timestampUnlockValueHash": 0, 
-        "questlineItemHash": 3650902673, 
-        "isGlobalObjectiveItem": false, 
-        "inhibitCompletionUnlockValueHash": 0, 
-        "narrative": "", 
-        "displayActivityHashes": [
-            2166136261
-        ], 
-        "nextQuestStepRewardSiteHash": 0, 
-        "questTypeHash": 3413310557
-    }, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Basic", 
-        "bucketTypeHash": 1801258597, 
-        "tierTypeHash": 1801258597, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 0, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "hash": 2180532772, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Quest Step", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": true, 
-    "action": {
-        "progressionRewards": [], 
-        "requiredCooldownHash": 0, 
-        "verbName": "Abandon", 
-        "deleteOnAction": true, 
-        "requiredItems": [], 
-        "rewardItemHash": 0, 
-        "useOnAcquire": false, 
-        "isPositive": false, 
-        "requiredCooldownSeconds": 0, 
-        "rewardSheetHash": 0, 
-        "verbDescription": "", 
-        "rewardSiteHash": 0, 
-        "consumeEntireStack": false
-    }, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        16
-    ], 
-    "uiItemDisplayStyle": "", 
-    "secondaryOverlay": "/img/misc/missing_icon_d2.png", 
-    "tooltipStyle": "build", 
-    "allowActions": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "secondarySpecial": "/img/misc/missing_icon_d2.png", 
-    "blacklisted": false, 
-    "acquireUnlockHash": 0, 
-    "displaySource": "", 
-    "traitIds": [
-        "inventory_filtering.quest", 
-        "quest.exotic"
-    ], 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/a2ca0f5066ae751326e9db0c7bc6ff20.jpg", 
-        "hasIcon": true, 
-        "description": "???", 
-        "name": "???"
-    }
+	"displayProperties": {
+		"description": "???",
+		"name": "???",
+		"icon": "/common/destiny2_content/icons/a2ca0f5066ae751326e9db0c7bc6ff20.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"secondaryIcon": "/common/destiny2_content/icons/0441db280ecf124d1aa4c79c3dfd8690.jpg",
+	"secondaryOverlay": "/img/misc/missing_icon_d2.png",
+	"secondarySpecial": "/img/misc/missing_icon_d2.png",
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Quest Step",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Basic Quest Step",
+	"displaySource": "",
+	"tooltipStyle": "build",
+	"action": {
+		"verbName": "Abandon",
+		"verbDescription": "",
+		"isPositive": false,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1801258597,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 1801258597,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Basic",
+		"tierType": 0,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"stats": {
+		"disablePrimaryStatDisplay": false,
+		"stats": {},
+		"hasDisplayableStats": false,
+		"primaryBaseStatHash": 0
+	},
+	"objectives": {
+		"objectiveHashes": [
+			2115017593
+		],
+		"displayActivityHashes": [
+			2166136261
+		],
+		"requireFullObjectiveCompletion": true,
+		"questlineItemHash": 3650902673,
+		"narrative": "",
+		"objectiveVerbName": "Complete",
+		"questTypeIdentifier": "quest_global",
+		"questTypeHash": 3413310557,
+		"completionRewardSiteHash": 0,
+		"nextQuestStepRewardSiteHash": 0,
+		"timestampUnlockValueHash": 0,
+		"isGlobalObjectiveItem": false,
+		"useOnObjectiveCompletion": false,
+		"inhibitCompletionUnlockValueHash": 0,
+		"perObjectiveDisplayProperties": [
+			{
+				"activityHash": 3151789989,
+				"displayOnItemPreviewScreen": false
+			}
+		],
+		"displayAsStatTracker": false
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": true,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		16
+	],
+	"specialItemType": 0,
+	"itemType": 12,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"traitIds": [
+		"inventory_filtering.quest",
+		"quest.exotic"
+	],
+	"hash": 2180532772,
+	"index": 13394,
+	"redacted": false,
+	"blacklisted": false
 }

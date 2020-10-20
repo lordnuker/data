@@ -1,50 +1,50 @@
 {
-    "index": 1518, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        27863272
-    ], 
-    "parentNodeHashes": [
-        519504600
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 50, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/f1b5ab51c16956fbd2d82e2165f66a6e.png", 
-        "hasIcon": true, 
-        "description": "Kill an Invader while you're the only living member of your team.", 
-        "name": "Last Guardian Standing"
-    }, 
-    "scope": 0, 
-    "hash": 1037110515
+	"displayProperties": {
+		"description": "Kill an Invader while you're the only living member of your team.",
+		"name": "Last Guardian Standing",
+		"icon": "/common/destiny2_content/icons/f1b5ab51c16956fbd2d82e2165f66a6e.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		27863272
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 50,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		519504600
+	],
+	"hash": 1037110515,
+	"index": 1530,
+	"redacted": false,
+	"blacklisted": false
 }

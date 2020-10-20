@@ -1,70 +1,70 @@
 {
-    "index": 635, 
-    "traitHashes": [], 
-    "nodeType": 3, 
-    "blacklisted": false, 
-    "originalIcon": "/common/destiny2_content/icons/faa99217c390662daa785714a2207858.png", 
-    "presentationNodeType": 1, 
-    "redacted": false, 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "parentNodeHashes": [
-        1652422747
-    ], 
-    "children": {
-        "metrics": [], 
-        "collectibles": [], 
-        "presentationNodes": [], 
-        "records": [
-            {
-                "recordHash": 582114738
-            }, 
-            {
-                "recordHash": 1014828242
-            }, 
-            {
-                "recordHash": 2397844361
-            }, 
-            {
-                "recordHash": 1074336130
-            }, 
-            {
-                "recordHash": 1799797321
-            }, 
-            {
-                "recordHash": 396038457
-            }, 
-            {
-                "recordHash": 2069084282
-            }
-        ]
-    }, 
-    "rootViewIcon": "/img/destiny_content/also_triumphs/seals/seal_worthy.png", 
-    "screenStyle": 2, 
-    "traitIds": [], 
-    "displayStyle": 2, 
-    "disableChildSubscreenNavigation": false, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/faa99217c390662daa785714a2207858.png", 
-                    "/common/destiny2_content/icons/09763b065899206f73f27a3cc173b6ea.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/64eb598b424169b10fecd9f3407874b1.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/DestinyPresentationNodeDefinition_4a1c4289b023b1359efe031473083ba8.png", 
-        "hasIcon": true, 
-        "description": "Complete all Season of the Worthy Triumphs.", 
-        "name": "Almighty"
-    }, 
-    "scope": 0, 
-    "completionRecordHash": 2860165064, 
-    "hash": 2699827343
+	"displayProperties": {
+		"description": "Complete all Season of the Worthy Triumphs.",
+		"name": "Almighty",
+		"icon": "/common/destiny2_content/icons/DestinyPresentationNodeDefinition_4a1c4289b023b1359efe031473083ba8.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/faa99217c390662daa785714a2207858.png",
+					"/common/destiny2_content/icons/09763b065899206f73f27a3cc173b6ea.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/64eb598b424169b10fecd9f3407874b1.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"originalIcon": "/common/destiny2_content/icons/faa99217c390662daa785714a2207858.png",
+	"rootViewIcon": "/img/destiny_content/also_triumphs/seals/seal_worthy.png",
+	"nodeType": 3,
+	"scope": 0,
+	"completionRecordHash": 2860165064,
+	"children": {
+		"presentationNodes": [],
+		"collectibles": [],
+		"records": [
+			{
+				"recordHash": 582114738
+			},
+			{
+				"recordHash": 1014828242
+			},
+			{
+				"recordHash": 2397844361
+			},
+			{
+				"recordHash": 1074336130
+			},
+			{
+				"recordHash": 1799797321
+			},
+			{
+				"recordHash": 396038457
+			},
+			{
+				"recordHash": 2069084282
+			}
+		],
+		"metrics": []
+	},
+	"displayStyle": 2,
+	"screenStyle": 2,
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"disableChildSubscreenNavigation": false,
+	"presentationNodeType": 1,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		1652422747
+	],
+	"hash": 2699827343,
+	"index": 709,
+	"redacted": false,
+	"blacklisted": false
 }

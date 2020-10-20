@@ -1,79 +1,71 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Armor Perk", 
-    "itemType": 19, 
-    "tooltipNotifications": [], 
-    "quality": {
-        "infusionCategoryHash": 0, 
-        "infusionCategoryHashes": [], 
-        "infusionCategoryName": "0", 
-        "progressionLevelRequirementHash": 0, 
-        "qualityLevel": 0, 
-        "itemLevels": []
-    }, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "summaryItemHash": 3407672161, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 1469714392, 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Armor Perk", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        59, 
-        303512563
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "displaySource": "", 
-    "perks": [
-        {
-            "requirementDisplayString": "", 
-            "perkHash": 3061811501, 
-            "perkVisibility": 0
-        }
-    ], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/c185ecb13f62372b0f996141cffd12ca.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/32fcc47313f97f82316ba81f95b5c1fe.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/c185ecb13f62372b0f996141cffd12ca.png", 
-        "hasIcon": true, 
-        "description": "Greatly reduces flinching from incoming fire while aiming Linear Fusion Rifles.", 
-        "name": "Enhanced Unflinching Linear Fusion Aim"
-    }
+	"displayProperties": {
+		"description": "Greatly reduces flinching from incoming fire while aiming Linear Fusion Rifles.",
+		"name": "Enhanced Unflinching Linear Fusion Aim",
+		"icon": "/common/destiny2_content/icons/c185ecb13f62372b0f996141cffd12ca.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/c185ecb13f62372b0f996141cffd12ca.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/32fcc47313f97f82316ba81f95b5c1fe.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Armor Perk",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Armor Perk",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1469714392,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [
+		{
+			"requirementDisplayString": "",
+			"perkHash": 3061811501,
+			"perkVisibility": 0
+		}
+	],
+	"summaryItemHash": 3407672161,
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		59,
+		303512563
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

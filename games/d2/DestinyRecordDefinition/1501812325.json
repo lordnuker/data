@@ -1,58 +1,53 @@
 {
-    "index": 2023, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        2922956526, 
-        2922956527, 
-        2922956524, 
-        2922956525
-    ], 
-    "parentNodeHashes": [
-        2998268400
-    ], 
-    "expirationInfo": {
-        "hasExpiration": true, 
-        "description": "Available only during Season 10"
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 100, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [
-        {
-            "itemHash": 535079318, 
-            "quantity": 100
-        }
-    ], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/6e2145e694205c0cc0789af4204a1c03.png", 
-        "hasIcon": true, 
-        "description": "Complete each Seraph Weapon Bounty at least once.", 
-        "name": "Access Granted"
-    }, 
-    "scope": 0, 
-    "hash": 1501812325
+	"displayProperties": {
+		"description": "Complete each Seraph Weapon Bounty at least once.",
+		"name": "Access Granted",
+		"icon": "/common/destiny2_content/icons/6e2145e694205c0cc0789af4204a1c03.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		2922956526,
+		2922956527,
+		2922956524,
+		2922956525
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 100,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": true,
+		"description": "Available only during Season 10"
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		2998268400
+	],
+	"hash": 1501812325,
+	"index": 2035,
+	"redacted": false,
+	"blacklisted": false
 }

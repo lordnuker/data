@@ -1,37 +1,37 @@
 {
-    "index": 10, 
-    "progressionHash": 1716568313, 
-    "hash": 1270522082, 
-    "blacklisted": false, 
-    "redacted": false, 
-    "requirementCurve": [
-        {
-            "weight": 1.0, 
-            "value": 1.0
-        }, 
-        {
-            "weight": 15.0, 
-            "value": 20.0
-        }, 
-        {
-            "weight": 20.0, 
-            "value": 25.0
-        }, 
-        {
-            "weight": 20.0, 
-            "value": 40.0
-        }, 
-        {
-            "weight": 35.0, 
-            "value": 40.1
-        }, 
-        {
-            "weight": 40.0, 
-            "value": 45.0
-        }, 
-        {
-            "weight": 50.0, 
-            "value": 55.0
-        }
-    ]
+	"requirementCurve": [
+		{
+			"value": 1,
+			"weight": 1
+		},
+		{
+			"value": 20,
+			"weight": 15
+		},
+		{
+			"value": 25,
+			"weight": 20
+		},
+		{
+			"value": 40,
+			"weight": 20
+		},
+		{
+			"value": 40.1,
+			"weight": 35
+		},
+		{
+			"value": 45,
+			"weight": 40
+		},
+		{
+			"value": 55,
+			"weight": 50
+		}
+	],
+	"progressionHash": 1716568313,
+	"hash": 1270522082,
+	"index": 10,
+	"redacted": false,
+	"blacklisted": false
 }

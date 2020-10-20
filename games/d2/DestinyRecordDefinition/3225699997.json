@@ -1,59 +1,59 @@
 {
-    "index": 1461, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        785213718
-    ], 
-    "parentNodeHashes": [
-        3827492377
-    ], 
-    "expirationInfo": {
-        "hasExpiration": true, 
-        "description": "Available only during this year's Dawning."
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/39fac8d6882827c3023a3a302dd16b8d.png", 
-                    "/common/destiny2_content/icons/39fac8d6882827c3023a3a302dd16b8d.png", 
-                    "/common/destiny2_content/icons/8725b5a2d0ee0f7a7c17238b5a4db778.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/39fac8d6882827c3023a3a302dd16b8d.png", 
-        "hasIcon": true, 
-        "description": "Bake all recipes found during the Dawning, and masterwork Eva's Holiday Oven.", 
-        "name": "Pâtissier"
-    }, 
-    "scope": 1, 
-    "hash": 3225699997
+	"displayProperties": {
+		"description": "Bake all recipes found during the Dawning, and masterwork Eva's Holiday Oven.",
+		"name": "Pâtissier",
+		"icon": "/common/destiny2_content/icons/39fac8d6882827c3023a3a302dd16b8d.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/39fac8d6882827c3023a3a302dd16b8d.png",
+					"/common/destiny2_content/icons/39fac8d6882827c3023a3a302dd16b8d.png",
+					"/common/destiny2_content/icons/8725b5a2d0ee0f7a7c17238b5a4db778.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"scope": 1,
+	"objectiveHashes": [
+		785213718
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": true,
+		"description": "Available only during this year's Dawning."
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		3827492377
+	],
+	"hash": 3225699997,
+	"index": 1473,
+	"redacted": false,
+	"blacklisted": false
 }

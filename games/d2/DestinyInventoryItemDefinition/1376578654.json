@@ -1,103 +1,103 @@
 {
-    "itemTypeAndTierDisplayName": "Rare Transmat Effect", 
-    "itemType": 20, 
-    "investmentStats": [], 
-    "redacted": false, 
-    "tooltipNotifications": [], 
-    "index": 2983, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Rare", 
-        "bucketTypeHash": 2422292810, 
-        "tierTypeHash": 2127292149, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 4, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "preview": {
-        "screenStyle": "screen_style_sockets", 
-        "previewVendorHash": 0, 
-        "previewActionString": "Preview"
-    }, 
-    "hash": 1376578654, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Transmat Effect", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/859c7f6218ba3a5f3a2b3ecec50363bb.jpg"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/3d1d8fe258d1e2b17ddabeb02140dbec.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/859c7f6218ba3a5f3a2b3ecec50363bb.jpg", 
-        "hasIcon": true, 
-        "description": "Modifications for your ship's transmat systems, so you'll always arrive in style.", 
-        "name": "Lantern Effects"
-    }, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        208981632, 
-        177260082, 
-        59, 
-        3109687656
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "blacklisted": false, 
-    "acquireUnlockHash": 0, 
-    "displaySource": "", 
-    "perks": [
-        {
-            "requirementDisplayString": "", 
-            "perkHash": 3170008216, 
-            "perkVisibility": 0
-        }, 
-        {
-            "requirementDisplayString": "", 
-            "perkHash": 3239791329, 
-            "perkVisibility": 0
-        }
-    ], 
-    "specialItemType": 0, 
-    "action": {
-        "progressionRewards": [], 
-        "requiredCooldownHash": 0, 
-        "verbName": "Dismantle", 
-        "deleteOnAction": true, 
-        "requiredItems": [], 
-        "rewardItemHash": 0, 
-        "actionTypeLabel": "shard", 
-        "useOnAcquire": false, 
-        "isPositive": false, 
-        "requiredCooldownSeconds": 0, 
-        "rewardSheetHash": 0, 
-        "verbDescription": "", 
-        "rewardSiteHash": 0, 
-        "consumeEntireStack": false
-    }
+	"displayProperties": {
+		"description": "Modifications for your ship's transmat systems, so you'll always arrive in style.",
+		"name": "Lantern Effects",
+		"icon": "/common/destiny2_content/icons/859c7f6218ba3a5f3a2b3ecec50363bb.jpg",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/859c7f6218ba3a5f3a2b3ecec50363bb.jpg"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/3d1d8fe258d1e2b17ddabeb02140dbec.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Transmat Effect",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Rare Transmat Effect",
+	"displaySource": "",
+	"action": {
+		"verbName": "Dismantle",
+		"verbDescription": "",
+		"isPositive": false,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"actionTypeLabel": "shard",
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 2422292810,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 2127292149,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Rare",
+		"tierType": 4,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"preview": {
+		"screenStyle": "screen_style_sockets",
+		"previewVendorHash": 0,
+		"previewActionString": "Preview"
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [
+		{
+			"requirementDisplayString": "",
+			"perkHash": 3170008216,
+			"perkVisibility": 0
+		},
+		{
+			"requirementDisplayString": "",
+			"perkHash": 3239791329,
+			"perkVisibility": 0
+		}
+	],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		208981632,
+		177260082,
+		59,
+		3109687656
+	],
+	"specialItemType": 0,
+	"itemType": 20,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"hash": 1376578654,
+	"index": 3019,
+	"redacted": false,
+	"blacklisted": false
 }

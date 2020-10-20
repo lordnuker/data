@@ -1,50 +1,50 @@
 {
-    "index": 925, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        1969960653
-    ], 
-    "parentNodeHashes": [
-        3593963444
-    ], 
-    "expirationInfo": {
-        "hasExpiration": true, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/6e27922513ffacb92eb3fa67d8b23eab.png", 
-        "hasIcon": true, 
-        "description": "", 
-        "name": ""
-    }, 
-    "scope": 1, 
-    "hash": 2934266400
+	"displayProperties": {
+		"description": "Earn Valor ranks in Season of Arrivals.",
+		"name": "Season of Arrivals: Valor",
+		"icon": "/common/destiny2_content/icons/6e27922513ffacb92eb3fa67d8b23eab.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		1969960653
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": true,
+		"description": "Available only during Season 11, Season of Arrivals."
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		3593963444
+	],
+	"hash": 2934266400,
+	"index": 936,
+	"redacted": false,
+	"blacklisted": false
 }

@@ -1,82 +1,81 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Daily Bounty", 
-    "itemType": 26, 
-    "tooltipNotifications": [], 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 1345459588, 
-        "stackUniqueLabel": "v450.bounties.museum.annual_pass.bounty2", 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "Expired. Unless completed, this bounty will be removed when you return to orbit or load into a new activity.", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "Expires in .", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": "Expired. Bounty will be removed upon leaving orbit."
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Daily Bounty", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        3441456675, 
-        1784235469
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "displaySource": "\"You come aboard my ship, slaughter my faithful, pocket my treasures… Light-born, you are a delight.\" —Emperor Calus", 
-    "value": {
-        "itemValue": [
-            {
-                "itemHash": 659535164, 
-                "quantity": 1
-            }, 
-            {
-                "itemHash": 3159615086, 
-                "quantity": 0
-            }, 
-            {
-                "itemHash": 0, 
-                "quantity": 0
-            }, 
-            {
-                "itemHash": 0, 
-                "quantity": 0
-            }, 
-            {
-                "itemHash": 0, 
-                "quantity": 0
-            }, 
-            {
-                "itemHash": 0, 
-                "quantity": 0
-            }
-        ], 
-        "valueDescription": ""
-    }, 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/d80cf204ed2c07c9a2fed0a7448d7585.png", 
-        "hasIcon": true, 
-        "description": "Defeat enemies in the Menagerie without dying.\n\nYou may claim only four rewards per day from bounties offered by the Visage of Calus.", 
-        "name": "Royal Butcher"
-    }
+	"displayProperties": {
+		"description": "Defeat enemies in the Menagerie without dying.\n\nYou may claim only four rewards per day from bounties offered by the Visage of Calus.",
+		"name": "Royal Butcher",
+		"icon": "/common/destiny2_content/icons/d80cf204ed2c07c9a2fed0a7448d7585.png",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Daily Bounty",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Daily Bounty",
+	"displaySource": "\"You come aboard my ship, slaughter my faithful, pocket my treasures… Light-born, you are a delight.\" —Emperor Calus",
+	"inventory": {
+		"stackUniqueLabel": "v450.bounties.museum.annual_pass.bounty2",
+		"maxStackSize": 1,
+		"bucketTypeHash": 1345459588,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "Expires in .",
+		"expiredInActivityMessage": "Expired. Unless completed, this bounty will be removed when you return to orbit or load into a new activity.",
+		"expiredInOrbitMessage": "Expired. Bounty will be removed upon leaving orbit.",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"value": {
+		"itemValue": [
+			{
+				"itemHash": 659535164,
+				"quantity": 1
+			},
+			{
+				"itemHash": 3159615086,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			}
+		],
+		"valueDescription": ""
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		1784235469
+	],
+	"specialItemType": 0,
+	"itemType": 26,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

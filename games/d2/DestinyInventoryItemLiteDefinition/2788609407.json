@@ -1,59 +1,59 @@
 {
-    "itemTypeAndTierDisplayName": "Exotic Multiplayer Emote", 
-    "itemType": 19, 
-    "tooltipNotifications": [], 
-    "talentGrid": {
-        "talentGridHash": 521135891, 
-        "hudDamageType": 1, 
-        "itemDetailString": "Preview"
-    }, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Exotic", 
-        "bucketTypeHash": 2401704334, 
-        "stackUniqueLabel": "v480.plugs.emotes.trophy_award0", 
-        "tierTypeHash": 2759499571, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 6, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Multiplayer Emote", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        44, 
-        59
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "displaySource": "", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/9d99fd9862442ac0d68bc2102824d0eb.jpg", 
-        "hasIcon": true, 
-        "description": "We are the champions.", 
-        "highResIcon": "/common/destiny2_content/icons/b275835edf7c3f21d1740f787f7409ac.jpg", 
-        "name": "Participation Trophy"
-    }
+	"displayProperties": {
+		"description": "We are the champions.",
+		"name": "Participation Trophy",
+		"icon": "/common/destiny2_content/icons/18350f60b520ffd6d0994f4c825fc5af.jpg",
+		"highResIcon": "/common/destiny2_content/icons/65b32a814addeafd42266d6a6c29400d.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Multiplayer Emote",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Exotic Multiplayer Emote",
+	"displaySource": "",
+	"inventory": {
+		"stackUniqueLabel": "v480.plugs.emotes.trophy_award0",
+		"maxStackSize": 1,
+		"bucketTypeHash": 2401704334,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 2759499571,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Exotic",
+		"tierType": 6,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"talentGrid": {
+		"talentGridHash": 521135891,
+		"itemDetailString": "Preview",
+		"hudDamageType": 1
+	},
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		44,
+		59
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

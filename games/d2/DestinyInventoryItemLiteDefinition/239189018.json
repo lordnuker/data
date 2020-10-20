@@ -1,78 +1,91 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Festival Mask", 
-    "itemType": 0, 
-    "tooltipNotifications": [], 
-    "quality": {
-        "infusionCategoryHash": 3548569221, 
-        "infusionCategoryHashes": [
-            3548569221
-        ], 
-        "infusionCategoryName": "3548569221", 
-        "progressionLevelRequirementHash": 3768955166, 
-        "qualityLevel": 0, 
-        "itemLevels": []
-    }, 
-    "talentGrid": {
-        "talentGridHash": 521135891, 
-        "hudDamageType": 1, 
-        "itemDetailString": "Details"
-    }, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "summaryItemHash": 3407672161, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 3448274439, 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "equippable": true, 
-    "itemTypeDisplayName": "Festival Mask", 
-    "isWrapper": false, 
-    "classType": 0, 
-    "doesPostmasterPullHaveSideEffects": true, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        22
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": false, 
-    "equippingBlock": {
-        "displayStrings": [
-            ""
-        ], 
-        "equipmentSlotTypeHash": 3448274439, 
-        "ammoType": 0, 
-        "equippingSoundHash": 0, 
-        "hornSoundHash": 0, 
-        "attributes": 0, 
-        "uniqueLabelHash": 0
-    }, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "displaySource": "", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/b7086f68c57215442a00df1b600dad6b.jpg", 
-        "hasIcon": true, 
-        "description": "A piece of armor that can be used to equip Festival of the Lost mask ornaments.\n\nThis item grants a benefit to Power only during Festival of the Lost.", 
-        "name": "Masquerader's Helm"
-    }
+	"displayProperties": {
+		"description": "A piece of armor that can be used to equip Festival of the Lost mask ornaments.\n\nThis item grants a benefit to Power only during Festival of the Lost.",
+		"name": "Masquerader's Helm",
+		"icon": "/common/destiny2_content/icons/b7086f68c57215442a00df1b600dad6b.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Festival Mask",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Festival Mask",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 3448274439,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"equippingBlock": {
+		"uniqueLabelHash": 0,
+		"equipmentSlotTypeHash": 3448274439,
+		"attributes": 0,
+		"equippingSoundHash": 0,
+		"hornSoundHash": 0,
+		"ammoType": 0,
+		"displayStrings": [
+			""
+		]
+	},
+	"quality": {
+		"itemLevels": [],
+		"qualityLevel": 0,
+		"infusionCategoryName": "3548569221",
+		"infusionCategoryHash": 3548569221,
+		"infusionCategoryHashes": [
+			3548569221
+		],
+		"progressionLevelRequirementHash": 3768955166,
+		"currentVersion": 1,
+		"versions": [
+			{
+				"powerCapHash": 1862490584
+			},
+			{
+				"powerCapHash": 1862490584
+			}
+		],
+		"displayVersionWatermarkIcons": [
+			"/common/destiny2_content/icons/d4141b2247cf999c73d3dc409f9d00f7.png",
+			"/common/destiny2_content/icons/796813aa6cf8afe55aed4efc2f9c609b.png"
+		]
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"talentGrid": {
+		"talentGridHash": 521135891,
+		"itemDetailString": "Details",
+		"hudDamageType": 1
+	},
+	"perks": [],
+	"summaryItemHash": 3407672161,
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": true,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [
+		22
+	],
+	"specialItemType": 0,
+	"itemType": 0,
+	"itemSubType": 0,
+	"classType": 0,
+	"breakerType": 0,
+	"equippable": true,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

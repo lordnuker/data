@@ -1,80 +1,89 @@
 {
-    "itemTypeAndTierDisplayName": "Rare Chest Armor", 
-    "itemType": 2, 
-    "tooltipNotifications": [], 
-    "quality": {
-        "infusionCategoryHash": 1814923096, 
-        "infusionCategoryHashes": [
-            1814923096
-        ], 
-        "infusionCategoryName": "1814923096", 
-        "progressionLevelRequirementHash": 3664462623, 
-        "qualityLevel": 0, 
-        "itemLevels": []
-    }, 
-    "talentGrid": {
-        "talentGridHash": 521135891, 
-        "hudDamageType": 1, 
-        "itemDetailString": "Details"
-    }, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "summaryItemHash": 1007326520, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Rare", 
-        "bucketTypeHash": 14239492, 
-        "tierTypeHash": 2127292149, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 4, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "equippable": true, 
-    "itemTypeDisplayName": "Chest Armor", 
-    "isWrapper": false, 
-    "classType": 1, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 28, 
-    "itemCategoryHashes": [
-        23, 
-        47, 
-        20
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": false, 
-    "equippingBlock": {
-        "displayStrings": [
-            ""
-        ], 
-        "equipmentSlotTypeHash": 14239492, 
-        "ammoType": 0, 
-        "equippingSoundHash": 0, 
-        "hornSoundHash": 0, 
-        "attributes": 0, 
-        "uniqueLabelHash": 0
-    }, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "displaySource": "", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/2b8de1b1d29bb1bee946826f33ef2122.jpg", 
-        "hasIcon": true, 
-        "description": "\"Another successful mission accomplished, Captain!\" —Failsafe", 
-        "name": "Shieldbreaker Vest"
-    }
+	"displayProperties": {
+		"description": "\"Another successful mission accomplished, Captain!\" —Failsafe",
+		"name": "Shieldbreaker Vest",
+		"icon": "/common/destiny2_content/icons/2b8de1b1d29bb1bee946826f33ef2122.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Chest Armor",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Rare Chest Armor",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 14239492,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 2127292149,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Rare",
+		"tierType": 4,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"equippingBlock": {
+		"uniqueLabelHash": 0,
+		"equipmentSlotTypeHash": 14239492,
+		"attributes": 0,
+		"equippingSoundHash": 0,
+		"hornSoundHash": 0,
+		"ammoType": 0,
+		"displayStrings": [
+			""
+		]
+	},
+	"quality": {
+		"itemLevels": [],
+		"qualityLevel": 0,
+		"infusionCategoryName": "1814923096",
+		"infusionCategoryHash": 1814923096,
+		"infusionCategoryHashes": [
+			1814923096
+		],
+		"progressionLevelRequirementHash": 3664462623,
+		"currentVersion": 0,
+		"versions": [
+			{
+				"powerCapHash": 2127292149
+			}
+		],
+		"displayVersionWatermarkIcons": [
+			"/common/destiny2_content/icons/0dac2f181f0245cfc64494eccb7db9f7.png"
+		]
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"talentGrid": {
+		"talentGridHash": 521135891,
+		"itemDetailString": "Details",
+		"hudDamageType": 1
+	},
+	"perks": [],
+	"summaryItemHash": 1007326520,
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [
+		23,
+		47,
+		20
+	],
+	"specialItemType": 0,
+	"itemType": 2,
+	"itemSubType": 28,
+	"classType": 1,
+	"breakerType": 0,
+	"equippable": true,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

@@ -1,0 +1,134 @@
+{
+	"displayProperties": {
+		"description": "Equip this ornament to change the appearance of Traveler's Chosen. Once you get an ornament, it's unlocked for all characters on your account.",
+		"name": "Sand and Sun",
+		"icon": "/common/destiny2_content/icons/ee5d6d980ddac452697202de4ec9c680.jpg",
+		"highResIcon": "/common/destiny2_content/icons/a2f1d197df487a1e3eeb5d79b6fb8e0b.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"collectibleHash": 2943474750,
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"screenshot": "/common/destiny2_content/screenshots/3365127084.jpg",
+	"itemTypeDisplayName": "Weapon Ornament",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Exotic Weapon Ornament",
+	"displaySource": "",
+	"action": {
+		"verbName": "Unlock",
+		"verbDescription": "",
+		"isPositive": true,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"maxStackSize": 999,
+		"bucketTypeHash": 3313201758,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 2759499571,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Exotic",
+		"tierType": 6,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"translationBlock": {
+		"weaponPatternHash": 0,
+		"defaultDyes": [
+			{
+				"channelHash": 1667433279,
+				"dyeHash": 1442071914
+			},
+			{
+				"channelHash": 1667433278,
+				"dyeHash": 1442071915
+			},
+			{
+				"channelHash": 1667433277,
+				"dyeHash": 1442071912
+			}
+		],
+		"lockedDyes": [],
+		"customDyes": [],
+		"arrangements": [
+			{
+				"classHash": 0,
+				"artArrangementHash": 3365127084
+			}
+		],
+		"hasGeometry": true
+	},
+	"preview": {
+		"screenStyle": "screen_style_sockets",
+		"previewVendorHash": 0,
+		"previewActionString": "Preview"
+	},
+	"plug": {
+		"insertionRules": [
+			{
+				"failureMessage": "Requires Mod Item"
+			}
+		],
+		"plugCategoryIdentifier": "v490_new_sidearm0_skins",
+		"plugCategoryHash": 1064681482,
+		"onActionRecreateSelf": false,
+		"actionRewardSiteHash": 0,
+		"actionRewardItemOverrideHash": 0,
+		"insertionMaterialRequirementHash": 0,
+		"previewItemOverrideHash": 0,
+		"enabledMaterialRequirementHash": 0,
+		"enabledRules": [],
+		"uiPlugLabel": "",
+		"plugStyle": 0,
+		"plugAvailability": 0,
+		"alternateUiPlugLabel": "",
+		"alternatePlugStyle": 0,
+		"isDummyPlug": false
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [
+		56,
+		52,
+		59,
+		3124752623,
+		610365472
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 21,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"traitIds": [
+		"item_type.weapon_ornament"
+	],
+	"hash": 3365127084,
+	"index": 11986,
+	"redacted": false,
+	"blacklisted": false
+}

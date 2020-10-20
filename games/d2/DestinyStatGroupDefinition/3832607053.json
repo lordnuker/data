@@ -1,124 +1,124 @@
 {
-    "scaledStats": [
-        {
-            "displayInterpolation": [
-                {
-                    "weight": 633, 
-                    "value": 0
-                }, 
-                {
-                    "weight": 300, 
-                    "value": 100
-                }
-            ], 
-            "maximumValue": 100, 
-            "statHash": 2961396640, 
-            "displayAsNumeric": true
-        }, 
-        {
-            "displayInterpolation": [
-                {
-                    "weight": 20, 
-                    "value": 0
-                }, 
-                {
-                    "weight": 50, 
-                    "value": 100
-                }
-            ], 
-            "maximumValue": 100, 
-            "statHash": 4043523819, 
-            "displayAsNumeric": false
-        }, 
-        {
-            "displayInterpolation": [
-                {
-                    "weight": 10, 
-                    "value": 0
-                }, 
-                {
-                    "weight": 100, 
-                    "value": 100
-                }
-            ], 
-            "maximumValue": 100, 
-            "statHash": 1240592695, 
-            "displayAsNumeric": false
-        }, 
-        {
-            "displayInterpolation": [
-                {
-                    "weight": 10, 
-                    "value": 0
-                }, 
-                {
-                    "weight": 100, 
-                    "value": 100
-                }
-            ], 
-            "maximumValue": 100, 
-            "statHash": 155624089, 
-            "displayAsNumeric": false
-        }, 
-        {
-            "displayInterpolation": [
-                {
-                    "weight": 10, 
-                    "value": 0
-                }, 
-                {
-                    "weight": 100, 
-                    "value": 100
-                }
-            ], 
-            "maximumValue": 100, 
-            "statHash": 943549884, 
-            "displayAsNumeric": false
-        }, 
-        {
-            "displayInterpolation": [
-                {
-                    "weight": 10, 
-                    "value": 0
-                }, 
-                {
-                    "weight": 100, 
-                    "value": 100
-                }
-            ], 
-            "maximumValue": 100, 
-            "statHash": 4188031367, 
-            "displayAsNumeric": false
-        }, 
-        {
-            "displayInterpolation": [
-                {
-                    "weight": 4, 
-                    "value": 0
-                }, 
-                {
-                    "weight": 5, 
-                    "value": 30
-                }, 
-                {
-                    "weight": 6, 
-                    "value": 70
-                }, 
-                {
-                    "weight": 7, 
-                    "value": 100
-                }
-            ], 
-            "maximumValue": 100, 
-            "statHash": 3871231066, 
-            "displayAsNumeric": true
-        }
-    ], 
-    "index": 53, 
-    "hash": 3832607053, 
-    "uiPosition": 0, 
-    "maximumValue": 100, 
-    "overrides": {}, 
-    "redacted": false, 
-    "blacklisted": false
+	"maximumValue": 100,
+	"uiPosition": 0,
+	"scaledStats": [
+		{
+			"statHash": 2961396640,
+			"maximumValue": 100,
+			"displayAsNumeric": true,
+			"displayInterpolation": [
+				{
+					"value": 0,
+					"weight": 633
+				},
+				{
+					"value": 100,
+					"weight": 300
+				}
+			]
+		},
+		{
+			"statHash": 4043523819,
+			"maximumValue": 100,
+			"displayAsNumeric": false,
+			"displayInterpolation": [
+				{
+					"value": 0,
+					"weight": 20
+				},
+				{
+					"value": 100,
+					"weight": 50
+				}
+			]
+		},
+		{
+			"statHash": 1240592695,
+			"maximumValue": 100,
+			"displayAsNumeric": false,
+			"displayInterpolation": [
+				{
+					"value": 0,
+					"weight": 10
+				},
+				{
+					"value": 100,
+					"weight": 100
+				}
+			]
+		},
+		{
+			"statHash": 155624089,
+			"maximumValue": 100,
+			"displayAsNumeric": false,
+			"displayInterpolation": [
+				{
+					"value": 0,
+					"weight": 10
+				},
+				{
+					"value": 100,
+					"weight": 100
+				}
+			]
+		},
+		{
+			"statHash": 943549884,
+			"maximumValue": 100,
+			"displayAsNumeric": false,
+			"displayInterpolation": [
+				{
+					"value": 0,
+					"weight": 10
+				},
+				{
+					"value": 100,
+					"weight": 100
+				}
+			]
+		},
+		{
+			"statHash": 4188031367,
+			"maximumValue": 100,
+			"displayAsNumeric": false,
+			"displayInterpolation": [
+				{
+					"value": 0,
+					"weight": 10
+				},
+				{
+					"value": 100,
+					"weight": 100
+				}
+			]
+		},
+		{
+			"statHash": 3871231066,
+			"maximumValue": 100,
+			"displayAsNumeric": true,
+			"displayInterpolation": [
+				{
+					"value": 0,
+					"weight": 4
+				},
+				{
+					"value": 30,
+					"weight": 5
+				},
+				{
+					"value": 70,
+					"weight": 6
+				},
+				{
+					"value": 100,
+					"weight": 7
+				}
+			]
+		}
+	],
+	"overrides": {},
+	"hash": 3832607053,
+	"index": 53,
+	"redacted": false,
+	"blacklisted": false
 }

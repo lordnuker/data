@@ -1,68 +1,77 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Package", 
-    "itemType": 25, 
-    "tooltipNotifications": [], 
-    "quality": {
-        "infusionCategoryHash": 0, 
-        "infusionCategoryHashes": [], 
-        "infusionCategoryName": "0", 
-        "progressionLevelRequirementHash": 0, 
-        "qualityLevel": 0, 
-        "itemLevels": []
-    }, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 375726501, 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Package", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": true, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        268598612
-    ], 
-    "uiItemDisplayStyle": "ui_display_style_engram", 
-    "nonTransferrable": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "displaySource": "", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "hasIcon": true, 
-        "description": "A bundle for Guardians who like to celebrate the old times.\n\nContains 5 Best of Year One Engrams and 3 random shaders.", 
-        "highResIcon": "/common/destiny2_content/icons/7b5c12ab4b1ef0f696074cae9e99687e.jpg", 
-        "name": "Three Cheers Bundle", 
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/41d39d6c8576f22a7a71e707af27d870.png", 
-                    "/common/destiny2_content/icons/193766ad7efe35a71b13c60be4b140cf.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/41d39d6c8576f22a7a71e707af27d870.png"
-    }
+	"displayProperties": {
+		"description": "A bundle for Guardians who like to celebrate the old times.\n\nContains 5 Best of Year One Engrams and 3 random shaders.",
+		"name": "Three Cheers Bundle",
+		"icon": "/common/destiny2_content/icons/41d39d6c8576f22a7a71e707af27d870.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/41d39d6c8576f22a7a71e707af27d870.png",
+					"/common/destiny2_content/icons/193766ad7efe35a71b13c60be4b140cf.png"
+				]
+			}
+		],
+		"highResIcon": "/common/destiny2_content/icons/7b5c12ab4b1ef0f696074cae9e99687e.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Package",
+	"uiItemDisplayStyle": "ui_display_style_engram",
+	"itemTypeAndTierDisplayName": "Legendary Package",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 375726501,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"quality": {
+		"itemLevels": [],
+		"qualityLevel": 0,
+		"infusionCategoryName": "0",
+		"infusionCategoryHash": 0,
+		"infusionCategoryHashes": [],
+		"progressionLevelRequirementHash": 0,
+		"currentVersion": 0,
+		"versions": [
+			{
+				"powerCapHash": 723350001
+			}
+		],
+		"displayVersionWatermarkIcons": [
+			""
+		]
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": true,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		268598612
+	],
+	"specialItemType": 0,
+	"itemType": 25,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

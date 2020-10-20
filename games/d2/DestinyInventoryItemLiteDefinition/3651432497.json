@@ -1,80 +1,89 @@
 {
-    "itemTypeAndTierDisplayName": "Rare Helmet", 
-    "itemType": 2, 
-    "tooltipNotifications": [], 
-    "quality": {
-        "infusionCategoryHash": 3301232851, 
-        "infusionCategoryHashes": [
-            3301232851
-        ], 
-        "infusionCategoryName": "3301232851", 
-        "progressionLevelRequirementHash": 3664462623, 
-        "qualityLevel": 0, 
-        "itemLevels": []
-    }, 
-    "talentGrid": {
-        "talentGridHash": 521135891, 
-        "hudDamageType": 1, 
-        "itemDetailString": "Details"
-    }, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "summaryItemHash": 1007326520, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Rare", 
-        "bucketTypeHash": 3448274439, 
-        "tierTypeHash": 2127292149, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 4, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "equippable": true, 
-    "itemTypeDisplayName": "Helmet", 
-    "isWrapper": false, 
-    "classType": 1, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 26, 
-    "itemCategoryHashes": [
-        23, 
-        45, 
-        20
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": false, 
-    "equippingBlock": {
-        "displayStrings": [
-            ""
-        ], 
-        "equipmentSlotTypeHash": 3448274439, 
-        "ammoType": 0, 
-        "equippingSoundHash": 0, 
-        "hornSoundHash": 0, 
-        "attributes": 0, 
-        "uniqueLabelHash": 0
-    }, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "displaySource": "", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/c8bde813e4b2dd9140756c74d0349cb7.jpg", 
-        "hasIcon": true, 
-        "description": "\"Today, young Guardians, you will learn how to run a Cabal naval blockade. Both ways.\" —Unknown", 
-        "name": "War Mantis"
-    }
+	"displayProperties": {
+		"description": "\"Today, young Guardians, you will learn how to run a Cabal naval blockade. Both ways.\" —Unknown",
+		"name": "War Mantis",
+		"icon": "/common/destiny2_content/icons/c8bde813e4b2dd9140756c74d0349cb7.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Helmet",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Rare Helmet",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 3448274439,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 2127292149,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Rare",
+		"tierType": 4,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"equippingBlock": {
+		"uniqueLabelHash": 0,
+		"equipmentSlotTypeHash": 3448274439,
+		"attributes": 0,
+		"equippingSoundHash": 0,
+		"hornSoundHash": 0,
+		"ammoType": 0,
+		"displayStrings": [
+			""
+		]
+	},
+	"quality": {
+		"itemLevels": [],
+		"qualityLevel": 0,
+		"infusionCategoryName": "3301232851",
+		"infusionCategoryHash": 3301232851,
+		"infusionCategoryHashes": [
+			3301232851
+		],
+		"progressionLevelRequirementHash": 3664462623,
+		"currentVersion": 0,
+		"versions": [
+			{
+				"powerCapHash": 2127292149
+			}
+		],
+		"displayVersionWatermarkIcons": [
+			"/common/destiny2_content/icons/0dac2f181f0245cfc64494eccb7db9f7.png"
+		]
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"talentGrid": {
+		"talentGridHash": 521135891,
+		"itemDetailString": "Details",
+		"hudDamageType": 1
+	},
+	"perks": [],
+	"summaryItemHash": 1007326520,
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [
+		23,
+		45,
+		20
+	],
+	"specialItemType": 0,
+	"itemType": 2,
+	"itemSubType": 26,
+	"classType": 1,
+	"breakerType": 0,
+	"equippable": true,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

@@ -1,120 +1,120 @@
 {
-    "itemTypeAndTierDisplayName": "Basic Quest Step", 
-    "nonTransferrable": true, 
-    "investmentStats": [], 
-    "redacted": false, 
-    "secondaryIcon": "/common/destiny2_content/icons/bc4497839ba645c5d54df9b439a1a7ad.jpg", 
-    "tooltipNotifications": [], 
-    "itemType": 12, 
-    "index": 12847, 
-    "stats": {
-        "hasDisplayableStats": false, 
-        "primaryBaseStatHash": 0, 
-        "disablePrimaryStatDisplay": false, 
-        "stats": {}
-    }, 
-    "objectives": {
-        "objectiveVerbName": "Complete", 
-        "requireFullObjectiveCompletion": true, 
-        "questTypeIdentifier": "challenge", 
-        "perObjectiveDisplayProperties": [
-            {
-                "displayOnItemPreviewScreen": false
-            }
-        ], 
-        "objectiveHashes": [
-            3878538340
-        ], 
-        "displayAsStatTracker": false, 
-        "useOnObjectiveCompletion": false, 
-        "completionRewardSiteHash": 0, 
-        "timestampUnlockValueHash": 0, 
-        "questlineItemHash": 3232202236, 
-        "isGlobalObjectiveItem": false, 
-        "inhibitCompletionUnlockValueHash": 0, 
-        "narrative": "", 
-        "displayActivityHashes": [
-            2166136261
-        ], 
-        "nextQuestStepRewardSiteHash": 0, 
-        "questTypeHash": 1189762416
-    }, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Basic", 
-        "bucketTypeHash": 1801258597, 
-        "tierTypeHash": 1801258597, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 0, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "hash": 2754634601, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Quest Step", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": true, 
-    "action": {
-        "progressionRewards": [], 
-        "requiredCooldownHash": 0, 
-        "verbName": "Abandon", 
-        "deleteOnAction": true, 
-        "requiredItems": [], 
-        "rewardItemHash": 0, 
-        "useOnAcquire": false, 
-        "isPositive": false, 
-        "requiredCooldownSeconds": 0, 
-        "rewardSheetHash": 0, 
-        "verbDescription": "", 
-        "rewardSiteHash": 0, 
-        "consumeEntireStack": false
-    }, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        16
-    ], 
-    "uiItemDisplayStyle": "", 
-    "secondaryOverlay": "/img/misc/missing_icon_d2.png", 
-    "tooltipStyle": "bounty", 
-    "allowActions": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "secondarySpecial": "/img/misc/missing_icon_d2.png", 
-    "blacklisted": false, 
-    "acquireUnlockHash": 0, 
-    "displaySource": "", 
-    "traitIds": [
-        "inventory_filtering.quest", 
-        "quest.past"
-    ], 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/77a08e27312405535cfaf461372e3908.png", 
-                    "/common/destiny2_content/icons/77a08e27312405535cfaf461372e3908.png", 
-                    "/common/destiny2_content/icons/fdf66554a09b9e1600eac786c503e119.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/77a08e27312405535cfaf461372e3908.png", 
-        "hasIcon": true, 
-        "description": "Complete various activities around the Tangled Shore, including public events, Lost Sectors, and Heroic adventures.", 
-        "name": "Complete Activities on the Tangled Shore"
-    }
+	"displayProperties": {
+		"description": "Complete various activities around the Tangled Shore, including public events, Lost Sectors, and Heroic adventures.",
+		"name": "Complete Activities on the Tangled Shore",
+		"icon": "/common/destiny2_content/icons/77a08e27312405535cfaf461372e3908.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/77a08e27312405535cfaf461372e3908.png",
+					"/common/destiny2_content/icons/77a08e27312405535cfaf461372e3908.png",
+					"/common/destiny2_content/icons/fdf66554a09b9e1600eac786c503e119.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"secondaryIcon": "/common/destiny2_content/icons/bc4497839ba645c5d54df9b439a1a7ad.jpg",
+	"secondaryOverlay": "/img/misc/missing_icon_d2.png",
+	"secondarySpecial": "/img/misc/missing_icon_d2.png",
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Quest Step",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Basic Quest Step",
+	"displaySource": "",
+	"tooltipStyle": "bounty",
+	"action": {
+		"verbName": "Abandon",
+		"verbDescription": "",
+		"isPositive": false,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1801258597,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 1801258597,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Basic",
+		"tierType": 0,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"stats": {
+		"disablePrimaryStatDisplay": false,
+		"stats": {},
+		"hasDisplayableStats": false,
+		"primaryBaseStatHash": 0
+	},
+	"objectives": {
+		"objectiveHashes": [
+			3878538340
+		],
+		"displayActivityHashes": [
+			2166136261
+		],
+		"requireFullObjectiveCompletion": true,
+		"questlineItemHash": 3232202236,
+		"narrative": "",
+		"objectiveVerbName": "Complete",
+		"questTypeIdentifier": "challenge",
+		"questTypeHash": 1189762416,
+		"completionRewardSiteHash": 0,
+		"nextQuestStepRewardSiteHash": 0,
+		"timestampUnlockValueHash": 0,
+		"isGlobalObjectiveItem": false,
+		"useOnObjectiveCompletion": false,
+		"inhibitCompletionUnlockValueHash": 0,
+		"perObjectiveDisplayProperties": [
+			{
+				"displayOnItemPreviewScreen": false
+			}
+		],
+		"displayAsStatTracker": false
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": true,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		16
+	],
+	"specialItemType": 0,
+	"itemType": 12,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"traitIds": [
+		"inventory_filtering.quest",
+		"quest.past"
+	],
+	"hash": 2754634601,
+	"index": 13441,
+	"redacted": false,
+	"blacklisted": false
 }

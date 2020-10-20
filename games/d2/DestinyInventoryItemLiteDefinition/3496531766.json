@@ -1,0 +1,80 @@
+{
+	"displayProperties": {
+		"description": "Speak to Banshee-44 to learn more about the catalyst for the Witherhoard.",
+		"name": "One Last Job",
+		"icon": "/common/destiny2_content/icons/2398efcf2c81d69f03fd5fab272046ad.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"secondaryIcon": "/common/destiny2_content/icons/3142923bc72bcd5a769badc26bd8b508.jpg",
+	"secondaryOverlay": "/img/misc/missing_icon_d2.png",
+	"secondarySpecial": "/img/misc/missing_icon_d2.png",
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Quest Step",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Exotic Quest Step",
+	"displaySource": "\"Some guns need to finish what they started long ago. You're just along for the ride.\" —Banshee-44",
+	"setData": {
+		"itemList": [
+			{
+				"trackingValue": 100,
+				"itemHash": 3496531766
+			},
+			{
+				"trackingValue": 200,
+				"itemHash": 2003401139
+			},
+			{
+				"trackingValue": 300,
+				"itemHash": 2300040094
+			},
+			{
+				"trackingValue": 400,
+				"itemHash": 3496531767
+			}
+		],
+		"trackingUnlockValueHash": 0,
+		"abandonmentUnlockHash": 0,
+		"requireOrderedSetItemAdd": true,
+		"setIsFeatured": false,
+		"setType": "quest_global",
+		"questLineName": "The Bank Job"
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1345459588,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 2759499571,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Exotic",
+		"tierType": 6,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": true,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		16
+	],
+	"specialItemType": 0,
+	"itemType": 12,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
+}

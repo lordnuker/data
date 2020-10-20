@@ -1,147 +1,147 @@
 {
-    "itemTypeAndTierDisplayName": "Exotic Quest Step", 
-    "itemType": 12, 
-    "investmentStats": [], 
-    "redacted": false, 
-    "tooltipNotifications": [], 
-    "index": 14435, 
-    "stats": {
-        "hasDisplayableStats": false, 
-        "primaryBaseStatHash": 0, 
-        "disablePrimaryStatDisplay": false, 
-        "stats": {}
-    }, 
-    "objectives": {
-        "objectiveVerbName": "", 
-        "requireFullObjectiveCompletion": true, 
-        "questTypeIdentifier": "quest_global", 
-        "perObjectiveDisplayProperties": [
-            {
-                "displayOnItemPreviewScreen": false, 
-                "activityHash": 1296063136
-            }
-        ], 
-        "objectiveHashes": [
-            1662555529
-        ], 
-        "displayAsStatTracker": false, 
-        "useOnObjectiveCompletion": false, 
-        "completionRewardSiteHash": 0, 
-        "timestampUnlockValueHash": 0, 
-        "questlineItemHash": 613601972, 
-        "isGlobalObjectiveItem": false, 
-        "inhibitCompletionUnlockValueHash": 0, 
-        "narrative": "", 
-        "displayActivityHashes": [
-            2166136261
-        ], 
-        "nextQuestStepRewardSiteHash": 0, 
-        "questTypeHash": 3413310557
-    }, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Exotic", 
-        "bucketTypeHash": 1345459588, 
-        "tierTypeHash": 2759499571, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 6, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "setData": {
-        "trackingUnlockValueHash": 0, 
-        "setIsFeatured": false, 
-        "itemList": [
-            {
-                "itemHash": 613601972, 
-                "trackingValue": 2
-            }, 
-            {
-                "itemHash": 3908666296, 
-                "trackingValue": 3
-            }, 
-            {
-                "itemHash": 1479328354, 
-                "trackingValue": 4
-            }, 
-            {
-                "itemHash": 926942410, 
-                "trackingValue": 5
-            }, 
-            {
-                "itemHash": 1325063399, 
-                "trackingValue": 6
-            }, 
-            {
-                "itemHash": 1961485542, 
-                "trackingValue": 7
-            }, 
-            {
-                "itemHash": 2887971121, 
-                "trackingValue": 8
-            }
-        ], 
-        "requireOrderedSetItemAdd": true, 
-        "questLineName": "Symphony of Death", 
-        "abandonmentUnlockHash": 0, 
-        "setType": "quest_global"
-    }, 
-    "hash": 613601972, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Quest Step", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": true, 
-    "action": {
-        "progressionRewards": [], 
-        "requiredCooldownHash": 0, 
-        "verbName": "Abandon", 
-        "deleteOnAction": true, 
-        "requiredItems": [], 
-        "rewardItemHash": 0, 
-        "useOnAcquire": false, 
-        "isPositive": false, 
-        "requiredCooldownSeconds": 0, 
-        "rewardSheetHash": 0, 
-        "verbDescription": "", 
-        "rewardSiteHash": 0, 
-        "consumeEntireStack": false
-    }, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        16
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": true, 
-    "tooltipStyle": "bounty", 
-    "allowActions": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "blacklisted": false, 
-    "acquireUnlockHash": 0, 
-    "displaySource": "\"The Hive are a festering sickness. A living plague of bone and suffering. But there are methods through which their affliction may be turned against them.\" —Eris Morn", 
-    "traitIds": [
-        "inventory_filtering.quest", 
-        "quest.exotic"
-    ], 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/f933381b6c7a4aa9e207eef977100040.jpg", 
-        "hasIcon": true, 
-        "description": "Eris Morn believes the Hive's wicked science can be turned against them. Help her investigate the Circle of Bones beneath the Moon.", 
-        "name": "Faculties of the Skull"
-    }
+	"displayProperties": {
+		"description": "Eris Morn believes the Hive's wicked science can be turned against them. Help her investigate the Circle of Bones beneath the Moon.",
+		"name": "Faculties of the Skull",
+		"icon": "/common/destiny2_content/icons/f933381b6c7a4aa9e207eef977100040.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Quest Step",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Exotic Quest Step",
+	"displaySource": "\"The Hive are a festering sickness. A living plague of bone and suffering. But there are methods through which their affliction may be turned against them.\" —Eris Morn",
+	"tooltipStyle": "bounty",
+	"action": {
+		"verbName": "Abandon",
+		"verbDescription": "",
+		"isPositive": false,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1345459588,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 2759499571,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Exotic",
+		"tierType": 6,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"setData": {
+		"itemList": [
+			{
+				"trackingValue": 2,
+				"itemHash": 613601972
+			},
+			{
+				"trackingValue": 3,
+				"itemHash": 3908666296
+			},
+			{
+				"trackingValue": 4,
+				"itemHash": 1479328354
+			},
+			{
+				"trackingValue": 5,
+				"itemHash": 926942410
+			},
+			{
+				"trackingValue": 6,
+				"itemHash": 1325063399
+			},
+			{
+				"trackingValue": 7,
+				"itemHash": 1961485542
+			},
+			{
+				"trackingValue": 8,
+				"itemHash": 2887971121
+			}
+		],
+		"trackingUnlockValueHash": 0,
+		"abandonmentUnlockHash": 0,
+		"requireOrderedSetItemAdd": true,
+		"setIsFeatured": false,
+		"setType": "quest_global",
+		"questLineName": "Symphony of Death"
+	},
+	"stats": {
+		"disablePrimaryStatDisplay": false,
+		"stats": {},
+		"hasDisplayableStats": false,
+		"primaryBaseStatHash": 0
+	},
+	"objectives": {
+		"objectiveHashes": [
+			1662555529
+		],
+		"displayActivityHashes": [
+			2166136261
+		],
+		"requireFullObjectiveCompletion": true,
+		"questlineItemHash": 613601972,
+		"narrative": "",
+		"objectiveVerbName": "",
+		"questTypeIdentifier": "quest_global",
+		"questTypeHash": 3413310557,
+		"completionRewardSiteHash": 0,
+		"nextQuestStepRewardSiteHash": 0,
+		"timestampUnlockValueHash": 0,
+		"isGlobalObjectiveItem": false,
+		"useOnObjectiveCompletion": false,
+		"inhibitCompletionUnlockValueHash": 0,
+		"perObjectiveDisplayProperties": [
+			{
+				"activityHash": 1296063136,
+				"displayOnItemPreviewScreen": false
+			}
+		],
+		"displayAsStatTracker": false
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": true,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		16
+	],
+	"specialItemType": 0,
+	"itemType": 12,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"traitIds": [
+		"inventory_filtering.quest",
+		"quest.exotic"
+	],
+	"hash": 613601972,
+	"index": 15150,
+	"redacted": false,
+	"blacklisted": false
 }

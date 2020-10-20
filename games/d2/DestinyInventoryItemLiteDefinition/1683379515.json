@@ -1,72 +1,72 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Trait", 
-    "itemType": 19, 
-    "tooltipNotifications": [], 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "summaryItemHash": 3520001075, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 1469714392, 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Trait", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        59, 
-        3708671066, 
-        610365472
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "displaySource": "", 
-    "perks": [
-        {
-            "requirementDisplayString": "", 
-            "perkHash": 2161792065, 
-            "perkVisibility": 0
-        }
-    ], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/5b83b3c3fc474c9716e54b4dfe4a862b.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/dfdf42366341a064808eb6f8f6d3700a.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/5b83b3c3fc474c9716e54b4dfe4a862b.png", 
-        "hasIcon": true, 
-        "description": "Breaking an enemy's shield with this weapon makes them more vulnerable to Kinetic damage for a brief period.", 
-        "name": "Disruption Break"
-    }
+	"displayProperties": {
+		"description": "Breaking an enemy's shield with this weapon makes them more vulnerable to Kinetic damage for a brief period.",
+		"name": "Disruption Break",
+		"icon": "/common/destiny2_content/icons/5b83b3c3fc474c9716e54b4dfe4a862b.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/5b83b3c3fc474c9716e54b4dfe4a862b.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/dfdf42366341a064808eb6f8f6d3700a.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Trait",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Trait",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1469714392,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [
+		{
+			"requirementDisplayString": "",
+			"perkHash": 2161792065,
+			"perkVisibility": 0
+		}
+	],
+	"summaryItemHash": 3520001075,
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		59,
+		3708671066,
+		610365472
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

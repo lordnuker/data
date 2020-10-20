@@ -1,20 +1,35 @@
 {
-    "index": 733, 
-    "hash": 2999483328, 
-    "blacklisted": false, 
-    "avoidDuplicatesOnInitialization": false, 
-    "overridesUiAppearance": false, 
-    "redacted": true, 
-    "visibility": 0, 
-    "isPreviewEnabled": false, 
-    "alwaysRandomizeSockets": false, 
-    "displayProperties": {
-        "icon": "/img/misc/missing_icon_d2.png", 
-        "hasIcon": false, 
-        "description": "Keep it secret.  Keep it safe.", 
-        "highResIcon": "/img/misc/missing_icon_d2.png", 
-        "name": "Classified"
-    }, 
-    "socketCategoryHash": 0, 
-    "hideDuplicateReusablePlugs": false
+	"displayProperties": {
+		"description": "",
+		"name": "",
+		"hasIcon": false
+	},
+	"insertAction": {
+		"actionExecuteSeconds": 1,
+		"actionSoundHash": 0,
+		"isPositiveAction": false,
+		"actionType": 0
+	},
+	"plugWhitelist": [
+		{
+			"categoryHash": 2185442450,
+			"categoryIdentifier": "v480_pursuit_shotgun0_skins"
+		},
+		{
+			"categoryHash": 3940152116,
+			"categoryIdentifier": "exotic_all_skins"
+		}
+	],
+	"socketCategoryHash": 2048875504,
+	"visibility": 0,
+	"alwaysRandomizeSockets": false,
+	"isPreviewEnabled": false,
+	"hideDuplicateReusablePlugs": true,
+	"overridesUiAppearance": true,
+	"avoidDuplicatesOnInitialization": false,
+	"currencyScalars": [],
+	"hash": 2999483328,
+	"index": 733,
+	"redacted": false,
+	"blacklisted": false
 }

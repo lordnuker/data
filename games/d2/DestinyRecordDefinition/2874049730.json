@@ -1,60 +1,60 @@
 {
-    "index": 1510, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        2023841435, 
-        2023841434, 
-        2023841433, 
-        2023841432, 
-        2023841439
-    ], 
-    "parentNodeHashes": [
-        991908404, 
-        3618458455
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 100, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [
-        {
-            "itemHash": 2868525743, 
-            "quantity": 1
-        }
-    ], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/a08e986205f79f7aa535ba45b16dd042.png", 
-        "hasIcon": true, 
-        "description": "While you have the Sentry Aura in Gambit Prime, win matches, mark Invaders, defeat Blockers before your Primeval has spawned, defeat Taken when your Primeval has spawned, and earn Locksmith Medals.", 
-        "name": "Triumphant Sentry"
-    }, 
-    "scope": 0, 
-    "hash": 2874049730
+	"displayProperties": {
+		"description": "While you have the Sentry Aura in Gambit Prime, win matches, mark Invaders, defeat Blockers before your Primeval has spawned, defeat Taken when your Primeval has spawned, and earn Locksmith Medals.",
+		"name": "Triumphant Sentry",
+		"icon": "/common/destiny2_content/icons/a08e986205f79f7aa535ba45b16dd042.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		2023841435,
+		2023841434,
+		2023841433,
+		2023841432,
+		2023841439
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 100,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [
+		{
+			"itemHash": 2868525743,
+			"quantity": 1
+		}
+	],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		991908404,
+		3618458455
+	],
+	"hash": 2874049730,
+	"index": 1522,
+	"redacted": false,
+	"blacklisted": false
 }

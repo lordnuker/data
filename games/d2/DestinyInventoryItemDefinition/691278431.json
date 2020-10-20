@@ -1,191 +1,191 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Bright Engram", 
-    "itemType": 20, 
-    "investmentStats": [], 
-    "redacted": false, 
-    "tooltipNotifications": [], 
-    "index": 2967, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 2422292810, 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 125, 
-        "green": 5, 
-        "colorHash": 0, 
-        "red": 82, 
-        "alpha": 89
-    }, 
-    "preview": {
-        "screenStyle": "screen_style_vendor", 
-        "derivedItemCategories": [
-            {
-                "items": [
-                    {
-                        "itemHash": 829949987, 
-                        "vendorItemIndex": 0
-                    }, 
-                    {
-                        "itemHash": 2467293104, 
-                        "vendorItemIndex": 1
-                    }, 
-                    {
-                        "itemHash": 3639925183, 
-                        "vendorItemIndex": 2
-                    }, 
-                    {
-                        "itemHash": 2340300214, 
-                        "vendorItemIndex": 3
-                    }
-                ], 
-                "categoryDescription": "", 
-                "categoryIndex": 0
-            }, 
-            {
-                "items": [
-                    {
-                        "itemHash": 3373357626, 
-                        "vendorItemIndex": 4
-                    }, 
-                    {
-                        "itemHash": 3171649853, 
-                        "vendorItemIndex": 5
-                    }, 
-                    {
-                        "itemHash": 2433900295, 
-                        "vendorItemIndex": 6
-                    }, 
-                    {
-                        "itemHash": 3587167050, 
-                        "vendorItemIndex": 7
-                    }, 
-                    {
-                        "itemHash": 518566750, 
-                        "vendorItemIndex": 8
-                    }, 
-                    {
-                        "itemHash": 1334842411, 
-                        "vendorItemIndex": 9
-                    }, 
-                    {
-                        "itemHash": 1605596084, 
-                        "vendorItemIndex": 10
-                    }, 
-                    {
-                        "itemHash": 1623653769, 
-                        "vendorItemIndex": 11
-                    }, 
-                    {
-                        "itemHash": 1623653768, 
-                        "vendorItemIndex": 12
-                    }, 
-                    {
-                        "itemHash": 1623653771, 
-                        "vendorItemIndex": 13
-                    }, 
-                    {
-                        "itemHash": 1623653770, 
-                        "vendorItemIndex": 14
-                    }, 
-                    {
-                        "itemHash": 263371517, 
-                        "vendorItemIndex": 15
-                    }, 
-                    {
-                        "itemHash": 263371516, 
-                        "vendorItemIndex": 16
-                    }, 
-                    {
-                        "itemHash": 263371513, 
-                        "vendorItemIndex": 17
-                    }, 
-                    {
-                        "itemHash": 263371512, 
-                        "vendorItemIndex": 18
-                    }, 
-                    {
-                        "itemHash": 263371514, 
-                        "vendorItemIndex": 19
-                    }, 
-                    {
-                        "itemHash": 1052553863, 
-                        "vendorItemIndex": 20
-                    }, 
-                    {
-                        "itemHash": 1052553862, 
-                        "vendorItemIndex": 21
-                    }, 
-                    {
-                        "itemHash": 3205869477, 
-                        "vendorItemIndex": 22
-                    }, 
-                    {
-                        "itemHash": 1284563761, 
-                        "vendorItemIndex": 23
-                    }
-                ], 
-                "categoryDescription": "", 
-                "categoryIndex": 0
-            }
-        ], 
-        "previewVendorHash": 3373123597, 
-        "previewActionString": "Preview"
-    }, 
-    "hash": 691278431, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Bright Engram", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": true, 
-    "action": {
-        "progressionRewards": [], 
-        "requiredCooldownHash": 0, 
-        "verbName": "Discard", 
-        "deleteOnAction": true, 
-        "requiredItems": [], 
-        "rewardItemHash": 0, 
-        "actionTypeLabel": "shard", 
-        "useOnAcquire": true, 
-        "isPositive": false, 
-        "requiredCooldownSeconds": 0, 
-        "rewardSheetHash": 0, 
-        "verbDescription": "", 
-        "rewardSiteHash": 0, 
-        "consumeEntireStack": false
-    }, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        3109687656
-    ], 
-    "uiItemDisplayStyle": "ui_display_style_engram", 
-    "nonTransferrable": true, 
-    "tooltipStyle": "package", 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "blacklisted": false, 
-    "acquireUnlockHash": 0, 
-    "displaySource": "", 
-    "traitIds": [
-        "item_type.engram"
-    ], 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/acb181b458a5c3d3d1f1d4de9b19627d.png", 
-        "hasIcon": true, 
-        "description": "An engram with vibrant encoding markers. Return it to Tess Everis to reveal its contents.\n\nIt will almost certainly contain a new reward when decrypted until you've received them all.", 
-        "name": "Crimson Engram"
-    }
+	"displayProperties": {
+		"description": "An engram with vibrant encoding markers. Return it to Tess Everis to reveal its contents.\n\nIt will almost certainly contain a new reward when decrypted until you've received them all.",
+		"name": "Crimson Engram",
+		"icon": "/common/destiny2_content/icons/acb181b458a5c3d3d1f1d4de9b19627d.png",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 82,
+		"green": 5,
+		"blue": 125,
+		"alpha": 89
+	},
+	"itemTypeDisplayName": "Bright Engram",
+	"uiItemDisplayStyle": "ui_display_style_engram",
+	"itemTypeAndTierDisplayName": "Legendary Bright Engram",
+	"displaySource": "",
+	"tooltipStyle": "package",
+	"action": {
+		"verbName": "Discard",
+		"verbDescription": "",
+		"isPositive": false,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"actionTypeLabel": "shard",
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": true
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 2422292810,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"preview": {
+		"screenStyle": "screen_style_vendor",
+		"previewVendorHash": 3373123597,
+		"previewActionString": "Preview",
+		"derivedItemCategories": [
+			{
+				"categoryDescription": "",
+				"items": [
+					{
+						"itemHash": 829949987,
+						"vendorItemIndex": 0
+					},
+					{
+						"itemHash": 2467293104,
+						"vendorItemIndex": 1
+					},
+					{
+						"itemHash": 3639925183,
+						"vendorItemIndex": 2
+					},
+					{
+						"itemHash": 2340300214,
+						"vendorItemIndex": 3
+					}
+				],
+				"categoryIndex": 0
+			},
+			{
+				"categoryDescription": "",
+				"items": [
+					{
+						"itemHash": 3373357626,
+						"vendorItemIndex": 4
+					},
+					{
+						"itemHash": 3171649853,
+						"vendorItemIndex": 5
+					},
+					{
+						"itemHash": 2433900295,
+						"vendorItemIndex": 6
+					},
+					{
+						"itemHash": 3587167050,
+						"vendorItemIndex": 7
+					},
+					{
+						"itemHash": 518566750,
+						"vendorItemIndex": 8
+					},
+					{
+						"itemHash": 1334842411,
+						"vendorItemIndex": 9
+					},
+					{
+						"itemHash": 1605596084,
+						"vendorItemIndex": 10
+					},
+					{
+						"itemHash": 1623653769,
+						"vendorItemIndex": 11
+					},
+					{
+						"itemHash": 1623653768,
+						"vendorItemIndex": 12
+					},
+					{
+						"itemHash": 1623653771,
+						"vendorItemIndex": 13
+					},
+					{
+						"itemHash": 1623653770,
+						"vendorItemIndex": 14
+					},
+					{
+						"itemHash": 263371517,
+						"vendorItemIndex": 15
+					},
+					{
+						"itemHash": 263371516,
+						"vendorItemIndex": 16
+					},
+					{
+						"itemHash": 263371513,
+						"vendorItemIndex": 17
+					},
+					{
+						"itemHash": 263371512,
+						"vendorItemIndex": 18
+					},
+					{
+						"itemHash": 263371514,
+						"vendorItemIndex": 19
+					},
+					{
+						"itemHash": 1052553863,
+						"vendorItemIndex": 20
+					},
+					{
+						"itemHash": 1052553862,
+						"vendorItemIndex": 21
+					},
+					{
+						"itemHash": 3205869477,
+						"vendorItemIndex": 22
+					},
+					{
+						"itemHash": 1284563761,
+						"vendorItemIndex": 23
+					}
+				],
+				"categoryIndex": 0
+			}
+		]
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": true,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		3109687656
+	],
+	"specialItemType": 0,
+	"itemType": 20,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"traitIds": [
+		"item_type.engram"
+	],
+	"hash": 691278431,
+	"index": 3003,
+	"redacted": false,
+	"blacklisted": false
 }

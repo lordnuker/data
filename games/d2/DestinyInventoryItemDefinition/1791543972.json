@@ -1,113 +1,113 @@
 {
-    "itemTypeAndTierDisplayName": "Common Ghost Module", 
-    "itemType": 19, 
-    "investmentStats": [], 
-    "redacted": false, 
-    "tooltipNotifications": [], 
-    "index": 5511, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Common", 
-        "bucketTypeHash": 3313201758, 
-        "tierTypeHash": 3340296461, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 2, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "hash": 1791543972, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Ghost Module", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/a8e26c00e87b80f1bd4140c501ab5b4a.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/82ac933d35b85911199fd29e60c9e54d.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/a8e26c00e87b80f1bd4140c501ab5b4a.png", 
-        "hasIcon": true, 
-        "description": "Detect caches within a 30-meter range while on the Tangled Shore.", 
-        "name": "Tangled Shore Cache Detector"
-    }, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        59, 
-        4176831154, 
-        1449602859
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": false, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "plug": {
-        "insertionMaterialRequirementHash": 0, 
-        "actionRewardSiteHash": 0, 
-        "enabledMaterialRequirementHash": 0, 
-        "previewItemOverrideHash": 0, 
-        "insertionRules": [], 
-        "enabledRules": [
-            {
-                "failureMessage": "Only Active on the Tangled Shore"
-            }
-        ], 
-        "plugCategoryHash": 1820735122, 
-        "plugCategoryIdentifier": "v300.ghosts.mods.perks", 
-        "onActionRecreateSelf": false, 
-        "plugStyle": 0, 
-        "isDummyPlug": false, 
-        "actionRewardItemOverrideHash": 0, 
-        "uiPlugLabel": "", 
-        "alternatePlugStyle": 0, 
-        "alternateUiPlugLabel": "", 
-        "plugAvailability": 0
-    }, 
-    "blacklisted": false, 
-    "acquireUnlockHash": 0, 
-    "displaySource": "", 
-    "perks": [
-        {
-            "requirementDisplayString": "", 
-            "perkHash": 1148695102, 
-            "perkVisibility": 0
-        }
-    ], 
-    "specialItemType": 0, 
-    "action": {
-        "progressionRewards": [], 
-        "requiredCooldownHash": 0, 
-        "verbName": "Dismantle", 
-        "deleteOnAction": true, 
-        "requiredItems": [], 
-        "rewardItemHash": 0, 
-        "useOnAcquire": false, 
-        "isPositive": false, 
-        "requiredCooldownSeconds": 0, 
-        "rewardSheetHash": 0, 
-        "verbDescription": "", 
-        "rewardSiteHash": 0, 
-        "consumeEntireStack": false
-    }
+	"displayProperties": {
+		"description": "Detect caches within a 30-meter range while on the Tangled Shore.",
+		"name": "Tangled Shore Cache Detector",
+		"icon": "/common/destiny2_content/icons/a8e26c00e87b80f1bd4140c501ab5b4a.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/a8e26c00e87b80f1bd4140c501ab5b4a.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/82ac933d35b85911199fd29e60c9e54d.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Ghost Module",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Common Ghost Module",
+	"displaySource": "",
+	"action": {
+		"verbName": "Dismantle",
+		"verbDescription": "",
+		"isPositive": false,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 3313201758,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 3340296461,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Common",
+		"tierType": 2,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"plug": {
+		"insertionRules": [],
+		"plugCategoryIdentifier": "v300.ghosts.mods.perks",
+		"plugCategoryHash": 1820735122,
+		"onActionRecreateSelf": false,
+		"actionRewardSiteHash": 0,
+		"actionRewardItemOverrideHash": 0,
+		"insertionMaterialRequirementHash": 0,
+		"previewItemOverrideHash": 0,
+		"enabledMaterialRequirementHash": 0,
+		"enabledRules": [
+			{
+				"failureMessage": "Only Active on the Tangled Shore"
+			}
+		],
+		"uiPlugLabel": "",
+		"plugStyle": 0,
+		"plugAvailability": 0,
+		"alternateUiPlugLabel": "",
+		"alternatePlugStyle": 0,
+		"isDummyPlug": false
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [
+		{
+			"requirementDisplayString": "",
+			"perkHash": 1148695102,
+			"perkVisibility": 0
+		}
+	],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [
+		59,
+		4176831154,
+		1449602859
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"hash": 1791543972,
+	"index": 5547,
+	"redacted": false,
+	"blacklisted": false
 }

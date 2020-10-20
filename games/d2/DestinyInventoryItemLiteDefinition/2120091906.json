@@ -1,116 +1,116 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Quest", 
-    "nonTransferrable": true, 
-    "tooltipNotifications": [], 
-    "itemType": 15, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 2422292810, 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "setData": {
-        "trackingUnlockValueHash": 0, 
-        "setIsFeatured": false, 
-        "itemList": [
-            {
-                "itemHash": 575899202, 
-                "trackingValue": -1507037133
-            }, 
-            {
-                "itemHash": 575899203, 
-                "trackingValue": -1507037134
-            }, 
-            {
-                "itemHash": 4291096741, 
-                "trackingValue": 242027534
-            }, 
-            {
-                "itemHash": 4291096740, 
-                "trackingValue": 242027535
-            }, 
-            {
-                "itemHash": 3258006823, 
-                "trackingValue": 2117019846
-            }, 
-            {
-                "itemHash": 489378202, 
-                "trackingValue": -2071213685
-            }, 
-            {
-                "itemHash": 2909777697, 
-                "trackingValue": -113673310
-            }, 
-            {
-                "itemHash": 3771134119, 
-                "trackingValue": 598663774
-            }, 
-            {
-                "itemHash": 1711302444, 
-                "trackingValue": -1208559255
-            }, 
-            {
-                "itemHash": 2697898544, 
-                "trackingValue": -338441699
-            }, 
-            {
-                "itemHash": 3742215016, 
-                "trackingValue": -255700275
-            }, 
-            {
-                "itemHash": 433633108, 
-                "trackingValue": 183450429
-            }, 
-            {
-                "itemHash": 1888588732, 
-                "trackingValue": 1619052847
-            }
-        ], 
-        "requireOrderedSetItemAdd": true, 
-        "questLineName": "", 
-        "abandonmentUnlockHash": 0, 
-        "setType": "quest_global"
-    }, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Quest", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        53
-    ], 
-    "uiItemDisplayStyle": "", 
-    "secondaryOverlay": "/common/destiny2_content/icons/f9110e633634d112cff72a67159e3b12.png", 
-    "secondaryIcon": "/common/destiny2_content/icons/242822a4b5141ba1c1f2a045887c9425.png", 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "secondarySpecial": "/img/misc/missing_icon_d2.png", 
-    "displaySource": "", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/d221d4bbc6ebac8cae1ed346ed93177e.jpg", 
-        "hasIcon": true, 
-        "description": "", 
-        "name": "The Investigation"
-    }
+	"displayProperties": {
+		"description": "",
+		"name": "The Investigation",
+		"icon": "/common/destiny2_content/icons/d221d4bbc6ebac8cae1ed346ed93177e.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"secondaryIcon": "/common/destiny2_content/icons/242822a4b5141ba1c1f2a045887c9425.png",
+	"secondaryOverlay": "/common/destiny2_content/icons/f9110e633634d112cff72a67159e3b12.png",
+	"secondarySpecial": "/img/misc/missing_icon_d2.png",
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Quest",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Quest",
+	"displaySource": "",
+	"setData": {
+		"itemList": [
+			{
+				"trackingValue": -1507037133,
+				"itemHash": 575899202
+			},
+			{
+				"trackingValue": -1507037134,
+				"itemHash": 575899203
+			},
+			{
+				"trackingValue": 242027534,
+				"itemHash": 4291096741
+			},
+			{
+				"trackingValue": 242027535,
+				"itemHash": 4291096740
+			},
+			{
+				"trackingValue": 2117019846,
+				"itemHash": 3258006823
+			},
+			{
+				"trackingValue": -2071213685,
+				"itemHash": 489378202
+			},
+			{
+				"trackingValue": -113673310,
+				"itemHash": 2909777697
+			},
+			{
+				"trackingValue": 598663774,
+				"itemHash": 3771134119
+			},
+			{
+				"trackingValue": -1208559255,
+				"itemHash": 1711302444
+			},
+			{
+				"trackingValue": -338441699,
+				"itemHash": 2697898544
+			},
+			{
+				"trackingValue": -255700275,
+				"itemHash": 3742215016
+			},
+			{
+				"trackingValue": 183450429,
+				"itemHash": 433633108
+			},
+			{
+				"trackingValue": 1619052847,
+				"itemHash": 1888588732
+			}
+		],
+		"trackingUnlockValueHash": 0,
+		"abandonmentUnlockHash": 0,
+		"requireOrderedSetItemAdd": true,
+		"setIsFeatured": false,
+		"setType": "quest_global",
+		"questLineName": ""
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 2422292810,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		53
+	],
+	"specialItemType": 0,
+	"itemType": 15,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

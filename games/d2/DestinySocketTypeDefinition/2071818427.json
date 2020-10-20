@@ -1,41 +1,41 @@
 {
-    "index": 450, 
-    "hash": 2071818427, 
-    "blacklisted": false, 
-    "avoidDuplicatesOnInitialization": false, 
-    "insertAction": {
-        "actionSoundHash": 0, 
-        "isPositiveAction": false, 
-        "actionType": 2, 
-        "actionExecuteSeconds": 1
-    }, 
-    "plugWhitelist": [
-        {
-            "reinitializationPossiblePlugHashes": [
-                2732814938
-            ], 
-            "categoryIdentifier": "v320_repackage_sniper_rifle0_masterwork", 
-            "categoryHash": 449551925
-        }, 
-        {
-            "reinitializationPossiblePlugHashes": [
-                2732814938
-            ], 
-            "categoryIdentifier": "exotic_weapon_masterwork_upgrade", 
-            "categoryHash": 1932084301
-        }
-    ], 
-    "currencyScalars": [], 
-    "redacted": false, 
-    "visibility": 0, 
-    "isPreviewEnabled": false, 
-    "alwaysRandomizeSockets": false, 
-    "overridesUiAppearance": false, 
-    "displayProperties": {
-        "hasIcon": false, 
-        "description": "", 
-        "name": ""
-    }, 
-    "socketCategoryHash": 2685412949, 
-    "hideDuplicateReusablePlugs": false
+	"displayProperties": {
+		"description": "",
+		"name": "",
+		"hasIcon": false
+	},
+	"insertAction": {
+		"actionExecuteSeconds": 1,
+		"actionSoundHash": 0,
+		"isPositiveAction": false,
+		"actionType": 2
+	},
+	"plugWhitelist": [
+		{
+			"categoryHash": 449551925,
+			"categoryIdentifier": "v320_repackage_sniper_rifle0_masterwork",
+			"reinitializationPossiblePlugHashes": [
+				2732814938
+			]
+		},
+		{
+			"categoryHash": 1932084301,
+			"categoryIdentifier": "exotic_weapon_masterwork_upgrade",
+			"reinitializationPossiblePlugHashes": [
+				2732814938
+			]
+		}
+	],
+	"socketCategoryHash": 2685412949,
+	"visibility": 0,
+	"alwaysRandomizeSockets": false,
+	"isPreviewEnabled": false,
+	"hideDuplicateReusablePlugs": false,
+	"overridesUiAppearance": false,
+	"avoidDuplicatesOnInitialization": false,
+	"currencyScalars": [],
+	"hash": 2071818427,
+	"index": 450,
+	"redacted": false,
+	"blacklisted": false
 }

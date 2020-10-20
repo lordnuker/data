@@ -1,108 +1,125 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Package", 
-    "itemType": 25, 
-    "investmentStats": [], 
-    "redacted": false, 
-    "sack": {
-        "openOnAcquire": false, 
-        "resolvedItemCountUnlockValueHash": 0, 
-        "openAction": "Open", 
-        "rollStateUnlockValueHash": 0, 
-        "selectItemCount": 0, 
-        "seedUnlockValueHash": 0, 
-        "rewardItemListHash": 0, 
-        "resolvedBitVectorUnlockValueHash": 0, 
-        "detailAction": "Preview"
-    }, 
-    "tooltipNotifications": [], 
-    "index": 10738, 
-    "stats": {
-        "hasDisplayableStats": false, 
-        "primaryBaseStatHash": 0, 
-        "disablePrimaryStatDisplay": false, 
-        "stats": {}
-    }, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 1469714392, 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "preview": {
-        "screenStyle": "screen_style_vendor", 
-        "derivedItemCategories": [
-            {
-                "items": [
-                    {
-                        "itemHash": 2504641454, 
-                        "vendorItemIndex": 0
-                    }, 
-                    {
-                        "itemHash": 2504641455, 
-                        "vendorItemIndex": 1
-                    }, 
-                    {
-                        "itemHash": 2504641452, 
-                        "vendorItemIndex": 2
-                    }
-                ], 
-                "categoryDescription": "", 
-                "categoryIndex": 0
-            }
-        ], 
-        "previewVendorHash": 2931211900, 
-        "previewActionString": "Preview"
-    }, 
-    "hash": 2931211900, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Package", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        268598612
-    ], 
-    "uiItemDisplayStyle": "ui_display_style_box", 
-    "nonTransferrable": true, 
-    "tooltipStyle": "package", 
-    "allowActions": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "blacklisted": false, 
-    "displaySource": "", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "hasIcon": true, 
-        "description": "Contains 3 Season of the Undying finishers.\n\nBundle price reduced for each item you already own.", 
-        "highResIcon": "/common/destiny2_content/icons/3d05fa0a14505a016155a96dbc17bd62.jpg", 
-        "name": "Undying Finishers Bundle", 
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/5d6489a524554510bc16f8358a2595f6.png", 
-                    "/common/destiny2_content/icons/d548bc8e3e226c67abada8c3226d7b52.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/5d6489a524554510bc16f8358a2595f6.png"
-    }
+	"displayProperties": {
+		"description": "Contains 3 Season of the Undying finishers.\n\nBundle price reduced for each item you already own.",
+		"name": "Undying Finishers Bundle",
+		"icon": "/common/destiny2_content/icons/5d6489a524554510bc16f8358a2595f6.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/5d6489a524554510bc16f8358a2595f6.png",
+					"/common/destiny2_content/icons/d548bc8e3e226c67abada8c3226d7b52.png"
+				]
+			}
+		],
+		"highResIcon": "/common/destiny2_content/icons/3d05fa0a14505a016155a96dbc17bd62.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Package",
+	"uiItemDisplayStyle": "ui_display_style_box",
+	"itemTypeAndTierDisplayName": "Legendary Package",
+	"displaySource": "",
+	"tooltipStyle": "package",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1469714392,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"stats": {
+		"disablePrimaryStatDisplay": false,
+		"stats": {},
+		"hasDisplayableStats": false,
+		"primaryBaseStatHash": 0
+	},
+	"preview": {
+		"screenStyle": "screen_style_vendor",
+		"previewVendorHash": 2931211900,
+		"previewActionString": "Preview",
+		"derivedItemCategories": [
+			{
+				"categoryDescription": "",
+				"items": [
+					{
+						"itemHash": 2504641454,
+						"vendorItemIndex": 0
+					},
+					{
+						"itemHash": 2504641455,
+						"vendorItemIndex": 1
+					},
+					{
+						"itemHash": 2504641452,
+						"vendorItemIndex": 2
+					}
+				],
+				"categoryIndex": 0
+			}
+		]
+	},
+	"quality": {
+		"itemLevels": [],
+		"qualityLevel": 0,
+		"infusionCategoryName": "0",
+		"infusionCategoryHash": 0,
+		"infusionCategoryHashes": [],
+		"progressionLevelRequirementHash": 0,
+		"currentVersion": 0,
+		"versions": [
+			{
+				"powerCapHash": 723350001
+			}
+		],
+		"displayVersionWatermarkIcons": [
+			""
+		]
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"sack": {
+		"detailAction": "Preview",
+		"openAction": "Open",
+		"seedUnlockValueHash": 0,
+		"resolvedBitVectorUnlockValueHash": 0,
+		"resolvedItemCountUnlockValueHash": 0,
+		"selectItemCount": 0,
+		"rollStateUnlockValueHash": 0,
+		"rewardItemListHash": 0,
+		"openOnAcquire": false
+	},
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		268598612
+	],
+	"specialItemType": 0,
+	"itemType": 25,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"hash": 2931211900,
+	"index": 10773,
+	"redacted": false,
+	"blacklisted": false
 }

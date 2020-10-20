@@ -1,61 +1,61 @@
 {
-    "index": 1355, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 1, 
-        "intervalObjectives": [
-            {
-                "intervalScoreValue": 20, 
-                "intervalObjectiveHash": 146225376
-            }, 
-            {
-                "intervalScoreValue": 30, 
-                "intervalObjectiveHash": 146225378
-            }, 
-            {
-                "intervalScoreValue": 30, 
-                "intervalObjectiveHash": 146225379
-            }
-        ], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [], 
-    "parentNodeHashes": [
-        4213993861
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/a72e5ce5c66e21f34a420271a30d7ec3.png", 
-        "hasIcon": true, 
-        "description": "Complete Nightfall strike \"A Garden World\" and get a great score.", 
-        "name": "A Garden World"
-    }, 
-    "scope": 0, 
-    "hash": 2692332187
+	"displayProperties": {
+		"description": "Complete Nightfall strike \"A Garden World\" and get a great score.",
+		"name": "A Garden World",
+		"icon": "/common/destiny2_content/icons/a72e5ce5c66e21f34a420271a30d7ec3.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [
+			{
+				"intervalObjectiveHash": 146225376,
+				"intervalScoreValue": 20
+			},
+			{
+				"intervalObjectiveHash": 146225378,
+				"intervalScoreValue": 30
+			},
+			{
+				"intervalObjectiveHash": 146225379,
+				"intervalScoreValue": 30
+			}
+		],
+		"originalObjectiveArrayInsertionIndex": 1,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		4213993861
+	],
+	"hash": 2692332187,
+	"index": 1367,
+	"redacted": false,
+	"blacklisted": false
 }

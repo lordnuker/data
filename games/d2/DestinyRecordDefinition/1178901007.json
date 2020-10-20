@@ -1,61 +1,61 @@
 {
-    "index": 473, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 2, 
-        "intervalObjectives": [
-            {
-                "intervalScoreValue": 50, 
-                "intervalObjectiveHash": 2855952172
-            }, 
-            {
-                "intervalScoreValue": 100, 
-                "intervalObjectiveHash": 2855952174
-            }, 
-            {
-                "intervalScoreValue": 150, 
-                "intervalObjectiveHash": 2855952175
-            }
-        ], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [], 
-    "parentNodeHashes": [
-        3570368582
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/c4011545107c8113d7f005c1f07bc0cb.png", 
-        "hasIcon": true, 
-        "description": "Override the lock frequencies of Rasputin's Sleeper Nodes.", 
-        "name": "Sleeping Beauty"
-    }, 
-    "scope": 0, 
-    "hash": 1178901007
+	"displayProperties": {
+		"description": "Override the lock frequencies of Rasputin's Sleeper Nodes.",
+		"name": "Sleeping Beauty",
+		"icon": "/common/destiny2_content/icons/c4011545107c8113d7f005c1f07bc0cb.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [
+			{
+				"intervalObjectiveHash": 2855952172,
+				"intervalScoreValue": 50
+			},
+			{
+				"intervalObjectiveHash": 2855952174,
+				"intervalScoreValue": 100
+			},
+			{
+				"intervalObjectiveHash": 2855952175,
+				"intervalScoreValue": 150
+			}
+		],
+		"originalObjectiveArrayInsertionIndex": 2,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		3570368582
+	],
+	"hash": 1178901007,
+	"index": 484,
+	"redacted": false,
+	"blacklisted": false
 }

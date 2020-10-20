@@ -1,0 +1,108 @@
+{
+	"displayProperties": {
+		"description": "Earn points by defeating combatants and bosses with Void damage in Nightfall or strike playlists during Season of Arrivals.",
+		"name": "Points Earned",
+		"icon": "/common/destiny2_content/icons/2bbc9fc3cf42b8c2ca07bab0702df23b.jpg",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/2bbc9fc3cf42b8c2ca07bab0702df23b.jpg",
+					"/common/destiny2_content/icons/758c8f820d7fec3d85730f4078a4f063.png",
+					"/common/destiny2_content/icons/77e747d582ae9372c8070010c56198be.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [
+		{
+			"displayString": "Expires at the end of Season of Arrivals",
+			"displayStyle": ""
+		}
+	],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Quest Step",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Quest Step",
+	"displaySource": "\"The Darkness is drawing close. Take them to the edge of the Void.\"  —Commander Zavala",
+	"setData": {
+		"itemList": [
+			{
+				"trackingValue": 50,
+				"itemHash": 1417759841
+			}
+		],
+		"trackingUnlockValueHash": 0,
+		"abandonmentUnlockHash": 0,
+		"requireOrderedSetItemAdd": true,
+		"setIsFeatured": false,
+		"setType": "quest_global",
+		"questLineName": "Stand Against the Darkness"
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1345459588,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"value": {
+		"itemValue": [
+			{
+				"itemHash": 1514974385,
+				"quantity": 5
+			},
+			{
+				"itemHash": 1532837249,
+				"quantity": 1
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			}
+		],
+		"valueDescription": ""
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": true,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		16
+	],
+	"specialItemType": 0,
+	"itemType": 12,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
+}

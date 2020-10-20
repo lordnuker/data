@@ -1,87 +1,87 @@
 {
-    "itemTypeAndTierDisplayName": "", 
-    "itemType": 19, 
-    "investmentStats": [], 
-    "redacted": false, 
-    "tooltipNotifications": [], 
-    "index": 1413, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Common", 
-        "bucketTypeHash": 3313201758, 
-        "tierTypeHash": 3340296461, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 2, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "hash": 1390587439, 
-    "equippable": false, 
-    "itemTypeDisplayName": "", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        59
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": false, 
-    "tooltipStyle": "build", 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "plug": {
-        "insertionMaterialRequirementHash": 0, 
-        "actionRewardSiteHash": 0, 
-        "enabledMaterialRequirementHash": 0, 
-        "previewItemOverrideHash": 0, 
-        "insertionRules": [], 
-        "enabledRules": [], 
-        "plugCategoryHash": 3189353766, 
-        "plugCategoryIdentifier": "ship.spawnfx", 
-        "onActionRecreateSelf": false, 
-        "plugStyle": 0, 
-        "isDummyPlug": false, 
-        "actionRewardItemOverrideHash": 0, 
-        "uiPlugLabel": "", 
-        "alternatePlugStyle": 0, 
-        "alternateUiPlugLabel": "", 
-        "plugAvailability": 0
-    }, 
-    "blacklisted": false, 
-    "displaySource": "", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/1dc4e9b0a895ef6f973774aebe60c5c5.jpg"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/2b25f5891e1b6a0fecb1ec837b19ff5b.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/1dc4e9b0a895ef6f973774aebe60c5c5.jpg", 
-        "hasIcon": true, 
-        "description": "Use default transmat effects when arriving in a location or reviving.", 
-        "name": "Default Effect"
-    }
+	"displayProperties": {
+		"description": "Use default transmat effects when arriving in a location or reviving.",
+		"name": "Default Effect",
+		"icon": "/common/destiny2_content/icons/1dc4e9b0a895ef6f973774aebe60c5c5.jpg",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/1dc4e9b0a895ef6f973774aebe60c5c5.jpg"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/2b25f5891e1b6a0fecb1ec837b19ff5b.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "",
+	"displaySource": "",
+	"tooltipStyle": "build",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 3313201758,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 3340296461,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Common",
+		"tierType": 2,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"plug": {
+		"insertionRules": [],
+		"plugCategoryIdentifier": "ship.spawnfx",
+		"plugCategoryHash": 3189353766,
+		"onActionRecreateSelf": false,
+		"actionRewardSiteHash": 0,
+		"actionRewardItemOverrideHash": 0,
+		"insertionMaterialRequirementHash": 0,
+		"previewItemOverrideHash": 0,
+		"enabledMaterialRequirementHash": 0,
+		"enabledRules": [],
+		"uiPlugLabel": "",
+		"plugStyle": 0,
+		"plugAvailability": 0,
+		"alternateUiPlugLabel": "",
+		"alternatePlugStyle": 0,
+		"isDummyPlug": false
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [
+		59
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"hash": 1390587439,
+	"index": 1449,
+	"redacted": false,
+	"blacklisted": false
 }

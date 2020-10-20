@@ -1,57 +1,57 @@
 {
-    "index": 382, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [
-            {
-                "intervalScoreValue": 150, 
-                "intervalObjectiveHash": 2897259293
-            }, 
-            {
-                "intervalScoreValue": 150, 
-                "intervalObjectiveHash": 2897259295
-            }
-        ], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [], 
-    "parentNodeHashes": [
-        2761465119
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/e78f012b19b5f6c6026c12547895b756.png", 
-        "hasIcon": true, 
-        "description": "As a Sunbreaker, get kills with Fusion Grenades.", 
-        "name": "Too Hot to Handle"
-    }, 
-    "scope": 0, 
-    "hash": 307522032
+	"displayProperties": {
+		"description": "As a Sunbreaker, get kills with Fusion Grenades.",
+		"name": "Too Hot to Handle",
+		"icon": "/common/destiny2_content/icons/e78f012b19b5f6c6026c12547895b756.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [
+			{
+				"intervalObjectiveHash": 2897259293,
+				"intervalScoreValue": 150
+			},
+			{
+				"intervalObjectiveHash": 2897259295,
+				"intervalScoreValue": 150
+			}
+		],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		2761465119
+	],
+	"hash": 307522032,
+	"index": 393,
+	"redacted": false,
+	"blacklisted": false
 }

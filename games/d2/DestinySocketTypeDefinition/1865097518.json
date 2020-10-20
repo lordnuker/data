@@ -1,75 +1,75 @@
 {
-    "index": 661, 
-    "hash": 1865097518, 
-    "blacklisted": false, 
-    "avoidDuplicatesOnInitialization": false, 
-    "insertAction": {
-        "actionSoundHash": 0, 
-        "isPositiveAction": false, 
-        "actionType": 0, 
-        "actionExecuteSeconds": 1
-    }, 
-    "plugWhitelist": [
-        {
-            "categoryIdentifier": "armor_skins_empty", 
-            "categoryHash": 3356843615
-        }, 
-        {
-            "categoryIdentifier": "armor_skins_titan_chest", 
-            "categoryHash": 3945759584
-        }, 
-        {
-            "categoryIdentifier": "v300_armor_skins_titan_vanguard_chest0", 
-            "categoryHash": 3582003425
-        }, 
-        {
-            "categoryIdentifier": "v300_armor_skins_titan_crucible_chest0", 
-            "categoryHash": 3812107282
-        }, 
-        {
-            "categoryIdentifier": "v300_armor_skins_titan_iron_banner_chest0", 
-            "categoryHash": 4076359100
-        }, 
-        {
-            "categoryIdentifier": "v310_armor_skins_titan_raid_chest0", 
-            "categoryHash": 2208487012
-        }, 
-        {
-            "categoryIdentifier": "v320_armor_skins_titan_raid_chest0", 
-            "categoryHash": 2941021153
-        }, 
-        {
-            "categoryIdentifier": "v300_armor_skins_titan_dead_orbit_chest0", 
-            "categoryHash": 2255507318
-        }, 
-        {
-            "categoryIdentifier": "v300_armor_skins_titan_future_war_cult_chest0", 
-            "categoryHash": 1210155450
-        }, 
-        {
-            "categoryIdentifier": "v300_armor_skins_titan_new_monarchy_chest0", 
-            "categoryHash": 608268681
-        }, 
-        {
-            "categoryIdentifier": "v300_armor_skins_titan_trials_chest0", 
-            "categoryHash": 128174022
-        }, 
-        {
-            "categoryIdentifier": "v300_armor_skins_titan_trials_chest1", 
-            "categoryHash": 128174023
-        }
-    ], 
-    "currencyScalars": [], 
-    "redacted": false, 
-    "visibility": 0, 
-    "isPreviewEnabled": false, 
-    "alwaysRandomizeSockets": false, 
-    "overridesUiAppearance": true, 
-    "displayProperties": {
-        "hasIcon": false, 
-        "description": "", 
-        "name": ""
-    }, 
-    "socketCategoryHash": 1926152773, 
-    "hideDuplicateReusablePlugs": true
+	"displayProperties": {
+		"description": "",
+		"name": "",
+		"hasIcon": false
+	},
+	"insertAction": {
+		"actionExecuteSeconds": 1,
+		"actionSoundHash": 0,
+		"isPositiveAction": false,
+		"actionType": 0
+	},
+	"plugWhitelist": [
+		{
+			"categoryHash": 3356843615,
+			"categoryIdentifier": "armor_skins_empty"
+		},
+		{
+			"categoryHash": 3945759584,
+			"categoryIdentifier": "armor_skins_titan_chest"
+		},
+		{
+			"categoryHash": 3582003425,
+			"categoryIdentifier": "v300_armor_skins_titan_vanguard_chest0"
+		},
+		{
+			"categoryHash": 3812107282,
+			"categoryIdentifier": "v300_armor_skins_titan_crucible_chest0"
+		},
+		{
+			"categoryHash": 4076359100,
+			"categoryIdentifier": "v300_armor_skins_titan_iron_banner_chest0"
+		},
+		{
+			"categoryHash": 2208487012,
+			"categoryIdentifier": "v310_armor_skins_titan_raid_chest0"
+		},
+		{
+			"categoryHash": 2941021153,
+			"categoryIdentifier": "v320_armor_skins_titan_raid_chest0"
+		},
+		{
+			"categoryHash": 2255507318,
+			"categoryIdentifier": "v300_armor_skins_titan_dead_orbit_chest0"
+		},
+		{
+			"categoryHash": 1210155450,
+			"categoryIdentifier": "v300_armor_skins_titan_future_war_cult_chest0"
+		},
+		{
+			"categoryHash": 608268681,
+			"categoryIdentifier": "v300_armor_skins_titan_new_monarchy_chest0"
+		},
+		{
+			"categoryHash": 128174022,
+			"categoryIdentifier": "v300_armor_skins_titan_trials_chest0"
+		},
+		{
+			"categoryHash": 128174023,
+			"categoryIdentifier": "v300_armor_skins_titan_trials_chest1"
+		}
+	],
+	"socketCategoryHash": 1926152773,
+	"visibility": 0,
+	"alwaysRandomizeSockets": false,
+	"isPreviewEnabled": false,
+	"hideDuplicateReusablePlugs": true,
+	"overridesUiAppearance": true,
+	"avoidDuplicatesOnInitialization": false,
+	"currencyScalars": [],
+	"hash": 1865097518,
+	"index": 661,
+	"redacted": false,
+	"blacklisted": false
 }

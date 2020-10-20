@@ -1,57 +1,60 @@
 {
-    "index": 597, 
-    "traitHashes": [], 
-    "nodeType": 1, 
-    "blacklisted": false, 
-    "originalIcon": "/common/destiny2_content/icons/2982e6f7814fcde31499d3460fad8e4c.png", 
-    "presentationNodeType": 1, 
-    "redacted": false, 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "objectiveHash": 2952802450, 
-    "parentNodeHashes": [
-        3790247699
-    ], 
-    "displayStyle": 0, 
-    "rootViewIcon": "/img/destiny_content/collections/Weapons.png", 
-    "screenStyle": 0, 
-    "traitIds": [], 
-    "disableChildSubscreenNavigation": false, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/2982e6f7814fcde31499d3460fad8e4c.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/d97c37f2f25fc858764ac92f904b69e2.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/DestinyPresentationNodeDefinition_6ecdda834032a26e090260ba3d02acfa.png", 
-        "hasIcon": true, 
-        "description": "The tools with which a Guardian defends the system.", 
-        "name": "Weapons"
-    }, 
-    "scope": 1, 
-    "children": {
-        "metrics": [], 
-        "collectibles": [], 
-        "presentationNodes": [
-            {
-                "presentationNodeHash": 1731162900
-            }, 
-            {
-                "presentationNodeHash": 638914517
-            }, 
-            {
-                "presentationNodeHash": 3686962409
-            }
-        ], 
-        "records": []
-    }, 
-    "hash": 1528930164
+	"displayProperties": {
+		"description": "The tools with which a Guardian defends the system.",
+		"name": "Weapons",
+		"icon": "/common/destiny2_content/icons/DestinyPresentationNodeDefinition_6ecdda834032a26e090260ba3d02acfa.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/2982e6f7814fcde31499d3460fad8e4c.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/d97c37f2f25fc858764ac92f904b69e2.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"originalIcon": "/common/destiny2_content/icons/2982e6f7814fcde31499d3460fad8e4c.png",
+	"rootViewIcon": "/img/destiny_content/collections/Weapons.png",
+	"nodeType": 1,
+	"scope": 1,
+	"objectiveHash": 2952802450,
+	"children": {
+		"presentationNodes": [
+			{
+				"presentationNodeHash": 1731162900
+			},
+			{
+				"presentationNodeHash": 638914517
+			},
+			{
+				"presentationNodeHash": 3686962409
+			},
+			{
+				"presentationNodeHash": 3155750055
+			}
+		],
+		"collectibles": [],
+		"records": [],
+		"metrics": []
+	},
+	"displayStyle": 0,
+	"screenStyle": 0,
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"disableChildSubscreenNavigation": false,
+	"presentationNodeType": 1,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		3790247699
+	],
+	"hash": 1528930164,
+	"index": 655,
+	"redacted": false,
+	"blacklisted": false
 }

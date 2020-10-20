@@ -1,34 +1,34 @@
 {
-    "allowValueChangeWhenCompleted": true, 
-    "isCountingDownward": false, 
-    "redacted": false, 
-    "progressDescription": "Tracks the number of Legendary Items you've obtained.", 
-    "unlockValueHash": 0, 
-    "index": 259, 
-    "stats": {
-        "style": 0
-    }, 
-    "isDisplayOnlyObjective": false, 
-    "allowNegativeValue": false, 
-    "scope": 3, 
-    "hash": 1820378455, 
-    "completedValueStyle": 0, 
-    "locationHash": 0, 
-    "inProgressValueStyle": 6, 
-    "showValueOnComplete": false, 
-    "allowOvercompletion": true, 
-    "valueStyle": 0, 
-    "blacklisted": false, 
-    "completionValue": 1, 
-    "minimumVisibilityThreshold": -2147483648, 
-    "perks": {
-        "style": 0, 
-        "perkHash": 0
-    }, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/1ed10f8c5b931be1ed0aefabcbc24d7e.png", 
-        "hasIcon": true, 
-        "description": "Tracks the number of Legendary Items you've obtained.", 
-        "name": "Legendaries Obtained:"
-    }
+	"displayProperties": {
+		"description": "Tracks the number of Legendary Items you've obtained.",
+		"name": "Legendaries Obtained:",
+		"icon": "/common/destiny2_content/icons/1ed10f8c5b931be1ed0aefabcbc24d7e.png",
+		"hasIcon": true
+	},
+	"unlockValueHash": 0,
+	"completionValue": 1,
+	"scope": 3,
+	"locationHash": 0,
+	"allowNegativeValue": false,
+	"allowValueChangeWhenCompleted": true,
+	"isCountingDownward": false,
+	"valueStyle": 0,
+	"progressDescription": "Tracks the number of Legendary Items you've obtained.",
+	"perks": {
+		"perkHash": 0,
+		"style": 0
+	},
+	"stats": {
+		"style": 0
+	},
+	"minimumVisibilityThreshold": -2147483648,
+	"allowOvercompletion": true,
+	"showValueOnComplete": false,
+	"isDisplayOnlyObjective": false,
+	"completedValueStyle": 0,
+	"inProgressValueStyle": 6,
+	"hash": 1820378455,
+	"index": 313,
+	"redacted": false,
+	"blacklisted": false
 }

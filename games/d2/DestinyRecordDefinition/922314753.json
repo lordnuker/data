@@ -1,50 +1,50 @@
 {
-    "index": 561, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        2691912690
-    ], 
-    "parentNodeHashes": [
-        286969093
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 200, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/43541be45952e7eec59b7b57a0bf15a3.png", 
-        "hasIcon": true, 
-        "description": "Defeat Dûl Incaru, the Eternal Return, without allowing any of her Fatesmiths to respawn.", 
-        "name": "Douse the Forge"
-    }, 
-    "scope": 0, 
-    "hash": 922314753
+	"displayProperties": {
+		"description": "Defeat Dûl Incaru, the Eternal Return, without allowing any of her Fatesmiths to respawn.",
+		"name": "Douse the Forge",
+		"icon": "/common/destiny2_content/icons/43541be45952e7eec59b7b57a0bf15a3.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		2691912690
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 200,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		286969093
+	],
+	"hash": 922314753,
+	"index": 572,
+	"redacted": false,
+	"blacklisted": false
 }

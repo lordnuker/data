@@ -1,69 +1,69 @@
 {
-    "itemTypeAndTierDisplayName": "", 
-    "itemType": 20, 
-    "investmentStats": [], 
-    "redacted": false, 
-    "tooltipNotifications": [], 
-    "index": 1227, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Common", 
-        "bucketTypeHash": 2422292810, 
-        "tierTypeHash": 3340296461, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 2, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "hash": 3070068572, 
-    "equippable": false, 
-    "itemTypeDisplayName": "", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        3109687656
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": true, 
-    "tooltipStyle": "vendor_action", 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "blacklisted": false, 
-    "displaySource": "", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/3299beeb16285c7ea3cf2d7838a4622b.jpg"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/42a91691e133685ed1fd2a945c511c0f.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/3299beeb16285c7ea3cf2d7838a4622b.jpg", 
-        "hasIcon": true, 
-        "description": "Generate a new random transmat effect by combining components from other effects.", 
-        "name": "Reconfigure Flair"
-    }
+	"displayProperties": {
+		"description": "Generate a new random transmat effect by combining components from other effects.",
+		"name": "Reconfigure Flair",
+		"icon": "/common/destiny2_content/icons/3299beeb16285c7ea3cf2d7838a4622b.jpg",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/3299beeb16285c7ea3cf2d7838a4622b.jpg"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/42a91691e133685ed1fd2a945c511c0f.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "",
+	"displaySource": "",
+	"tooltipStyle": "vendor_action",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 2422292810,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 3340296461,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Common",
+		"tierType": 2,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		3109687656
+	],
+	"specialItemType": 0,
+	"itemType": 20,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"hash": 3070068572,
+	"index": 1263,
+	"redacted": false,
+	"blacklisted": false
 }

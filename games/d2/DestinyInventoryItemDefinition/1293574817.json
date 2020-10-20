@@ -1,75 +1,75 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Consumable", 
-    "itemType": 9, 
-    "investmentStats": [], 
-    "redacted": false, 
-    "tooltipNotifications": [], 
-    "index": 10470, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 1469714392, 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 99, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "hash": 1293574817, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Consumable", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/fd2be2683e5ec10797d43111e1dc5c56.jpg", 
-        "hasIcon": true, 
-        "description": "A tasty gift.", 
-        "name": "Small Rice Cake"
-    }, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        35, 
-        52
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": false, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "blacklisted": false, 
-    "acquireUnlockHash": 0, 
-    "displaySource": "", 
-    "traitIds": [
-        "item_type.consumable"
-    ], 
-    "perks": [], 
-    "specialItemType": 0, 
-    "action": {
-        "progressionRewards": [], 
-        "requiredCooldownHash": 0, 
-        "verbName": "Discard", 
-        "deleteOnAction": true, 
-        "requiredItems": [], 
-        "rewardItemHash": 0, 
-        "useOnAcquire": false, 
-        "isPositive": false, 
-        "requiredCooldownSeconds": 0, 
-        "rewardSheetHash": 0, 
-        "verbDescription": "Discard", 
-        "rewardSiteHash": 0, 
-        "consumeEntireStack": false
-    }
+	"displayProperties": {
+		"description": "A tasty gift.",
+		"name": "Small Rice Cake",
+		"icon": "/common/destiny2_content/icons/fd2be2683e5ec10797d43111e1dc5c56.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Consumable",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Consumable",
+	"displaySource": "",
+	"action": {
+		"verbName": "Discard",
+		"verbDescription": "Discard",
+		"isPositive": false,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"maxStackSize": 99,
+		"bucketTypeHash": 1469714392,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [
+		35,
+		52
+	],
+	"specialItemType": 0,
+	"itemType": 9,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"traitIds": [
+		"item_type.consumable"
+	],
+	"hash": 1293574817,
+	"index": 10505,
+	"redacted": false,
+	"blacklisted": false
 }

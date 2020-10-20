@@ -1,36 +1,116 @@
 {
-    "index": 11679, 
-    "allowActions": true, 
-    "itemType": 0, 
-    "equippable": false, 
-    "defaultDamageType": 0, 
-    "isWrapper": false, 
-    "classType": 0, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "blacklisted": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "specialItemType": 0, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": false, 
-        "bucketTypeHash": 3313201758, 
-        "tierTypeHash": 0, 
-        "recoveryBucketTypeHash": 215593132, 
-        "maxStackSize": 999, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 0
-    }, 
-    "nonTransferrable": false, 
-    "displayProperties": {
-        "icon": "/img/misc/missing_icon_d2.png", 
-        "hasIcon": false, 
-        "description": "Keep it secret.  Keep it safe.", 
-        "highResIcon": "/img/misc/missing_icon_d2.png", 
-        "name": "Classified"
-    }, 
-    "hash": 3393212812, 
-    "redacted": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0
+	"displayProperties": {
+		"description": "Modifications for your ship's transmat systems, so you'll always arrive in style.",
+		"name": "Cyber Class Entrance",
+		"icon": "/common/destiny2_content/icons/19c7f0e6a357acb06a2307f5defe8395.jpg",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/19c7f0e6a357acb06a2307f5defe8395.jpg"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/79d6f83b465d5d1bb6f07f58412c97d1.png"
+				]
+			}
+		],
+		"highResIcon": "/common/destiny2_content/icons/7c23352b80f4ee234800ff4ab51c2bbc.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"collectibleHash": 4238621566,
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Transmat Effect",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Transmat Effect",
+	"displaySource": "",
+	"action": {
+		"verbName": "Dismantle",
+		"verbDescription": "",
+		"isPositive": false,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"maxStackSize": 999,
+		"bucketTypeHash": 3313201758,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"preview": {
+		"screenStyle": "screen_style_sockets",
+		"previewVendorHash": 0,
+		"previewActionString": "Preview"
+	},
+	"plug": {
+		"insertionRules": [],
+		"plugCategoryIdentifier": "ship.spawnfx",
+		"plugCategoryHash": 3189353766,
+		"onActionRecreateSelf": false,
+		"actionRewardSiteHash": 0,
+		"actionRewardItemOverrideHash": 0,
+		"insertionMaterialRequirementHash": 1585604029,
+		"previewItemOverrideHash": 0,
+		"enabledMaterialRequirementHash": 0,
+		"enabledRules": [],
+		"uiPlugLabel": "",
+		"plugStyle": 0,
+		"plugAvailability": 0,
+		"alternateUiPlugLabel": "",
+		"alternatePlugStyle": 0,
+		"isDummyPlug": false
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [
+		{
+			"requirementDisplayString": "",
+			"perkHash": 719784237,
+			"perkVisibility": 0
+		}
+	],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [
+		59,
+		208981632,
+		177260082
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"hash": 3393212812,
+	"index": 11575,
+	"redacted": false,
+	"blacklisted": false
 }

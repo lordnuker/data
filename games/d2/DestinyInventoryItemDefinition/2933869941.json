@@ -1,0 +1,215 @@
+{
+	"displayProperties": {
+		"description": "Return to Asher with your findings.",
+		"name": "Fleischman-Aschheim Axiom",
+		"icon": "/common/destiny2_content/icons/5c58556a59445c61b1def43cb37929ec.jpg",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/5c58556a59445c61b1def43cb37929ec.jpg",
+					"/common/destiny2_content/icons/cd44370351c60d45c37b1dbc09c4904c.png",
+					"/common/destiny2_content/icons/cc9b9d4bfaaf6cd181015d8ba82be0e2.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [
+		{
+			"displayString": "Expires at the end of Season of Arrivals",
+			"displayStyle": ""
+		}
+	],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Quest Step",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Exotic Quest Step",
+	"displaySource": "\"This unaccredited prismatoid presumes to stand on my shoulders?\" —Asher Mir",
+	"tooltipStyle": "bounty",
+	"action": {
+		"verbName": "Abandon",
+		"verbDescription": "",
+		"isPositive": false,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1345459588,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 2759499571,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Exotic",
+		"tierType": 6,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"setData": {
+		"itemList": [
+			{
+				"trackingValue": 100,
+				"itemHash": 309719901
+			},
+			{
+				"trackingValue": 200,
+				"itemHash": 2933869942
+			},
+			{
+				"trackingValue": 300,
+				"itemHash": 2933869943
+			},
+			{
+				"trackingValue": 400,
+				"itemHash": 2933869940
+			},
+			{
+				"trackingValue": 500,
+				"itemHash": 2933869941
+			},
+			{
+				"trackingValue": 600,
+				"itemHash": 320022603
+			},
+			{
+				"trackingValue": 700,
+				"itemHash": 3304075400
+			},
+			{
+				"trackingValue": 800,
+				"itemHash": 3304075401
+			},
+			{
+				"trackingValue": 900,
+				"itemHash": 3304075402
+			},
+			{
+				"trackingValue": 1000,
+				"itemHash": 3304075403
+			},
+			{
+				"trackingValue": 1100,
+				"itemHash": 1183494007
+			},
+			{
+				"trackingValue": 1200,
+				"itemHash": 2880998238
+			},
+			{
+				"trackingValue": 1300,
+				"itemHash": 2548423303
+			},
+			{
+				"trackingValue": 1400,
+				"itemHash": 2548423302
+			},
+			{
+				"trackingValue": 1500,
+				"itemHash": 2548423301
+			},
+			{
+				"trackingValue": 1600,
+				"itemHash": 2548423300
+			},
+			{
+				"trackingValue": 1700,
+				"itemHash": 1978883491
+			},
+			{
+				"trackingValue": 1800,
+				"itemHash": 1294089872
+			},
+			{
+				"trackingValue": 1900,
+				"itemHash": 1294089873
+			},
+			{
+				"trackingValue": 2000,
+				"itemHash": 1294089874
+			},
+			{
+				"trackingValue": 2100,
+				"itemHash": 1294089875
+			},
+			{
+				"trackingValue": 2200,
+				"itemHash": 1183494006
+			}
+		],
+		"trackingUnlockValueHash": 0,
+		"abandonmentUnlockHash": 0,
+		"requireOrderedSetItemAdd": true,
+		"setIsFeatured": false,
+		"setType": "quest_global",
+		"questLineName": "Exodus: Evacuation"
+	},
+	"objectives": {
+		"objectiveHashes": [
+			3068860350
+		],
+		"displayActivityHashes": [
+			2166136261
+		],
+		"requireFullObjectiveCompletion": true,
+		"questlineItemHash": 2933869941,
+		"narrative": "",
+		"objectiveVerbName": "",
+		"questTypeIdentifier": "quest_global",
+		"questTypeHash": 3413310557,
+		"completionRewardSiteHash": 0,
+		"nextQuestStepRewardSiteHash": 0,
+		"timestampUnlockValueHash": 0,
+		"isGlobalObjectiveItem": false,
+		"useOnObjectiveCompletion": false,
+		"inhibitCompletionUnlockValueHash": 0,
+		"perObjectiveDisplayProperties": [
+			{
+				"displayOnItemPreviewScreen": false
+			}
+		],
+		"displayAsStatTracker": false
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": true,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		16
+	],
+	"specialItemType": 0,
+	"itemType": 12,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"traitIds": [
+		"inventory_filtering.quest",
+		"quest.exotic",
+		"quest.seasonal"
+	],
+	"hash": 2933869941,
+	"index": 15329,
+	"redacted": false,
+	"blacklisted": false
+}

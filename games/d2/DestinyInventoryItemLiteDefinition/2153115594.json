@@ -1,72 +1,72 @@
 {
-    "itemTypeAndTierDisplayName": "Rare Transmat Effect", 
-    "itemType": 19, 
-    "tooltipNotifications": [], 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Rare", 
-        "bucketTypeHash": 3313201758, 
-        "tierTypeHash": 2127292149, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 999, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 4, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Transmat Effect", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        59, 
-        208981632, 
-        177260082
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": false, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "collectibleHash": 2861731997, 
-    "displaySource": "", 
-    "perks": [
-        {
-            "requirementDisplayString": "", 
-            "perkHash": 2964071558, 
-            "perkVisibility": 0
-        }
-    ], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/fb12cb40245facd1f259bc6074e23d8b.jpg"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/a47c9a2e02107d881f2d8a4af67ccf34.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/fb12cb40245facd1f259bc6074e23d8b.jpg", 
-        "hasIcon": true, 
-        "description": "Modifications for your ship's transmat systems, so you'll always arrive in style.", 
-        "name": "Yellow Class Sigil"
-    }
+	"displayProperties": {
+		"description": "Modifications for your ship's transmat systems, so you'll always arrive in style.",
+		"name": "Yellow Class Sigil",
+		"icon": "/common/destiny2_content/icons/fb12cb40245facd1f259bc6074e23d8b.jpg",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/fb12cb40245facd1f259bc6074e23d8b.jpg"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/a47c9a2e02107d881f2d8a4af67ccf34.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"collectibleHash": 2861731997,
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Transmat Effect",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Rare Transmat Effect",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 999,
+		"bucketTypeHash": 3313201758,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 2127292149,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Rare",
+		"tierType": 4,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [
+		{
+			"requirementDisplayString": "",
+			"perkHash": 2964071558,
+			"perkVisibility": 0
+		}
+	],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [
+		59,
+		208981632,
+		177260082
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

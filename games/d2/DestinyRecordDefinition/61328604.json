@@ -1,50 +1,50 @@
 {
-    "index": 1029, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        1624416353
-    ], 
-    "parentNodeHashes": [
-        2669994839
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/9e04491a0f2cd28be7eebe39d10688df.png", 
-        "hasIcon": true, 
-        "description": "Defeat an opposing Guardian using your Super while their Super is active.", 
-        "name": "Not So Fast, My Friend"
-    }, 
-    "scope": 0, 
-    "hash": 61328604
+	"displayProperties": {
+		"description": "Defeat an opposing Guardian using your Super while their Super is active.",
+		"name": "Not So Fast, My Friend",
+		"icon": "/common/destiny2_content/icons/9e04491a0f2cd28be7eebe39d10688df.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		1624416353
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		2669994839
+	],
+	"hash": 61328604,
+	"index": 1041,
+	"redacted": false,
+	"blacklisted": false
 }

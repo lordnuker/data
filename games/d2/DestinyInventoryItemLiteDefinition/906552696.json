@@ -1,81 +1,81 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Quest Step", 
-    "nonTransferrable": true, 
-    "tooltipNotifications": [], 
-    "itemType": 12, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 1345459588, 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "setData": {
-        "trackingUnlockValueHash": 0, 
-        "setIsFeatured": false, 
-        "itemList": [
-            {
-                "itemHash": 906552696, 
-                "trackingValue": 100
-            }, 
-            {
-                "itemHash": 1713774332, 
-                "trackingValue": 600
-            }
-        ], 
-        "requireOrderedSetItemAdd": true, 
-        "questLineName": "Escalation Protocol", 
-        "abandonmentUnlockHash": 0, 
-        "setType": "quest_global"
-    }, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Quest Step", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": true, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        16
-    ], 
-    "uiItemDisplayStyle": "", 
-    "secondaryOverlay": "/img/misc/missing_icon_d2.png", 
-    "secondaryIcon": "/common/destiny2_content/icons/87d8defc659df7747a7a9d7b47708297.jpg", 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "secondarySpecial": "/img/misc/missing_icon_d2.png", 
-    "displaySource": "", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/5f24d01080cb11a05dcfba15409a0f9b.jpg", 
-                    "/common/destiny2_content/icons/da7de3475613cf8435dbcfe972e8e627.png", 
-                    "/common/destiny2_content/icons/09caa7f3c55cc0fa42cfec507ca05300.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/5f24d01080cb11a05dcfba15409a0f9b.jpg", 
-        "hasIcon": true, 
-        "description": "Defeat the final wave in Escalation Protocol with a fully charged Encrypted Cache Key to open the final chest and retrieve your reward.\n\nRasputin Key Fragments drop occasionally during Nightfall strikes. Collect 7 Key Fragments and trade them to Ana Bray for an Encrypted Cache Key. Charge your Cache Key by completing rounds of Escalation Protocol.", 
-        "name": "Conquer and Acquire"
-    }
+	"displayProperties": {
+		"description": "Defeat the final wave in Escalation Protocol with a fully charged Encrypted Cache Key to open the final chest and retrieve your reward.\n\nRasputin Key Fragments drop occasionally during Nightfall strikes. Collect 7 Key Fragments and trade them to Ana Bray for an Encrypted Cache Key. Charge your Cache Key by completing rounds of Escalation Protocol.",
+		"name": "Conquer and Acquire",
+		"icon": "/common/destiny2_content/icons/5f24d01080cb11a05dcfba15409a0f9b.jpg",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/5f24d01080cb11a05dcfba15409a0f9b.jpg",
+					"/common/destiny2_content/icons/da7de3475613cf8435dbcfe972e8e627.png",
+					"/common/destiny2_content/icons/09caa7f3c55cc0fa42cfec507ca05300.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"secondaryIcon": "/common/destiny2_content/icons/87d8defc659df7747a7a9d7b47708297.jpg",
+	"secondaryOverlay": "/img/misc/missing_icon_d2.png",
+	"secondarySpecial": "/img/misc/missing_icon_d2.png",
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Quest Step",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Quest Step",
+	"displaySource": "",
+	"setData": {
+		"itemList": [
+			{
+				"trackingValue": 100,
+				"itemHash": 906552696
+			},
+			{
+				"trackingValue": 600,
+				"itemHash": 1713774332
+			}
+		],
+		"trackingUnlockValueHash": 0,
+		"abandonmentUnlockHash": 0,
+		"requireOrderedSetItemAdd": true,
+		"setIsFeatured": false,
+		"setType": "quest_global",
+		"questLineName": "Escalation Protocol"
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1345459588,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": true,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		16
+	],
+	"specialItemType": 0,
+	"itemType": 12,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

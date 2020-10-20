@@ -1,72 +1,72 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Emblem", 
-    "secondaryOverlay": "/common/destiny2_content/icons/f0029bdda7836ab108f56796f27e22de.png", 
-    "tooltipNotifications": [], 
-    "itemType": 14, 
-    "talentGrid": {
-        "talentGridHash": 521135891, 
-        "hudDamageType": 1, 
-        "itemDetailString": "Details"
-    }, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 4274335291, 
-        "stackUniqueLabel": "v400.emblems.raid.secret1", 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 6, 
-        "green": 2, 
-        "colorHash": 0, 
-        "red": 2, 
-        "alpha": 255
-    }, 
-    "equippable": true, 
-    "itemTypeDisplayName": "Emblem", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        19, 
-        52
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": true, 
-    "secondaryIcon": "/common/destiny2_content/icons/8e7fec497d1649f736dc71f7c550a805.jpg", 
-    "equippingBlock": {
-        "displayStrings": [], 
-        "equipmentSlotTypeHash": 4274335291, 
-        "ammoType": 0, 
-        "equippingSoundHash": 0, 
-        "hornSoundHash": 0, 
-        "attributes": 0, 
-        "uniqueLabelHash": 2735955730, 
-        "uniqueLabel": "v400.emblems.raid.secret1"
-    }, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "secondarySpecial": "/common/destiny2_content/icons/0ef1f430816ae4c29678784a7a388f91.jpg", 
-    "collectibleHash": 1171206947, 
-    "displaySource": "", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/8f8059d81ce84a918273ec57beb00f2e.jpg", 
-        "hasIcon": true, 
-        "description": "", 
-        "name": "Wish Ascended"
-    }
+	"displayProperties": {
+		"description": "",
+		"name": "Wish Ascended",
+		"icon": "/common/destiny2_content/icons/8f8059d81ce84a918273ec57beb00f2e.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"collectibleHash": 1171206947,
+	"secondaryIcon": "/common/destiny2_content/icons/8e7fec497d1649f736dc71f7c550a805.jpg",
+	"secondaryOverlay": "/common/destiny2_content/icons/f0029bdda7836ab108f56796f27e22de.png",
+	"secondarySpecial": "/common/destiny2_content/icons/0ef1f430816ae4c29678784a7a388f91.jpg",
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 2,
+		"green": 2,
+		"blue": 6,
+		"alpha": 255
+	},
+	"itemTypeDisplayName": "Emblem",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Emblem",
+	"displaySource": "",
+	"inventory": {
+		"stackUniqueLabel": "v400.emblems.raid.secret1",
+		"maxStackSize": 1,
+		"bucketTypeHash": 4274335291,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"equippingBlock": {
+		"uniqueLabel": "v400.emblems.raid.secret1",
+		"uniqueLabelHash": 2735955730,
+		"equipmentSlotTypeHash": 4274335291,
+		"attributes": 0,
+		"equippingSoundHash": 0,
+		"hornSoundHash": 0,
+		"ammoType": 0,
+		"displayStrings": []
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"talentGrid": {
+		"talentGridHash": 521135891,
+		"itemDetailString": "Details",
+		"hudDamageType": 1
+	},
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		19,
+		52
+	],
+	"specialItemType": 0,
+	"itemType": 14,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": true,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

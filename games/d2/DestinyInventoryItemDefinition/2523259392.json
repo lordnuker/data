@@ -1,384 +1,393 @@
 {
-    "itemTypeAndTierDisplayName": "Exotic Helmet", 
-    "translationBlock": {
-        "customDyes": [], 
-        "hasGeometry": true, 
-        "lockedDyes": [], 
-        "weaponPatternHash": 0, 
-        "defaultDyes": [
-            {
-                "dyeHash": 506995963, 
-                "channelHash": 662199250
-            }, 
-            {
-                "dyeHash": 476773430, 
-                "channelHash": 1367384683
-            }, 
-            {
-                "dyeHash": 2865600973, 
-                "channelHash": 218592586
-            }
-        ], 
-        "arrangements": [
-            {
-                "classHash": 0, 
-                "artArrangementHash": 2523259392
-            }
-        ]
-    }, 
-    "itemType": 2, 
-    "investmentStats": [
-        {
-            "value": 0, 
-            "statTypeHash": 3897883278, 
-            "isConditionallyActive": false
-        }, 
-        {
-            "value": 0, 
-            "statTypeHash": 1935470627, 
-            "isConditionallyActive": false
-        }, 
-        {
-            "value": 0, 
-            "statTypeHash": 1885944937, 
-            "isConditionallyActive": false
-        }, 
-        {
-            "value": 20, 
-            "statTypeHash": 1943323491, 
-            "isConditionallyActive": false
-        }
-    ], 
-    "redacted": false, 
-    "tooltipNotifications": [], 
-    "hash": 2523259392, 
-    "quality": {
-        "infusionCategoryHash": 1046741990, 
-        "infusionCategoryHashes": [
-            1046741990
-        ], 
-        "infusionCategoryName": "1046741990", 
-        "progressionLevelRequirementHash": 2479027085, 
-        "qualityLevel": 0, 
-        "itemLevels": []
-    }, 
-    "sockets": {
-        "socketEntries": [
-            {
-                "reusablePlugItems": [], 
-                "preventInitializationOnVendorPurchase": false, 
-                "reusablePlugSetHash": 4, 
-                "preventInitializationWhenVersioning": false, 
-                "overridesUiAppearance": false, 
-                "hidePerksInItemTooltip": false, 
-                "singleInitialItemHash": 4248210736, 
-                "socketTypeHash": 2321980680, 
-                "defaultVisible": true, 
-                "plugSources": 7
-            }, 
-            {
-                "reusablePlugItems": [], 
-                "preventInitializationOnVendorPurchase": false, 
-                "reusablePlugSetHash": 191, 
-                "preventInitializationWhenVersioning": false, 
-                "overridesUiAppearance": false, 
-                "hidePerksInItemTooltip": false, 
-                "singleInitialItemHash": 3927963100, 
-                "socketTypeHash": 3497077129, 
-                "defaultVisible": true, 
-                "plugSources": 6
-            }, 
-            {
-                "reusablePlugItems": [], 
-                "preventInitializationOnVendorPurchase": false, 
-                "reusablePlugSetHash": 9, 
-                "preventInitializationWhenVersioning": false, 
-                "overridesUiAppearance": false, 
-                "hidePerksInItemTooltip": false, 
-                "singleInitialItemHash": 1633794450, 
-                "socketTypeHash": 4076485920, 
-                "defaultVisible": true, 
-                "plugSources": 6
-            }, 
-            {
-                "reusablePlugItems": [], 
-                "preventInitializationOnVendorPurchase": true, 
-                "preventInitializationWhenVersioning": false, 
-                "overridesUiAppearance": false, 
-                "hidePerksInItemTooltip": false, 
-                "singleInitialItemHash": 2600899007, 
-                "socketTypeHash": 777508926, 
-                "defaultVisible": true, 
-                "plugSources": 1
-            }, 
-            {
-                "reusablePlugItems": [], 
-                "preventInitializationOnVendorPurchase": false, 
-                "reusablePlugSetHash": 192, 
-                "preventInitializationWhenVersioning": false, 
-                "overridesUiAppearance": false, 
-                "hidePerksInItemTooltip": false, 
-                "singleInitialItemHash": 702981643, 
-                "socketTypeHash": 3047377067, 
-                "defaultVisible": true, 
-                "plugSources": 7
-            }, 
-            {
-                "reusablePlugItems": [
-                    {
-                        "plugItemHash": 159084247
-                    }
-                ], 
-                "preventInitializationOnVendorPurchase": false, 
-                "preventInitializationWhenVersioning": false, 
-                "overridesUiAppearance": false, 
-                "randomizedPlugSetHash": 2718803647, 
-                "hidePerksInItemTooltip": false, 
-                "singleInitialItemHash": 159084247, 
-                "socketTypeHash": 1255556128, 
-                "defaultVisible": true, 
-                "plugSources": 2
-            }, 
-            {
-                "reusablePlugItems": [
-                    {
-                        "plugItemHash": 2620835322
-                    }
-                ], 
-                "preventInitializationOnVendorPurchase": false, 
-                "preventInitializationWhenVersioning": false, 
-                "overridesUiAppearance": false, 
-                "randomizedPlugSetHash": 3047056547, 
-                "hidePerksInItemTooltip": false, 
-                "singleInitialItemHash": 2620835322, 
-                "socketTypeHash": 2130769292, 
-                "defaultVisible": true, 
-                "plugSources": 2
-            }, 
-            {
-                "reusablePlugItems": [], 
-                "preventInitializationOnVendorPurchase": false, 
-                "preventInitializationWhenVersioning": false, 
-                "overridesUiAppearance": false, 
-                "hidePerksInItemTooltip": false, 
-                "singleInitialItemHash": 0, 
-                "socketTypeHash": 0, 
-                "defaultVisible": false, 
-                "plugSources": 1
-            }, 
-            {
-                "reusablePlugItems": [], 
-                "preventInitializationOnVendorPurchase": false, 
-                "preventInitializationWhenVersioning": false, 
-                "overridesUiAppearance": false, 
-                "hidePerksInItemTooltip": false, 
-                "singleInitialItemHash": 0, 
-                "socketTypeHash": 0, 
-                "defaultVisible": false, 
-                "plugSources": 1
-            }, 
-            {
-                "reusablePlugItems": [], 
-                "preventInitializationOnVendorPurchase": false, 
-                "preventInitializationWhenVersioning": false, 
-                "overridesUiAppearance": false, 
-                "hidePerksInItemTooltip": false, 
-                "singleInitialItemHash": 0, 
-                "socketTypeHash": 0, 
-                "defaultVisible": false, 
-                "plugSources": 1
-            }, 
-            {
-                "reusablePlugItems": [], 
-                "preventInitializationOnVendorPurchase": false, 
-                "preventInitializationWhenVersioning": false, 
-                "overridesUiAppearance": false, 
-                "hidePerksInItemTooltip": false, 
-                "singleInitialItemHash": 0, 
-                "socketTypeHash": 0, 
-                "defaultVisible": false, 
-                "plugSources": 1
-            }, 
-            {
-                "reusablePlugItems": [], 
-                "preventInitializationOnVendorPurchase": false, 
-                "preventInitializationWhenVersioning": false, 
-                "overridesUiAppearance": false, 
-                "hidePerksInItemTooltip": false, 
-                "singleInitialItemHash": 951340179, 
-                "socketTypeHash": 1489351422, 
-                "defaultVisible": false, 
-                "plugSources": 1
-            }
-        ], 
-        "socketCategories": [
-            {
-                "socketIndexes": [
-                    0, 
-                    4
-                ], 
-                "socketCategoryHash": 1926152773
-            }, 
-            {
-                "socketIndexes": [
-                    1, 
-                    2, 
-                    5, 
-                    6
-                ], 
-                "socketCategoryHash": 2518356196
-            }, 
-            {
-                "socketIndexes": [
-                    3
-                ], 
-                "socketCategoryHash": 590099826
-            }, 
-            {
-                "socketIndexes": [
-                    11
-                ], 
-                "socketCategoryHash": 3154740035
-            }
-        ], 
-        "detail": "Details", 
-        "intrinsicSockets": [
-            {
-                "socketTypeHash": 1049510759, 
-                "plugItemHash": 2589185654, 
-                "defaultVisible": true
-            }
-        ]
-    }, 
-    "talentGrid": {
-        "talentGridHash": 521135891, 
-        "hudDamageType": 1, 
-        "itemDetailString": "Details"
-    }, 
-    "index": 990, 
-    "stats": {
-        "hasDisplayableStats": true, 
-        "primaryBaseStatHash": 3897883278, 
-        "disablePrimaryStatDisplay": false, 
-        "stats": {
-            "1935470627": {
-                "statHash": 1935470627, 
-                "minimum": 0, 
-                "maximum": 0, 
-                "value": 0, 
-                "displayMaximum": 42
-            }, 
-            "3897883278": {
-                "statHash": 3897883278, 
-                "minimum": 0, 
-                "maximum": 0, 
-                "value": 0, 
-                "displayMaximum": 42
-            }, 
-            "1885944937": {
-                "statHash": 1885944937, 
-                "minimum": 0, 
-                "maximum": 0, 
-                "value": 0, 
-                "displayMaximum": 42
-            }, 
-            "1943323491": {
-                "statHash": 1943323491, 
-                "minimum": 0, 
-                "maximum": 0, 
-                "value": 20, 
-                "displayMaximum": 42
-            }
-        }, 
-        "statGroupHash": 1116828683
-    }, 
-    "equippable": true, 
-    "defaultDamageType": 0, 
-    "summaryItemHash": 715326750, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Exotic", 
-        "bucketTypeHash": 3448274439, 
-        "tierTypeHash": 2759499571, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 6, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "specialItemType": 0, 
-    "preview": {
-        "screenStyle": "screen_style_sockets", 
-        "previewVendorHash": 0, 
-        "previewActionString": ""
-    }, 
-    "loreHash": 2523259392, 
-    "screenshot": "/common/destiny2_content/screenshots/2523259392.jpg", 
-    "itemTypeDisplayName": "Helmet", 
-    "isWrapper": false, 
-    "classType": 2, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/e8afec0dbe1253087cb19242dd626305.jpg", 
-        "hasIcon": true, 
-        "description": "When the universe conspires, its enemies cannot hide.", 
-        "name": "Eye of Another World"
-    }, 
-    "itemSubType": 26, 
-    "allowActions": true, 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": false, 
-    "equippingBlock": {
-        "displayStrings": [
-            ""
-        ], 
-        "equipmentSlotTypeHash": 3448274439, 
-        "ammoType": 0, 
-        "equippingSoundHash": 0, 
-        "hornSoundHash": 0, 
-        "attributes": 0, 
-        "uniqueLabelHash": 761097285, 
-        "uniqueLabel": "exotic_armor"
-    }, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "blacklisted": false, 
-    "acquireUnlockHash": 0, 
-    "displaySource": "", 
-    "traitIds": [
-        "armor_type.head", 
-        "item_type.armor"
-    ], 
-    "perks": [], 
-    "itemCategoryHashes": [
-        21, 
-        45, 
-        20
-    ], 
-    "action": {
-        "progressionRewards": [], 
-        "requiredCooldownHash": 0, 
-        "verbName": "Dismantle", 
-        "deleteOnAction": true, 
-        "requiredItems": [], 
-        "rewardItemHash": 0, 
-        "actionTypeLabel": "shard", 
-        "useOnAcquire": false, 
-        "isPositive": false, 
-        "requiredCooldownSeconds": 0, 
-        "rewardSheetHash": 0, 
-        "verbDescription": "", 
-        "rewardSiteHash": 0, 
-        "consumeEntireStack": false
-    }
+	"displayProperties": {
+		"description": "When the universe conspires, its enemies cannot hide.",
+		"name": "Eye of Another World",
+		"icon": "/common/destiny2_content/icons/e8afec0dbe1253087cb19242dd626305.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"screenshot": "/common/destiny2_content/screenshots/2523259392.jpg",
+	"itemTypeDisplayName": "Helmet",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Exotic Helmet",
+	"displaySource": "",
+	"action": {
+		"verbName": "Dismantle",
+		"verbDescription": "",
+		"isPositive": false,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"actionTypeLabel": "shard",
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 3448274439,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 2759499571,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Exotic",
+		"tierType": 6,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"stats": {
+		"disablePrimaryStatDisplay": false,
+		"statGroupHash": 1116828683,
+		"stats": {
+			"1885944937": {
+				"statHash": 1885944937,
+				"value": 0,
+				"minimum": 0,
+				"maximum": 0,
+				"displayMaximum": 42
+			},
+			"1935470627": {
+				"statHash": 1935470627,
+				"value": 0,
+				"minimum": 0,
+				"maximum": 0,
+				"displayMaximum": 42
+			},
+			"1943323491": {
+				"statHash": 1943323491,
+				"value": 20,
+				"minimum": 0,
+				"maximum": 0,
+				"displayMaximum": 42
+			},
+			"3897883278": {
+				"statHash": 3897883278,
+				"value": 0,
+				"minimum": 0,
+				"maximum": 0,
+				"displayMaximum": 42
+			}
+		},
+		"hasDisplayableStats": true,
+		"primaryBaseStatHash": 3897883278
+	},
+	"equippingBlock": {
+		"uniqueLabel": "exotic_armor",
+		"uniqueLabelHash": 761097285,
+		"equipmentSlotTypeHash": 3448274439,
+		"attributes": 0,
+		"equippingSoundHash": 0,
+		"hornSoundHash": 0,
+		"ammoType": 0,
+		"displayStrings": [
+			""
+		]
+	},
+	"translationBlock": {
+		"weaponPatternHash": 0,
+		"defaultDyes": [
+			{
+				"channelHash": 662199250,
+				"dyeHash": 506995963
+			},
+			{
+				"channelHash": 1367384683,
+				"dyeHash": 476773430
+			},
+			{
+				"channelHash": 218592586,
+				"dyeHash": 2865600973
+			}
+		],
+		"lockedDyes": [],
+		"customDyes": [],
+		"arrangements": [
+			{
+				"classHash": 0,
+				"artArrangementHash": 2523259392
+			}
+		],
+		"hasGeometry": true
+	},
+	"preview": {
+		"screenStyle": "screen_style_sockets",
+		"previewVendorHash": 0,
+		"previewActionString": ""
+	},
+	"quality": {
+		"itemLevels": [],
+		"qualityLevel": 0,
+		"infusionCategoryName": "1046741990",
+		"infusionCategoryHash": 1046741990,
+		"infusionCategoryHashes": [
+			1046741990
+		],
+		"progressionLevelRequirementHash": 2479027085,
+		"currentVersion": 0,
+		"versions": [
+			{
+				"powerCapHash": 2759499571
+			}
+		],
+		"displayVersionWatermarkIcons": [
+			"/common/destiny2_content/icons/0dac2f181f0245cfc64494eccb7db9f7.png"
+		]
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"sockets": {
+		"detail": "Details",
+		"socketEntries": [
+			{
+				"socketTypeHash": 2321980680,
+				"singleInitialItemHash": 4248210736,
+				"reusablePlugItems": [],
+				"preventInitializationOnVendorPurchase": false,
+				"preventInitializationWhenVersioning": false,
+				"hidePerksInItemTooltip": false,
+				"plugSources": 7,
+				"reusablePlugSetHash": 4,
+				"overridesUiAppearance": false,
+				"defaultVisible": true
+			},
+			{
+				"socketTypeHash": 3497077129,
+				"singleInitialItemHash": 3927963100,
+				"reusablePlugItems": [],
+				"preventInitializationOnVendorPurchase": false,
+				"preventInitializationWhenVersioning": false,
+				"hidePerksInItemTooltip": false,
+				"plugSources": 6,
+				"reusablePlugSetHash": 191,
+				"overridesUiAppearance": false,
+				"defaultVisible": true
+			},
+			{
+				"socketTypeHash": 4076485920,
+				"singleInitialItemHash": 1633794450,
+				"reusablePlugItems": [],
+				"preventInitializationOnVendorPurchase": false,
+				"preventInitializationWhenVersioning": false,
+				"hidePerksInItemTooltip": false,
+				"plugSources": 6,
+				"reusablePlugSetHash": 9,
+				"overridesUiAppearance": false,
+				"defaultVisible": true
+			},
+			{
+				"socketTypeHash": 777508926,
+				"singleInitialItemHash": 2600899007,
+				"reusablePlugItems": [],
+				"preventInitializationOnVendorPurchase": true,
+				"preventInitializationWhenVersioning": false,
+				"hidePerksInItemTooltip": false,
+				"plugSources": 1,
+				"overridesUiAppearance": false,
+				"defaultVisible": true
+			},
+			{
+				"socketTypeHash": 3047377067,
+				"singleInitialItemHash": 702981643,
+				"reusablePlugItems": [],
+				"preventInitializationOnVendorPurchase": false,
+				"preventInitializationWhenVersioning": false,
+				"hidePerksInItemTooltip": false,
+				"plugSources": 7,
+				"reusablePlugSetHash": 192,
+				"overridesUiAppearance": false,
+				"defaultVisible": true
+			},
+			{
+				"socketTypeHash": 1255556128,
+				"singleInitialItemHash": 159084247,
+				"reusablePlugItems": [
+					{
+						"plugItemHash": 159084247
+					}
+				],
+				"preventInitializationOnVendorPurchase": false,
+				"preventInitializationWhenVersioning": false,
+				"hidePerksInItemTooltip": false,
+				"plugSources": 2,
+				"randomizedPlugSetHash": 2718803647,
+				"overridesUiAppearance": false,
+				"defaultVisible": true
+			},
+			{
+				"socketTypeHash": 2130769292,
+				"singleInitialItemHash": 2620835322,
+				"reusablePlugItems": [
+					{
+						"plugItemHash": 2620835322
+					}
+				],
+				"preventInitializationOnVendorPurchase": false,
+				"preventInitializationWhenVersioning": false,
+				"hidePerksInItemTooltip": false,
+				"plugSources": 2,
+				"randomizedPlugSetHash": 3047056547,
+				"overridesUiAppearance": false,
+				"defaultVisible": true
+			},
+			{
+				"socketTypeHash": 0,
+				"singleInitialItemHash": 0,
+				"reusablePlugItems": [],
+				"preventInitializationOnVendorPurchase": false,
+				"preventInitializationWhenVersioning": false,
+				"hidePerksInItemTooltip": false,
+				"plugSources": 1,
+				"overridesUiAppearance": false,
+				"defaultVisible": false
+			},
+			{
+				"socketTypeHash": 0,
+				"singleInitialItemHash": 0,
+				"reusablePlugItems": [],
+				"preventInitializationOnVendorPurchase": false,
+				"preventInitializationWhenVersioning": false,
+				"hidePerksInItemTooltip": false,
+				"plugSources": 1,
+				"overridesUiAppearance": false,
+				"defaultVisible": false
+			},
+			{
+				"socketTypeHash": 0,
+				"singleInitialItemHash": 0,
+				"reusablePlugItems": [],
+				"preventInitializationOnVendorPurchase": false,
+				"preventInitializationWhenVersioning": false,
+				"hidePerksInItemTooltip": false,
+				"plugSources": 1,
+				"overridesUiAppearance": false,
+				"defaultVisible": false
+			},
+			{
+				"socketTypeHash": 0,
+				"singleInitialItemHash": 0,
+				"reusablePlugItems": [],
+				"preventInitializationOnVendorPurchase": false,
+				"preventInitializationWhenVersioning": false,
+				"hidePerksInItemTooltip": false,
+				"plugSources": 1,
+				"overridesUiAppearance": false,
+				"defaultVisible": false
+			},
+			{
+				"socketTypeHash": 1489351422,
+				"singleInitialItemHash": 951340179,
+				"reusablePlugItems": [],
+				"preventInitializationOnVendorPurchase": false,
+				"preventInitializationWhenVersioning": false,
+				"hidePerksInItemTooltip": false,
+				"plugSources": 1,
+				"overridesUiAppearance": false,
+				"defaultVisible": false
+			}
+		],
+		"intrinsicSockets": [
+			{
+				"plugItemHash": 2589185654,
+				"socketTypeHash": 1049510759,
+				"defaultVisible": true
+			}
+		],
+		"socketCategories": [
+			{
+				"socketCategoryHash": 1926152773,
+				"socketIndexes": [
+					0,
+					4
+				]
+			},
+			{
+				"socketCategoryHash": 2518356196,
+				"socketIndexes": [
+					1,
+					2,
+					5,
+					6
+				]
+			},
+			{
+				"socketCategoryHash": 590099826,
+				"socketIndexes": [
+					3
+				]
+			},
+			{
+				"socketCategoryHash": 3154740035,
+				"socketIndexes": [
+					11
+				]
+			}
+		]
+	},
+	"talentGrid": {
+		"talentGridHash": 521135891,
+		"itemDetailString": "Details",
+		"hudDamageType": 1
+	},
+	"investmentStats": [
+		{
+			"statTypeHash": 3897883278,
+			"value": 0,
+			"isConditionallyActive": false
+		},
+		{
+			"statTypeHash": 1935470627,
+			"value": 0,
+			"isConditionallyActive": false
+		},
+		{
+			"statTypeHash": 1885944937,
+			"value": 0,
+			"isConditionallyActive": false
+		},
+		{
+			"statTypeHash": 1943323491,
+			"value": 20,
+			"isConditionallyActive": false
+		}
+	],
+	"perks": [],
+	"loreHash": 2523259392,
+	"summaryItemHash": 715326750,
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [
+		21,
+		45,
+		20
+	],
+	"specialItemType": 0,
+	"itemType": 2,
+	"itemSubType": 26,
+	"classType": 2,
+	"breakerType": 0,
+	"equippable": true,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"traitIds": [
+		"armor_type.head",
+		"item_type.armor"
+	],
+	"hash": 2523259392,
+	"index": 1026,
+	"redacted": false,
+	"blacklisted": false
 }

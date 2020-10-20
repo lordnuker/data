@@ -1,0 +1,56 @@
+{
+	"displayProperties": {
+		"description": "Knowledge of the Darkness unlocks the ability to focus Umbral Engrams and choose the rewards within.",
+		"name": "Umbral Focusing",
+		"icon": "/common/destiny2_content/icons/6a71161f514381ab5e302b2e1d64cd4f.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [
+		{
+			"displayString": "Umbral Engram Available for Focusing",
+			"displayStyle": ""
+		}
+	],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Vendor Subscreen",
+	"uiItemDisplayStyle": "ui_display_style_set_container",
+	"itemTypeAndTierDisplayName": "Common Vendor Subscreen",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 3621873013,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 3340296461,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Common",
+		"tierType": 2,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		3109687656
+	],
+	"specialItemType": 0,
+	"itemType": 20,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
+}

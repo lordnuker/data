@@ -1,88 +1,97 @@
 {
-    "itemTypeAndTierDisplayName": "Rare Grenade Launcher", 
-    "damageTypeHashes": [
-        2303181850
-    ], 
-    "itemType": 3, 
-    "tooltipNotifications": [], 
-    "defaultDamageTypeHash": 2303181850, 
-    "quality": {
-        "infusionCategoryHash": 2865487836, 
-        "infusionCategoryHashes": [
-            2865487836
-        ], 
-        "infusionCategoryName": "2865487836", 
-        "progressionLevelRequirementHash": 1749211501, 
-        "qualityLevel": 0, 
-        "itemLevels": []
-    }, 
-    "talentGrid": {
-        "talentGridHash": 521135891, 
-        "hudDamageType": 1, 
-        "itemDetailString": "Details"
-    }, 
-    "allowActions": true, 
-    "defaultDamageType": 2, 
-    "summaryItemHash": 75112946, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Rare", 
-        "bucketTypeHash": 953998645, 
-        "tierTypeHash": 2127292149, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 4, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "equippable": true, 
-    "itemTypeDisplayName": "Grenade Launcher", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 23, 
-    "itemCategoryHashes": [
-        4, 
-        1, 
-        153950757
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": false, 
-    "equippingBlock": {
-        "displayStrings": [
-            ""
-        ], 
-        "equipmentSlotTypeHash": 953998645, 
-        "ammoType": 3, 
-        "equippingSoundHash": 0, 
-        "hornSoundHash": 0, 
-        "attributes": 0, 
-        "uniqueLabelHash": 0
-    }, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "collectibleHash": 2253890572, 
-    "displaySource": "", 
-    "damageTypes": [
-        2
-    ], 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/227713a8d936ac4de6a962bc895a4d8b.jpg", 
-        "hasIcon": true, 
-        "description": "Hang on to your helmets!", 
-        "name": "Stampede Mk.32"
-    }
+	"displayProperties": {
+		"description": "Hang on to your helmets!",
+		"name": "Stampede Mk.32",
+		"icon": "/common/destiny2_content/icons/227713a8d936ac4de6a962bc895a4d8b.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"collectibleHash": 2253890572,
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Grenade Launcher",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Rare Grenade Launcher",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 953998645,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 2127292149,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Rare",
+		"tierType": 4,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"equippingBlock": {
+		"uniqueLabelHash": 0,
+		"equipmentSlotTypeHash": 953998645,
+		"attributes": 0,
+		"equippingSoundHash": 0,
+		"hornSoundHash": 0,
+		"ammoType": 3,
+		"displayStrings": [
+			""
+		]
+	},
+	"quality": {
+		"itemLevels": [],
+		"qualityLevel": 0,
+		"infusionCategoryName": "2865487836",
+		"infusionCategoryHash": 2865487836,
+		"infusionCategoryHashes": [
+			2865487836
+		],
+		"progressionLevelRequirementHash": 1749211501,
+		"currentVersion": 0,
+		"versions": [
+			{
+				"powerCapHash": 2127292149
+			}
+		],
+		"displayVersionWatermarkIcons": [
+			"/common/destiny2_content/icons/0dac2f181f0245cfc64494eccb7db9f7.png"
+		]
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"talentGrid": {
+		"talentGridHash": 521135891,
+		"itemDetailString": "Details",
+		"hudDamageType": 1
+	},
+	"perks": [],
+	"summaryItemHash": 75112946,
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [
+		4,
+		1,
+		153950757
+	],
+	"specialItemType": 0,
+	"itemType": 3,
+	"itemSubType": 23,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": true,
+	"damageTypeHashes": [
+		2303181850
+	],
+	"damageTypes": [
+		2
+	],
+	"defaultDamageType": 2,
+	"defaultDamageTypeHash": 2303181850,
+	"isWrapper": false
 }

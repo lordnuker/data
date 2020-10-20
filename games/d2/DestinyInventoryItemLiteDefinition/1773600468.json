@@ -1,88 +1,97 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Fusion Rifle", 
-    "damageTypeHashes": [
-        2303181850
-    ], 
-    "itemType": 3, 
-    "tooltipNotifications": [], 
-    "defaultDamageTypeHash": 2303181850, 
-    "quality": {
-        "infusionCategoryHash": 2806069436, 
-        "infusionCategoryHashes": [
-            2806069436
-        ], 
-        "infusionCategoryName": "2806069436", 
-        "progressionLevelRequirementHash": 3157915980, 
-        "qualityLevel": 0, 
-        "itemLevels": []
-    }, 
-    "talentGrid": {
-        "talentGridHash": 521135891, 
-        "hudDamageType": 1, 
-        "itemDetailString": "Details"
-    }, 
-    "allowActions": true, 
-    "defaultDamageType": 2, 
-    "summaryItemHash": 3520001075, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 2465295065, 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "equippable": true, 
-    "itemTypeDisplayName": "Fusion Rifle", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 11, 
-    "itemCategoryHashes": [
-        3, 
-        1, 
-        9
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": false, 
-    "equippingBlock": {
-        "displayStrings": [
-            ""
-        ], 
-        "equipmentSlotTypeHash": 2465295065, 
-        "ammoType": 2, 
-        "equippingSoundHash": 0, 
-        "hornSoundHash": 0, 
-        "attributes": 0, 
-        "uniqueLabelHash": 0
-    }, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "collectibleHash": 1184968896, 
-    "displaySource": "", 
-    "damageTypes": [
-        2
-    ], 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/de304d5fdcb941593cca5640014e1850.jpg", 
-        "hasIcon": true, 
-        "description": "A chain reaction of nuclear insolence.", 
-        "name": "Critical Sass"
-    }
+	"displayProperties": {
+		"description": "A chain reaction of nuclear insolence.",
+		"name": "Critical Sass",
+		"icon": "/common/destiny2_content/icons/de304d5fdcb941593cca5640014e1850.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"collectibleHash": 1184968896,
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Fusion Rifle",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Fusion Rifle",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 2465295065,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"equippingBlock": {
+		"uniqueLabelHash": 0,
+		"equipmentSlotTypeHash": 2465295065,
+		"attributes": 0,
+		"equippingSoundHash": 0,
+		"hornSoundHash": 0,
+		"ammoType": 2,
+		"displayStrings": [
+			""
+		]
+	},
+	"quality": {
+		"itemLevels": [],
+		"qualityLevel": 0,
+		"infusionCategoryName": "2806069436",
+		"infusionCategoryHash": 2806069436,
+		"infusionCategoryHashes": [
+			2806069436
+		],
+		"progressionLevelRequirementHash": 3157915980,
+		"currentVersion": 0,
+		"versions": [
+			{
+				"powerCapHash": 1862490583
+			}
+		],
+		"displayVersionWatermarkIcons": [
+			"/common/destiny2_content/icons/0dac2f181f0245cfc64494eccb7db9f7.png"
+		]
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"talentGrid": {
+		"talentGridHash": 521135891,
+		"itemDetailString": "Details",
+		"hudDamageType": 1
+	},
+	"perks": [],
+	"summaryItemHash": 3520001075,
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [
+		3,
+		1,
+		9
+	],
+	"specialItemType": 0,
+	"itemType": 3,
+	"itemSubType": 11,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": true,
+	"damageTypeHashes": [
+		2303181850
+	],
+	"damageTypes": [
+		2
+	],
+	"defaultDamageType": 2,
+	"defaultDamageTypeHash": 2303181850,
+	"isWrapper": false
 }

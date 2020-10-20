@@ -1,26 +1,26 @@
 {
-    "index": 2, 
-    "groupCategoryOnly": false, 
-    "grantDestinyClass": 3, 
-    "blacklisted": false, 
-    "shortTitle": "Energy", 
-    "grantDestinyItemType": 0, 
-    "deprecated": false, 
-    "originBucketIdentifier": "weapon_special", 
-    "redacted": false, 
-    "grantDestinySubType": 0, 
-    "itemTypeRegex": "type_weapon_(?!intrinsic).*", 
-    "parentCategoryHashes": [
-        1
-    ], 
-    "visible": false, 
-    "groupedCategoryHashes": [], 
-    "displayProperties": {
-        "hasIcon": false, 
-        "description": "Weapons that cause Energy damage (Arc, Solar, Void)", 
-        "name": "Energy Weapon"
-    }, 
-    "hash": 3, 
-    "isPlug": false, 
-    "grantDestinyBreakerType": 0
+	"displayProperties": {
+		"description": "Weapons that cause Energy damage (Arc, Solar, Void)",
+		"name": "Energy Weapon",
+		"hasIcon": false
+	},
+	"visible": false,
+	"deprecated": false,
+	"shortTitle": "Energy",
+	"itemTypeRegex": "type_weapon_(?!intrinsic).*",
+	"grantDestinyBreakerType": 0,
+	"originBucketIdentifier": "weapon_special",
+	"grantDestinyItemType": 0,
+	"grantDestinySubType": 0,
+	"grantDestinyClass": 3,
+	"groupedCategoryHashes": [],
+	"isPlug": false,
+	"parentCategoryHashes": [
+		1
+	],
+	"groupCategoryOnly": false,
+	"hash": 3,
+	"index": 2,
+	"redacted": false,
+	"blacklisted": false
 }

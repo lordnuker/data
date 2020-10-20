@@ -1,168 +1,168 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Quest Step", 
-    "nonTransferrable": true, 
-    "investmentStats": [], 
-    "redacted": false, 
-    "secondaryIcon": "/common/destiny2_content/icons/89d1ed1e74f1cefcc78c4bb1939fd832.jpg", 
-    "tooltipNotifications": [], 
-    "itemType": 12, 
-    "index": 14516, 
-    "stats": {
-        "hasDisplayableStats": false, 
-        "primaryBaseStatHash": 0, 
-        "disablePrimaryStatDisplay": false, 
-        "stats": {}
-    }, 
-    "objectives": {
-        "objectiveVerbName": "", 
-        "requireFullObjectiveCompletion": true, 
-        "questTypeIdentifier": "quest_global", 
-        "perObjectiveDisplayProperties": [
-            {
-                "displayOnItemPreviewScreen": false
-            }, 
-            {
-                "displayOnItemPreviewScreen": false
-            }, 
-            {
-                "displayOnItemPreviewScreen": false
-            }
-        ], 
-        "objectiveHashes": [
-            4266915318, 
-            4266915319, 
-            4266915316
-        ], 
-        "displayAsStatTracker": false, 
-        "useOnObjectiveCompletion": false, 
-        "completionRewardSiteHash": 0, 
-        "timestampUnlockValueHash": 0, 
-        "questlineItemHash": 1647306237, 
-        "isGlobalObjectiveItem": false, 
-        "inhibitCompletionUnlockValueHash": 0, 
-        "narrative": "", 
-        "displayActivityHashes": [
-            2166136261, 
-            2166136261, 
-            2166136261
-        ], 
-        "nextQuestStepRewardSiteHash": 0, 
-        "questTypeHash": 3413310557
-    }, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 1345459588, 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "setData": {
-        "trackingUnlockValueHash": 0, 
-        "setIsFeatured": false, 
-        "itemList": [
-            {
-                "itemHash": 1647306237, 
-                "trackingValue": 10
-            }, 
-            {
-                "itemHash": 1553536199, 
-                "trackingValue": 20
-            }
-        ], 
-        "requireOrderedSetItemAdd": true, 
-        "questLineName": "Essence of Greed", 
-        "abandonmentUnlockHash": 0, 
-        "setType": "quest_global"
-    }, 
-    "hash": 1647306237, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Quest Step", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": true, 
-    "action": {
-        "progressionRewards": [], 
-        "requiredCooldownHash": 0, 
-        "verbName": "Abandon", 
-        "deleteOnAction": true, 
-        "requiredItems": [], 
-        "rewardItemHash": 0, 
-        "useOnAcquire": false, 
-        "isPositive": false, 
-        "requiredCooldownSeconds": 0, 
-        "rewardSheetHash": 0, 
-        "verbDescription": "", 
-        "rewardSiteHash": 0, 
-        "consumeEntireStack": false
-    }, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        16
-    ], 
-    "uiItemDisplayStyle": "", 
-    "secondaryOverlay": "/img/misc/missing_icon_d2.png", 
-    "tooltipStyle": "bounty", 
-    "allowActions": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "secondarySpecial": "/img/misc/missing_icon_d2.png", 
-    "blacklisted": false, 
-    "acquireUnlockHash": 0, 
-    "displaySource": "\"Trauma is an unrelenting beast. It never quite leaves our side. But that doesn't mean we owe it a damn thing.\" —Eris Morn", 
-    "traitIds": [
-        "inventory_filtering.quest", 
-        "quest.current_release"
-    ], 
-    "value": {
-        "itemValue": [
-            {
-                "itemHash": 3325778512, 
-                "quantity": 1
-            }, 
-            {
-                "itemHash": 0, 
-                "quantity": 0
-            }, 
-            {
-                "itemHash": 0, 
-                "quantity": 0
-            }, 
-            {
-                "itemHash": 0, 
-                "quantity": 0
-            }, 
-            {
-                "itemHash": 0, 
-                "quantity": 0
-            }, 
-            {
-                "itemHash": 0, 
-                "quantity": 0
-            }
-        ], 
-        "valueDescription": ""
-    }, 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/5a965b794e99cdc9c6ed50b4809e032c.jpg", 
-        "hasIcon": true, 
-        "description": "Cleansing this Essence will grant a piece of gear.\n\nComplete patrols, public events, and Lost Sectors across the Moon, defeat combatants with Machine Guns, and collect Ethereal Charms in the Temple of Crota to cleanse this Essence.", 
-        "name": "Essence of Greed"
-    }
+	"displayProperties": {
+		"description": "Cleansing this Essence will grant a piece of gear.\n\nComplete patrols, public events, and Lost Sectors across the Moon, defeat combatants with Machine Guns, and collect Ethereal Charms in the Temple of Crota to cleanse this Essence.",
+		"name": "Essence of Greed",
+		"icon": "/common/destiny2_content/icons/5a965b794e99cdc9c6ed50b4809e032c.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"secondaryIcon": "/common/destiny2_content/icons/89d1ed1e74f1cefcc78c4bb1939fd832.jpg",
+	"secondaryOverlay": "/img/misc/missing_icon_d2.png",
+	"secondarySpecial": "/img/misc/missing_icon_d2.png",
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Quest Step",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Quest Step",
+	"displaySource": "\"Trauma is an unrelenting beast. It never quite leaves our side. But that doesn't mean we owe it a damn thing.\" —Eris Morn",
+	"tooltipStyle": "bounty",
+	"action": {
+		"verbName": "Abandon",
+		"verbDescription": "",
+		"isPositive": false,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1345459588,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"setData": {
+		"itemList": [
+			{
+				"trackingValue": 10,
+				"itemHash": 1647306237
+			},
+			{
+				"trackingValue": 20,
+				"itemHash": 1553536199
+			}
+		],
+		"trackingUnlockValueHash": 0,
+		"abandonmentUnlockHash": 0,
+		"requireOrderedSetItemAdd": true,
+		"setIsFeatured": false,
+		"setType": "quest_global",
+		"questLineName": "Essence of Greed"
+	},
+	"stats": {
+		"disablePrimaryStatDisplay": false,
+		"stats": {},
+		"hasDisplayableStats": false,
+		"primaryBaseStatHash": 0
+	},
+	"value": {
+		"itemValue": [
+			{
+				"itemHash": 3325778512,
+				"quantity": 1
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			}
+		],
+		"valueDescription": ""
+	},
+	"objectives": {
+		"objectiveHashes": [
+			4266915318,
+			4266915319,
+			4266915316
+		],
+		"displayActivityHashes": [
+			2166136261,
+			2166136261,
+			2166136261
+		],
+		"requireFullObjectiveCompletion": true,
+		"questlineItemHash": 1647306237,
+		"narrative": "",
+		"objectiveVerbName": "",
+		"questTypeIdentifier": "quest_global",
+		"questTypeHash": 3413310557,
+		"completionRewardSiteHash": 0,
+		"nextQuestStepRewardSiteHash": 0,
+		"timestampUnlockValueHash": 0,
+		"isGlobalObjectiveItem": false,
+		"useOnObjectiveCompletion": false,
+		"inhibitCompletionUnlockValueHash": 0,
+		"perObjectiveDisplayProperties": [
+			{
+				"displayOnItemPreviewScreen": false
+			},
+			{
+				"displayOnItemPreviewScreen": false
+			},
+			{
+				"displayOnItemPreviewScreen": false
+			}
+		],
+		"displayAsStatTracker": false
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": true,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		16
+	],
+	"specialItemType": 0,
+	"itemType": 12,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"traitIds": [
+		"inventory_filtering.quest",
+		"quest.current_release"
+	],
+	"hash": 1647306237,
+	"index": 15230,
+	"redacted": false,
+	"blacklisted": false
 }

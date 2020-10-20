@@ -1,20 +1,20 @@
 {
-    "index": 219, 
-    "redacted": false, 
-    "materials": [
-        {
-            "count": 6000, 
-            "deleteOnAction": true, 
-            "itemHash": 3159615086, 
-            "omitFromRequirements": true
-        }, 
-        {
-            "count": 8, 
-            "deleteOnAction": true, 
-            "itemHash": 1022552290, 
-            "omitFromRequirements": true
-        }
-    ], 
-    "hash": 1228020973, 
-    "blacklisted": false
+	"materials": [
+		{
+			"itemHash": 3159615086,
+			"deleteOnAction": true,
+			"count": 6000,
+			"omitFromRequirements": true
+		},
+		{
+			"itemHash": 1022552290,
+			"deleteOnAction": true,
+			"count": 8,
+			"omitFromRequirements": true
+		}
+	],
+	"hash": 1228020973,
+	"index": 219,
+	"redacted": false,
+	"blacklisted": false
 }

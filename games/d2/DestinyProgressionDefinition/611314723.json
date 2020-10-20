@@ -1,45 +1,45 @@
 {
-    "repeatLastStep": true, 
-    "rewardItems": [], 
-    "progressToNextStepScaling": 0, 
-    "currentResetCountUnlockValueHash": 0, 
-    "blacklisted": false, 
-    "index": 60, 
-    "factionHash": 611314723, 
-    "redacted": false, 
-    "storageMappingIndex": 0, 
-    "visible": true, 
-    "steps": [
-        {
-            "displayEffectType": 0, 
-            "stepName": "", 
-            "progressTotal": 2000
-        }, 
-        {
-            "displayEffectType": 0, 
-            "stepName": "", 
-            "progressTotal": 2000
-        }, 
-        {
-            "displayEffectType": 0, 
-            "stepName": "", 
-            "progressTotal": 2000
-        }
-    ], 
-    "BungieNet.Engine.Contract.Destiny.World.Definitions.IDestinyDisplayDefinition.displayProperties": {
-        "icon": "/common/destiny2_content/icons/723b88191f3d20cf38f8eedc3ba2efb2.png", 
-        "hasIcon": true, 
-        "description": "Commander Zavala oversees the Vanguard's tactical operations and conducts regular strikes against the City's enemies.", 
-        "displayUnitsName": "Reputation", 
-        "name": "Vanguard Tactical"
-    }, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/723b88191f3d20cf38f8eedc3ba2efb2.png", 
-        "hasIcon": true, 
-        "description": "Commander Zavala oversees the Vanguard's tactical operations and conducts regular strikes against the City's enemies.", 
-        "displayUnitsName": "Reputation", 
-        "name": "Vanguard Tactical"
-    }, 
-    "scope": 1, 
-    "hash": 611314723
+	"displayProperties": {
+		"displayUnitsName": "Reputation",
+		"description": "Commander Zavala oversees the Vanguard's tactical operations and conducts regular strikes against the City's enemies.",
+		"name": "Vanguard Tactical",
+		"icon": "/common/destiny2_content/icons/723b88191f3d20cf38f8eedc3ba2efb2.png",
+		"hasIcon": true
+	},
+	"BungieNet.Engine.Contract.Destiny.World.Definitions.IDestinyDisplayDefinition.displayProperties": {
+		"displayUnitsName": "Reputation",
+		"description": "Commander Zavala oversees the Vanguard's tactical operations and conducts regular strikes against the City's enemies.",
+		"name": "Vanguard Tactical",
+		"icon": "/common/destiny2_content/icons/723b88191f3d20cf38f8eedc3ba2efb2.png",
+		"hasIcon": true
+	},
+	"scope": 1,
+	"repeatLastStep": true,
+	"steps": [
+		{
+			"stepName": "",
+			"displayEffectType": 0,
+			"progressTotal": 2000
+		},
+		{
+			"stepName": "",
+			"displayEffectType": 0,
+			"progressTotal": 2000
+		},
+		{
+			"stepName": "",
+			"displayEffectType": 0,
+			"progressTotal": 2000
+		}
+	],
+	"visible": true,
+	"factionHash": 611314723,
+	"progressToNextStepScaling": 0,
+	"storageMappingIndex": 0,
+	"currentResetCountUnlockValueHash": 0,
+	"rewardItems": [],
+	"hash": 611314723,
+	"index": 62,
+	"redacted": false,
+	"blacklisted": false
 }

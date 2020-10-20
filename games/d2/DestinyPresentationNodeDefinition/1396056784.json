@@ -1,57 +1,57 @@
 {
-    "index": 638, 
-    "traitHashes": [], 
-    "nodeType": 1, 
-    "blacklisted": false, 
-    "originalIcon": "/common/destiny2_content/icons/e5407f9a0e840684897ca30bab3a76e3.png", 
-    "presentationNodeType": 1, 
-    "redacted": false, 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "objectiveHash": 4225013950, 
-    "parentNodeHashes": [
-        1024788583
-    ], 
-    "displayStyle": 0, 
-    "rootViewIcon": "/img/destiny_content/also_triumphs/categories/category_vanguard.png", 
-    "screenStyle": 0, 
-    "traitIds": [], 
-    "disableChildSubscreenNavigation": false, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/e5407f9a0e840684897ca30bab3a76e3.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/daaf1cff7adf6e9610ec788ee133cebe.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/DestinyPresentationNodeDefinition_f45a98686356e678499ee79cef5e8e02.png", 
-        "hasIcon": true, 
-        "description": "", 
-        "name": "Vanguard"
-    }, 
-    "scope": 0, 
-    "children": {
-        "metrics": [], 
-        "collectibles": [], 
-        "presentationNodes": [
-            {
-                "presentationNodeHash": 4043596879
-            }, 
-            {
-                "presentationNodeHash": 1916634524
-            }, 
-            {
-                "presentationNodeHash": 2975760062
-            }
-        ], 
-        "records": []
-    }, 
-    "hash": 1396056784
+	"displayProperties": {
+		"description": "",
+		"name": "Vanguard",
+		"icon": "/common/destiny2_content/icons/DestinyPresentationNodeDefinition_f45a98686356e678499ee79cef5e8e02.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/e5407f9a0e840684897ca30bab3a76e3.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/daaf1cff7adf6e9610ec788ee133cebe.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"originalIcon": "/common/destiny2_content/icons/e5407f9a0e840684897ca30bab3a76e3.png",
+	"rootViewIcon": "/img/destiny_content/also_triumphs/categories/category_vanguard.png",
+	"nodeType": 1,
+	"scope": 0,
+	"objectiveHash": 4225013950,
+	"children": {
+		"presentationNodes": [
+			{
+				"presentationNodeHash": 4043596879
+			},
+			{
+				"presentationNodeHash": 1916634524
+			},
+			{
+				"presentationNodeHash": 2975760062
+			}
+		],
+		"collectibles": [],
+		"records": [],
+		"metrics": []
+	},
+	"displayStyle": 0,
+	"screenStyle": 0,
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"disableChildSubscreenNavigation": false,
+	"presentationNodeType": 1,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		1024788583
+	],
+	"hash": 1396056784,
+	"index": 716,
+	"redacted": false,
+	"blacklisted": false
 }

@@ -1,57 +1,57 @@
 {
-    "index": 467, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 1, 
-        "intervalObjectives": [
-            {
-                "intervalScoreValue": 50, 
-                "intervalObjectiveHash": 1973999536
-            }, 
-            {
-                "intervalScoreValue": 100, 
-                "intervalObjectiveHash": 1973999538
-            }
-        ], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [], 
-    "parentNodeHashes": [
-        3570368582
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/0b72b80beb21a8108272dc2edd0ad45c.png", 
-        "hasIcon": true, 
-        "description": "Complete all 7 levels of Escalation Protocol.", 
-        "name": "Escalation Expert"
-    }, 
-    "scope": 0, 
-    "hash": 3350489579
+	"displayProperties": {
+		"description": "Complete all 7 levels of Escalation Protocol.",
+		"name": "Escalation Expert",
+		"icon": "/common/destiny2_content/icons/0b72b80beb21a8108272dc2edd0ad45c.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [
+			{
+				"intervalObjectiveHash": 1973999536,
+				"intervalScoreValue": 50
+			},
+			{
+				"intervalObjectiveHash": 1973999538,
+				"intervalScoreValue": 100
+			}
+		],
+		"originalObjectiveArrayInsertionIndex": 1,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		3570368582
+	],
+	"hash": 3350489579,
+	"index": 478,
+	"redacted": false,
+	"blacklisted": false
 }

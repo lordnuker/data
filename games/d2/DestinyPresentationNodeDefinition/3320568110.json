@@ -1,48 +1,48 @@
 {
-    "index": 10, 
-    "traitHashes": [], 
-    "nodeType": 2, 
-    "blacklisted": false, 
-    "presentationNodeType": 1, 
-    "redacted": false, 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "objectiveHash": 1710399044, 
-    "parentNodeHashes": [
-        4107748167
-    ], 
-    "displayStyle": 0, 
-    "screenStyle": 0, 
-    "traitIds": [], 
-    "disableChildSubscreenNavigation": false, 
-    "displayProperties": {
-        "hasIcon": false, 
-        "description": "", 
-        "name": "Named Lords' Ornaments"
-    }, 
-    "scope": 0, 
-    "children": {
-        "metrics": [], 
-        "collectibles": [
-            {
-                "collectibleHash": 2443923226
-            }, 
-            {
-                "collectibleHash": 2206032677
-            }, 
-            {
-                "collectibleHash": 2948921059
-            }, 
-            {
-                "collectibleHash": 23192859
-            }, 
-            {
-                "collectibleHash": 3983585308
-            }
-        ], 
-        "presentationNodes": [], 
-        "records": []
-    }, 
-    "hash": 3320568110
+	"displayProperties": {
+		"description": "",
+		"name": "Named Lords' Ornaments",
+		"hasIcon": false
+	},
+	"nodeType": 2,
+	"scope": 0,
+	"objectiveHash": 1710399044,
+	"children": {
+		"presentationNodes": [],
+		"collectibles": [
+			{
+				"collectibleHash": 2443923226
+			},
+			{
+				"collectibleHash": 2206032677
+			},
+			{
+				"collectibleHash": 2948921059
+			},
+			{
+				"collectibleHash": 23192859
+			},
+			{
+				"collectibleHash": 3983585308
+			}
+		],
+		"records": [],
+		"metrics": []
+	},
+	"displayStyle": 0,
+	"screenStyle": 0,
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"disableChildSubscreenNavigation": false,
+	"presentationNodeType": 1,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		4107748167
+	],
+	"hash": 3320568110,
+	"index": 10,
+	"redacted": false,
+	"blacklisted": false
 }

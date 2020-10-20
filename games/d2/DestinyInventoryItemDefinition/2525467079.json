@@ -1,79 +1,79 @@
 {
-    "itemTypeAndTierDisplayName": "", 
-    "itemType": 19, 
-    "investmentStats": [], 
-    "redacted": false, 
-    "tooltipNotifications": [], 
-    "index": 184, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Common", 
-        "bucketTypeHash": 2422292810, 
-        "tierTypeHash": 3340296461, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 2, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "hash": 2525467079, 
-    "equippable": false, 
-    "itemTypeDisplayName": "", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        59
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": true, 
-    "tooltipStyle": "vendor_action", 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "plug": {
-        "insertionMaterialRequirementHash": 0, 
-        "actionRewardSiteHash": 0, 
-        "enabledMaterialRequirementHash": 0, 
-        "previewItemOverrideHash": 0, 
-        "insertionRules": [
-            {
-                "failureMessage": "Requires All Recipes Discovered"
-            }
-        ], 
-        "enabledRules": [], 
-        "plugCategoryHash": 2791193194, 
-        "plugCategoryIdentifier": "events.dawning.oven.masterworked", 
-        "onActionRecreateSelf": false, 
-        "plugStyle": 1, 
-        "isDummyPlug": false, 
-        "actionRewardItemOverrideHash": 0, 
-        "uiPlugLabel": "masterwork", 
-        "alternatePlugStyle": 0, 
-        "alternateUiPlugLabel": "", 
-        "plugAvailability": 0
-    }, 
-    "blacklisted": false, 
-    "displaySource": "", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/e39cc2533c922e4e44ac680f4b8e8201.jpg", 
-        "hasIcon": true, 
-        "description": "Eva's Holiday Oven has unlocked its true potential, reducing the Essence of Dawning cost for all recipes.", 
-        "name": "Masterworked Holiday Oven"
-    }
+	"displayProperties": {
+		"description": "Eva's Holiday Oven has unlocked its true potential, reducing the Essence of Dawning cost for all recipes.",
+		"name": "Masterworked Holiday Oven",
+		"icon": "/common/destiny2_content/icons/e39cc2533c922e4e44ac680f4b8e8201.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "",
+	"displaySource": "",
+	"tooltipStyle": "vendor_action",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 2422292810,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 3340296461,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Common",
+		"tierType": 2,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"plug": {
+		"insertionRules": [
+			{
+				"failureMessage": "Requires All Recipes Discovered"
+			}
+		],
+		"plugCategoryIdentifier": "events.dawning.oven.masterworked",
+		"plugCategoryHash": 2791193194,
+		"onActionRecreateSelf": false,
+		"actionRewardSiteHash": 0,
+		"actionRewardItemOverrideHash": 0,
+		"insertionMaterialRequirementHash": 0,
+		"previewItemOverrideHash": 0,
+		"enabledMaterialRequirementHash": 0,
+		"enabledRules": [],
+		"uiPlugLabel": "masterwork",
+		"plugStyle": 1,
+		"plugAvailability": 0,
+		"alternateUiPlugLabel": "",
+		"alternatePlugStyle": 0,
+		"isDummyPlug": false
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		59
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"hash": 2525467079,
+	"index": 177,
+	"redacted": false,
+	"blacklisted": false
 }

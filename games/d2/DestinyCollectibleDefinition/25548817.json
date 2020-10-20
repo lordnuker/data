@@ -1,16 +1,31 @@
 {
-    "index": 3358, 
-    "hash": 25548817, 
-    "blacklisted": false, 
-    "presentationNodeType": 0, 
-    "redacted": true, 
-    "displayProperties": {
-        "icon": "/img/misc/missing_icon_d2.png", 
-        "hasIcon": false, 
-        "description": "Keep it secret.  Keep it safe.", 
-        "highResIcon": "/img/misc/missing_icon_d2.png", 
-        "name": "Classified"
-    }, 
-    "scope": 0, 
-    "itemHash": 0
+	"displayProperties": {
+		"description": "Equip this shader to change the color of your gear.",
+		"name": "Rivalry Resolute",
+		"icon": "/common/destiny2_content/icons/ff5b853aa9e4e9fc1d9a9e2063cb4c81.jpg",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"sourceString": "Source: Earned during the Guardian Games event.",
+	"sourceHash": 3388021959,
+	"itemHash": 2213649831,
+	"acquisitionInfo": {
+		"acquireMaterialRequirementHash": 1921496923,
+		"runOnlyAcquisitionRewardSite": false
+	},
+	"stateInfo": {
+		"requirements": {
+			"entitlementUnavailableMessage": ""
+		}
+	},
+	"presentationNodeType": 1,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		2063273188
+	],
+	"hash": 25548817,
+	"index": 3688,
+	"redacted": false,
+	"blacklisted": false
 }

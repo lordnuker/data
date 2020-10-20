@@ -1,39 +1,39 @@
 {
-    "index": 650, 
-    "hash": 1540673283, 
-    "blacklisted": false, 
-    "avoidDuplicatesOnInitialization": false, 
-    "insertAction": {
-        "actionSoundHash": 0, 
-        "isPositiveAction": false, 
-        "actionType": 0, 
-        "actionExecuteSeconds": 1
-    }, 
-    "plugWhitelist": [
-        {
-            "categoryIdentifier": "enhancements.season_outlaw", 
-            "categoryHash": 13646368
-        }, 
-        {
-            "categoryIdentifier": "enhancements.rivens_curse", 
-            "categoryHash": 2149155760
-        }, 
-        {
-            "categoryIdentifier": "enhancements.season_forge", 
-            "categoryHash": 65589297
-        }
-    ], 
-    "currencyScalars": [], 
-    "redacted": false, 
-    "visibility": 0, 
-    "isPreviewEnabled": false, 
-    "alwaysRandomizeSockets": false, 
-    "overridesUiAppearance": false, 
-    "displayProperties": {
-        "hasIcon": false, 
-        "description": "", 
-        "name": ""
-    }, 
-    "socketCategoryHash": 590099826, 
-    "hideDuplicateReusablePlugs": true
+	"displayProperties": {
+		"description": "",
+		"name": "",
+		"hasIcon": false
+	},
+	"insertAction": {
+		"actionExecuteSeconds": 1,
+		"actionSoundHash": 0,
+		"isPositiveAction": false,
+		"actionType": 0
+	},
+	"plugWhitelist": [
+		{
+			"categoryHash": 13646368,
+			"categoryIdentifier": "enhancements.season_outlaw"
+		},
+		{
+			"categoryHash": 2149155760,
+			"categoryIdentifier": "enhancements.rivens_curse"
+		},
+		{
+			"categoryHash": 65589297,
+			"categoryIdentifier": "enhancements.season_forge"
+		}
+	],
+	"socketCategoryHash": 590099826,
+	"visibility": 0,
+	"alwaysRandomizeSockets": false,
+	"isPreviewEnabled": false,
+	"hideDuplicateReusablePlugs": true,
+	"overridesUiAppearance": false,
+	"avoidDuplicatesOnInitialization": false,
+	"currencyScalars": [],
+	"hash": 1540673283,
+	"index": 650,
+	"redacted": false,
+	"blacklisted": false
 }

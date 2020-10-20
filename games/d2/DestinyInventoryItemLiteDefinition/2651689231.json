@@ -1,0 +1,98 @@
+{
+	"displayProperties": {
+		"description": "Defeat opponents using Sidearms and Auto Rifles. Precision kills grant the most efficient progress.",
+		"name": "Old Reliables",
+		"icon": "/common/destiny2_content/icons/aba9b5691adbdd8e00a22db54b0812b3.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Quest Step",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Quest Step",
+	"displaySource": "\"Mid- and close-range exercises today, Guardians. Learn to fight with Light and weapon in tandem, or spend your time in the mud.\" —Lord Saladin",
+	"setData": {
+		"itemList": [
+			{
+				"trackingValue": 100,
+				"itemHash": 2651689231
+			},
+			{
+				"trackingValue": 200,
+				"itemHash": 738599476
+			}
+		],
+		"trackingUnlockValueHash": 0,
+		"abandonmentUnlockHash": 0,
+		"requireOrderedSetItemAdd": true,
+		"setIsFeatured": false,
+		"setType": "quest_global",
+		"questLineName": "Red-Hot Iron"
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1345459588,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"value": {
+		"itemValue": [
+			{
+				"itemHash": 1690783811,
+				"quantity": 0
+			},
+			{
+				"itemHash": 65611680,
+				"quantity": 0
+			},
+			{
+				"itemHash": 3176983014,
+				"quantity": 5
+			},
+			{
+				"itemHash": 1138508272,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			}
+		],
+		"valueDescription": ""
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": true,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		16
+	],
+	"specialItemType": 0,
+	"itemType": 12,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
+}

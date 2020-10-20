@@ -1,83 +1,83 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Quest Step", 
-    "nonTransferrable": true, 
-    "tooltipNotifications": [], 
-    "itemType": 12, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 1345459588, 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Quest Step", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": true, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        16
-    ], 
-    "uiItemDisplayStyle": "", 
-    "secondaryOverlay": "/img/misc/missing_icon_d2.png", 
-    "secondaryIcon": "/common/destiny2_content/icons/0a599ca6fad56a014f14475b73a6a1d8.jpg", 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "secondarySpecial": "/img/misc/missing_icon_d2.png", 
-    "displaySource": "\"We've been through a lot over the last while, Guardian, and I know that Ikora and I have not… comported ourselves… as some of you may have wished. We will do better. We will be better. As long as there are Guardians like you who are proud to serve in our ranks, as long as the City still stands… we have something to fight for. Together.\" —Commander Zavala", 
-    "value": {
-        "itemValue": [
-            {
-                "itemHash": 3907337522, 
-                "quantity": 0
-            }, 
-            {
-                "itemHash": 0, 
-                "quantity": 0
-            }, 
-            {
-                "itemHash": 0, 
-                "quantity": 0
-            }, 
-            {
-                "itemHash": 0, 
-                "quantity": 0
-            }, 
-            {
-                "itemHash": 0, 
-                "quantity": 0
-            }, 
-            {
-                "itemHash": 0, 
-                "quantity": 0
-            }
-        ], 
-        "valueDescription": ""
-    }, 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/62627e35ffac688def3069fedb6e177d.jpg", 
-        "hasIcon": true, 
-        "description": "Return to Zavala to claim your Oxygen SR3.", 
-        "name": "Redeployment"
-    }
+	"displayProperties": {
+		"description": "Return to Zavala to claim your Oxygen SR3.",
+		"name": "Redeployment",
+		"icon": "/common/destiny2_content/icons/62627e35ffac688def3069fedb6e177d.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"secondaryIcon": "/common/destiny2_content/icons/0a599ca6fad56a014f14475b73a6a1d8.jpg",
+	"secondaryOverlay": "/img/misc/missing_icon_d2.png",
+	"secondarySpecial": "/img/misc/missing_icon_d2.png",
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Quest Step",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Quest Step",
+	"displaySource": "\"We've been through a lot over the last while, Guardian, and I know that Ikora and I have not… comported ourselves… as some of you may have wished. We will do better. We will be better. As long as there are Guardians like you who are proud to serve in our ranks, as long as the City still stands… we have something to fight for. Together.\" —Commander Zavala",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1345459588,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"value": {
+		"itemValue": [
+			{
+				"itemHash": 3907337522,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			}
+		],
+		"valueDescription": ""
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": true,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		16
+	],
+	"specialItemType": 0,
+	"itemType": 12,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

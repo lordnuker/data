@@ -1,51 +1,51 @@
 {
-    "index": 290, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 1, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        681553759, 
-        3829149640
-    ], 
-    "parentNodeHashes": [
-        4145555894
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 100, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/44c851a53be2f7666ae847e6d3917374.png", 
-        "hasIcon": true, 
-        "description": "Defeat enemies using the Huckleberry.", 
-        "name": "Huckleberry Catalyst"
-    }, 
-    "scope": 0, 
-    "hash": 1962727403
+	"displayProperties": {
+		"description": "Defeat enemies using the Huckleberry.",
+		"name": "Huckleberry Catalyst",
+		"icon": "/common/destiny2_content/icons/44c851a53be2f7666ae847e6d3917374.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		681553759,
+		3829149640
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 100,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 1,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		4145555894
+	],
+	"hash": 1962727403,
+	"index": 291,
+	"redacted": false,
+	"blacklisted": false
 }

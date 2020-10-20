@@ -1,0 +1,72 @@
+{
+	"displayProperties": {
+		"description": "Projectiles fired by this weapon blight the target or nearby area on impact.",
+		"name": "Primeval's Torment",
+		"icon": "/common/destiny2_content/icons/6b50f19247b53a0af19620a9dc110dde.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/6b50f19247b53a0af19620a9dc110dde.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/deea7f5996b718b1e048d3bd6697a307.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Intrinsic",
+	"uiItemDisplayStyle": "ui_display_style_intrinsic_plug",
+	"itemTypeAndTierDisplayName": "Common Intrinsic",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1469714392,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 3340296461,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Common",
+		"tierType": 2,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [
+		{
+			"requirementDisplayString": "",
+			"perkHash": 3652733828,
+			"perkVisibility": 0
+		}
+	],
+	"summaryItemHash": 3520001075,
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		59,
+		2237038328,
+		610365472
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
+}

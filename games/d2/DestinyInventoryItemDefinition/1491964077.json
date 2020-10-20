@@ -1,0 +1,147 @@
+{
+	"displayProperties": {
+		"description": "Return to Eva in the Tower to earn powerful rewards.",
+		"name": "Making the Cut",
+		"icon": "/common/destiny2_content/icons/3ced9acee3e24b777f57c95c07efa0f2.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/3ced9acee3e24b777f57c95c07efa0f2.png",
+					"/common/destiny2_content/icons/3ced9acee3e24b777f57c95c07efa0f2.png",
+					"/common/destiny2_content/icons/96432d6c3c85f15be88869078fc7a9bd.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"secondaryIcon": "/common/destiny2_content/icons/8aa2ee77cafe0aa1bdd1cd2202daf12a.jpg",
+	"secondaryOverlay": "/img/misc/missing_icon_d2.png",
+	"secondarySpecial": "/img/misc/missing_icon_d2.png",
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Quest Step",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Quest Step",
+	"displaySource": "",
+	"tooltipStyle": "build",
+	"action": {
+		"verbName": "Abandon",
+		"verbDescription": "",
+		"isPositive": false,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1801258597,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 0,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierType": 0,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"stats": {
+		"disablePrimaryStatDisplay": false,
+		"stats": {},
+		"hasDisplayableStats": false,
+		"primaryBaseStatHash": 0
+	},
+	"value": {
+		"itemValue": [
+			{
+				"itemHash": 73143230,
+				"quantity": 1
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			}
+		],
+		"valueDescription": ""
+	},
+	"objectives": {
+		"objectiveHashes": [
+			1870425638
+		],
+		"displayActivityHashes": [
+			2166136261
+		],
+		"requireFullObjectiveCompletion": true,
+		"questlineItemHash": 2019519386,
+		"narrative": "",
+		"objectiveVerbName": "Complete",
+		"questTypeIdentifier": "challenge",
+		"questTypeHash": 1189762416,
+		"completionRewardSiteHash": 0,
+		"nextQuestStepRewardSiteHash": 0,
+		"timestampUnlockValueHash": 0,
+		"isGlobalObjectiveItem": false,
+		"useOnObjectiveCompletion": false,
+		"inhibitCompletionUnlockValueHash": 0,
+		"perObjectiveDisplayProperties": [
+			{
+				"displayOnItemPreviewScreen": false
+			}
+		],
+		"displayAsStatTracker": false
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": true,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		16
+	],
+	"specialItemType": 0,
+	"itemType": 12,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"traitIds": [
+		"inventory_filtering.quest"
+	],
+	"hash": 1491964077,
+	"index": 13512,
+	"redacted": false,
+	"blacklisted": false
+}

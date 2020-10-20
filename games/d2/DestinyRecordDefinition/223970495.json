@@ -1,55 +1,55 @@
 {
-    "index": 1399, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        1270441820
-    ], 
-    "parentNodeHashes": [
-        4213993861
-    ], 
-    "expirationInfo": {
-        "hasExpiration": true, 
-        "description": "Available only during Season of the Forge."
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [
-        {
-            "itemHash": 912222548, 
-            "quantity": 1
-        }
-    ], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/a72e5ce5c66e21f34a420271a30d7ec3.png", 
-        "hasIcon": true, 
-        "description": "Complete Nightfall strikes in Season 5.", 
-        "name": "Season 5: Nightfall"
-    }, 
-    "scope": 0, 
-    "hash": 223970495
+	"displayProperties": {
+		"description": "Complete Nightfall strikes in Season 5.",
+		"name": "Season 5: Nightfall",
+		"icon": "/common/destiny2_content/icons/a72e5ce5c66e21f34a420271a30d7ec3.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		1270441820
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": true,
+		"description": "Available only during Season of the Forge."
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [
+		{
+			"itemHash": 912222548,
+			"quantity": 1
+		}
+	],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		4213993861
+	],
+	"hash": 223970495,
+	"index": 1411,
+	"redacted": false,
+	"blacklisted": false
 }

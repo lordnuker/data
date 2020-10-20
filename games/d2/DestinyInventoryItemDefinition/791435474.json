@@ -1,104 +1,104 @@
 {
-    "itemTypeAndTierDisplayName": "Common Opulent Armor Mod", 
-    "itemType": 19, 
-    "investmentStats": [], 
-    "redacted": false, 
-    "tooltipNotifications": [], 
-    "index": 7764, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Common", 
-        "bucketTypeHash": 3313201758, 
-        "tierTypeHash": 3340296461, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1000, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 2, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "hash": 791435474, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Opulent Armor Mod", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "action": {
-        "progressionRewards": [], 
-        "requiredCooldownHash": 0, 
-        "verbName": "Dismantle", 
-        "deleteOnAction": true, 
-        "requiredItems": [], 
-        "rewardItemHash": 0, 
-        "actionTypeLabel": "shard", 
-        "useOnAcquire": false, 
-        "isPositive": false, 
-        "requiredCooldownSeconds": 0, 
-        "rewardSheetHash": 0, 
-        "verbDescription": "", 
-        "rewardSiteHash": 0, 
-        "consumeEntireStack": false
-    }, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        59, 
-        4104513227
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": false, 
-    "tooltipStyle": "vendor_action", 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "plug": {
-        "insertionMaterialRequirementHash": 0, 
-        "actionRewardSiteHash": 0, 
-        "enabledMaterialRequirementHash": 0, 
-        "previewItemOverrideHash": 0, 
-        "insertionRules": [], 
-        "enabledRules": [], 
-        "plugCategoryHash": 1202876185, 
-        "plugCategoryIdentifier": "enhancements.activity", 
-        "onActionRecreateSelf": false, 
-        "plugStyle": 0, 
-        "isDummyPlug": false, 
-        "actionRewardItemOverrideHash": 0, 
-        "uiPlugLabel": "", 
-        "alternatePlugStyle": 0, 
-        "alternateUiPlugLabel": "", 
-        "plugAvailability": 0
-    }, 
-    "blacklisted": false, 
-    "acquireUnlockHash": 0, 
-    "displaySource": "", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/682225bee3cc30b9c321f36a0176366f.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/db05674179efc4bb0288d3bd894eafe3.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/682225bee3cc30b9c321f36a0176366f.png", 
-        "hasIcon": true, 
-        "description": "No activity mod currently selected", 
-        "name": "Empty Activity Mod Socket"
-    }
+	"displayProperties": {
+		"description": "No activity mod currently selected",
+		"name": "Empty Activity Mod Socket",
+		"icon": "/common/destiny2_content/icons/682225bee3cc30b9c321f36a0176366f.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/682225bee3cc30b9c321f36a0176366f.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/db05674179efc4bb0288d3bd894eafe3.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Opulent Armor Mod",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Common Opulent Armor Mod",
+	"displaySource": "",
+	"tooltipStyle": "vendor_action",
+	"action": {
+		"verbName": "Dismantle",
+		"verbDescription": "",
+		"isPositive": false,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"actionTypeLabel": "shard",
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"maxStackSize": 1000,
+		"bucketTypeHash": 3313201758,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 3340296461,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Common",
+		"tierType": 2,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"plug": {
+		"insertionRules": [],
+		"plugCategoryIdentifier": "enhancements.activity",
+		"plugCategoryHash": 1202876185,
+		"onActionRecreateSelf": false,
+		"actionRewardSiteHash": 0,
+		"actionRewardItemOverrideHash": 0,
+		"insertionMaterialRequirementHash": 0,
+		"previewItemOverrideHash": 0,
+		"enabledMaterialRequirementHash": 0,
+		"enabledRules": [],
+		"uiPlugLabel": "",
+		"plugStyle": 0,
+		"plugAvailability": 0,
+		"alternateUiPlugLabel": "",
+		"alternatePlugStyle": 0,
+		"isDummyPlug": false
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [
+		59,
+		4104513227
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"hash": 791435474,
+	"index": 7800,
+	"redacted": false,
+	"blacklisted": false
 }

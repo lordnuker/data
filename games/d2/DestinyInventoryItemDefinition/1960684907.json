@@ -1,0 +1,147 @@
+{
+	"displayProperties": {
+		"description": "Complete the mission \"Interference\" on Io.",
+		"name": "Gift",
+		"icon": "/common/destiny2_content/icons/0f2e402cf487150a61b13a77d7298dd3.jpg",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/0f2e402cf487150a61b13a77d7298dd3.jpg",
+					"/common/destiny2_content/icons/dbf893704df0cb85d3e9b288b6c6c11e.png",
+					"/common/destiny2_content/icons/cdcbb1e51c4329ae465b03a43d45ac8c.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [
+		{
+			"displayString": "Expires at the end of Season of Arrivals",
+			"displayStyle": ""
+		}
+	],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Quest Step",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Exotic Quest Step",
+	"displaySource": "\"Savathûn will not hesitate to disrupt our progress. I call upon your strength once again, Guardian. Lay waste to Savathûn's forces in the Cradle and open the way.\" —Transmission from Eris Morn",
+	"tooltipStyle": "bounty",
+	"action": {
+		"verbName": "Abandon",
+		"verbDescription": "",
+		"isPositive": false,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1345459588,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 2759499571,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Exotic",
+		"tierType": 6,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"setData": {
+		"itemList": [
+			{
+				"trackingValue": 25,
+				"itemHash": 3054310538
+			},
+			{
+				"trackingValue": 50,
+				"itemHash": 1960684907
+			},
+			{
+				"trackingValue": 100,
+				"itemHash": 1960684906
+			},
+			{
+				"trackingValue": 200,
+				"itemHash": 1960684905
+			},
+			{
+				"trackingValue": 300,
+				"itemHash": 1960684904
+			}
+		],
+		"trackingUnlockValueHash": 0,
+		"abandonmentUnlockHash": 0,
+		"requireOrderedSetItemAdd": true,
+		"setIsFeatured": false,
+		"setType": "quest_global",
+		"questLineName": "Growth"
+	},
+	"objectives": {
+		"objectiveHashes": [
+			1623486000
+		],
+		"displayActivityHashes": [
+			2166136261
+		],
+		"requireFullObjectiveCompletion": true,
+		"questlineItemHash": 1960684907,
+		"narrative": "",
+		"objectiveVerbName": "",
+		"questTypeIdentifier": "quest_global",
+		"questTypeHash": 3413310557,
+		"completionRewardSiteHash": 0,
+		"nextQuestStepRewardSiteHash": 0,
+		"timestampUnlockValueHash": 0,
+		"isGlobalObjectiveItem": false,
+		"useOnObjectiveCompletion": false,
+		"inhibitCompletionUnlockValueHash": 0,
+		"perObjectiveDisplayProperties": [
+			{
+				"displayOnItemPreviewScreen": false
+			}
+		],
+		"displayAsStatTracker": false
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": true,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		16
+	],
+	"specialItemType": 0,
+	"itemType": 12,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"traitIds": [
+		"inventory_filtering.quest",
+		"quest.exotic",
+		"quest.seasonal"
+	],
+	"hash": 1960684907,
+	"index": 15348,
+	"redacted": false,
+	"blacklisted": false
+}

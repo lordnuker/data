@@ -1,50 +1,50 @@
 {
-    "index": 960, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        400477281
-    ], 
-    "parentNodeHashes": [
-        1186584469
-    ], 
-    "expirationInfo": {
-        "hasExpiration": true, 
-        "description": "Available only during Season of the Forge."
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/099ab412d11b5c5a812e5cc5be5ee282.png", 
-        "hasIcon": true, 
-        "description": "Earn Iron Banner packages in Season 5.", 
-        "name": "Season 5: Iron Banner"
-    }, 
-    "scope": 0, 
-    "hash": 3807924444
+	"displayProperties": {
+		"description": "Earn Iron Banner packages in Season 5.",
+		"name": "Season 5: Iron Banner",
+		"icon": "/common/destiny2_content/icons/099ab412d11b5c5a812e5cc5be5ee282.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		400477281
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": true,
+		"description": "Available only during Season of the Forge."
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		1186584469
+	],
+	"hash": 3807924444,
+	"index": 972,
+	"redacted": false,
+	"blacklisted": false
 }

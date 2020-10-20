@@ -1,59 +1,59 @@
 {
-    "index": 181, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 1, 
-        "intervalObjectives": [
-            {
-                "intervalScoreValue": 40, 
-                "intervalObjectiveHash": 1461995284
-            }, 
-            {
-                "intervalScoreValue": 60, 
-                "intervalObjectiveHash": 3295330788
-            }
-        ], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 1, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        3295330788
-    ], 
-    "parentNodeHashes": [
-        3252380766
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/cc60c3c2ac4e86927f9d4302a15d30bf.png", 
-        "hasIcon": true, 
-        "description": "Complete Heroic public events on Titan.", 
-        "name": "Heroic Public Events"
-    }, 
-    "scope": 0, 
-    "hash": 2427757122
+	"displayProperties": {
+		"description": "Complete Heroic public events on Titan.",
+		"name": "Heroic Public Events",
+		"icon": "/common/destiny2_content/icons/cc60c3c2ac4e86927f9d4302a15d30bf.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		3295330788
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [
+			{
+				"intervalObjectiveHash": 1461995284,
+				"intervalScoreValue": 40
+			},
+			{
+				"intervalObjectiveHash": 3295330788,
+				"intervalScoreValue": 60
+			}
+		],
+		"originalObjectiveArrayInsertionIndex": 1,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 1,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		3252380766
+	],
+	"hash": 2427757122,
+	"index": 181,
+	"redacted": false,
+	"blacklisted": false
 }

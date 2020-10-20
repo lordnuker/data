@@ -1,0 +1,131 @@
+{
+	"displayProperties": {
+		"description": "Equip this ornament to change the appearance of Celestial Nighthawk. Once you get an ornament, it's unlocked for all characters on your account.",
+		"name": "Hrafnagud",
+		"icon": "/common/destiny2_content/icons/9d21c9dc5e1be0b5b6233c5db7076287.jpg",
+		"highResIcon": "/common/destiny2_content/icons/49d45362d96f7a2e10c131794be3f4d0.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"screenshot": "/common/destiny2_content/screenshots/2549526496.jpg",
+	"itemTypeDisplayName": "Hunter Ornament",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Exotic Hunter Ornament",
+	"displaySource": "",
+	"action": {
+		"verbName": "Unlock",
+		"verbDescription": "",
+		"isPositive": true,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"maxStackSize": 999,
+		"bucketTypeHash": 3313201758,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 2759499571,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Exotic",
+		"tierType": 6,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"translationBlock": {
+		"weaponPatternHash": 0,
+		"defaultDyes": [
+			{
+				"channelHash": 662199250,
+				"dyeHash": 858066395
+			},
+			{
+				"channelHash": 1367384683,
+				"dyeHash": 827843862
+			},
+			{
+				"channelHash": 218592586,
+				"dyeHash": 4088189741
+			}
+		],
+		"lockedDyes": [],
+		"customDyes": [],
+		"arrangements": [
+			{
+				"classHash": 0,
+				"artArrangementHash": 2549526496
+			}
+		],
+		"hasGeometry": true
+	},
+	"preview": {
+		"screenStyle": "screen_style_sockets",
+		"previewVendorHash": 0,
+		"previewActionString": "Preview"
+	},
+	"plug": {
+		"insertionRules": [
+			{
+				"failureMessage": "Requires Mod Item"
+			}
+		],
+		"plugCategoryIdentifier": "v300_hunter_head1_skins",
+		"plugCategoryHash": 1922471192,
+		"onActionRecreateSelf": false,
+		"actionRewardSiteHash": 0,
+		"actionRewardItemOverrideHash": 0,
+		"insertionMaterialRequirementHash": 0,
+		"previewItemOverrideHash": 0,
+		"enabledMaterialRequirementHash": 0,
+		"enabledRules": [],
+		"uiPlugLabel": "",
+		"plugStyle": 0,
+		"plugAvailability": 0,
+		"alternateUiPlugLabel": "",
+		"alternatePlugStyle": 0,
+		"isDummyPlug": false
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [
+		56,
+		52,
+		59,
+		3683250363,
+		1742617626,
+		4104513227
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 21,
+	"classType": 1,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"hash": 2549526496,
+	"index": 11909,
+	"redacted": false,
+	"blacklisted": false
+}

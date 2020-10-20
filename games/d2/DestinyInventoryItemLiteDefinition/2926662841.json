@@ -1,59 +1,59 @@
 {
-    "itemTypeAndTierDisplayName": "Uncommon Shader", 
-    "itemType": 19, 
-    "tooltipNotifications": [], 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Uncommon", 
-        "bucketTypeHash": 2973005342, 
-        "tierTypeHash": 2395677314, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1000, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 3, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 41, 
-        "colorHash": 0, 
-        "red": 34, 
-        "alpha": 255
-    }, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Shader", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 20, 
-    "itemCategoryHashes": [
-        41, 
-        52
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": false, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "collectibleHash": 3442009119, 
-    "displaySource": "", 
-    "perks": [
-        {
-            "requirementDisplayString": "", 
-            "perkHash": 1889420278, 
-            "perkVisibility": 0
-        }
-    ], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/5fe6ceaf5555f926326bc9317d7ee5e6.jpg", 
-        "hasIcon": true, 
-        "description": "Apply this shader to change the color of your gear.", 
-        "name": "Dusk Mine"
-    }
+	"displayProperties": {
+		"description": "Apply this shader to change the color of your gear.",
+		"name": "Dusk Mine",
+		"icon": "/common/destiny2_content/icons/5fe6ceaf5555f926326bc9317d7ee5e6.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"collectibleHash": 3442009119,
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 34,
+		"green": 41,
+		"blue": 0,
+		"alpha": 255
+	},
+	"itemTypeDisplayName": "Shader",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Uncommon Shader",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1000,
+		"bucketTypeHash": 2973005342,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 2395677314,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Uncommon",
+		"tierType": 3,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [
+		{
+			"requirementDisplayString": "",
+			"perkHash": 1889420278,
+			"perkVisibility": 0
+		}
+	],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [
+		41,
+		52
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 20,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

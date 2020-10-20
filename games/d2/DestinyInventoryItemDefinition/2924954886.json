@@ -1,282 +1,291 @@
 {
-    "itemTypeAndTierDisplayName": "Rare Warlock Bond", 
-    "translationBlock": {
-        "customDyes": [], 
-        "hasGeometry": true, 
-        "lockedDyes": [], 
-        "weaponPatternHash": 0, 
-        "defaultDyes": [
-            {
-                "dyeHash": 1898824113, 
-                "channelHash": 662199250
-            }, 
-            {
-                "dyeHash": 1161015280, 
-                "channelHash": 1367384683
-            }, 
-            {
-                "dyeHash": 1130031599, 
-                "channelHash": 218592586
-            }
-        ], 
-        "arrangements": [
-            {
-                "classHash": 0, 
-                "artArrangementHash": 2924954886
-            }
-        ]
-    }, 
-    "itemType": 2, 
-    "investmentStats": [
-        {
-            "value": 0, 
-            "statTypeHash": 3897883278, 
-            "isConditionallyActive": false
-        }, 
-        {
-            "value": 0, 
-            "statTypeHash": 1935470627, 
-            "isConditionallyActive": false
-        }, 
-        {
-            "value": 0, 
-            "statTypeHash": 1885944937, 
-            "isConditionallyActive": false
-        }
-    ], 
-    "redacted": false, 
-    "tooltipNotifications": [], 
-    "hash": 2924954886, 
-    "quality": {
-        "infusionCategoryHash": 0, 
-        "infusionCategoryHashes": [], 
-        "infusionCategoryName": "0", 
-        "progressionLevelRequirementHash": 1270522082, 
-        "qualityLevel": 0, 
-        "itemLevels": []
-    }, 
-    "sockets": {
-        "socketEntries": [
-            {
-                "reusablePlugItems": [], 
-                "preventInitializationOnVendorPurchase": false, 
-                "preventInitializationWhenVersioning": false, 
-                "overridesUiAppearance": false, 
-                "hidePerksInItemTooltip": false, 
-                "singleInitialItemHash": 0, 
-                "socketTypeHash": 0, 
-                "defaultVisible": false, 
-                "plugSources": 1
-            }, 
-            {
-                "reusablePlugItems": [], 
-                "preventInitializationOnVendorPurchase": false, 
-                "preventInitializationWhenVersioning": false, 
-                "overridesUiAppearance": false, 
-                "hidePerksInItemTooltip": false, 
-                "singleInitialItemHash": 3851138800, 
-                "socketTypeHash": 3598049934, 
-                "defaultVisible": true, 
-                "plugSources": 1
-            }, 
-            {
-                "reusablePlugItems": [], 
-                "preventInitializationOnVendorPurchase": false, 
-                "preventInitializationWhenVersioning": false, 
-                "overridesUiAppearance": false, 
-                "hidePerksInItemTooltip": false, 
-                "singleInitialItemHash": 0, 
-                "socketTypeHash": 0, 
-                "defaultVisible": false, 
-                "plugSources": 1
-            }, 
-            {
-                "reusablePlugItems": [], 
-                "preventInitializationOnVendorPurchase": false, 
-                "reusablePlugSetHash": 4, 
-                "preventInitializationWhenVersioning": false, 
-                "overridesUiAppearance": false, 
-                "hidePerksInItemTooltip": false, 
-                "singleInitialItemHash": 4248210736, 
-                "socketTypeHash": 2321980680, 
-                "defaultVisible": true, 
-                "plugSources": 7
-            }, 
-            {
-                "reusablePlugItems": [], 
-                "preventInitializationOnVendorPurchase": false, 
-                "preventInitializationWhenVersioning": false, 
-                "overridesUiAppearance": false, 
-                "hidePerksInItemTooltip": false, 
-                "singleInitialItemHash": 0, 
-                "socketTypeHash": 0, 
-                "defaultVisible": false, 
-                "plugSources": 1
-            }, 
-            {
-                "reusablePlugItems": [], 
-                "preventInitializationOnVendorPurchase": false, 
-                "preventInitializationWhenVersioning": false, 
-                "overridesUiAppearance": false, 
-                "hidePerksInItemTooltip": false, 
-                "singleInitialItemHash": 0, 
-                "socketTypeHash": 0, 
-                "defaultVisible": false, 
-                "plugSources": 1
-            }, 
-            {
-                "reusablePlugItems": [], 
-                "preventInitializationOnVendorPurchase": false, 
-                "reusablePlugSetHash": 664605941, 
-                "preventInitializationWhenVersioning": false, 
-                "overridesUiAppearance": false, 
-                "hidePerksInItemTooltip": false, 
-                "singleInitialItemHash": 2965439266, 
-                "socketTypeHash": 3662640967, 
-                "defaultVisible": true, 
-                "plugSources": 5
-            }
-        ], 
-        "socketCategories": [
-            {
-                "socketIndexes": [
-                    1
-                ], 
-                "socketCategoryHash": 590099826
-            }, 
-            {
-                "socketIndexes": [
-                    3, 
-                    6
-                ], 
-                "socketCategoryHash": 1926152773
-            }
-        ], 
-        "detail": "Details", 
-        "intrinsicSockets": []
-    }, 
-    "talentGrid": {
-        "talentGridHash": 521135891, 
-        "hudDamageType": 1, 
-        "itemDetailString": "Details"
-    }, 
-    "index": 4816, 
-    "stats": {
-        "hasDisplayableStats": false, 
-        "primaryBaseStatHash": 3897883278, 
-        "disablePrimaryStatDisplay": false, 
-        "stats": {
-            "1935470627": {
-                "statHash": 1935470627, 
-                "minimum": 0, 
-                "maximum": 0, 
-                "value": 0, 
-                "displayMaximum": 42
-            }, 
-            "3897883278": {
-                "statHash": 3897883278, 
-                "minimum": 0, 
-                "maximum": 0, 
-                "value": 0, 
-                "displayMaximum": 42
-            }, 
-            "1885944937": {
-                "statHash": 1885944937, 
-                "minimum": 0, 
-                "maximum": 0, 
-                "value": 0, 
-                "displayMaximum": 42
-            }
-        }, 
-        "statGroupHash": 3128068143
-    }, 
-    "equippable": true, 
-    "defaultDamageType": 0, 
-    "summaryItemHash": 1007326520, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Rare", 
-        "bucketTypeHash": 1585787867, 
-        "tierTypeHash": 2127292149, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 4, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "specialItemType": 0, 
-    "preview": {
-        "screenStyle": "screen_style_sockets", 
-        "previewVendorHash": 0, 
-        "previewActionString": ""
-    }, 
-    "loreHash": 645836416, 
-    "screenshot": "/common/destiny2_content/screenshots/2924954886.jpg", 
-    "itemTypeDisplayName": "Warlock Bond", 
-    "isWrapper": false, 
-    "classType": 2, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/46fe4e35b283817ddf3f04d5f733e8ca.jpg", 
-        "hasIcon": true, 
-        "description": "Complete the Homecoming Redux mission, defeat enemies with Solar Power weapons, and defeat enemies.", 
-        "name": "Solstice Bond (Rekindled)"
-    }, 
-    "itemSubType": 30, 
-    "allowActions": true, 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": false, 
-    "equippingBlock": {
-        "displayStrings": [
-            ""
-        ], 
-        "equipmentSlotTypeHash": 1585787867, 
-        "ammoType": 0, 
-        "equippingSoundHash": 0, 
-        "hornSoundHash": 0, 
-        "attributes": 0, 
-        "uniqueLabelHash": 0
-    }, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "blacklisted": false, 
-    "acquireUnlockHash": 0, 
-    "collectibleHash": 3315009633, 
-    "displaySource": "", 
-    "traitIds": [
-        "armor_type.class", 
-        "item_type.armor"
-    ], 
-    "perks": [], 
-    "itemCategoryHashes": [
-        21, 
-        49, 
-        20
-    ], 
-    "action": {
-        "progressionRewards": [], 
-        "requiredCooldownHash": 0, 
-        "verbName": "Dismantle", 
-        "deleteOnAction": true, 
-        "requiredItems": [], 
-        "rewardItemHash": 0, 
-        "actionTypeLabel": "shard", 
-        "useOnAcquire": false, 
-        "isPositive": false, 
-        "requiredCooldownSeconds": 0, 
-        "rewardSheetHash": 0, 
-        "verbDescription": "", 
-        "rewardSiteHash": 0, 
-        "consumeEntireStack": false
-    }
+	"displayProperties": {
+		"description": "Complete the Homecoming Redux mission, defeat enemies with Solar Power weapons, and defeat enemies.",
+		"name": "Solstice Bond (Rekindled)",
+		"icon": "/common/destiny2_content/icons/46fe4e35b283817ddf3f04d5f733e8ca.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"collectibleHash": 3315009633,
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"screenshot": "/common/destiny2_content/screenshots/2924954886.jpg",
+	"itemTypeDisplayName": "Warlock Bond",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Rare Warlock Bond",
+	"displaySource": "",
+	"action": {
+		"verbName": "Dismantle",
+		"verbDescription": "",
+		"isPositive": false,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"actionTypeLabel": "shard",
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1585787867,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 2127292149,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Rare",
+		"tierType": 4,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"stats": {
+		"disablePrimaryStatDisplay": false,
+		"statGroupHash": 3128068143,
+		"stats": {
+			"1885944937": {
+				"statHash": 1885944937,
+				"value": 0,
+				"minimum": 0,
+				"maximum": 0,
+				"displayMaximum": 42
+			},
+			"1935470627": {
+				"statHash": 1935470627,
+				"value": 0,
+				"minimum": 0,
+				"maximum": 0,
+				"displayMaximum": 42
+			},
+			"3897883278": {
+				"statHash": 3897883278,
+				"value": 0,
+				"minimum": 0,
+				"maximum": 0,
+				"displayMaximum": 42
+			}
+		},
+		"hasDisplayableStats": false,
+		"primaryBaseStatHash": 3897883278
+	},
+	"equippingBlock": {
+		"uniqueLabelHash": 0,
+		"equipmentSlotTypeHash": 1585787867,
+		"attributes": 0,
+		"equippingSoundHash": 0,
+		"hornSoundHash": 0,
+		"ammoType": 0,
+		"displayStrings": [
+			""
+		]
+	},
+	"translationBlock": {
+		"weaponPatternHash": 0,
+		"defaultDyes": [
+			{
+				"channelHash": 662199250,
+				"dyeHash": 1898824113
+			},
+			{
+				"channelHash": 1367384683,
+				"dyeHash": 1161015280
+			},
+			{
+				"channelHash": 218592586,
+				"dyeHash": 1130031599
+			}
+		],
+		"lockedDyes": [],
+		"customDyes": [],
+		"arrangements": [
+			{
+				"classHash": 0,
+				"artArrangementHash": 2924954886
+			}
+		],
+		"hasGeometry": true
+	},
+	"preview": {
+		"screenStyle": "screen_style_sockets",
+		"previewVendorHash": 0,
+		"previewActionString": ""
+	},
+	"quality": {
+		"itemLevels": [],
+		"qualityLevel": 0,
+		"infusionCategoryName": "0",
+		"infusionCategoryHash": 0,
+		"infusionCategoryHashes": [],
+		"progressionLevelRequirementHash": 1270522082,
+		"currentVersion": 0,
+		"versions": [
+			{
+				"powerCapHash": 2127292149
+			}
+		],
+		"displayVersionWatermarkIcons": [
+			"/common/destiny2_content/icons/e10338777d1d8633e073846e613a1c1f.png"
+		]
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"sockets": {
+		"detail": "Details",
+		"socketEntries": [
+			{
+				"socketTypeHash": 0,
+				"singleInitialItemHash": 0,
+				"reusablePlugItems": [],
+				"preventInitializationOnVendorPurchase": false,
+				"preventInitializationWhenVersioning": false,
+				"hidePerksInItemTooltip": false,
+				"plugSources": 1,
+				"overridesUiAppearance": false,
+				"defaultVisible": false
+			},
+			{
+				"socketTypeHash": 3598049934,
+				"singleInitialItemHash": 3851138800,
+				"reusablePlugItems": [],
+				"preventInitializationOnVendorPurchase": false,
+				"preventInitializationWhenVersioning": false,
+				"hidePerksInItemTooltip": false,
+				"plugSources": 1,
+				"overridesUiAppearance": false,
+				"defaultVisible": true
+			},
+			{
+				"socketTypeHash": 0,
+				"singleInitialItemHash": 0,
+				"reusablePlugItems": [],
+				"preventInitializationOnVendorPurchase": false,
+				"preventInitializationWhenVersioning": false,
+				"hidePerksInItemTooltip": false,
+				"plugSources": 1,
+				"overridesUiAppearance": false,
+				"defaultVisible": false
+			},
+			{
+				"socketTypeHash": 2321980680,
+				"singleInitialItemHash": 4248210736,
+				"reusablePlugItems": [],
+				"preventInitializationOnVendorPurchase": false,
+				"preventInitializationWhenVersioning": false,
+				"hidePerksInItemTooltip": false,
+				"plugSources": 7,
+				"reusablePlugSetHash": 4,
+				"overridesUiAppearance": false,
+				"defaultVisible": true
+			},
+			{
+				"socketTypeHash": 0,
+				"singleInitialItemHash": 0,
+				"reusablePlugItems": [],
+				"preventInitializationOnVendorPurchase": false,
+				"preventInitializationWhenVersioning": false,
+				"hidePerksInItemTooltip": false,
+				"plugSources": 1,
+				"overridesUiAppearance": false,
+				"defaultVisible": false
+			},
+			{
+				"socketTypeHash": 0,
+				"singleInitialItemHash": 0,
+				"reusablePlugItems": [],
+				"preventInitializationOnVendorPurchase": false,
+				"preventInitializationWhenVersioning": false,
+				"hidePerksInItemTooltip": false,
+				"plugSources": 1,
+				"overridesUiAppearance": false,
+				"defaultVisible": false
+			},
+			{
+				"socketTypeHash": 3662640967,
+				"singleInitialItemHash": 2965439266,
+				"reusablePlugItems": [],
+				"preventInitializationOnVendorPurchase": false,
+				"preventInitializationWhenVersioning": false,
+				"hidePerksInItemTooltip": false,
+				"plugSources": 5,
+				"reusablePlugSetHash": 664605941,
+				"overridesUiAppearance": false,
+				"defaultVisible": true
+			}
+		],
+		"intrinsicSockets": [],
+		"socketCategories": [
+			{
+				"socketCategoryHash": 590099826,
+				"socketIndexes": [
+					1
+				]
+			},
+			{
+				"socketCategoryHash": 1926152773,
+				"socketIndexes": [
+					3,
+					6
+				]
+			}
+		]
+	},
+	"talentGrid": {
+		"talentGridHash": 521135891,
+		"itemDetailString": "Details",
+		"hudDamageType": 1
+	},
+	"investmentStats": [
+		{
+			"statTypeHash": 3897883278,
+			"value": 0,
+			"isConditionallyActive": false
+		},
+		{
+			"statTypeHash": 1935470627,
+			"value": 0,
+			"isConditionallyActive": false
+		},
+		{
+			"statTypeHash": 1885944937,
+			"value": 0,
+			"isConditionallyActive": false
+		}
+	],
+	"perks": [],
+	"loreHash": 645836416,
+	"summaryItemHash": 1007326520,
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [
+		21,
+		49,
+		20
+	],
+	"specialItemType": 0,
+	"itemType": 2,
+	"itemSubType": 30,
+	"classType": 2,
+	"breakerType": 0,
+	"equippable": true,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"traitIds": [
+		"armor_type.class",
+		"item_type.armor"
+	],
+	"hash": 2924954886,
+	"index": 4852,
+	"redacted": false,
+	"blacklisted": false
 }

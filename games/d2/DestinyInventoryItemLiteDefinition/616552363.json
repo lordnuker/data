@@ -1,68 +1,77 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Package", 
-    "itemType": 25, 
-    "tooltipNotifications": [], 
-    "quality": {
-        "infusionCategoryHash": 0, 
-        "infusionCategoryHashes": [], 
-        "infusionCategoryName": "0", 
-        "progressionLevelRequirementHash": 0, 
-        "qualityLevel": 0, 
-        "itemLevels": []
-    }, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 375726501, 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Package", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": true, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        268598612
-    ], 
-    "uiItemDisplayStyle": "ui_display_style_engram", 
-    "nonTransferrable": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "displaySource": "", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "hasIcon": true, 
-        "description": "A bundle for Guardians who like to reminisce the old times.\n\nContains 3 Fond Memories Engrams and 2 random shaders.", 
-        "highResIcon": "/common/destiny2_content/icons/d130438fccba7c8223c0e83571c4524f.jpg", 
-        "name": "Remembrance of Days Gone By", 
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/b28decb6bbaad0192e585f567d7feb13.png", 
-                    "/common/destiny2_content/icons/224b7156939fd6bbc963d482172c3477.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/b28decb6bbaad0192e585f567d7feb13.png"
-    }
+	"displayProperties": {
+		"description": "A bundle for Guardians who like to reminisce the old times.\n\nContains 3 Fond Memories Engrams and 2 random shaders.",
+		"name": "Remembrance of Days Gone By",
+		"icon": "/common/destiny2_content/icons/b28decb6bbaad0192e585f567d7feb13.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/b28decb6bbaad0192e585f567d7feb13.png",
+					"/common/destiny2_content/icons/224b7156939fd6bbc963d482172c3477.png"
+				]
+			}
+		],
+		"highResIcon": "/common/destiny2_content/icons/d130438fccba7c8223c0e83571c4524f.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Package",
+	"uiItemDisplayStyle": "ui_display_style_engram",
+	"itemTypeAndTierDisplayName": "Legendary Package",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 375726501,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"quality": {
+		"itemLevels": [],
+		"qualityLevel": 0,
+		"infusionCategoryName": "0",
+		"infusionCategoryHash": 0,
+		"infusionCategoryHashes": [],
+		"progressionLevelRequirementHash": 0,
+		"currentVersion": 0,
+		"versions": [
+			{
+				"powerCapHash": 723350001
+			}
+		],
+		"displayVersionWatermarkIcons": [
+			""
+		]
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": true,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		268598612
+	],
+	"specialItemType": 0,
+	"itemType": 25,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

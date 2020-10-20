@@ -1,121 +1,121 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Quest", 
-    "nonTransferrable": true, 
-    "investmentStats": [], 
-    "redacted": false, 
-    "tooltipNotifications": [], 
-    "itemType": 15, 
-    "index": 12954, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 2422292810, 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "setData": {
-        "trackingUnlockValueHash": 0, 
-        "setIsFeatured": false, 
-        "itemList": [
-            {
-                "itemHash": 141625708, 
-                "trackingValue": 1396842631
-            }, 
-            {
-                "itemHash": 141625710, 
-                "trackingValue": 1396842629
-            }, 
-            {
-                "itemHash": 141625709, 
-                "trackingValue": 1396842630
-            }, 
-            {
-                "itemHash": 3554445700, 
-                "trackingValue": 608898761
-            }, 
-            {
-                "itemHash": 997047020, 
-                "trackingValue": 386821237
-            }, 
-            {
-                "itemHash": 4173477907, 
-                "trackingValue": -1754866834
-            }, 
-            {
-                "itemHash": 490937579, 
-                "trackingValue": 580753158
-            }, 
-            {
-                "itemHash": 4014308450, 
-                "trackingValue": -609215899
-            }, 
-            {
-                "itemHash": 997047022, 
-                "trackingValue": 386821239
-            }, 
-            {
-                "itemHash": 1294235518, 
-                "trackingValue": 1254676747
-            }, 
-            {
-                "itemHash": 3388578095, 
-                "trackingValue": -1754723360
-            }, 
-            {
-                "itemHash": 1606326513, 
-                "trackingValue": 974264920
-            }
-        ], 
-        "requireOrderedSetItemAdd": true, 
-        "questLineName": "", 
-        "abandonmentUnlockHash": 0, 
-        "setType": "quest_global"
-    }, 
-    "hash": 2051771644, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Quest", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        53
-    ], 
-    "uiItemDisplayStyle": "", 
-    "secondaryOverlay": "/common/destiny2_content/icons/bbddbe06ab72b61e708afc4fdbe15d95.png", 
-    "secondaryIcon": "/common/destiny2_content/icons/a4c91b173c76967521ac50f876460cbe.png", 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "secondarySpecial": "/img/misc/missing_icon_d2.png", 
-    "blacklisted": false, 
-    "displaySource": "", 
-    "traitIds": [
-        "inventory_filtering.quest", 
-        "quest.past"
-    ], 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/46f5c330a1e9fb956c528e2fad312b6f.jpg", 
-        "hasIcon": true, 
-        "description": "", 
-        "name": "Rekindle the Flames"
-    }
+	"displayProperties": {
+		"description": "",
+		"name": "Rekindle the Flames",
+		"icon": "/common/destiny2_content/icons/46f5c330a1e9fb956c528e2fad312b6f.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"secondaryIcon": "/common/destiny2_content/icons/a4c91b173c76967521ac50f876460cbe.png",
+	"secondaryOverlay": "/common/destiny2_content/icons/bbddbe06ab72b61e708afc4fdbe15d95.png",
+	"secondarySpecial": "/img/misc/missing_icon_d2.png",
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Quest",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Quest",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 2422292810,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"setData": {
+		"itemList": [
+			{
+				"trackingValue": 1396842631,
+				"itemHash": 141625708
+			},
+			{
+				"trackingValue": 1396842629,
+				"itemHash": 141625710
+			},
+			{
+				"trackingValue": 1396842630,
+				"itemHash": 141625709
+			},
+			{
+				"trackingValue": 608898761,
+				"itemHash": 3554445700
+			},
+			{
+				"trackingValue": 386821237,
+				"itemHash": 997047020
+			},
+			{
+				"trackingValue": -1754866834,
+				"itemHash": 4173477907
+			},
+			{
+				"trackingValue": 580753158,
+				"itemHash": 490937579
+			},
+			{
+				"trackingValue": -609215899,
+				"itemHash": 4014308450
+			},
+			{
+				"trackingValue": 386821239,
+				"itemHash": 997047022
+			},
+			{
+				"trackingValue": 1254676747,
+				"itemHash": 1294235518
+			},
+			{
+				"trackingValue": -1754723360,
+				"itemHash": 3388578095
+			},
+			{
+				"trackingValue": 974264920,
+				"itemHash": 1606326513
+			}
+		],
+		"trackingUnlockValueHash": 0,
+		"abandonmentUnlockHash": 0,
+		"requireOrderedSetItemAdd": true,
+		"setIsFeatured": false,
+		"setType": "quest_global",
+		"questLineName": ""
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		53
+	],
+	"specialItemType": 0,
+	"itemType": 15,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"traitIds": [
+		"inventory_filtering.quest",
+		"quest.past"
+	],
+	"hash": 2051771644,
+	"index": 13542,
+	"redacted": false,
+	"blacklisted": false
 }

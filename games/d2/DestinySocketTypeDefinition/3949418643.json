@@ -1,35 +1,35 @@
 {
-    "index": 239, 
-    "hash": 3949418643, 
-    "blacklisted": false, 
-    "avoidDuplicatesOnInitialization": false, 
-    "insertAction": {
-        "actionSoundHash": 0, 
-        "isPositiveAction": false, 
-        "actionType": 0, 
-        "actionExecuteSeconds": 1
-    }, 
-    "plugWhitelist": [
-        {
-            "categoryIdentifier": "v300_armor_skins_hunter_future_war_cult_class0", 
-            "categoryHash": 3890096199
-        }, 
-        {
-            "categoryIdentifier": "armor_skins_empty", 
-            "categoryHash": 3356843615
-        }
-    ], 
-    "currencyScalars": [], 
-    "redacted": false, 
-    "visibility": 0, 
-    "isPreviewEnabled": false, 
-    "alwaysRandomizeSockets": false, 
-    "overridesUiAppearance": false, 
-    "displayProperties": {
-        "hasIcon": false, 
-        "description": "", 
-        "name": ""
-    }, 
-    "socketCategoryHash": 1926152773, 
-    "hideDuplicateReusablePlugs": true
+	"displayProperties": {
+		"description": "",
+		"name": "",
+		"hasIcon": false
+	},
+	"insertAction": {
+		"actionExecuteSeconds": 1,
+		"actionSoundHash": 0,
+		"isPositiveAction": false,
+		"actionType": 0
+	},
+	"plugWhitelist": [
+		{
+			"categoryHash": 3890096199,
+			"categoryIdentifier": "v300_armor_skins_hunter_future_war_cult_class0"
+		},
+		{
+			"categoryHash": 3356843615,
+			"categoryIdentifier": "armor_skins_empty"
+		}
+	],
+	"socketCategoryHash": 1926152773,
+	"visibility": 0,
+	"alwaysRandomizeSockets": false,
+	"isPreviewEnabled": false,
+	"hideDuplicateReusablePlugs": true,
+	"overridesUiAppearance": false,
+	"avoidDuplicatesOnInitialization": false,
+	"currencyScalars": [],
+	"hash": 3949418643,
+	"index": 239,
+	"redacted": false,
+	"blacklisted": false
 }

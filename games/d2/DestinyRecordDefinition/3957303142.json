@@ -1,65 +1,65 @@
 {
-    "index": 1342, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 1, 
-        "intervalObjectives": [
-            {
-                "intervalScoreValue": 40, 
-                "intervalObjectiveHash": 3685470935
-            }, 
-            {
-                "intervalScoreValue": 60, 
-                "intervalObjectiveHash": 3685470933
-            }, 
-            {
-                "intervalScoreValue": 60, 
-                "intervalObjectiveHash": 3685470932
-            }, 
-            {
-                "intervalScoreValue": 60, 
-                "intervalObjectiveHash": 3685470931
-            }
-        ], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [], 
-    "parentNodeHashes": [
-        3028486709
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/8530cae878af0f60e7c31ff57e7bd7c3.png", 
-        "hasIcon": true, 
-        "description": "Complete Heroic story missions from the Destiny 2: Warmind campaign.", 
-        "name": "Heroic: Warmind"
-    }, 
-    "scope": 0, 
-    "hash": 3957303142
+	"displayProperties": {
+		"description": "Complete Heroic story missions from the Destiny 2: Warmind campaign.",
+		"name": "Heroic: Warmind",
+		"icon": "/common/destiny2_content/icons/8530cae878af0f60e7c31ff57e7bd7c3.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [
+			{
+				"intervalObjectiveHash": 3685470935,
+				"intervalScoreValue": 40
+			},
+			{
+				"intervalObjectiveHash": 3685470933,
+				"intervalScoreValue": 60
+			},
+			{
+				"intervalObjectiveHash": 3685470932,
+				"intervalScoreValue": 60
+			},
+			{
+				"intervalObjectiveHash": 3685470931,
+				"intervalScoreValue": 60
+			}
+		],
+		"originalObjectiveArrayInsertionIndex": 1,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		3028486709
+	],
+	"hash": 3957303142,
+	"index": 1354,
+	"redacted": false,
+	"blacklisted": false
 }

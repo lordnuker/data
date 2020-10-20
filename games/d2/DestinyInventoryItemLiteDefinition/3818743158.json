@@ -1,0 +1,86 @@
+{
+	"displayProperties": {
+		"description": "Earn points by defeating combatants and Guardians with melee abilities.",
+		"name": "Bareknuckle Brawler",
+		"icon": "/common/destiny2_content/icons/598f57a3a57ba43a8d1556168598a9de.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [
+		{
+			"displayString": "Expires at the end of Season of Arrivals",
+			"displayStyle": ""
+		}
+	],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Weekly Bounty",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Rare Weekly Bounty",
+	"displaySource": "\"Took a while for people to refine the Light. Back in the day, it was a down-and-dirty slugfest.\" —The Drifter",
+	"inventory": {
+		"stackUniqueLabel": "v490.bounties.limited.ritual.jerboa.weekly.bounty18",
+		"maxStackSize": 1,
+		"bucketTypeHash": 1345459588,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 2127292149,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Rare",
+		"tierType": 4,
+		"expirationTooltip": "Expires in .",
+		"expiredInActivityMessage": "Expired. Will discard upon returning to orbit.",
+		"expiredInOrbitMessage": "Expired. Will discard upon launching an activity.",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"value": {
+		"itemValue": [
+			{
+				"itemHash": 4237793825,
+				"quantity": 500
+			},
+			{
+				"itemHash": 2211488305,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			}
+		],
+		"valueDescription": ""
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		1784235469
+	],
+	"specialItemType": 0,
+	"itemType": 26,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
+}

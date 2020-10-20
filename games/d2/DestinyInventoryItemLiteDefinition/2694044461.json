@@ -1,86 +1,95 @@
 {
-    "itemTypeAndTierDisplayName": "Uncommon Auto Rifle", 
-    "damageTypeHashes": [
-        3373582085
-    ], 
-    "itemType": 3, 
-    "tooltipNotifications": [], 
-    "defaultDamageTypeHash": 3373582085, 
-    "quality": {
-        "infusionCategoryHash": 0, 
-        "infusionCategoryHashes": [], 
-        "infusionCategoryName": "0", 
-        "progressionLevelRequirementHash": 2393583370, 
-        "qualityLevel": 0, 
-        "itemLevels": []
-    }, 
-    "talentGrid": {
-        "talentGridHash": 521135891, 
-        "hudDamageType": 1, 
-        "itemDetailString": "Details"
-    }, 
-    "allowActions": true, 
-    "defaultDamageType": 1, 
-    "summaryItemHash": 1995898181, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Uncommon", 
-        "bucketTypeHash": 1498876634, 
-        "tierTypeHash": 2395677314, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 3, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 255, 
-        "green": 255, 
-        "colorHash": 0, 
-        "red": 255, 
-        "alpha": 255
-    }, 
-    "equippable": true, 
-    "itemTypeDisplayName": "Auto Rifle", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 6, 
-    "itemCategoryHashes": [
-        2, 
-        1, 
-        5
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": false, 
-    "equippingBlock": {
-        "displayStrings": [
-            ""
-        ], 
-        "equipmentSlotTypeHash": 1498876634, 
-        "ammoType": 1, 
-        "equippingSoundHash": 0, 
-        "hornSoundHash": 0, 
-        "attributes": 0, 
-        "uniqueLabelHash": 0
-    }, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "collectibleHash": 2216505247, 
-    "displaySource": "", 
-    "damageTypes": [
-        1
-    ], 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/42c4b331a9a05ea9139a8fdc23a427ea.jpg", 
-        "hasIcon": true, 
-        "description": "A modded version of the Daito Cydonia, a Guardian standby.", 
-        "name": "Cydonia-AR1"
-    }
+	"displayProperties": {
+		"description": "A modded version of the Daito Cydonia, a Guardian standby.",
+		"name": "Cydonia-AR1",
+		"icon": "/common/destiny2_content/icons/42c4b331a9a05ea9139a8fdc23a427ea.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"collectibleHash": 2216505247,
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 255,
+		"green": 255,
+		"blue": 255,
+		"alpha": 255
+	},
+	"itemTypeDisplayName": "Auto Rifle",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Uncommon Auto Rifle",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1498876634,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 2395677314,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Uncommon",
+		"tierType": 3,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"equippingBlock": {
+		"uniqueLabelHash": 0,
+		"equipmentSlotTypeHash": 1498876634,
+		"attributes": 0,
+		"equippingSoundHash": 0,
+		"hornSoundHash": 0,
+		"ammoType": 1,
+		"displayStrings": [
+			""
+		]
+	},
+	"quality": {
+		"itemLevels": [],
+		"qualityLevel": 0,
+		"infusionCategoryName": "0",
+		"infusionCategoryHash": 0,
+		"infusionCategoryHashes": [],
+		"progressionLevelRequirementHash": 2393583370,
+		"currentVersion": 0,
+		"versions": [
+			{
+				"powerCapHash": 2395677314
+			}
+		],
+		"displayVersionWatermarkIcons": [
+			"/common/destiny2_content/icons/0dac2f181f0245cfc64494eccb7db9f7.png"
+		]
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"talentGrid": {
+		"talentGridHash": 521135891,
+		"itemDetailString": "Details",
+		"hudDamageType": 1
+	},
+	"perks": [],
+	"summaryItemHash": 1995898181,
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [
+		2,
+		1,
+		5
+	],
+	"specialItemType": 0,
+	"itemType": 3,
+	"itemSubType": 6,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": true,
+	"damageTypeHashes": [
+		3373582085
+	],
+	"damageTypes": [
+		1
+	],
+	"defaultDamageType": 1,
+	"defaultDamageTypeHash": 3373582085,
+	"isWrapper": false
 }

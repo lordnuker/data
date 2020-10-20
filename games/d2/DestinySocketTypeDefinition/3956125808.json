@@ -1,31 +1,31 @@
 {
-    "index": 176, 
-    "hash": 3956125808, 
-    "blacklisted": false, 
-    "avoidDuplicatesOnInitialization": false, 
-    "insertAction": {
-        "actionSoundHash": 0, 
-        "isPositiveAction": false, 
-        "actionType": 0, 
-        "actionExecuteSeconds": 0
-    }, 
-    "plugWhitelist": [
-        {
-            "categoryIdentifier": "intrinsics", 
-            "categoryHash": 1744546145
-        }
-    ], 
-    "currencyScalars": [], 
-    "redacted": false, 
-    "visibility": 0, 
-    "isPreviewEnabled": false, 
-    "alwaysRandomizeSockets": false, 
-    "overridesUiAppearance": false, 
-    "displayProperties": {
-        "hasIcon": false, 
-        "description": "", 
-        "name": ""
-    }, 
-    "socketCategoryHash": 3956125808, 
-    "hideDuplicateReusablePlugs": false
+	"displayProperties": {
+		"description": "",
+		"name": "",
+		"hasIcon": false
+	},
+	"insertAction": {
+		"actionExecuteSeconds": 0,
+		"actionSoundHash": 0,
+		"isPositiveAction": false,
+		"actionType": 0
+	},
+	"plugWhitelist": [
+		{
+			"categoryHash": 1744546145,
+			"categoryIdentifier": "intrinsics"
+		}
+	],
+	"socketCategoryHash": 3956125808,
+	"visibility": 0,
+	"alwaysRandomizeSockets": false,
+	"isPreviewEnabled": false,
+	"hideDuplicateReusablePlugs": false,
+	"overridesUiAppearance": false,
+	"avoidDuplicatesOnInitialization": false,
+	"currencyScalars": [],
+	"hash": 3956125808,
+	"index": 176,
+	"redacted": false,
+	"blacklisted": false
 }

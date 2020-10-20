@@ -1,25 +1,25 @@
 {
-    "index": 14, 
-    "progressionHash": 1761642340, 
-    "hash": 1761642340, 
-    "blacklisted": false, 
-    "redacted": false, 
-    "vendors": [
-        {
-            "vendorHash": 895295461, 
-            "backgroundImagePath": "/img/destiny_content/factions/vendors/tower-iron-banner-saladin-1.jpg", 
-            "destinationHash": 333456177
-        }
-    ], 
-    "rewardItemHash": 1762796941, 
-    "tokenValues": {
-        "1873857625": 100
-    }, 
-    "rewardVendorHash": 1762796941, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/1d006c1576409a7a188bda7879857784.png", 
-        "hasIcon": true, 
-        "description": "The Iron Banner is a Crucible tournament held to honor long-lost heroes.", 
-        "name": "Iron Banner"
-    }
+	"displayProperties": {
+		"description": "The Iron Banner is a Crucible tournament held to honor long-lost heroes.",
+		"name": "Iron Banner",
+		"icon": "/common/destiny2_content/icons/1d006c1576409a7a188bda7879857784.png",
+		"hasIcon": true
+	},
+	"progressionHash": 1761642340,
+	"tokenValues": {
+		"1873857625": 100
+	},
+	"rewardItemHash": 1762796941,
+	"rewardVendorHash": 1762796941,
+	"vendors": [
+		{
+			"vendorHash": 895295461,
+			"destinationHash": 333456177,
+			"backgroundImagePath": "/img/destiny_content/factions/vendors/tower-iron-banner-saladin-1.jpg"
+		}
+	],
+	"hash": 1761642340,
+	"index": 15,
+	"redacted": false,
+	"blacklisted": false
 }

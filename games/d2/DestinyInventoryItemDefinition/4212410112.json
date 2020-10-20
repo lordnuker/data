@@ -1,94 +1,94 @@
 {
-    "itemTypeAndTierDisplayName": "Common Emblem", 
-    "nonTransferrable": true, 
-    "investmentStats": [], 
-    "redacted": false, 
-    "tooltipNotifications": [], 
-    "itemType": 14, 
-    "index": 1318, 
-    "stats": {
-        "hasDisplayableStats": false, 
-        "primaryBaseStatHash": 0, 
-        "disablePrimaryStatDisplay": false, 
-        "stats": {}
-    }, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Common", 
-        "bucketTypeHash": 4274335291, 
-        "stackUniqueLabel": "v300.emblems.exclusives.emblem0", 
-        "tierTypeHash": 3340296461, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 2, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "allowActions": true, 
-    "hash": 4212410112, 
-    "equippable": true, 
-    "itemTypeDisplayName": "Emblem", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "action": {
-        "progressionRewards": [], 
-        "requiredCooldownHash": 0, 
-        "verbName": "Store", 
-        "deleteOnAction": true, 
-        "requiredItems": [], 
-        "rewardItemHash": 0, 
-        "useOnAcquire": false, 
-        "isPositive": false, 
-        "requiredCooldownSeconds": 0, 
-        "rewardSheetHash": 0, 
-        "verbDescription": "", 
-        "rewardSiteHash": 0, 
-        "consumeEntireStack": false
-    }, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        19, 
-        52
-    ], 
-    "uiItemDisplayStyle": "", 
-    "secondaryOverlay": "/img/misc/missing_icon_d2.png", 
-    "secondaryIcon": "/img/misc/missing_icon_d2.png", 
-    "equippingBlock": {
-        "displayStrings": [], 
-        "equipmentSlotTypeHash": 4274335291, 
-        "ammoType": 0, 
-        "equippingSoundHash": 0, 
-        "hornSoundHash": 0, 
-        "attributes": 0, 
-        "uniqueLabelHash": 1025914891, 
-        "uniqueLabel": "v300.emblems.exclusives.emblem0"
-    }, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "secondarySpecial": "/img/misc/missing_icon_d2.png", 
-    "blacklisted": false, 
-    "acquireUnlockHash": 0, 
-    "displaySource": "", 
-    "traitIds": [
-        "item_type.emblem"
-    ], 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "hasIcon": false, 
-        "description": "", 
-        "name": "Order of Assassins"
-    }
+	"displayProperties": {
+		"description": "",
+		"name": "Order of Assassins",
+		"hasIcon": false
+	},
+	"tooltipNotifications": [],
+	"secondaryIcon": "/img/misc/missing_icon_d2.png",
+	"secondaryOverlay": "/img/misc/missing_icon_d2.png",
+	"secondarySpecial": "/img/misc/missing_icon_d2.png",
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Emblem",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Common Emblem",
+	"displaySource": "",
+	"action": {
+		"verbName": "Store",
+		"verbDescription": "",
+		"isPositive": false,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"stackUniqueLabel": "v300.emblems.exclusives.emblem0",
+		"maxStackSize": 1,
+		"bucketTypeHash": 4274335291,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 3340296461,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Common",
+		"tierType": 2,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"stats": {
+		"disablePrimaryStatDisplay": false,
+		"stats": {},
+		"hasDisplayableStats": false,
+		"primaryBaseStatHash": 0
+	},
+	"equippingBlock": {
+		"uniqueLabel": "v300.emblems.exclusives.emblem0",
+		"uniqueLabelHash": 1025914891,
+		"equipmentSlotTypeHash": 4274335291,
+		"attributes": 0,
+		"equippingSoundHash": 0,
+		"hornSoundHash": 0,
+		"ammoType": 0,
+		"displayStrings": []
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		19,
+		52
+	],
+	"specialItemType": 0,
+	"itemType": 14,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": true,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"traitIds": [
+		"item_type.emblem"
+	],
+	"hash": 4212410112,
+	"index": 1354,
+	"redacted": false,
+	"blacklisted": false
 }

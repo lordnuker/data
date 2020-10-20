@@ -1,0 +1,128 @@
+{
+	"displayProperties": {
+		"description": "",
+		"name": "Counter Charge",
+		"icon": "/common/destiny2_content/icons/77f62783f0945abf26aee17aaba6cf78.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/77f62783f0945abf26aee17aaba6cf78.png",
+					"/common/destiny2_content/icons/028dc8ebcb2e6cef0af491c23d308f6d.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/10f3994d05d7b5ad067d370a1a7cdfaa.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"collectibleHash": 3232990285,
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Chest Armor Mod",
+	"uiItemDisplayStyle": "ui_display_style_energy_mod",
+	"itemTypeAndTierDisplayName": "Legendary Chest Armor Mod",
+	"displaySource": "",
+	"tooltipStyle": "build",
+	"action": {
+		"verbName": "Dismantle",
+		"verbDescription": "",
+		"isPositive": false,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"actionTypeLabel": "shard",
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 2422292810,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"plug": {
+		"insertionRules": [],
+		"plugCategoryIdentifier": "enhancements.v2_chest",
+		"plugCategoryHash": 1526202480,
+		"onActionRecreateSelf": false,
+		"actionRewardSiteHash": 0,
+		"actionRewardItemOverrideHash": 0,
+		"insertionMaterialRequirementHash": 1564811296,
+		"previewItemOverrideHash": 0,
+		"enabledMaterialRequirementHash": 0,
+		"enabledRules": [
+			{
+				"failureMessage": ""
+			}
+		],
+		"uiPlugLabel": "",
+		"plugStyle": 0,
+		"plugAvailability": 0,
+		"alternateUiPlugLabel": "",
+		"alternatePlugStyle": 0,
+		"isDummyPlug": false,
+		"energyCost": {
+			"energyCost": 3,
+			"energyTypeHash": 1198124803,
+			"energyType": 0
+		}
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [
+		{
+			"statTypeHash": 3578062600,
+			"value": 3,
+			"isConditionallyActive": false
+		}
+	],
+	"perks": [
+		{
+			"requirementDisplayString": "",
+			"perkHash": 3772901134,
+			"perkVisibility": 0
+		}
+	],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		59,
+		4104513227,
+		3723676689
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"hash": 3175764264,
+	"index": 502,
+	"redacted": false,
+	"blacklisted": false
+}

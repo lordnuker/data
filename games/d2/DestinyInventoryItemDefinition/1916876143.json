@@ -1,119 +1,119 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Sparrow Engine", 
-    "itemType": 19, 
-    "investmentStats": [
-        {
-            "value": 100, 
-            "statTypeHash": 1501155019, 
-            "isConditionallyActive": false
-        }
-    ], 
-    "redacted": false, 
-    "tooltipNotifications": [], 
-    "index": 11258, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 3313201758, 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 999, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "hash": 1916876143, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Sparrow Engine", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/a2cbc16edc4bf03e78090dae6d118a00.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/21458f70fb9848b054a70dddce8f14f8.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/a2cbc16edc4bf03e78090dae6d118a00.png", 
-        "hasIcon": true, 
-        "description": "A baseline NLS drive. No modifications.", 
-        "name": "Standard Drive"
-    }, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        59, 
-        2294843884, 
-        152608020
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": false, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "plug": {
-        "insertionMaterialRequirementHash": 0, 
-        "actionRewardSiteHash": 0, 
-        "enabledMaterialRequirementHash": 0, 
-        "previewItemOverrideHash": 0, 
-        "insertionRules": [], 
-        "enabledRules": [
-            {
-                "failureMessage": ""
-            }
-        ], 
-        "plugCategoryHash": 821963863, 
-        "plugCategoryIdentifier": "vehicles.mod.speed", 
-        "onActionRecreateSelf": false, 
-        "plugStyle": 0, 
-        "isDummyPlug": false, 
-        "actionRewardItemOverrideHash": 0, 
-        "uiPlugLabel": "", 
-        "alternatePlugStyle": 0, 
-        "alternateUiPlugLabel": "", 
-        "plugAvailability": 0
-    }, 
-    "blacklisted": false, 
-    "acquireUnlockHash": 0, 
-    "displaySource": "", 
-    "perks": [
-        {
-            "requirementDisplayString": "", 
-            "perkHash": 2944782064, 
-            "perkVisibility": 0
-        }
-    ], 
-    "specialItemType": 0, 
-    "action": {
-        "progressionRewards": [], 
-        "requiredCooldownHash": 0, 
-        "verbName": "Discard", 
-        "deleteOnAction": true, 
-        "requiredItems": [], 
-        "rewardItemHash": 0, 
-        "useOnAcquire": false, 
-        "isPositive": false, 
-        "requiredCooldownSeconds": 0, 
-        "rewardSheetHash": 0, 
-        "verbDescription": "", 
-        "rewardSiteHash": 0, 
-        "consumeEntireStack": false
-    }
+	"displayProperties": {
+		"description": "A baseline NLS drive. No modifications.",
+		"name": "Standard Drive",
+		"icon": "/common/destiny2_content/icons/a2cbc16edc4bf03e78090dae6d118a00.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/a2cbc16edc4bf03e78090dae6d118a00.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/21458f70fb9848b054a70dddce8f14f8.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Sparrow Engine",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Sparrow Engine",
+	"displaySource": "",
+	"action": {
+		"verbName": "Discard",
+		"verbDescription": "",
+		"isPositive": false,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"maxStackSize": 999,
+		"bucketTypeHash": 3313201758,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"plug": {
+		"insertionRules": [],
+		"plugCategoryIdentifier": "vehicles.mod.speed",
+		"plugCategoryHash": 821963863,
+		"onActionRecreateSelf": false,
+		"actionRewardSiteHash": 0,
+		"actionRewardItemOverrideHash": 0,
+		"insertionMaterialRequirementHash": 0,
+		"previewItemOverrideHash": 0,
+		"enabledMaterialRequirementHash": 0,
+		"enabledRules": [
+			{
+				"failureMessage": ""
+			}
+		],
+		"uiPlugLabel": "",
+		"plugStyle": 0,
+		"plugAvailability": 0,
+		"alternateUiPlugLabel": "",
+		"alternatePlugStyle": 0,
+		"isDummyPlug": false
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [
+		{
+			"statTypeHash": 1501155019,
+			"value": 100,
+			"isConditionallyActive": false
+		}
+	],
+	"perks": [
+		{
+			"requirementDisplayString": "",
+			"perkHash": 2944782064,
+			"perkVisibility": 0
+		}
+	],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [
+		59,
+		2294843884,
+		152608020
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"hash": 1916876143,
+	"index": 11264,
+	"redacted": false,
+	"blacklisted": false
 }

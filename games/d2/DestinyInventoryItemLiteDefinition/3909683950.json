@@ -1,92 +1,101 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Linear Fusion Rifle", 
-    "damageTypeHashes": [
-        1847026933
-    ], 
-    "secondaryOverlay": "/img/misc/missing_icon_d2.png", 
-    "tooltipNotifications": [], 
-    "defaultDamageTypeHash": 1847026933, 
-    "quality": {
-        "infusionCategoryHash": 2865487836, 
-        "infusionCategoryHashes": [
-            2865487836
-        ], 
-        "infusionCategoryName": "2865487836", 
-        "progressionLevelRequirementHash": 3157915980, 
-        "qualityLevel": 0, 
-        "itemLevels": []
-    }, 
-    "itemType": 3, 
-    "talentGrid": {
-        "talentGridHash": 521135891, 
-        "hudDamageType": 1, 
-        "itemDetailString": "Details"
-    }, 
-    "allowActions": true, 
-    "defaultDamageType": 3, 
-    "summaryItemHash": 3520001075, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 953998645, 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "equippable": true, 
-    "itemTypeDisplayName": "Linear Fusion Rifle", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 22, 
-    "itemCategoryHashes": [
-        4, 
-        1, 
-        9, 
-        1504945536
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": false, 
-    "secondaryIcon": "/common/destiny2_content/icons/33679ff3935b6b925f007181f0959d84.png", 
-    "equippingBlock": {
-        "displayStrings": [
-            ""
-        ], 
-        "equipmentSlotTypeHash": 953998645, 
-        "ammoType": 3, 
-        "equippingSoundHash": 0, 
-        "hornSoundHash": 0, 
-        "attributes": 0, 
-        "uniqueLabelHash": 0
-    }, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "secondarySpecial": "/img/misc/missing_icon_d2.png", 
-    "collectibleHash": 2963869878, 
-    "displaySource": "", 
-    "damageTypes": [
-        3
-    ], 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/a86d4ec4a6b06d2bc18c5b9e7a2517e8.jpg", 
-        "hasIcon": true, 
-        "description": "Do not enter my realm and expect to leave unscathed.", 
-        "name": "Man o' War"
-    }
+	"displayProperties": {
+		"description": "Do not enter my realm and expect to leave unscathed.",
+		"name": "Man o' War",
+		"icon": "/common/destiny2_content/icons/a86d4ec4a6b06d2bc18c5b9e7a2517e8.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"collectibleHash": 2963869878,
+	"secondaryIcon": "/common/destiny2_content/icons/33679ff3935b6b925f007181f0959d84.png",
+	"secondaryOverlay": "/img/misc/missing_icon_d2.png",
+	"secondarySpecial": "/img/misc/missing_icon_d2.png",
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Linear Fusion Rifle",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Linear Fusion Rifle",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 953998645,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"equippingBlock": {
+		"uniqueLabelHash": 0,
+		"equipmentSlotTypeHash": 953998645,
+		"attributes": 0,
+		"equippingSoundHash": 0,
+		"hornSoundHash": 0,
+		"ammoType": 3,
+		"displayStrings": [
+			""
+		]
+	},
+	"quality": {
+		"itemLevels": [],
+		"qualityLevel": 0,
+		"infusionCategoryName": "2865487836",
+		"infusionCategoryHash": 2865487836,
+		"infusionCategoryHashes": [
+			2865487836
+		],
+		"progressionLevelRequirementHash": 3157915980,
+		"currentVersion": 0,
+		"versions": [
+			{
+				"powerCapHash": 1862490583
+			}
+		],
+		"displayVersionWatermarkIcons": [
+			"/common/destiny2_content/icons/0dac2f181f0245cfc64494eccb7db9f7.png"
+		]
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"talentGrid": {
+		"talentGridHash": 521135891,
+		"itemDetailString": "Details",
+		"hudDamageType": 1
+	},
+	"perks": [],
+	"summaryItemHash": 3520001075,
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [
+		4,
+		1,
+		9,
+		1504945536
+	],
+	"specialItemType": 0,
+	"itemType": 3,
+	"itemSubType": 22,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": true,
+	"damageTypeHashes": [
+		1847026933
+	],
+	"damageTypes": [
+		3
+	],
+	"defaultDamageType": 3,
+	"defaultDamageTypeHash": 1847026933,
+	"isWrapper": false
 }

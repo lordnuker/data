@@ -1,100 +1,100 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Quest", 
-    "nonTransferrable": true, 
-    "tooltipNotifications": [], 
-    "itemType": 15, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 2422292810, 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "setData": {
-        "trackingUnlockValueHash": 0, 
-        "setIsFeatured": false, 
-        "itemList": [
-            {
-                "itemHash": 88348293, 
-                "trackingValue": 1795266858
-            }, 
-            {
-                "itemHash": 2576752991, 
-                "trackingValue": -1754866834
-            }, 
-            {
-                "itemHash": 4091533576, 
-                "trackingValue": -533654649
-            }, 
-            {
-                "itemHash": 3763475984, 
-                "trackingValue": 1071523935
-            }, 
-            {
-                "itemHash": 3174068458, 
-                "trackingValue": 48172129
-            }, 
-            {
-                "itemHash": 956899429, 
-                "trackingValue": 1153744146
-            }, 
-            {
-                "itemHash": 3174068459, 
-                "trackingValue": 48172128
-            }, 
-            {
-                "itemHash": 1957318879, 
-                "trackingValue": 2077983696
-            }, 
-            {
-                "itemHash": 3174068456, 
-                "trackingValue": 48172131
-            }
-        ], 
-        "requireOrderedSetItemAdd": true, 
-        "questLineName": "", 
-        "abandonmentUnlockHash": 0, 
-        "setType": "quest_global"
-    }, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Quest", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        53
-    ], 
-    "uiItemDisplayStyle": "", 
-    "secondaryOverlay": "/common/destiny2_content/icons/0669efb55951e8bc9e99f3989eacc861.png", 
-    "secondaryIcon": "/common/destiny2_content/icons/26f6127bddfc01eed965847bc75a6b85.png", 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "secondarySpecial": "/img/misc/missing_icon_d2.png", 
-    "displaySource": "", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/492d8722fb5cdc38d98d557a1c890f71.jpg", 
-        "hasIcon": true, 
-        "description": "", 
-        "name": "Guardians United"
-    }
+	"displayProperties": {
+		"description": "",
+		"name": "Guardians United",
+		"icon": "/common/destiny2_content/icons/492d8722fb5cdc38d98d557a1c890f71.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"secondaryIcon": "/common/destiny2_content/icons/26f6127bddfc01eed965847bc75a6b85.png",
+	"secondaryOverlay": "/common/destiny2_content/icons/0669efb55951e8bc9e99f3989eacc861.png",
+	"secondarySpecial": "/img/misc/missing_icon_d2.png",
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Quest",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Quest",
+	"displaySource": "",
+	"setData": {
+		"itemList": [
+			{
+				"trackingValue": 1795266858,
+				"itemHash": 88348293
+			},
+			{
+				"trackingValue": -1754866834,
+				"itemHash": 2576752991
+			},
+			{
+				"trackingValue": -533654649,
+				"itemHash": 4091533576
+			},
+			{
+				"trackingValue": 1071523935,
+				"itemHash": 3763475984
+			},
+			{
+				"trackingValue": 48172129,
+				"itemHash": 3174068458
+			},
+			{
+				"trackingValue": 1153744146,
+				"itemHash": 956899429
+			},
+			{
+				"trackingValue": 48172128,
+				"itemHash": 3174068459
+			},
+			{
+				"trackingValue": 2077983696,
+				"itemHash": 1957318879
+			},
+			{
+				"trackingValue": 48172131,
+				"itemHash": 3174068456
+			}
+		],
+		"trackingUnlockValueHash": 0,
+		"abandonmentUnlockHash": 0,
+		"requireOrderedSetItemAdd": true,
+		"setIsFeatured": false,
+		"setType": "quest_global",
+		"questLineName": ""
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 2422292810,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		53
+	],
+	"specialItemType": 0,
+	"itemType": 15,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

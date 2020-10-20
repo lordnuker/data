@@ -1,0 +1,95 @@
+{
+	"displayProperties": {
+		"description": "Defeat targets with Void damage, chain precision multikills, and complete Gambit or Reckoning.\n\nHigher tiers of Reckoning and defeating invaders/defeats as an invader grant additional progress.\n\nThe branch, though tempered and bound, still has a ravenous emptiness at its core. Find power on which it can feed.",
+		"name": "Feed",
+		"icon": "/common/destiny2_content/icons/0f2e402cf487150a61b13a77d7298dd3.jpg",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/0f2e402cf487150a61b13a77d7298dd3.jpg",
+					"/common/destiny2_content/icons/dbf893704df0cb85d3e9b288b6c6c11e.png",
+					"/common/destiny2_content/icons/cdcbb1e51c4329ae465b03a43d45ac8c.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [
+		{
+			"displayString": "Expires at the end of Season of Arrivals",
+			"displayStyle": ""
+		}
+	],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Quest Step",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Exotic Quest Step",
+	"displaySource": "\"We cannot deny the Pyramid's power encased within this branch. With it bound through Savathûn's magic and tempered in Calcified Light, we may safely unleash its potential. Exploit this. Let the branch feed upon the Taken, upon those linked to Darkness by Worm or desperate promise, upon those with hearts of malice. From their ruin, we will cast a new weapon.\" –Transmission from Eris Morn",
+	"setData": {
+		"itemList": [
+			{
+				"trackingValue": 25,
+				"itemHash": 3054310538
+			},
+			{
+				"trackingValue": 50,
+				"itemHash": 1960684907
+			},
+			{
+				"trackingValue": 100,
+				"itemHash": 1960684906
+			},
+			{
+				"trackingValue": 200,
+				"itemHash": 1960684905
+			},
+			{
+				"trackingValue": 300,
+				"itemHash": 1960684904
+			}
+		],
+		"trackingUnlockValueHash": 0,
+		"abandonmentUnlockHash": 0,
+		"requireOrderedSetItemAdd": true,
+		"setIsFeatured": false,
+		"setType": "quest_global",
+		"questLineName": "Growth"
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1345459588,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 2759499571,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Exotic",
+		"tierType": 6,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": true,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		16
+	],
+	"specialItemType": 0,
+	"itemType": 12,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
+}

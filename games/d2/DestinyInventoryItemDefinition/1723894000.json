@@ -1,100 +1,100 @@
 {
-    "itemTypeAndTierDisplayName": "Common Emblem", 
-    "nonTransferrable": true, 
-    "investmentStats": [], 
-    "redacted": false, 
-    "tooltipNotifications": [], 
-    "itemType": 14, 
-    "index": 134, 
-    "stats": {
-        "hasDisplayableStats": false, 
-        "primaryBaseStatHash": 0, 
-        "disablePrimaryStatDisplay": false, 
-        "stats": {}
-    }, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Common", 
-        "bucketTypeHash": 4274335291, 
-        "stackUniqueLabel": "emblems.starter_titan1", 
-        "tierTypeHash": 3340296461, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 2, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 2, 
-        "green": 4, 
-        "colorHash": 0, 
-        "red": 107, 
-        "alpha": 255
-    }, 
-    "allowActions": true, 
-    "hash": 1723894000, 
-    "equippable": true, 
-    "itemTypeDisplayName": "Emblem", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "action": {
-        "progressionRewards": [
-            {
-                "amount": 0, 
-                "applyThrottles": false, 
-                "progressionMappingHash": 2596924925
-            }
-        ], 
-        "requiredCooldownHash": 0, 
-        "verbName": "Discard", 
-        "deleteOnAction": true, 
-        "requiredItems": [], 
-        "rewardItemHash": 0, 
-        "useOnAcquire": false, 
-        "isPositive": false, 
-        "requiredCooldownSeconds": 0, 
-        "rewardSheetHash": 0, 
-        "verbDescription": "", 
-        "rewardSiteHash": 0, 
-        "consumeEntireStack": false
-    }, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        19, 
-        52
-    ], 
-    "uiItemDisplayStyle": "", 
-    "secondaryOverlay": "/img/misc/missing_icon_d2.png", 
-    "secondaryIcon": "/common/destiny2_content/icons/c631b18989a9f31ecfe07f5b3432fc0b.jpg", 
-    "equippingBlock": {
-        "displayStrings": [], 
-        "equipmentSlotTypeHash": 4274335291, 
-        "ammoType": 0, 
-        "equippingSoundHash": 0, 
-        "hornSoundHash": 0, 
-        "attributes": 0, 
-        "uniqueLabelHash": 0
-    }, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "secondarySpecial": "/common/destiny2_content/icons/c631b18989a9f31ecfe07f5b3432fc0b.jpg", 
-    "blacklisted": false, 
-    "acquireUnlockHash": 0, 
-    "displaySource": "", 
-    "traitIds": [
-        "item_type.emblem"
-    ], 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/e098bbd0d2304b04fb1afff00a93689d.jpg", 
-        "hasIcon": true, 
-        "description": "", 
-        "name": "Veteran Crest"
-    }
+	"displayProperties": {
+		"description": "",
+		"name": "Veteran Crest",
+		"icon": "/common/destiny2_content/icons/e098bbd0d2304b04fb1afff00a93689d.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"secondaryIcon": "/common/destiny2_content/icons/c631b18989a9f31ecfe07f5b3432fc0b.jpg",
+	"secondaryOverlay": "/img/misc/missing_icon_d2.png",
+	"secondarySpecial": "/common/destiny2_content/icons/c631b18989a9f31ecfe07f5b3432fc0b.jpg",
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 107,
+		"green": 4,
+		"blue": 2,
+		"alpha": 255
+	},
+	"itemTypeDisplayName": "Emblem",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Common Emblem",
+	"displaySource": "",
+	"action": {
+		"verbName": "Discard",
+		"verbDescription": "",
+		"isPositive": false,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [
+			{
+				"progressionMappingHash": 2596924925,
+				"amount": 0,
+				"applyThrottles": false
+			}
+		],
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"stackUniqueLabel": "emblems.starter_titan1",
+		"maxStackSize": 1,
+		"bucketTypeHash": 4274335291,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 3340296461,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Common",
+		"tierType": 2,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"stats": {
+		"disablePrimaryStatDisplay": false,
+		"stats": {},
+		"hasDisplayableStats": false,
+		"primaryBaseStatHash": 0
+	},
+	"equippingBlock": {
+		"uniqueLabelHash": 0,
+		"equipmentSlotTypeHash": 4274335291,
+		"attributes": 0,
+		"equippingSoundHash": 0,
+		"hornSoundHash": 0,
+		"ammoType": 0,
+		"displayStrings": []
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		19,
+		52
+	],
+	"specialItemType": 0,
+	"itemType": 14,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": true,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"traitIds": [
+		"item_type.emblem"
+	],
+	"hash": 1723894000,
+	"index": 135,
+	"redacted": false,
+	"blacklisted": false
 }

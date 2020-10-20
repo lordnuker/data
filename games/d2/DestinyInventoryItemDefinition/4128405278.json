@@ -1,84 +1,84 @@
 {
-    "itemTypeAndTierDisplayName": "Quest", 
-    "nonTransferrable": true, 
-    "investmentStats": [], 
-    "redacted": false, 
-    "tooltipNotifications": [], 
-    "itemType": 15, 
-    "index": 12860, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "bucketTypeHash": 2422292810, 
-        "tierTypeHash": 0, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 0, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "setData": {
-        "trackingUnlockValueHash": 0, 
-        "setIsFeatured": true, 
-        "itemList": [
-            {
-                "itemHash": 904793538, 
-                "trackingValue": 2061508335
-            }
-        ], 
-        "requireOrderedSetItemAdd": true, 
-        "questLineName": "", 
-        "abandonmentUnlockHash": 0, 
-        "setType": "quest_global"
-    }, 
-    "hash": 4128405278, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Quest", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        53
-    ], 
-    "uiItemDisplayStyle": "", 
-    "secondaryOverlay": "/img/misc/missing_icon_d2.png", 
-    "secondaryIcon": "/common/destiny2_content/icons/f6ef2b707a0295f6013a1a71f56df801.png", 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "secondarySpecial": "/img/misc/missing_icon_d2.png", 
-    "blacklisted": false, 
-    "displaySource": "", 
-    "traitIds": [
-        "inventory_filtering.quest"
-    ], 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/f6ef2b707a0295f6013a1a71f56df801.png", 
-                    "/common/destiny2_content/icons/f6ef2b707a0295f6013a1a71f56df801.png", 
-                    "/common/destiny2_content/icons/75fb3c76a10a995e87901c72c8610cff.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/f6ef2b707a0295f6013a1a71f56df801.png", 
-        "hasIcon": true, 
-        "description": "", 
-        "name": "The Lost Cryptarch"
-    }
+	"displayProperties": {
+		"description": "",
+		"name": "The Lost Cryptarch",
+		"icon": "/common/destiny2_content/icons/f6ef2b707a0295f6013a1a71f56df801.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/f6ef2b707a0295f6013a1a71f56df801.png",
+					"/common/destiny2_content/icons/f6ef2b707a0295f6013a1a71f56df801.png",
+					"/common/destiny2_content/icons/75fb3c76a10a995e87901c72c8610cff.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"secondaryIcon": "/common/destiny2_content/icons/f6ef2b707a0295f6013a1a71f56df801.png",
+	"secondaryOverlay": "/img/misc/missing_icon_d2.png",
+	"secondarySpecial": "/img/misc/missing_icon_d2.png",
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Quest",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Quest",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 2422292810,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 0,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierType": 0,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"setData": {
+		"itemList": [
+			{
+				"trackingValue": 2061508335,
+				"itemHash": 904793538
+			}
+		],
+		"trackingUnlockValueHash": 0,
+		"abandonmentUnlockHash": 0,
+		"requireOrderedSetItemAdd": true,
+		"setIsFeatured": true,
+		"setType": "quest_global",
+		"questLineName": ""
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		53
+	],
+	"specialItemType": 0,
+	"itemType": 15,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"traitIds": [
+		"inventory_filtering.quest"
+	],
+	"hash": 4128405278,
+	"index": 13454,
+	"redacted": false,
+	"blacklisted": false
 }

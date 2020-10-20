@@ -1,98 +1,98 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Quest Step", 
-    "itemType": 12, 
-    "tooltipNotifications": [], 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 1345459588, 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "setData": {
-        "trackingUnlockValueHash": 0, 
-        "setIsFeatured": false, 
-        "itemList": [
-            {
-                "itemHash": 2713477421, 
-                "trackingValue": 100
-            }, 
-            {
-                "itemHash": 4257593067, 
-                "trackingValue": 200
-            }
-        ], 
-        "requireOrderedSetItemAdd": true, 
-        "questLineName": "The Wendigo", 
-        "abandonmentUnlockHash": 0, 
-        "setType": "quest_global"
-    }, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Quest Step", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": true, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        16
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "displaySource": "\"I received a gift from the Warlocks of the Abenaki Peaks. They asked me to pass it on to someone who would truly care for it.\" —Commander Zavala", 
-    "value": {
-        "itemValue": [
-            {
-                "itemHash": 578459533, 
-                "quantity": 1
-            }, 
-            {
-                "itemHash": 0, 
-                "quantity": 0
-            }, 
-            {
-                "itemHash": 0, 
-                "quantity": 0
-            }, 
-            {
-                "itemHash": 0, 
-                "quantity": 0
-            }, 
-            {
-                "itemHash": 0, 
-                "quantity": 0
-            }, 
-            {
-                "itemHash": 0, 
-                "quantity": 0
-            }
-        ], 
-        "valueDescription": ""
-    }, 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/00a90404784acabf0e9b48c754ecfff7.jpg", 
-        "hasIcon": true, 
-        "description": "In playlist strikes, get Grenade Launcher multikills, land Grenade Launcher final blows, and earn points by defeating enemy combatants. Death impedes progress, while Grenade Launcher final blows grant the most efficient progress.\n\nThis quest's progress is tracked account-wide.", 
-        "name": "A Gift for the Worthy"
-    }
+	"displayProperties": {
+		"description": "In playlist strikes, get Grenade Launcher multikills, land Grenade Launcher final blows, and earn points by defeating enemy combatants. Death impedes progress, while Grenade Launcher final blows grant the most efficient progress.\n\nThis quest's progress is tracked account-wide.",
+		"name": "A Gift for the Worthy",
+		"icon": "/common/destiny2_content/icons/00a90404784acabf0e9b48c754ecfff7.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Quest Step",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Quest Step",
+	"displaySource": "\"I received a gift from the Warlocks of the Abenaki Peaks. They asked me to pass it on to someone who would truly care for it.\" —Commander Zavala",
+	"setData": {
+		"itemList": [
+			{
+				"trackingValue": 100,
+				"itemHash": 2713477421
+			},
+			{
+				"trackingValue": 200,
+				"itemHash": 4257593067
+			}
+		],
+		"trackingUnlockValueHash": 0,
+		"abandonmentUnlockHash": 0,
+		"requireOrderedSetItemAdd": true,
+		"setIsFeatured": false,
+		"setType": "quest_global",
+		"questLineName": "The Wendigo"
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1345459588,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"value": {
+		"itemValue": [
+			{
+				"itemHash": 578459533,
+				"quantity": 1
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			}
+		],
+		"valueDescription": ""
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": true,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		16
+	],
+	"specialItemType": 0,
+	"itemType": 12,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

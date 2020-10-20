@@ -1,25 +1,25 @@
 {
-    "index": 18, 
-    "activityModeCategory": 2, 
-    "isTeamBased": true, 
-    "tier": 0, 
-    "blacklisted": false, 
-    "pgcrImage": "/img/theme/destiny/bgs/stats/banner_crucible_1.jpg", 
-    "redacted": false, 
-    "order": 1150, 
-    "parentHashes": [
-        3199098480
-    ], 
-    "modeType": 74, 
-    "isAggregateMode": false, 
-    "supportsFeedFiltering": false, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/DestinyActivityModeDefinition_922ae83203f6134bae00937d12eab3a2.png", 
-        "hasIcon": true, 
-        "description": "Stats for Control, when specifically played in Competitive mode.", 
-        "name": "Control: Competitive"
-    }, 
-    "hash": 1340118533, 
-    "friendlyName": "controlCompetitive", 
-    "display": true
+	"displayProperties": {
+		"description": "Stats for Control, when specifically played in Competitive mode.",
+		"name": "Control: Competitive",
+		"icon": "/common/destiny2_content/icons/DestinyActivityModeDefinition_922ae83203f6134bae00937d12eab3a2.png",
+		"hasIcon": true
+	},
+	"pgcrImage": "/img/theme/destiny/bgs/stats/banner_crucible_1.jpg",
+	"modeType": 74,
+	"activityModeCategory": 2,
+	"isTeamBased": true,
+	"tier": 0,
+	"isAggregateMode": false,
+	"parentHashes": [
+		3199098480
+	],
+	"friendlyName": "controlCompetitive",
+	"supportsFeedFiltering": false,
+	"display": true,
+	"order": 1150,
+	"hash": 1340118533,
+	"index": 18,
+	"redacted": false,
+	"blacklisted": false
 }

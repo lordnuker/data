@@ -1,110 +1,110 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Temper Effect", 
-    "translationBlock": {
-        "customDyes": [], 
-        "hasGeometry": false, 
-        "lockedDyes": [], 
-        "weaponPatternHash": 0, 
-        "defaultDyes": [], 
-        "arrangements": []
-    }, 
-    "itemType": 19, 
-    "investmentStats": [], 
-    "redacted": false, 
-    "tooltipNotifications": [], 
-    "index": 6591, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 3313201758, 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1000, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "hash": 476903106, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Temper Effect", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/39706745570848466229876e1e3bd662.jpg", 
-        "hasIcon": true, 
-        "description": "Increases damage during forge ignitions.", 
-        "name": "Obsidian Radiance"
-    }, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        59
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": false, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "plug": {
-        "insertionMaterialRequirementHash": 1463078728, 
-        "actionRewardSiteHash": 0, 
-        "enabledMaterialRequirementHash": 0, 
-        "previewItemOverrideHash": 0, 
-        "insertionRules": [
-            {
-                "failureMessage": "Requires Mod Item"
-            }
-        ], 
-        "enabledRules": [], 
-        "plugCategoryHash": 797011344, 
-        "plugCategoryIdentifier": "v410_armory_vfx0", 
-        "onActionRecreateSelf": false, 
-        "plugStyle": 0, 
-        "isDummyPlug": false, 
-        "actionRewardItemOverrideHash": 0, 
-        "uiPlugLabel": "", 
-        "alternatePlugStyle": 0, 
-        "alternateUiPlugLabel": "", 
-        "plugAvailability": 0
-    }, 
-    "blacklisted": false, 
-    "acquireUnlockHash": 0, 
-    "displaySource": "", 
-    "traitIds": [
-        "item_type.consumable"
-    ], 
-    "perks": [
-        {
-            "requirementDisplayString": "", 
-            "perkHash": 262795950, 
-            "perkVisibility": 0
-        }
-    ], 
-    "specialItemType": 0, 
-    "action": {
-        "progressionRewards": [], 
-        "requiredCooldownHash": 0, 
-        "verbName": "Dismantle", 
-        "deleteOnAction": true, 
-        "requiredItems": [], 
-        "rewardItemHash": 0, 
-        "useOnAcquire": false, 
-        "isPositive": false, 
-        "requiredCooldownSeconds": 0, 
-        "rewardSheetHash": 0, 
-        "verbDescription": "", 
-        "rewardSiteHash": 0, 
-        "consumeEntireStack": false
-    }
+	"displayProperties": {
+		"description": "Increases damage during forge ignitions.",
+		"name": "Obsidian Radiance",
+		"icon": "/common/destiny2_content/icons/39706745570848466229876e1e3bd662.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Temper Effect",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Temper Effect",
+	"displaySource": "",
+	"action": {
+		"verbName": "Dismantle",
+		"verbDescription": "",
+		"isPositive": false,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"maxStackSize": 1000,
+		"bucketTypeHash": 3313201758,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"translationBlock": {
+		"weaponPatternHash": 0,
+		"defaultDyes": [],
+		"lockedDyes": [],
+		"customDyes": [],
+		"arrangements": [],
+		"hasGeometry": false
+	},
+	"plug": {
+		"insertionRules": [
+			{
+				"failureMessage": "Requires Mod Item"
+			}
+		],
+		"plugCategoryIdentifier": "v410_armory_vfx0",
+		"plugCategoryHash": 797011344,
+		"onActionRecreateSelf": false,
+		"actionRewardSiteHash": 0,
+		"actionRewardItemOverrideHash": 0,
+		"insertionMaterialRequirementHash": 1463078728,
+		"previewItemOverrideHash": 0,
+		"enabledMaterialRequirementHash": 0,
+		"enabledRules": [],
+		"uiPlugLabel": "",
+		"plugStyle": 0,
+		"plugAvailability": 0,
+		"alternateUiPlugLabel": "",
+		"alternatePlugStyle": 0,
+		"isDummyPlug": false
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [
+		{
+			"requirementDisplayString": "",
+			"perkHash": 262795950,
+			"perkVisibility": 0
+		}
+	],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [
+		59
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"traitIds": [
+		"item_type.consumable"
+	],
+	"hash": 476903106,
+	"index": 6627,
+	"redacted": false,
+	"blacklisted": false
 }

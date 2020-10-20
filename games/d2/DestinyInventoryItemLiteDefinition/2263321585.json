@@ -1,0 +1,75 @@
+{
+	"displayProperties": {
+		"description": "This mod imposes a stat penalty when socketed in exchange for a reduced energy cost.",
+		"name": "Surprise Attack",
+		"icon": "/common/destiny2_content/icons/3e6d75b52c6fa0436ba033c1ebeb1afa.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/3e6d75b52c6fa0436ba033c1ebeb1afa.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/44e9df235453f6c12c14bd34bb56c72e.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Arrival Armor Mod",
+	"uiItemDisplayStyle": "ui_display_style_energy_mod",
+	"itemTypeAndTierDisplayName": "Common Arrival Armor Mod",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 2422292810,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 3340296461,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Common",
+		"tierType": 2,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [
+		{
+			"requirementDisplayString": "",
+			"perkHash": 1635305261,
+			"perkVisibility": 1
+		},
+		{
+			"requirementDisplayString": "",
+			"perkHash": 1516012123,
+			"perkVisibility": 1
+		}
+	],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		59,
+		4104513227
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
+}

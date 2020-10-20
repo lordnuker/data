@@ -1,31 +1,31 @@
 {
-    "index": 18, 
-    "hash": 1766068284, 
-    "blacklisted": false, 
-    "presentationNodeType": 4, 
-    "trackingObjectiveHash": 1088914217, 
-    "traitHashes": [
-        1434215347, 
-        2356777566
-    ], 
-    "redacted": false, 
-    "traitIds": [], 
-    "parentNodeHashes": [
-        565440981
-    ], 
-    "lowerValueIsBetter": false, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/e7eadf253fdf8e1a60edd7fb9ec1e4af.png", 
-                    "/common/destiny2_content/icons/9662e47f74160f8142210bceb0874443.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/e7eadf253fdf8e1a60edd7fb9ec1e4af.png", 
-        "hasIcon": true, 
-        "description": "The number of Final Blows in Crucible matches this week.", 
-        "name": "Final Blows"
-    }
+	"displayProperties": {
+		"description": "The number of opponents defeated in Crucible matches this week.",
+		"name": "Opponents Defeated",
+		"icon": "/common/destiny2_content/icons/e7eadf253fdf8e1a60edd7fb9ec1e4af.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/e7eadf253fdf8e1a60edd7fb9ec1e4af.png",
+					"/common/destiny2_content/icons/9662e47f74160f8142210bceb0874443.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"trackingObjectiveHash": 1088914217,
+	"lowerValueIsBetter": false,
+	"presentationNodeType": 4,
+	"traitIds": [],
+	"traitHashes": [
+		1434215347,
+		2356777566
+	],
+	"parentNodeHashes": [
+		565440981
+	],
+	"hash": 1766068284,
+	"index": 45,
+	"redacted": false,
+	"blacklisted": false
 }

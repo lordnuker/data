@@ -1,165 +1,165 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Armor Ornament", 
-    "translationBlock": {
-        "customDyes": [], 
-        "hasGeometry": true, 
-        "lockedDyes": [], 
-        "weaponPatternHash": 0, 
-        "defaultDyes": [
-            {
-                "dyeHash": 897033771, 
-                "channelHash": 662199250
-            }, 
-            {
-                "dyeHash": 185245382, 
-                "channelHash": 1367384683
-            }, 
-            {
-                "dyeHash": 1778975357, 
-                "channelHash": 218592586
-            }
-        ], 
-        "arrangements": [
-            {
-                "classHash": 0, 
-                "artArrangementHash": 1407551061
-            }
-        ]
-    }, 
-    "itemType": 19, 
-    "investmentStats": [], 
-    "redacted": false, 
-    "tooltipNotifications": [], 
-    "index": 3133, 
-    "allowActions": true, 
-    "equippable": false, 
-    "objectives": {
-        "objectiveVerbName": "", 
-        "requireFullObjectiveCompletion": true, 
-        "questTypeIdentifier": "", 
-        "perObjectiveDisplayProperties": [
-            {
-                "displayOnItemPreviewScreen": false
-            }
-        ], 
-        "objectiveHashes": [
-            2042530926
-        ], 
-        "displayAsStatTracker": false, 
-        "useOnObjectiveCompletion": false, 
-        "completionRewardSiteHash": 0, 
-        "timestampUnlockValueHash": 0, 
-        "questlineItemHash": 0, 
-        "isGlobalObjectiveItem": false, 
-        "inhibitCompletionUnlockValueHash": 0, 
-        "narrative": "", 
-        "displayActivityHashes": [
-            2166136261
-        ], 
-        "nextQuestStepRewardSiteHash": 0, 
-        "questTypeHash": 2166136261
-    }, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 3313201758, 
-        "stackUniqueLabel": "v310.plugs.armor.skins.hunter.crucible.v300_head0_skin0", 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "preview": {
-        "screenStyle": "screen_style_sockets", 
-        "previewVendorHash": 0, 
-        "previewActionString": "Preview"
-    }, 
-    "hash": 2806246104, 
-    "screenshot": "/common/destiny2_content/screenshots/2806246104.jpg", 
-    "itemTypeDisplayName": "Armor Ornament", 
-    "isWrapper": false, 
-    "classType": 1, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "action": {
-        "progressionRewards": [], 
-        "requiredCooldownHash": 0, 
-        "verbName": "Unlock", 
-        "deleteOnAction": true, 
-        "requiredItems": [], 
-        "rewardItemHash": 0, 
-        "useOnAcquire": false, 
-        "isPositive": true, 
-        "requiredCooldownSeconds": 0, 
-        "rewardSheetHash": 0, 
-        "verbDescription": "", 
-        "rewardSiteHash": 0, 
-        "consumeEntireStack": false
-    }, 
-    "itemSubType": 21, 
-    "itemCategoryHashes": [
-        56, 
-        52, 
-        59, 
-        3683250363, 
-        1742617626, 
-        4104513227
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": false, 
-    "tooltipStyle": "record", 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "plug": {
-        "insertionMaterialRequirementHash": 0, 
-        "actionRewardSiteHash": 0, 
-        "enabledMaterialRequirementHash": 0, 
-        "previewItemOverrideHash": 0, 
-        "insertionRules": [
-            {
-                "failureMessage": "Requires Destiny 2: Curse of Osiris"
-            }, 
-            {
-                "failureMessage": "Complete Objective to Unlock"
-            }
-        ], 
-        "enabledRules": [], 
-        "plugCategoryHash": 1122092347, 
-        "plugCategoryIdentifier": "v300_armor_skins_hunter_crucible_head0", 
-        "onActionRecreateSelf": false, 
-        "plugStyle": 0, 
-        "isDummyPlug": false, 
-        "actionRewardItemOverrideHash": 0, 
-        "uiPlugLabel": "", 
-        "alternatePlugStyle": 0, 
-        "alternateUiPlugLabel": "", 
-        "plugAvailability": 0
-    }, 
-    "blacklisted": false, 
-    "acquireUnlockHash": 0, 
-    "collectibleHash": 284943749, 
-    "displaySource": "", 
-    "traitIds": [
-        "faction.crucible"
-    ], 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/60075311cd1756ac2c8c5ea275dac49e.jpg", 
-        "hasIcon": true, 
-        "description": "Complete Heroic strikes during Season 2 to earn this ornament. It's unlocked for all Crucible armor sets.", 
-        "name": "Soaring Sword Ornament"
-    }
+	"displayProperties": {
+		"description": "Complete Heroic strikes during Season 2 to earn this ornament. It's unlocked for all Crucible armor sets.",
+		"name": "Soaring Sword Ornament",
+		"icon": "/common/destiny2_content/icons/60075311cd1756ac2c8c5ea275dac49e.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"collectibleHash": 284943749,
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"screenshot": "/common/destiny2_content/screenshots/2806246104.jpg",
+	"itemTypeDisplayName": "Armor Ornament",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Armor Ornament",
+	"displaySource": "",
+	"tooltipStyle": "record",
+	"action": {
+		"verbName": "Unlock",
+		"verbDescription": "",
+		"isPositive": true,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"stackUniqueLabel": "v310.plugs.armor.skins.hunter.crucible.v300_head0_skin0",
+		"maxStackSize": 1,
+		"bucketTypeHash": 3313201758,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"translationBlock": {
+		"weaponPatternHash": 0,
+		"defaultDyes": [
+			{
+				"channelHash": 662199250,
+				"dyeHash": 897033771
+			},
+			{
+				"channelHash": 1367384683,
+				"dyeHash": 185245382
+			},
+			{
+				"channelHash": 218592586,
+				"dyeHash": 1778975357
+			}
+		],
+		"lockedDyes": [],
+		"customDyes": [],
+		"arrangements": [
+			{
+				"classHash": 0,
+				"artArrangementHash": 1407551061
+			}
+		],
+		"hasGeometry": true
+	},
+	"preview": {
+		"screenStyle": "screen_style_sockets",
+		"previewVendorHash": 0,
+		"previewActionString": "Preview"
+	},
+	"objectives": {
+		"objectiveHashes": [
+			2042530926
+		],
+		"displayActivityHashes": [
+			2166136261
+		],
+		"requireFullObjectiveCompletion": true,
+		"questlineItemHash": 0,
+		"narrative": "",
+		"objectiveVerbName": "",
+		"questTypeIdentifier": "",
+		"questTypeHash": 2166136261,
+		"completionRewardSiteHash": 0,
+		"nextQuestStepRewardSiteHash": 0,
+		"timestampUnlockValueHash": 0,
+		"isGlobalObjectiveItem": false,
+		"useOnObjectiveCompletion": false,
+		"inhibitCompletionUnlockValueHash": 0,
+		"perObjectiveDisplayProperties": [
+			{
+				"displayOnItemPreviewScreen": false
+			}
+		],
+		"displayAsStatTracker": false
+	},
+	"plug": {
+		"insertionRules": [
+			{
+				"failureMessage": "Requires Destiny 2: Curse of Osiris"
+			},
+			{
+				"failureMessage": "Complete Objective to Unlock"
+			}
+		],
+		"plugCategoryIdentifier": "v300_armor_skins_hunter_crucible_head0",
+		"plugCategoryHash": 1122092347,
+		"onActionRecreateSelf": false,
+		"actionRewardSiteHash": 0,
+		"actionRewardItemOverrideHash": 0,
+		"insertionMaterialRequirementHash": 0,
+		"previewItemOverrideHash": 0,
+		"enabledMaterialRequirementHash": 0,
+		"enabledRules": [],
+		"uiPlugLabel": "",
+		"plugStyle": 0,
+		"plugAvailability": 0,
+		"alternateUiPlugLabel": "",
+		"alternatePlugStyle": 0,
+		"isDummyPlug": false
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [
+		56,
+		52,
+		59,
+		3683250363,
+		1742617626,
+		4104513227
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 21,
+	"classType": 1,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"traitIds": [
+		"faction.crucible"
+	],
+	"hash": 2806246104,
+	"index": 3169,
+	"redacted": false,
+	"blacklisted": false
 }

@@ -1,32 +1,32 @@
 {
-    "index": 139, 
-    "hash": 301249970, 
-    "blacklisted": false, 
-    "presentationNodeType": 4, 
-    "trackingObjectiveHash": 262395775, 
-    "traitHashes": [
-        1434215347, 
-        4263853822
-    ], 
-    "redacted": false, 
-    "traitIds": [], 
-    "parentNodeHashes": [
-        3722177789, 
-        2872327703
-    ], 
-    "lowerValueIsBetter": false, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/7227ca0ca5b82026ec7f146505ec35b0.png", 
-                    "/common/destiny2_content/icons/593f5f61553bf6a9901412890854626c.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/7227ca0ca5b82026ec7f146505ec35b0.png", 
-        "hasIcon": true, 
-        "description": "The number of Guardians carried to their first flawless ticket while the player has the Light for the Lost emblem equipped.\n\nTracks from Season 10 onward.", 
-        "name": "Lighthouse Carries"
-    }
+	"displayProperties": {
+		"description": "The number of Guardians carried to their first flawless ticket while the player has the Light for the Lost emblem equipped.\n\nTracks from Season 10 onward.",
+		"name": "Lighthouse Carries",
+		"icon": "/common/destiny2_content/icons/7227ca0ca5b82026ec7f146505ec35b0.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/7227ca0ca5b82026ec7f146505ec35b0.png",
+					"/common/destiny2_content/icons/593f5f61553bf6a9901412890854626c.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"trackingObjectiveHash": 262395775,
+	"lowerValueIsBetter": false,
+	"presentationNodeType": 4,
+	"traitIds": [],
+	"traitHashes": [
+		1434215347,
+		4263853822
+	],
+	"parentNodeHashes": [
+		3722177789,
+		2872327703
+	],
+	"hash": 301249970,
+	"index": 192,
+	"redacted": false,
+	"blacklisted": false
 }

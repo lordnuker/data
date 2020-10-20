@@ -1,81 +1,81 @@
 {
-    "itemTypeAndTierDisplayName": "Rare Consumable", 
-    "itemType": 19, 
-    "investmentStats": [], 
-    "redacted": false, 
-    "tooltipNotifications": [], 
-    "index": 180, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Rare", 
-        "bucketTypeHash": 1469714392, 
-        "stackUniqueLabel": "v410.plugs.quests.dawning.reagent_mix0", 
-        "tierTypeHash": 2127292149, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 9999, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 4, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "hash": 1410252468, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Consumable", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        35, 
-        52, 
-        59
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": false, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "plug": {
-        "insertionMaterialRequirementHash": 518484847, 
-        "actionRewardSiteHash": 0, 
-        "enabledMaterialRequirementHash": 0, 
-        "previewItemOverrideHash": 0, 
-        "insertionRules": [
-            {
-                "failureMessage": "Add Ingredients First"
-            }
-        ], 
-        "enabledRules": [], 
-        "plugCategoryHash": 518484847, 
-        "plugCategoryIdentifier": "events.dawning.oven.combine", 
-        "onActionRecreateSelf": false, 
-        "plugStyle": 0, 
-        "isDummyPlug": false, 
-        "actionRewardItemOverrideHash": 0, 
-        "uiPlugLabel": "", 
-        "alternatePlugStyle": 0, 
-        "alternateUiPlugLabel": "", 
-        "plugAvailability": 0
-    }, 
-    "blacklisted": false, 
-    "displaySource": "", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/f9aa6dcb0e29d7536e2a2f34c6f604cd.jpg", 
-        "hasIcon": true, 
-        "description": "An ingredient needed for all recipes. It embodies the spirit of the Dawning and can be found by completing activities and challenges anywhere in the system.", 
-        "name": "Essence of Dawning"
-    }
+	"displayProperties": {
+		"description": "An ingredient needed for all recipes. It embodies the spirit of the Dawning and can be found by completing activities and challenges anywhere in the system.",
+		"name": "Essence of Dawning",
+		"icon": "/common/destiny2_content/icons/f9aa6dcb0e29d7536e2a2f34c6f604cd.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Consumable",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Rare Consumable",
+	"displaySource": "",
+	"inventory": {
+		"stackUniqueLabel": "v410.plugs.quests.dawning.reagent_mix0",
+		"maxStackSize": 9999,
+		"bucketTypeHash": 1469714392,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 2127292149,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Rare",
+		"tierType": 4,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"plug": {
+		"insertionRules": [
+			{
+				"failureMessage": "Add Ingredients First"
+			}
+		],
+		"plugCategoryIdentifier": "events.dawning.oven.combine",
+		"plugCategoryHash": 518484847,
+		"onActionRecreateSelf": false,
+		"actionRewardSiteHash": 0,
+		"actionRewardItemOverrideHash": 0,
+		"insertionMaterialRequirementHash": 518484847,
+		"previewItemOverrideHash": 0,
+		"enabledMaterialRequirementHash": 0,
+		"enabledRules": [],
+		"uiPlugLabel": "",
+		"plugStyle": 0,
+		"plugAvailability": 0,
+		"alternateUiPlugLabel": "",
+		"alternatePlugStyle": 0,
+		"isDummyPlug": false
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [
+		35,
+		52,
+		59
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"hash": 1410252468,
+	"index": 173,
+	"redacted": false,
+	"blacklisted": false
 }

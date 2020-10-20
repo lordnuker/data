@@ -1,459 +1,468 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Grenade Launcher", 
-    "damageTypeHashes": [
-        3454344768
-    ], 
-    "translationBlock": {
-        "customDyes": [], 
-        "hasGeometry": true, 
-        "lockedDyes": [], 
-        "weaponPatternHash": 4144743707, 
-        "defaultDyes": [
-            {
-                "dyeHash": 3241393512, 
-                "channelHash": 1667433279
-            }, 
-            {
-                "dyeHash": 3241393513, 
-                "channelHash": 1667433278
-            }, 
-            {
-                "dyeHash": 3241393514, 
-                "channelHash": 1667433277
-            }
-        ], 
-        "arrangements": [
-            {
-                "classHash": 0, 
-                "artArrangementHash": 3252697558
-            }
-        ]
-    }, 
-    "itemType": 3, 
-    "investmentStats": [
-        {
-            "value": 0, 
-            "statTypeHash": 1480404414, 
-            "isConditionallyActive": false
-        }, 
-        {
-            "value": 0, 
-            "statTypeHash": 1935470627, 
-            "isConditionallyActive": false
-        }, 
-        {
-            "value": 0, 
-            "statTypeHash": 1885944937, 
-            "isConditionallyActive": false
-        }, 
-        {
-            "value": 13, 
-            "statTypeHash": 3555269338, 
-            "isConditionallyActive": false
-        }, 
-        {
-            "value": 10, 
-            "statTypeHash": 4284893193, 
-            "isConditionallyActive": false
-        }, 
-        {
-            "value": 100, 
-            "statTypeHash": 3614673599, 
-            "isConditionallyActive": false
-        }, 
-        {
-            "value": 74, 
-            "statTypeHash": 2523465841, 
-            "isConditionallyActive": false
-        }, 
-        {
-            "value": 18, 
-            "statTypeHash": 155624089, 
-            "isConditionallyActive": false
-        }, 
-        {
-            "value": 0, 
-            "statTypeHash": 3871231066, 
-            "isConditionallyActive": false
-        }, 
-        {
-            "value": 71, 
-            "statTypeHash": 4188031367, 
-            "isConditionallyActive": false
-        }, 
-        {
-            "value": 65, 
-            "statTypeHash": 1931675084, 
-            "isConditionallyActive": false
-        }, 
-        {
-            "value": 69, 
-            "statTypeHash": 943549884, 
-            "isConditionallyActive": false
-        }, 
-        {
-            "value": 79, 
-            "statTypeHash": 1345609583, 
-            "isConditionallyActive": false
-        }, 
-        {
-            "value": 70, 
-            "statTypeHash": 2715839340, 
-            "isConditionallyActive": false
-        }
-    ], 
-    "redacted": false, 
-    "tooltipNotifications": [], 
-    "defaultDamageTypeHash": 3454344768, 
-    "quality": {
-        "infusionCategoryHash": 2806069436, 
-        "infusionCategoryHashes": [
-            2806069436
-        ], 
-        "infusionCategoryName": "2806069436", 
-        "progressionLevelRequirementHash": 3157915980, 
-        "qualityLevel": 0, 
-        "itemLevels": []
-    }, 
-    "sockets": {
-        "socketEntries": [
-            {
-                "reusablePlugItems": [], 
-                "preventInitializationOnVendorPurchase": false, 
-                "reusablePlugSetHash": 455, 
-                "preventInitializationWhenVersioning": false, 
-                "overridesUiAppearance": false, 
-                "hidePerksInItemTooltip": false, 
-                "singleInitialItemHash": 474269988, 
-                "socketTypeHash": 3956125808, 
-                "defaultVisible": true, 
-                "plugSources": 6
-            }, 
-            {
-                "reusablePlugItems": [], 
-                "preventInitializationOnVendorPurchase": false, 
-                "reusablePlugSetHash": 557, 
-                "preventInitializationWhenVersioning": false, 
-                "overridesUiAppearance": false, 
-                "hidePerksInItemTooltip": false, 
-                "singleInitialItemHash": 1844523823, 
-                "socketTypeHash": 1656112293, 
-                "defaultVisible": true, 
-                "plugSources": 6
-            }, 
-            {
-                "reusablePlugItems": [], 
-                "preventInitializationOnVendorPurchase": false, 
-                "reusablePlugSetHash": 558, 
-                "preventInitializationWhenVersioning": false, 
-                "overridesUiAppearance": false, 
-                "hidePerksInItemTooltip": false, 
-                "singleInitialItemHash": 1716000303, 
-                "socketTypeHash": 4246926293, 
-                "defaultVisible": true, 
-                "plugSources": 6
-            }, 
-            {
-                "reusablePlugItems": [], 
-                "preventInitializationOnVendorPurchase": false, 
-                "reusablePlugSetHash": 297, 
-                "preventInitializationWhenVersioning": false, 
-                "overridesUiAppearance": false, 
-                "hidePerksInItemTooltip": false, 
-                "singleInitialItemHash": 706527188, 
-                "socketTypeHash": 2614797986, 
-                "defaultVisible": true, 
-                "plugSources": 6
-            }, 
-            {
-                "reusablePlugItems": [], 
-                "preventInitializationOnVendorPurchase": false, 
-                "preventInitializationWhenVersioning": false, 
-                "overridesUiAppearance": false, 
-                "hidePerksInItemTooltip": false, 
-                "singleInitialItemHash": 3728733956, 
-                "socketTypeHash": 1466776700, 
-                "defaultVisible": false, 
-                "plugSources": 1
-            }, 
-            {
-                "reusablePlugItems": [], 
-                "preventInitializationOnVendorPurchase": false, 
-                "preventInitializationWhenVersioning": false, 
-                "overridesUiAppearance": false, 
-                "hidePerksInItemTooltip": false, 
-                "singleInitialItemHash": 0, 
-                "socketTypeHash": 0, 
-                "defaultVisible": false, 
-                "plugSources": 1
-            }, 
-            {
-                "reusablePlugItems": [], 
-                "preventInitializationOnVendorPurchase": false, 
-                "reusablePlugSetHash": 4, 
-                "preventInitializationWhenVersioning": false, 
-                "overridesUiAppearance": false, 
-                "hidePerksInItemTooltip": false, 
-                "singleInitialItemHash": 4248210736, 
-                "socketTypeHash": 1288200359, 
-                "defaultVisible": true, 
-                "plugSources": 7
-            }, 
-            {
-                "reusablePlugItems": [], 
-                "preventInitializationOnVendorPurchase": true, 
-                "reusablePlugSetHash": 144918107, 
-                "preventInitializationWhenVersioning": false, 
-                "overridesUiAppearance": false, 
-                "hidePerksInItemTooltip": false, 
-                "singleInitialItemHash": 236077174, 
-                "socketTypeHash": 3445647266, 
-                "defaultVisible": true, 
-                "plugSources": 5
-            }
-        ], 
-        "socketCategories": [
-            {
-                "socketIndexes": [
-                    0
-                ], 
-                "socketCategoryHash": 3956125808
-            }, 
-            {
-                "socketIndexes": [
-                    1, 
-                    2, 
-                    3
-                ], 
-                "socketCategoryHash": 4241085061
-            }, 
-            {
-                "socketIndexes": [
-                    4, 
-                    7
-                ], 
-                "socketCategoryHash": 2685412949
-            }, 
-            {
-                "socketIndexes": [
-                    6
-                ], 
-                "socketCategoryHash": 2048875504
-            }
-        ], 
-        "detail": "Details", 
-        "intrinsicSockets": [
-            {
-                "socketTypeHash": 2417061929, 
-                "plugItemHash": 3690882495, 
-                "defaultVisible": true
-            }
-        ]
-    }, 
-    "talentGrid": {
-        "talentGridHash": 521135891, 
-        "hudDamageType": 1, 
-        "itemDetailString": "Details"
-    }, 
-    "index": 2068, 
-    "stats": {
-        "hasDisplayableStats": true, 
-        "primaryBaseStatHash": 1480404414, 
-        "disablePrimaryStatDisplay": false, 
-        "stats": {
-            "1345609583": {
-                "statHash": 1345609583, 
-                "minimum": 0, 
-                "maximum": 0, 
-                "value": 79, 
-                "displayMaximum": 100
-            }, 
-            "1931675084": {
-                "statHash": 1931675084, 
-                "minimum": 0, 
-                "maximum": 0, 
-                "value": 65, 
-                "displayMaximum": 100
-            }, 
-            "3614673599": {
-                "statHash": 3614673599, 
-                "minimum": 0, 
-                "maximum": 0, 
-                "value": 55, 
-                "displayMaximum": 100
-            }, 
-            "2715839340": {
-                "statHash": 2715839340, 
-                "minimum": 0, 
-                "maximum": 0, 
-                "value": 70, 
-                "displayMaximum": 100
-            }, 
-            "3555269338": {
-                "statHash": 3555269338, 
-                "minimum": 0, 
-                "maximum": 0, 
-                "value": 13, 
-                "displayMaximum": 100
-            }, 
-            "1935470627": {
-                "statHash": 1935470627, 
-                "minimum": 0, 
-                "maximum": 0, 
-                "value": 0, 
-                "displayMaximum": 100
-            }, 
-            "4188031367": {
-                "statHash": 4188031367, 
-                "minimum": 0, 
-                "maximum": 0, 
-                "value": 74, 
-                "displayMaximum": 100
-            }, 
-            "3871231066": {
-                "statHash": 3871231066, 
-                "minimum": 0, 
-                "maximum": 0, 
-                "value": 1, 
-                "displayMaximum": 100
-            }, 
-            "1885944937": {
-                "statHash": 1885944937, 
-                "minimum": 0, 
-                "maximum": 0, 
-                "value": 0, 
-                "displayMaximum": 100
-            }, 
-            "4284893193": {
-                "statHash": 4284893193, 
-                "minimum": 0, 
-                "maximum": 0, 
-                "value": 90, 
-                "displayMaximum": 100
-            }, 
-            "1480404414": {
-                "statHash": 1480404414, 
-                "minimum": 0, 
-                "maximum": 0, 
-                "value": 0, 
-                "displayMaximum": 100
-            }, 
-            "2523465841": {
-                "statHash": 2523465841, 
-                "minimum": 0, 
-                "maximum": 0, 
-                "value": 77, 
-                "displayMaximum": 100
-            }, 
-            "943549884": {
-                "statHash": 943549884, 
-                "minimum": 0, 
-                "maximum": 0, 
-                "value": 72, 
-                "displayMaximum": 100
-            }, 
-            "155624089": {
-                "statHash": 155624089, 
-                "minimum": 0, 
-                "maximum": 0, 
-                "value": 26, 
-                "displayMaximum": 100
-            }
-        }, 
-        "statGroupHash": 1619480249
-    }, 
-    "equippable": true, 
-    "defaultDamageType": 4, 
-    "summaryItemHash": 3520001075, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 2465295065, 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 255, 
-        "green": 255, 
-        "colorHash": 0, 
-        "red": 255, 
-        "alpha": 255
-    }, 
-    "specialItemType": 0, 
-    "preview": {
-        "screenStyle": "screen_style_sockets", 
-        "previewVendorHash": 0, 
-        "previewActionString": ""
-    }, 
-    "hash": 3252697558, 
-    "screenshot": "/common/destiny2_content/screenshots/3252697558.jpg", 
-    "itemTypeDisplayName": "Grenade Launcher", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/5f87d8f5a88b2ae8ae4ae2d815ebe1eb.jpg", 
-        "hasIcon": true, 
-        "description": "\"If we wish others to accept the grim reality, we must break through every comforting illusion.\" —Arach Jalaal", 
-        "name": "Truthteller"
-    }, 
-    "itemSubType": 23, 
-    "allowActions": true, 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": false, 
-    "equippingBlock": {
-        "displayStrings": [
-            ""
-        ], 
-        "equipmentSlotTypeHash": 2465295065, 
-        "ammoType": 2, 
-        "equippingSoundHash": 0, 
-        "hornSoundHash": 0, 
-        "attributes": 0, 
-        "uniqueLabelHash": 0
-    }, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "blacklisted": false, 
-    "acquireUnlockHash": 0, 
-    "collectibleHash": 2796429567, 
-    "displaySource": "", 
-    "traitIds": [
-        "faction.dead_orbit", 
-        "foundry.field_forged", 
-        "item_type.weapon", 
-        "weapon_type.grenade_launcher"
-    ], 
-    "damageTypes": [
-        4
-    ], 
-    "perks": [], 
-    "itemCategoryHashes": [
-        3, 
-        1, 
-        153950757
-    ], 
-    "action": {
-        "progressionRewards": [], 
-        "requiredCooldownHash": 0, 
-        "verbName": "Dismantle", 
-        "deleteOnAction": true, 
-        "requiredItems": [], 
-        "rewardItemHash": 0, 
-        "actionTypeLabel": "shard", 
-        "useOnAcquire": false, 
-        "isPositive": false, 
-        "requiredCooldownSeconds": 0, 
-        "rewardSheetHash": 0, 
-        "verbDescription": "", 
-        "rewardSiteHash": 0, 
-        "consumeEntireStack": false
-    }
+	"displayProperties": {
+		"description": "\"If we wish others to accept the grim reality, we must break through every comforting illusion.\" —Arach Jalaal",
+		"name": "Truthteller",
+		"icon": "/common/destiny2_content/icons/cc5101e4e22234770293284828519ae1.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"collectibleHash": 2796429567,
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 255,
+		"green": 255,
+		"blue": 255,
+		"alpha": 255
+	},
+	"screenshot": "/common/destiny2_content/screenshots/3252697558.jpg",
+	"itemTypeDisplayName": "Grenade Launcher",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Grenade Launcher",
+	"displaySource": "",
+	"action": {
+		"verbName": "Dismantle",
+		"verbDescription": "",
+		"isPositive": false,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"actionTypeLabel": "shard",
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 2465295065,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"stats": {
+		"disablePrimaryStatDisplay": false,
+		"statGroupHash": 1619480249,
+		"stats": {
+			"155624089": {
+				"statHash": 155624089,
+				"value": 26,
+				"minimum": 0,
+				"maximum": 0,
+				"displayMaximum": 100
+			},
+			"943549884": {
+				"statHash": 943549884,
+				"value": 72,
+				"minimum": 0,
+				"maximum": 0,
+				"displayMaximum": 100
+			},
+			"1345609583": {
+				"statHash": 1345609583,
+				"value": 79,
+				"minimum": 0,
+				"maximum": 0,
+				"displayMaximum": 100
+			},
+			"1480404414": {
+				"statHash": 1480404414,
+				"value": 0,
+				"minimum": 0,
+				"maximum": 0,
+				"displayMaximum": 100
+			},
+			"1885944937": {
+				"statHash": 1885944937,
+				"value": 0,
+				"minimum": 0,
+				"maximum": 0,
+				"displayMaximum": 100
+			},
+			"1931675084": {
+				"statHash": 1931675084,
+				"value": 65,
+				"minimum": 0,
+				"maximum": 0,
+				"displayMaximum": 100
+			},
+			"1935470627": {
+				"statHash": 1935470627,
+				"value": 0,
+				"minimum": 0,
+				"maximum": 0,
+				"displayMaximum": 100
+			},
+			"2523465841": {
+				"statHash": 2523465841,
+				"value": 77,
+				"minimum": 0,
+				"maximum": 0,
+				"displayMaximum": 100
+			},
+			"2715839340": {
+				"statHash": 2715839340,
+				"value": 70,
+				"minimum": 0,
+				"maximum": 0,
+				"displayMaximum": 100
+			},
+			"3555269338": {
+				"statHash": 3555269338,
+				"value": 13,
+				"minimum": 0,
+				"maximum": 0,
+				"displayMaximum": 100
+			},
+			"3614673599": {
+				"statHash": 3614673599,
+				"value": 55,
+				"minimum": 0,
+				"maximum": 0,
+				"displayMaximum": 100
+			},
+			"3871231066": {
+				"statHash": 3871231066,
+				"value": 1,
+				"minimum": 0,
+				"maximum": 0,
+				"displayMaximum": 100
+			},
+			"4188031367": {
+				"statHash": 4188031367,
+				"value": 74,
+				"minimum": 0,
+				"maximum": 0,
+				"displayMaximum": 100
+			},
+			"4284893193": {
+				"statHash": 4284893193,
+				"value": 90,
+				"minimum": 0,
+				"maximum": 0,
+				"displayMaximum": 100
+			}
+		},
+		"hasDisplayableStats": true,
+		"primaryBaseStatHash": 1480404414
+	},
+	"equippingBlock": {
+		"uniqueLabelHash": 0,
+		"equipmentSlotTypeHash": 2465295065,
+		"attributes": 0,
+		"equippingSoundHash": 0,
+		"hornSoundHash": 0,
+		"ammoType": 2,
+		"displayStrings": [
+			""
+		]
+	},
+	"translationBlock": {
+		"weaponPatternHash": 4144743707,
+		"defaultDyes": [
+			{
+				"channelHash": 1667433279,
+				"dyeHash": 3241393512
+			},
+			{
+				"channelHash": 1667433278,
+				"dyeHash": 3241393513
+			},
+			{
+				"channelHash": 1667433277,
+				"dyeHash": 3241393514
+			}
+		],
+		"lockedDyes": [],
+		"customDyes": [],
+		"arrangements": [
+			{
+				"classHash": 0,
+				"artArrangementHash": 3252697558
+			}
+		],
+		"hasGeometry": true
+	},
+	"preview": {
+		"screenStyle": "screen_style_sockets",
+		"previewVendorHash": 0,
+		"previewActionString": ""
+	},
+	"quality": {
+		"itemLevels": [],
+		"qualityLevel": 0,
+		"infusionCategoryName": "2806069436",
+		"infusionCategoryHash": 2806069436,
+		"infusionCategoryHashes": [
+			2806069436
+		],
+		"progressionLevelRequirementHash": 3157915980,
+		"currentVersion": 0,
+		"versions": [
+			{
+				"powerCapHash": 1862490583
+			}
+		],
+		"displayVersionWatermarkIcons": [
+			"/common/destiny2_content/icons/0dac2f181f0245cfc64494eccb7db9f7.png"
+		]
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"sockets": {
+		"detail": "Details",
+		"socketEntries": [
+			{
+				"socketTypeHash": 3956125808,
+				"singleInitialItemHash": 474269988,
+				"reusablePlugItems": [],
+				"preventInitializationOnVendorPurchase": false,
+				"preventInitializationWhenVersioning": false,
+				"hidePerksInItemTooltip": false,
+				"plugSources": 6,
+				"reusablePlugSetHash": 455,
+				"overridesUiAppearance": false,
+				"defaultVisible": true
+			},
+			{
+				"socketTypeHash": 1656112293,
+				"singleInitialItemHash": 1844523823,
+				"reusablePlugItems": [],
+				"preventInitializationOnVendorPurchase": false,
+				"preventInitializationWhenVersioning": false,
+				"hidePerksInItemTooltip": false,
+				"plugSources": 6,
+				"reusablePlugSetHash": 557,
+				"overridesUiAppearance": false,
+				"defaultVisible": true
+			},
+			{
+				"socketTypeHash": 4246926293,
+				"singleInitialItemHash": 1716000303,
+				"reusablePlugItems": [],
+				"preventInitializationOnVendorPurchase": false,
+				"preventInitializationWhenVersioning": false,
+				"hidePerksInItemTooltip": false,
+				"plugSources": 6,
+				"reusablePlugSetHash": 558,
+				"overridesUiAppearance": false,
+				"defaultVisible": true
+			},
+			{
+				"socketTypeHash": 2614797986,
+				"singleInitialItemHash": 706527188,
+				"reusablePlugItems": [],
+				"preventInitializationOnVendorPurchase": false,
+				"preventInitializationWhenVersioning": false,
+				"hidePerksInItemTooltip": false,
+				"plugSources": 6,
+				"reusablePlugSetHash": 297,
+				"overridesUiAppearance": false,
+				"defaultVisible": true
+			},
+			{
+				"socketTypeHash": 1466776700,
+				"singleInitialItemHash": 3728733956,
+				"reusablePlugItems": [],
+				"preventInitializationOnVendorPurchase": false,
+				"preventInitializationWhenVersioning": false,
+				"hidePerksInItemTooltip": false,
+				"plugSources": 1,
+				"overridesUiAppearance": false,
+				"defaultVisible": false
+			},
+			{
+				"socketTypeHash": 0,
+				"singleInitialItemHash": 0,
+				"reusablePlugItems": [],
+				"preventInitializationOnVendorPurchase": false,
+				"preventInitializationWhenVersioning": false,
+				"hidePerksInItemTooltip": false,
+				"plugSources": 1,
+				"overridesUiAppearance": false,
+				"defaultVisible": false
+			},
+			{
+				"socketTypeHash": 1288200359,
+				"singleInitialItemHash": 4248210736,
+				"reusablePlugItems": [],
+				"preventInitializationOnVendorPurchase": false,
+				"preventInitializationWhenVersioning": false,
+				"hidePerksInItemTooltip": false,
+				"plugSources": 7,
+				"reusablePlugSetHash": 4,
+				"overridesUiAppearance": false,
+				"defaultVisible": true
+			},
+			{
+				"socketTypeHash": 3445647266,
+				"singleInitialItemHash": 236077174,
+				"reusablePlugItems": [],
+				"preventInitializationOnVendorPurchase": true,
+				"preventInitializationWhenVersioning": false,
+				"hidePerksInItemTooltip": false,
+				"plugSources": 5,
+				"reusablePlugSetHash": 144918107,
+				"overridesUiAppearance": false,
+				"defaultVisible": true
+			}
+		],
+		"intrinsicSockets": [
+			{
+				"plugItemHash": 3690882495,
+				"socketTypeHash": 2417061929,
+				"defaultVisible": true
+			}
+		],
+		"socketCategories": [
+			{
+				"socketCategoryHash": 3956125808,
+				"socketIndexes": [
+					0
+				]
+			},
+			{
+				"socketCategoryHash": 4241085061,
+				"socketIndexes": [
+					1,
+					2,
+					3
+				]
+			},
+			{
+				"socketCategoryHash": 2685412949,
+				"socketIndexes": [
+					4,
+					7
+				]
+			},
+			{
+				"socketCategoryHash": 2048875504,
+				"socketIndexes": [
+					6
+				]
+			}
+		]
+	},
+	"talentGrid": {
+		"talentGridHash": 521135891,
+		"itemDetailString": "Details",
+		"hudDamageType": 1
+	},
+	"investmentStats": [
+		{
+			"statTypeHash": 1480404414,
+			"value": 0,
+			"isConditionallyActive": false
+		},
+		{
+			"statTypeHash": 1935470627,
+			"value": 0,
+			"isConditionallyActive": false
+		},
+		{
+			"statTypeHash": 1885944937,
+			"value": 0,
+			"isConditionallyActive": false
+		},
+		{
+			"statTypeHash": 3555269338,
+			"value": 13,
+			"isConditionallyActive": false
+		},
+		{
+			"statTypeHash": 4284893193,
+			"value": 10,
+			"isConditionallyActive": false
+		},
+		{
+			"statTypeHash": 3614673599,
+			"value": 100,
+			"isConditionallyActive": false
+		},
+		{
+			"statTypeHash": 2523465841,
+			"value": 74,
+			"isConditionallyActive": false
+		},
+		{
+			"statTypeHash": 155624089,
+			"value": 18,
+			"isConditionallyActive": false
+		},
+		{
+			"statTypeHash": 3871231066,
+			"value": 0,
+			"isConditionallyActive": false
+		},
+		{
+			"statTypeHash": 4188031367,
+			"value": 71,
+			"isConditionallyActive": false
+		},
+		{
+			"statTypeHash": 1931675084,
+			"value": 65,
+			"isConditionallyActive": false
+		},
+		{
+			"statTypeHash": 943549884,
+			"value": 69,
+			"isConditionallyActive": false
+		},
+		{
+			"statTypeHash": 1345609583,
+			"value": 79,
+			"isConditionallyActive": false
+		},
+		{
+			"statTypeHash": 2715839340,
+			"value": 70,
+			"isConditionallyActive": false
+		}
+	],
+	"perks": [],
+	"summaryItemHash": 3520001075,
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [
+		3,
+		1,
+		153950757
+	],
+	"specialItemType": 0,
+	"itemType": 3,
+	"itemSubType": 23,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": true,
+	"damageTypeHashes": [
+		3454344768
+	],
+	"damageTypes": [
+		4
+	],
+	"defaultDamageType": 4,
+	"defaultDamageTypeHash": 3454344768,
+	"isWrapper": false,
+	"traitIds": [
+		"faction.dead_orbit",
+		"foundry.field_forged",
+		"item_type.weapon",
+		"weapon_type.grenade_launcher"
+	],
+	"hash": 3252697558,
+	"index": 2104,
+	"redacted": false,
+	"blacklisted": false
 }

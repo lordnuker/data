@@ -1,63 +1,63 @@
 {
-    "itemTypeAndTierDisplayName": "", 
-    "itemType": 19, 
-    "tooltipNotifications": [], 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Common", 
-        "bucketTypeHash": 2422292810, 
-        "tierTypeHash": 3340296461, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 2, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 178, 
-        "green": 178, 
-        "colorHash": 0, 
-        "red": 178, 
-        "alpha": 255
-    }, 
-    "equippable": false, 
-    "itemTypeDisplayName": "", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        59
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "displaySource": "", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/7cf07010d9ce26603f0f51490c08585c.jpg"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/02c0c49dd35e087ff5b7f037b630106a.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/7cf07010d9ce26603f0f51490c08585c.jpg", 
-        "hasIcon": true, 
-        "description": "Decrease the Power handicap to the easiest difficulty. Also decreases the score multiplier.", 
-        "name": "Decrease Handicap to 0"
-    }
+	"displayProperties": {
+		"description": "Decrease the Power handicap to the easiest difficulty. Also decreases the score multiplier.",
+		"name": "Decrease Handicap to 0",
+		"icon": "/common/destiny2_content/icons/7cf07010d9ce26603f0f51490c08585c.jpg",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/7cf07010d9ce26603f0f51490c08585c.jpg"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/02c0c49dd35e087ff5b7f037b630106a.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 178,
+		"green": 178,
+		"blue": 178,
+		"alpha": 255
+	},
+	"itemTypeDisplayName": "",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 2422292810,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 3340296461,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Common",
+		"tierType": 2,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		59
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

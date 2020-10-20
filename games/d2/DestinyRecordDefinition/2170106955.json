@@ -1,61 +1,61 @@
 {
-    "index": 506, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 2, 
-        "intervalObjectives": [
-            {
-                "intervalScoreValue": 20, 
-                "intervalObjectiveHash": 2795626512
-            }, 
-            {
-                "intervalScoreValue": 30, 
-                "intervalObjectiveHash": 2795626514
-            }, 
-            {
-                "intervalScoreValue": 50, 
-                "intervalObjectiveHash": 2795626515
-            }
-        ], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [], 
-    "parentNodeHashes": [
-        3457070432
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/4389cf5224e39bffa00608f9f2c20055.png", 
-        "hasIcon": true, 
-        "description": "Complete bounties from Asher Mir.", 
-        "name": "Bounty Hunter: Io"
-    }, 
-    "scope": 0, 
-    "hash": 2170106955
+	"displayProperties": {
+		"description": "Complete bounties from Asher Mir.",
+		"name": "Bounty Hunter: Io",
+		"icon": "/common/destiny2_content/icons/4389cf5224e39bffa00608f9f2c20055.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [
+			{
+				"intervalObjectiveHash": 2795626512,
+				"intervalScoreValue": 20
+			},
+			{
+				"intervalObjectiveHash": 2795626514,
+				"intervalScoreValue": 30
+			},
+			{
+				"intervalObjectiveHash": 2795626515,
+				"intervalScoreValue": 50
+			}
+		],
+		"originalObjectiveArrayInsertionIndex": 2,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		3457070432
+	],
+	"hash": 2170106955,
+	"index": 517,
+	"redacted": false,
+	"blacklisted": false
 }

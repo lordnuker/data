@@ -1,69 +1,69 @@
 {
-    "index": 237, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 1, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": true, 
-        "titlesByGenderHash": {
-            "3111576190": "Shaxx", 
-            "2204441813": "Shaxx"
-        }, 
-        "titlesByGender": {
-            "Male": "Shaxx", 
-            "Female": "Shaxx"
-        }
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        1530993746
-    ], 
-    "parentNodeHashes": [], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 5, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/b98c7ed3ce4850e7575843817f602293.png", 
-                    "/common/destiny2_content/icons/b81f381daa9d7f6b670c1faaba0851e7.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/048b16589544f01c48499eceb90a30d3.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/b98c7ed3ce4850e7575843817f602293.png", 
-        "hasIcon": true, 
-        "description": "Be among the first to reach the top PvP rank in a season.", 
-        "name": "PvP Seasonal"
-    }, 
-    "scope": 0, 
-    "hash": 837071607
+	"displayProperties": {
+		"description": "Be among the first to reach the top PvP rank in a season.",
+		"name": "PvP Seasonal",
+		"icon": "/common/destiny2_content/icons/b98c7ed3ce4850e7575843817f602293.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/b98c7ed3ce4850e7575843817f602293.png",
+					"/common/destiny2_content/icons/b81f381daa9d7f6b670c1faaba0851e7.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/048b16589544f01c48499eceb90a30d3.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		1530993746
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": true,
+		"titlesByGender": {
+			"Male": "Shaxx",
+			"Female": "Shaxx"
+		},
+		"titlesByGenderHash": {
+			"2204441813": "Shaxx",
+			"3111576190": "Shaxx"
+		}
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 5
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 1,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [],
+	"hash": 837071607,
+	"index": 237,
+	"redacted": false,
+	"blacklisted": false
 }

@@ -1,61 +1,61 @@
 {
-    "index": 2017, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [
-            {
-                "intervalScoreValue": 10, 
-                "intervalObjectiveHash": 1946767018
-            }, 
-            {
-                "intervalScoreValue": 15, 
-                "intervalObjectiveHash": 1946767019
-            }, 
-            {
-                "intervalScoreValue": 25, 
-                "intervalObjectiveHash": 1946767016
-            }
-        ], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 91000, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [], 
-    "parentNodeHashes": [
-        2998268400
-    ], 
-    "expirationInfo": {
-        "hasExpiration": true, 
-        "description": "Available only during Season 10"
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/63949d9416593734fe0cb9fbad23f96e.png", 
-        "hasIcon": true, 
-        "description": "In Season 10, increase your Power bonus with the Warmind Khanjali Seasonal Artifact.", 
-        "name": "Season 10: Power Bonus"
-    }, 
-    "scope": 0, 
-    "hash": 230421321
+	"displayProperties": {
+		"description": "In Season 10, increase your Power bonus with the Warmind Khanjali Seasonal Artifact.",
+		"name": "Season 10: Power Bonus",
+		"icon": "/common/destiny2_content/icons/63949d9416593734fe0cb9fbad23f96e.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 91000,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": true,
+		"description": "Available only during Season 10"
+	},
+	"intervalInfo": {
+		"intervalObjectives": [
+			{
+				"intervalObjectiveHash": 1946767018,
+				"intervalScoreValue": 10
+			},
+			{
+				"intervalObjectiveHash": 1946767019,
+				"intervalScoreValue": 15
+			},
+			{
+				"intervalObjectiveHash": 1946767016,
+				"intervalScoreValue": 25
+			}
+		],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		2998268400
+	],
+	"hash": 230421321,
+	"index": 2029,
+	"redacted": false,
+	"blacklisted": false
 }

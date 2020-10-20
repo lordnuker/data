@@ -1,39 +1,39 @@
 {
-    "index": 486, 
-    "hash": 1303244598, 
-    "blacklisted": false, 
-    "avoidDuplicatesOnInitialization": false, 
-    "insertAction": {
-        "actionSoundHash": 0, 
-        "isPositiveAction": false, 
-        "actionType": 0, 
-        "actionExecuteSeconds": 1
-    }, 
-    "plugWhitelist": [
-        {
-            "categoryIdentifier": "v400.weapon.mod_damage", 
-            "categoryHash": 974142739
-        }, 
-        {
-            "categoryIdentifier": "v400.weapon.mod_guns", 
-            "categoryHash": 510594033
-        }, 
-        {
-            "categoryIdentifier": "v400.weapon.mod_empty", 
-            "categoryHash": 3945646995
-        }
-    ], 
-    "currencyScalars": [], 
-    "redacted": false, 
-    "visibility": 0, 
-    "isPreviewEnabled": false, 
-    "alwaysRandomizeSockets": false, 
-    "overridesUiAppearance": false, 
-    "displayProperties": {
-        "hasIcon": false, 
-        "description": "", 
-        "name": ""
-    }, 
-    "socketCategoryHash": 2685412949, 
-    "hideDuplicateReusablePlugs": false
+	"displayProperties": {
+		"description": "",
+		"name": "",
+		"hasIcon": false
+	},
+	"insertAction": {
+		"actionExecuteSeconds": 1,
+		"actionSoundHash": 0,
+		"isPositiveAction": false,
+		"actionType": 0
+	},
+	"plugWhitelist": [
+		{
+			"categoryHash": 974142739,
+			"categoryIdentifier": "v400.weapon.mod_damage"
+		},
+		{
+			"categoryHash": 510594033,
+			"categoryIdentifier": "v400.weapon.mod_guns"
+		},
+		{
+			"categoryHash": 3945646995,
+			"categoryIdentifier": "v400.weapon.mod_empty"
+		}
+	],
+	"socketCategoryHash": 2685412949,
+	"visibility": 0,
+	"alwaysRandomizeSockets": false,
+	"isPreviewEnabled": false,
+	"hideDuplicateReusablePlugs": false,
+	"overridesUiAppearance": false,
+	"avoidDuplicatesOnInitialization": false,
+	"currencyScalars": [],
+	"hash": 1303244598,
+	"index": 486,
+	"redacted": false,
+	"blacklisted": false
 }

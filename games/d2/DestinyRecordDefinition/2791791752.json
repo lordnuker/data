@@ -1,50 +1,50 @@
 {
-    "index": 898, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        599212901
-    ], 
-    "parentNodeHashes": [
-        2000731733
-    ], 
-    "expirationInfo": {
-        "hasExpiration": true, 
-        "description": "Available only during Season 9, Season of Dawn."
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/7cb1b061088e56d62ad003821458b568.png", 
-        "hasIcon": true, 
-        "description": "Earn a Glory win streak in Season 9.", 
-        "name": "Season 9: Glory Streak"
-    }, 
-    "scope": 0, 
-    "hash": 2791791752
+	"displayProperties": {
+		"description": "Earn a Glory win streak in Season 9.",
+		"name": "Season 9: Glory Streak",
+		"icon": "/common/destiny2_content/icons/7cb1b061088e56d62ad003821458b568.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		599212901
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": true,
+		"description": "Available only during Season 9, Season of Dawn."
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		2000731733
+	],
+	"hash": 2791791752,
+	"index": 906,
+	"redacted": false,
+	"blacklisted": false
 }

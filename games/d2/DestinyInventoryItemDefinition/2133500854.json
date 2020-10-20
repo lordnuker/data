@@ -1,116 +1,116 @@
 {
-    "itemTypeAndTierDisplayName": "Common Emblem", 
-    "nonTransferrable": true, 
-    "investmentStats": [], 
-    "redacted": false, 
-    "tooltipNotifications": [], 
-    "specialItemType": 0, 
-    "itemType": 14, 
-    "talentGrid": {
-        "talentGridHash": 521135891, 
-        "hudDamageType": 1, 
-        "itemDetailString": "Details"
-    }, 
-    "index": 5901, 
-    "stats": {
-        "hasDisplayableStats": false, 
-        "primaryBaseStatHash": 0, 
-        "disablePrimaryStatDisplay": false, 
-        "stats": {}
-    }, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Common", 
-        "bucketTypeHash": 4274335291, 
-        "stackUniqueLabel": "v400.emblems.crm.emblem8", 
-        "tierTypeHash": 3340296461, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 2, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 2, 
-        "green": 93, 
-        "colorHash": 0, 
-        "red": 162, 
-        "alpha": 255
-    }, 
-    "preview": {
-        "screenStyle": "screen_style_emblem", 
-        "previewVendorHash": 0, 
-        "previewActionString": ""
-    }, 
-    "hash": 2133500854, 
-    "equippable": true, 
-    "itemTypeDisplayName": "Emblem", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "metrics": {
-        "availableMetricCategoryNodeHashes": [
-            3844527950, 
-            2875839731, 
-            565440981, 
-            4193411410, 
-            2755216039, 
-            2663569174
-        ]
-    }, 
-    "action": {
-        "progressionRewards": [], 
-        "requiredCooldownHash": 0, 
-        "verbName": "Store", 
-        "deleteOnAction": true, 
-        "requiredItems": [], 
-        "rewardItemHash": 0, 
-        "useOnAcquire": false, 
-        "isPositive": false, 
-        "requiredCooldownSeconds": 0, 
-        "rewardSheetHash": 0, 
-        "verbDescription": "", 
-        "rewardSiteHash": 0, 
-        "consumeEntireStack": false
-    }, 
-    "itemSubType": 0, 
-    "allowActions": true, 
-    "uiItemDisplayStyle": "", 
-    "secondaryOverlay": "/common/destiny2_content/icons/72d24b0ac769dc89d81ab8663634764c.png", 
-    "secondaryIcon": "/common/destiny2_content/icons/f6b7ff8d47f680149dcc761706ffe9fe.jpg", 
-    "equippingBlock": {
-        "displayStrings": [], 
-        "equipmentSlotTypeHash": 4274335291, 
-        "ammoType": 0, 
-        "equippingSoundHash": 0, 
-        "hornSoundHash": 0, 
-        "attributes": 0, 
-        "uniqueLabelHash": 286028851, 
-        "uniqueLabel": "v400.emblems.crm.emblem8"
-    }, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "secondarySpecial": "/common/destiny2_content/icons/8fb3599fc2dbe66d54b7f624a0ef17c1.jpg", 
-    "blacklisted": false, 
-    "acquireUnlockHash": 0, 
-    "collectibleHash": 992701361, 
-    "displaySource": "", 
-    "traitIds": [
-        "item_type.emblem"
-    ], 
-    "perks": [], 
-    "itemCategoryHashes": [
-        19, 
-        52
-    ], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/e0cede49ca5d0c86c984083a3ebb6eb2.jpg", 
-        "hasIcon": true, 
-        "description": "", 
-        "name": "Peace of the City"
-    }
+	"displayProperties": {
+		"description": "",
+		"name": "Peace of the City",
+		"icon": "/common/destiny2_content/icons/e0cede49ca5d0c86c984083a3ebb6eb2.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"collectibleHash": 992701361,
+	"secondaryIcon": "/common/destiny2_content/icons/f6b7ff8d47f680149dcc761706ffe9fe.jpg",
+	"secondaryOverlay": "/common/destiny2_content/icons/72d24b0ac769dc89d81ab8663634764c.png",
+	"secondarySpecial": "/common/destiny2_content/icons/8fb3599fc2dbe66d54b7f624a0ef17c1.jpg",
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 162,
+		"green": 93,
+		"blue": 2,
+		"alpha": 255
+	},
+	"itemTypeDisplayName": "Emblem",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Common Emblem",
+	"displaySource": "",
+	"action": {
+		"verbName": "Store",
+		"verbDescription": "",
+		"isPositive": false,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"stackUniqueLabel": "v400.emblems.crm.emblem8",
+		"maxStackSize": 1,
+		"bucketTypeHash": 4274335291,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 3340296461,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Common",
+		"tierType": 2,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"stats": {
+		"disablePrimaryStatDisplay": false,
+		"stats": {},
+		"hasDisplayableStats": false,
+		"primaryBaseStatHash": 0
+	},
+	"equippingBlock": {
+		"uniqueLabel": "v400.emblems.crm.emblem8",
+		"uniqueLabelHash": 286028851,
+		"equipmentSlotTypeHash": 4274335291,
+		"attributes": 0,
+		"equippingSoundHash": 0,
+		"hornSoundHash": 0,
+		"ammoType": 0,
+		"displayStrings": []
+	},
+	"preview": {
+		"screenStyle": "screen_style_emblem",
+		"previewVendorHash": 0,
+		"previewActionString": ""
+	},
+	"metrics": {
+		"availableMetricCategoryNodeHashes": [
+			3844527950,
+			2875839731,
+			565440981,
+			4193411410,
+			2755216039,
+			2663569174
+		]
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"talentGrid": {
+		"talentGridHash": 521135891,
+		"itemDetailString": "Details",
+		"hudDamageType": 1
+	},
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		19,
+		52
+	],
+	"specialItemType": 0,
+	"itemType": 14,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": true,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"traitIds": [
+		"item_type.emblem"
+	],
+	"hash": 2133500854,
+	"index": 5937,
+	"redacted": false,
+	"blacklisted": false
 }

@@ -1,53 +1,53 @@
 {
-    "index": 111, 
-    "hash": 3413151285, 
-    "blacklisted": false, 
-    "redacted": false, 
-    "vendorHash": 0, 
-    "locationReleases": [
-        {
-            "worldPosition": [
-                -195, 
-                456, 
-                79, 
-                0
-            ], 
-            "spawnPoint": 2518132455, 
-            "activityPathBundle": 0, 
-            "activityBubbleName": 1291433366, 
-            "destinationHash": 2388758973, 
-            "activityGraphNodeHash": 0, 
-            "activityPathDestination": 1455639803, 
-            "activityGraphHash": 44602463, 
-            "displayProperties": {
-                "hasIcon": false, 
-                "description": "Fast travel to Siren's Watch.", 
-                "name": "Siren's Watch"
-            }, 
-            "navPointType": 0, 
-            "activityHash": 0
-        }, 
-        {
-            "worldPosition": [
-                -195, 
-                456, 
-                79, 
-                0
-            ], 
-            "spawnPoint": 2518132455, 
-            "activityPathBundle": 0, 
-            "activityBubbleName": 1291433366, 
-            "destinationHash": 2388758973, 
-            "activityGraphNodeHash": 0, 
-            "activityPathDestination": 1455639803, 
-            "activityGraphHash": 44602463, 
-            "displayProperties": {
-                "hasIcon": false, 
-                "description": "Travel to Siren's Watch.", 
-                "name": "Siren's Watch"
-            }, 
-            "navPointType": 0, 
-            "activityHash": 0
-        }
-    ]
+	"vendorHash": 0,
+	"locationReleases": [
+		{
+			"displayProperties": {
+				"description": "Fast travel to Siren's Watch.",
+				"name": "Siren's Watch",
+				"hasIcon": false
+			},
+			"spawnPoint": 2518132455,
+			"destinationHash": 2388758973,
+			"activityHash": 0,
+			"activityGraphHash": 44602463,
+			"activityGraphNodeHash": 0,
+			"activityBubbleName": 1291433366,
+			"activityPathBundle": 0,
+			"activityPathDestination": 1455639803,
+			"navPointType": 0,
+			"worldPosition": [
+				-195,
+				456,
+				79,
+				0
+			]
+		},
+		{
+			"displayProperties": {
+				"description": "Travel to Siren's Watch.",
+				"name": "Siren's Watch",
+				"hasIcon": false
+			},
+			"spawnPoint": 2518132455,
+			"destinationHash": 2388758973,
+			"activityHash": 0,
+			"activityGraphHash": 44602463,
+			"activityGraphNodeHash": 0,
+			"activityBubbleName": 1291433366,
+			"activityPathBundle": 0,
+			"activityPathDestination": 1455639803,
+			"navPointType": 0,
+			"worldPosition": [
+				-195,
+				456,
+				79,
+				0
+			]
+		}
+	],
+	"hash": 3413151285,
+	"index": 111,
+	"redacted": false,
+	"blacklisted": false
 }

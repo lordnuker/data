@@ -1,50 +1,50 @@
 {
-    "index": 1519, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        305530241
-    ], 
-    "parentNodeHashes": [
-        519504600
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 50, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/ca34fb5048ac3893768a2319c97bc6ab.png", 
-        "hasIcon": true, 
-        "description": "Kill your Primeval while the opposing Primeval has very little health remaining.", 
-        "name": "By the Skin of Your Teeth"
-    }, 
-    "scope": 0, 
-    "hash": 899421308
+	"displayProperties": {
+		"description": "Kill your Primeval while the opposing Primeval has very little health remaining.",
+		"name": "By the Skin of Your Teeth",
+		"icon": "/common/destiny2_content/icons/ca34fb5048ac3893768a2319c97bc6ab.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		305530241
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 50,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		519504600
+	],
+	"hash": 899421308,
+	"index": 1531,
+	"redacted": false,
+	"blacklisted": false
 }

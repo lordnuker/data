@@ -1,67 +1,67 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Ship", 
-    "itemType": 21, 
-    "tooltipNotifications": [], 
-    "talentGrid": {
-        "talentGridHash": 521135891, 
-        "hudDamageType": 1, 
-        "itemDetailString": "Preview"
-    }, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 284967655, 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 142, 
-        "green": 12, 
-        "colorHash": 0, 
-        "red": 94, 
-        "alpha": 255
-    }, 
-    "equippable": true, 
-    "itemTypeDisplayName": "Ship", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        42, 
-        52
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": false, 
-    "equippingBlock": {
-        "displayStrings": [], 
-        "equipmentSlotTypeHash": 284967655, 
-        "ammoType": 0, 
-        "equippingSoundHash": 0, 
-        "hornSoundHash": 0, 
-        "attributes": 0, 
-        "uniqueLabelHash": 0
-    }, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "collectibleHash": 3163873688, 
-    "displaySource": "", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/fb27809d1fcc5effaf96db98f7fe555a.jpg", 
-        "hasIcon": true, 
-        "description": "\"The undiscovered country from whose bourn no traveller returns… until now.\"", 
-        "name": "The Great Beyond"
-    }
+	"displayProperties": {
+		"description": "\"The undiscovered country from whose bourn no traveller returns… until now.\"",
+		"name": "The Great Beyond",
+		"icon": "/common/destiny2_content/icons/fb27809d1fcc5effaf96db98f7fe555a.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"collectibleHash": 3163873688,
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 94,
+		"green": 12,
+		"blue": 142,
+		"alpha": 255
+	},
+	"itemTypeDisplayName": "Ship",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Ship",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 284967655,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"equippingBlock": {
+		"uniqueLabelHash": 0,
+		"equipmentSlotTypeHash": 284967655,
+		"attributes": 0,
+		"equippingSoundHash": 0,
+		"hornSoundHash": 0,
+		"ammoType": 0,
+		"displayStrings": []
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"talentGrid": {
+		"talentGridHash": 521135891,
+		"itemDetailString": "Preview",
+		"hudDamageType": 1
+	},
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [
+		42,
+		52
+	],
+	"specialItemType": 0,
+	"itemType": 21,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": true,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

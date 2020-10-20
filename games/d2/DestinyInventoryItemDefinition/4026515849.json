@@ -1,113 +1,113 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Emblem", 
-    "nonTransferrable": true, 
-    "investmentStats": [], 
-    "redacted": false, 
-    "secondaryIcon": "/common/destiny2_content/icons/9dc4f3283ee9f9fc3d3499e9f9f1756c.jpg", 
-    "tooltipNotifications": [], 
-    "specialItemType": 0, 
-    "itemType": 14, 
-    "talentGrid": {
-        "talentGridHash": 521135891, 
-        "hudDamageType": 1, 
-        "itemDetailString": "Details"
-    }, 
-    "index": 6506, 
-    "stats": {
-        "hasDisplayableStats": false, 
-        "primaryBaseStatHash": 0, 
-        "disablePrimaryStatDisplay": false, 
-        "stats": {}
-    }, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 4274335291, 
-        "stackUniqueLabel": "v410.emblems.crm.anniversary.emblem0", 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 15, 
-        "green": 4, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 255
-    }, 
-    "preview": {
-        "screenStyle": "screen_style_emblem", 
-        "previewVendorHash": 0, 
-        "previewActionString": ""
-    }, 
-    "hash": 4026515849, 
-    "equippable": true, 
-    "itemTypeDisplayName": "Emblem", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "metrics": {
-        "availableMetricCategoryNodeHashes": [
-            3844527950, 
-            2875839731, 
-            565440981, 
-            4193411410, 
-            2755216039, 
-            2663569174
-        ]
-    }, 
-    "action": {
-        "progressionRewards": [], 
-        "requiredCooldownHash": 0, 
-        "verbName": "Store", 
-        "deleteOnAction": true, 
-        "requiredItems": [], 
-        "rewardItemHash": 0, 
-        "useOnAcquire": false, 
-        "isPositive": false, 
-        "requiredCooldownSeconds": 0, 
-        "rewardSheetHash": 0, 
-        "verbDescription": "", 
-        "rewardSiteHash": 0, 
-        "consumeEntireStack": false
-    }, 
-    "itemSubType": 0, 
-    "allowActions": true, 
-    "uiItemDisplayStyle": "", 
-    "secondaryOverlay": "/common/destiny2_content/icons/e7a0d7b3753e67cf5393ef91fd926902.png", 
-    "tooltipStyle": "record", 
-    "equippingBlock": {
-        "displayStrings": [], 
-        "equipmentSlotTypeHash": 4274335291, 
-        "ammoType": 0, 
-        "equippingSoundHash": 0, 
-        "hornSoundHash": 0, 
-        "attributes": 0, 
-        "uniqueLabelHash": 0
-    }, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "secondarySpecial": "/common/destiny2_content/icons/be6cf838bd5b80a3ff5411f5ada75ed5.jpg", 
-    "blacklisted": false, 
-    "acquireUnlockHash": 0, 
-    "collectibleHash": 2800189091, 
-    "displaySource": "", 
-    "perks": [], 
-    "itemCategoryHashes": [
-        19, 
-        52
-    ], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/2b72a2b25e6dbe034f08c601bada8c91.jpg", 
-        "hasIcon": true, 
-        "description": "", 
-        "name": "Universal Hero"
-    }
+	"displayProperties": {
+		"description": "",
+		"name": "Universal Hero",
+		"icon": "/common/destiny2_content/icons/2b72a2b25e6dbe034f08c601bada8c91.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"collectibleHash": 2800189091,
+	"secondaryIcon": "/common/destiny2_content/icons/9dc4f3283ee9f9fc3d3499e9f9f1756c.jpg",
+	"secondaryOverlay": "/common/destiny2_content/icons/e7a0d7b3753e67cf5393ef91fd926902.png",
+	"secondarySpecial": "/common/destiny2_content/icons/be6cf838bd5b80a3ff5411f5ada75ed5.jpg",
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 4,
+		"blue": 15,
+		"alpha": 255
+	},
+	"itemTypeDisplayName": "Emblem",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Emblem",
+	"displaySource": "",
+	"tooltipStyle": "record",
+	"action": {
+		"verbName": "Store",
+		"verbDescription": "",
+		"isPositive": false,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"stackUniqueLabel": "v410.emblems.crm.anniversary.emblem0",
+		"maxStackSize": 1,
+		"bucketTypeHash": 4274335291,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"stats": {
+		"disablePrimaryStatDisplay": false,
+		"stats": {},
+		"hasDisplayableStats": false,
+		"primaryBaseStatHash": 0
+	},
+	"equippingBlock": {
+		"uniqueLabelHash": 0,
+		"equipmentSlotTypeHash": 4274335291,
+		"attributes": 0,
+		"equippingSoundHash": 0,
+		"hornSoundHash": 0,
+		"ammoType": 0,
+		"displayStrings": []
+	},
+	"preview": {
+		"screenStyle": "screen_style_emblem",
+		"previewVendorHash": 0,
+		"previewActionString": ""
+	},
+	"metrics": {
+		"availableMetricCategoryNodeHashes": [
+			3844527950,
+			2875839731,
+			565440981,
+			4193411410,
+			2755216039,
+			2663569174
+		]
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"talentGrid": {
+		"talentGridHash": 521135891,
+		"itemDetailString": "Details",
+		"hudDamageType": 1
+	},
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		19,
+		52
+	],
+	"specialItemType": 0,
+	"itemType": 14,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": true,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"hash": 4026515849,
+	"index": 6542,
+	"redacted": false,
+	"blacklisted": false
 }

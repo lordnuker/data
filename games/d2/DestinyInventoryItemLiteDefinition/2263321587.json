@@ -1,0 +1,75 @@
+{
+	"displayProperties": {
+		"description": "This mod imposes a stat penalty when socketed in exchange for a reduced energy cost.",
+		"name": "Charge Harvester",
+		"icon": "/common/destiny2_content/icons/038121060b280db9bda678983b9747f5.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/038121060b280db9bda678983b9747f5.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/0ce080568cc8f8a3b96c82322cdc8dfd.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Arrival Armor Mod",
+	"uiItemDisplayStyle": "ui_display_style_energy_mod",
+	"itemTypeAndTierDisplayName": "Common Arrival Armor Mod",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 2422292810,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 3340296461,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Common",
+		"tierType": 2,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [
+		{
+			"requirementDisplayString": "",
+			"perkHash": 122953800,
+			"perkVisibility": 1
+		},
+		{
+			"requirementDisplayString": "",
+			"perkHash": 2161694169,
+			"perkVisibility": 1
+		}
+	],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		59,
+		4104513227
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
+}

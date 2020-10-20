@@ -1,42 +1,42 @@
 {
-    "sourceHash": 3799241751, 
-    "sourceString": "Seraph Bunker rank up reward", 
-    "blacklisted": false, 
-    "acquisitionInfo": {
-        "runOnlyAcquisitionRewardSite": false
-    }, 
-    "index": 2565, 
-    "presentationNodeType": 1, 
-    "traitHashes": [], 
-    "redacted": false, 
-    "stateInfo": {
-        "requirements": {
-            "entitlementUnavailableMessage": ""
-        }
-    }, 
-    "parentNodeHashes": [
-        1929360037
-    ], 
-    "traitIds": [], 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/826934a2a32d24e96d360b87ec7f0f53.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/feec05094e2e7c1b0b86b5e94bacb51b.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/826934a2a32d24e96d360b87ec7f0f53.png", 
-        "hasIcon": true, 
-        "description": "Defeating a combatant with a Seventh Seraph weapon has a chance to drop a Warmind Cell. Multiple copies of this mod do not stack.", 
-        "name": "Sheltering Energy"
-    }, 
-    "scope": 0, 
-    "itemHash": 1789319804, 
-    "hash": 3655913880
+	"displayProperties": {
+		"description": "Defeating a combatant with a Seventh Seraph weapon has a chance to drop a Warmind Cell. Multiple copies of this mod do not stack.",
+		"name": "Sheltering Energy",
+		"icon": "/common/destiny2_content/icons/826934a2a32d24e96d360b87ec7f0f53.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/826934a2a32d24e96d360b87ec7f0f53.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/feec05094e2e7c1b0b86b5e94bacb51b.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"scope": 0,
+	"sourceString": "Source: Seraph Bunker rank up reward.",
+	"sourceHash": 3799241751,
+	"itemHash": 1789319804,
+	"acquisitionInfo": {
+		"runOnlyAcquisitionRewardSite": false
+	},
+	"stateInfo": {
+		"requirements": {
+			"entitlementUnavailableMessage": ""
+		}
+	},
+	"presentationNodeType": 1,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		1929360037
+	],
+	"hash": 3655913880,
+	"index": 2860,
+	"redacted": false,
+	"blacklisted": false
 }

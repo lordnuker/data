@@ -1,0 +1,128 @@
+{
+	"displayProperties": {
+		"description": "",
+		"name": "Flourishing Blade",
+		"icon": "/common/destiny2_content/icons/4641ecdd7882ead6d55b2350bbe1ee2d.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/4641ecdd7882ead6d55b2350bbe1ee2d.png",
+					"/common/destiny2_content/icons/2d5f5dc340bb948df9df2fc8b49d30d8.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/3e355f81c07e4f71c4ed34b2eaaaed5d.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"collectibleHash": 818275770,
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Leg Armor Mod",
+	"uiItemDisplayStyle": "ui_display_style_energy_mod",
+	"itemTypeAndTierDisplayName": "Legendary Leg Armor Mod",
+	"displaySource": "",
+	"tooltipStyle": "build",
+	"action": {
+		"verbName": "Dismantle",
+		"verbDescription": "",
+		"isPositive": false,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"actionTypeLabel": "shard",
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 2422292810,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"plug": {
+		"insertionRules": [],
+		"plugCategoryIdentifier": "enhancements.v2_general",
+		"plugCategoryHash": 2487827355,
+		"onActionRecreateSelf": false,
+		"actionRewardSiteHash": 0,
+		"actionRewardItemOverrideHash": 0,
+		"insertionMaterialRequirementHash": 1564811296,
+		"previewItemOverrideHash": 0,
+		"enabledMaterialRequirementHash": 0,
+		"enabledRules": [
+			{
+				"failureMessage": ""
+			}
+		],
+		"uiPlugLabel": "",
+		"plugStyle": 0,
+		"plugAvailability": 0,
+		"alternateUiPlugLabel": "",
+		"alternatePlugStyle": 0,
+		"isDummyPlug": false,
+		"energyCost": {
+			"energyCost": 1,
+			"energyTypeHash": 1198124803,
+			"energyType": 0
+		}
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [
+		{
+			"statTypeHash": 3578062600,
+			"value": 1,
+			"isConditionallyActive": false
+		}
+	],
+	"perks": [
+		{
+			"requirementDisplayString": "",
+			"perkHash": 2005841176,
+			"perkVisibility": 0
+		}
+	],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		59,
+		4104513227,
+		3607371986
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"hash": 3465659109,
+	"index": 492,
+	"redacted": false,
+	"blacklisted": false
+}

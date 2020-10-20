@@ -1,72 +1,72 @@
 {
-    "itemTypeAndTierDisplayName": "Exotic Intrinsic", 
-    "itemType": 19, 
-    "tooltipNotifications": [], 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "summaryItemHash": 3520001075, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Exotic", 
-        "bucketTypeHash": 1469714392, 
-        "tierTypeHash": 2759499571, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 6, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Intrinsic", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        59, 
-        2237038328, 
-        610365472
-    ], 
-    "uiItemDisplayStyle": "ui_display_style_intrinsic_plug", 
-    "nonTransferrable": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "displaySource": "", 
-    "perks": [
-        {
-            "requirementDisplayString": "", 
-            "perkHash": 73069235, 
-            "perkVisibility": 0
-        }
-    ], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/4f403cc0beb03a737c4e725ec6daa2cf.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/fa3501a14bdc76eb7c0617bebacf3dc9.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/4f403cc0beb03a737c4e725ec6daa2cf.png", 
-        "hasIcon": true, 
-        "description": "Fusion projectiles attach and detonate with a delayed Void blast.", 
-        "name": "Unplanned Reprieve"
-    }
+	"displayProperties": {
+		"description": "Fusion projectiles attach and detonate with a delayed Void blast.",
+		"name": "Unplanned Reprieve",
+		"icon": "/common/destiny2_content/icons/4f403cc0beb03a737c4e725ec6daa2cf.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/4f403cc0beb03a737c4e725ec6daa2cf.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/fa3501a14bdc76eb7c0617bebacf3dc9.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Intrinsic",
+	"uiItemDisplayStyle": "ui_display_style_intrinsic_plug",
+	"itemTypeAndTierDisplayName": "Exotic Intrinsic",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1469714392,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 2759499571,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Exotic",
+		"tierType": 6,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [
+		{
+			"requirementDisplayString": "",
+			"perkHash": 73069235,
+			"perkVisibility": 0
+		}
+	],
+	"summaryItemHash": 3520001075,
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		59,
+		2237038328,
+		610365472
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

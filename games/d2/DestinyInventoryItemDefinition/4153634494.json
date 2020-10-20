@@ -1,0 +1,103 @@
+{
+	"displayProperties": {
+		"description": "No mod currently selected.\n\nYou can select mods from Seasons 10, 11, and 12 to use in this socket.",
+		"name": "Empty Mod Socket",
+		"icon": "/common/destiny2_content/icons/0f5a0654f6206e0c1ad26611d84b6668.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/0f5a0654f6206e0c1ad26611d84b6668.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/3430d64884185feca5c6cb995a7e8dcf.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Arrival Armor Mod",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Arrival Armor Mod",
+	"displaySource": "",
+	"tooltipStyle": "vendor_action",
+	"action": {
+		"verbName": "Dismantle",
+		"verbDescription": "",
+		"isPositive": false,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"actionTypeLabel": "shard",
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 2422292810,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 0,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierType": 0,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"plug": {
+		"insertionRules": [],
+		"plugCategoryIdentifier": "enhancements.season_v490",
+		"plugCategoryHash": 443647229,
+		"onActionRecreateSelf": false,
+		"actionRewardSiteHash": 0,
+		"actionRewardItemOverrideHash": 0,
+		"insertionMaterialRequirementHash": 0,
+		"previewItemOverrideHash": 0,
+		"enabledMaterialRequirementHash": 0,
+		"enabledRules": [],
+		"uiPlugLabel": "",
+		"plugStyle": 0,
+		"plugAvailability": 0,
+		"alternateUiPlugLabel": "",
+		"alternatePlugStyle": 0,
+		"isDummyPlug": false
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		59,
+		4104513227
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"hash": 4153634494,
+	"index": 11964,
+	"redacted": false,
+	"blacklisted": false
+}

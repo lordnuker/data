@@ -1,63 +1,63 @@
 {
-    "index": 726, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        3465402509
-    ], 
-    "parentNodeHashes": [
-        2693736750, 
-        655926402
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 150, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/c7a7eafcd2f90fd073b59f784b155882.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/48b291462fade2c5847bd5a8b09a87a7.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/c7a7eafcd2f90fd073b59f784b155882.png", 
-        "hasIcon": true, 
-        "description": "Complete this lore book.", 
-        "name": "Uldren Sov"
-    }, 
-    "scope": 0, 
-    "hash": 565725664
+	"displayProperties": {
+		"description": "Complete this lore book.",
+		"name": "Uldren Sov",
+		"icon": "/common/destiny2_content/icons/c7a7eafcd2f90fd073b59f784b155882.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/c7a7eafcd2f90fd073b59f784b155882.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/48b291462fade2c5847bd5a8b09a87a7.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		3465402509
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 150,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		2693736750,
+		655926402
+	],
+	"hash": 565725664,
+	"index": 737,
+	"redacted": false,
+	"blacklisted": false
 }

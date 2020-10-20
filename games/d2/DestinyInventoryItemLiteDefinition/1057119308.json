@@ -1,71 +1,71 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Emblem", 
-    "secondaryOverlay": "/common/destiny2_content/icons/33e78930396e7466e4129d0e84763e0c.png", 
-    "tooltipNotifications": [], 
-    "itemType": 14, 
-    "talentGrid": {
-        "talentGridHash": 521135891, 
-        "hudDamageType": 1, 
-        "itemDetailString": "Details"
-    }, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 4274335291, 
-        "stackUniqueLabel": "v320.emblems.raid.default", 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 33, 
-        "green": 2, 
-        "colorHash": 0, 
-        "red": 14, 
-        "alpha": 255
-    }, 
-    "equippable": true, 
-    "itemTypeDisplayName": "Emblem", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        19, 
-        52
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": true, 
-    "secondaryIcon": "/common/destiny2_content/icons/894ebf043ed8251f9aaa6237133433da.jpg", 
-    "equippingBlock": {
-        "displayStrings": [], 
-        "equipmentSlotTypeHash": 4274335291, 
-        "ammoType": 0, 
-        "equippingSoundHash": 0, 
-        "hornSoundHash": 0, 
-        "attributes": 0, 
-        "uniqueLabelHash": 0
-    }, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "secondarySpecial": "/common/destiny2_content/icons/9c879815f40a8ff7435f596ee639784f.jpg", 
-    "collectibleHash": 3125541831, 
-    "displaySource": "", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/70422198861e09744fbc020bf1925be5.jpg", 
-        "hasIcon": true, 
-        "description": "", 
-        "name": "Spire Star"
-    }
+	"displayProperties": {
+		"description": "",
+		"name": "Spire Star",
+		"icon": "/common/destiny2_content/icons/70422198861e09744fbc020bf1925be5.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"collectibleHash": 3125541831,
+	"secondaryIcon": "/common/destiny2_content/icons/894ebf043ed8251f9aaa6237133433da.jpg",
+	"secondaryOverlay": "/common/destiny2_content/icons/33e78930396e7466e4129d0e84763e0c.png",
+	"secondarySpecial": "/common/destiny2_content/icons/9c879815f40a8ff7435f596ee639784f.jpg",
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 14,
+		"green": 2,
+		"blue": 33,
+		"alpha": 255
+	},
+	"itemTypeDisplayName": "Emblem",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Emblem",
+	"displaySource": "",
+	"inventory": {
+		"stackUniqueLabel": "v320.emblems.raid.default",
+		"maxStackSize": 1,
+		"bucketTypeHash": 4274335291,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"equippingBlock": {
+		"uniqueLabelHash": 0,
+		"equipmentSlotTypeHash": 4274335291,
+		"attributes": 0,
+		"equippingSoundHash": 0,
+		"hornSoundHash": 0,
+		"ammoType": 0,
+		"displayStrings": []
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"talentGrid": {
+		"talentGridHash": 521135891,
+		"itemDetailString": "Details",
+		"hudDamageType": 1
+	},
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		19,
+		52
+	],
+	"specialItemType": 0,
+	"itemType": 14,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": true,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

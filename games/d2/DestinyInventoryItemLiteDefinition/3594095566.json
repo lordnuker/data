@@ -1,110 +1,110 @@
 {
-    "itemTypeAndTierDisplayName": "Exotic Quest Step", 
-    "itemType": 12, 
-    "tooltipNotifications": [], 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Exotic", 
-        "bucketTypeHash": 1345459588, 
-        "tierTypeHash": 2759499571, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 6, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "setData": {
-        "trackingUnlockValueHash": 0, 
-        "setIsFeatured": false, 
-        "itemList": [
-            {
-                "itemHash": 3594095566, 
-                "trackingValue": 100
-            }, 
-            {
-                "itemHash": 3594095567, 
-                "trackingValue": 200
-            }, 
-            {
-                "itemHash": 3594095564, 
-                "trackingValue": 300
-            }, 
-            {
-                "itemHash": 3594095565, 
-                "trackingValue": 400
-            }, 
-            {
-                "itemHash": 3594095562, 
-                "trackingValue": 500
-            }
-        ], 
-        "requireOrderedSetItemAdd": true, 
-        "questLineName": "Tributes", 
-        "abandonmentUnlockHash": 0, 
-        "setType": "quest_global"
-    }, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Quest Step", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": true, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        16
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "displaySource": "\"You deserve to be remembered for all of time. I shall wreathe your achievements in fine silk. I shall gild your triumphs in the purest gold.\" —Emperor Calus", 
-    "value": {
-        "itemValue": [
-            {
-                "itemHash": 374658385, 
-                "quantity": 1
-            }, 
-            {
-                "itemHash": 374658384, 
-                "quantity": 1
-            }, 
-            {
-                "itemHash": 374658387, 
-                "quantity": 1
-            }, 
-            {
-                "itemHash": 374658386, 
-                "quantity": 1
-            }, 
-            {
-                "itemHash": 374658397, 
-                "quantity": 1
-            }, 
-            {
-                "itemHash": 0, 
-                "quantity": 0
-            }
-        ], 
-        "valueDescription": ""
-    }, 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/30967f74d67942edd7af83b27857132e.jpg", 
-        "hasIcon": true, 
-        "description": "Fill the Tribute Hall aboard the Leviathan with proof of your exploits.", 
-        "name": "Golden Hero"
-    }
+	"displayProperties": {
+		"description": "Fill the Tribute Hall aboard the Leviathan with proof of your exploits.",
+		"name": "Golden Hero",
+		"icon": "/common/destiny2_content/icons/30967f74d67942edd7af83b27857132e.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Quest Step",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Exotic Quest Step",
+	"displaySource": "\"You deserve to be remembered for all of time. I shall wreathe your achievements in fine silk. I shall gild your triumphs in the purest gold.\" —Emperor Calus",
+	"setData": {
+		"itemList": [
+			{
+				"trackingValue": 100,
+				"itemHash": 3594095566
+			},
+			{
+				"trackingValue": 200,
+				"itemHash": 3594095567
+			},
+			{
+				"trackingValue": 300,
+				"itemHash": 3594095564
+			},
+			{
+				"trackingValue": 400,
+				"itemHash": 3594095565
+			},
+			{
+				"trackingValue": 500,
+				"itemHash": 3594095562
+			}
+		],
+		"trackingUnlockValueHash": 0,
+		"abandonmentUnlockHash": 0,
+		"requireOrderedSetItemAdd": true,
+		"setIsFeatured": false,
+		"setType": "quest_global",
+		"questLineName": "Tributes"
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1345459588,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 2759499571,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Exotic",
+		"tierType": 6,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"value": {
+		"itemValue": [
+			{
+				"itemHash": 374658385,
+				"quantity": 1
+			},
+			{
+				"itemHash": 374658384,
+				"quantity": 1
+			},
+			{
+				"itemHash": 374658387,
+				"quantity": 1
+			},
+			{
+				"itemHash": 374658386,
+				"quantity": 1
+			},
+			{
+				"itemHash": 374658397,
+				"quantity": 1
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			}
+		],
+		"valueDescription": ""
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": true,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		16
+	],
+	"specialItemType": 0,
+	"itemType": 12,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

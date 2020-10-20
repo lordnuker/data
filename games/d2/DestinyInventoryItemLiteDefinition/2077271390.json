@@ -1,59 +1,59 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Emote", 
-    "itemType": 19, 
-    "tooltipNotifications": [], 
-    "talentGrid": {
-        "talentGridHash": 521135891, 
-        "hudDamageType": 1, 
-        "itemDetailString": "Preview"
-    }, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 2401704334, 
-        "stackUniqueLabel": "v470.plugs.emotes.shooter_taunt_dance0", 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Emote", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        44, 
-        59
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "displaySource": "", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/826f74eb1198eab7f7326afc86dd26a9.jpg", 
-        "hasIcon": true, 
-        "description": "Take aim with these slick dance moves.", 
-        "highResIcon": "/common/destiny2_content/icons/4d499709ae6fb1aaa88c81b282796045.jpg", 
-        "name": "Flashy Moves"
-    }
+	"displayProperties": {
+		"description": "Take aim with these slick dance moves.",
+		"name": "Flashy Moves",
+		"icon": "/common/destiny2_content/icons/826f74eb1198eab7f7326afc86dd26a9.jpg",
+		"highResIcon": "/common/destiny2_content/icons/4d499709ae6fb1aaa88c81b282796045.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Emote",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Emote",
+	"displaySource": "",
+	"inventory": {
+		"stackUniqueLabel": "v470.plugs.emotes.shooter_taunt_dance0",
+		"maxStackSize": 1,
+		"bucketTypeHash": 2401704334,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"talentGrid": {
+		"talentGridHash": 521135891,
+		"itemDetailString": "Preview",
+		"hudDamageType": 1
+	},
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		44,
+		59
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

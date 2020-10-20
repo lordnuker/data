@@ -1,53 +1,53 @@
 {
-    "index": 1746, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        3036884545, 
-        3036884544, 
-        3036884547, 
-        3036884546
-    ], 
-    "parentNodeHashes": [
-        1891105980
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 200, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/decaf52ed74c6e66ae363fea24af2ba2.png", 
-        "hasIcon": true, 
-        "description": "Complete the \"Crown of Sorrow\" raid with a team made entirely of Guardians of the same class.", 
-        "name": "Stay Classy"
-    }, 
-    "scope": 0, 
-    "hash": 1558682428
+	"displayProperties": {
+		"description": "Complete the \"Crown of Sorrow\" raid with a team made entirely of Guardians of the same class.",
+		"name": "Stay Classy",
+		"icon": "/common/destiny2_content/icons/decaf52ed74c6e66ae363fea24af2ba2.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		3036884545,
+		3036884544,
+		3036884547,
+		3036884546
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 200,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		1891105980
+	],
+	"hash": 1558682428,
+	"index": 1758,
+	"redacted": false,
+	"blacklisted": false
 }

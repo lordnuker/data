@@ -1,90 +1,82 @@
 {
-    "itemTypeAndTierDisplayName": "Common Titan Subclass", 
-    "nonTransferrable": true, 
-    "tooltipNotifications": [], 
-    "quality": {
-        "infusionCategoryHash": 0, 
-        "infusionCategoryHashes": [], 
-        "infusionCategoryName": "0", 
-        "progressionLevelRequirementHash": 0, 
-        "qualityLevel": 0, 
-        "itemLevels": []
-    }, 
-    "itemType": 16, 
-    "talentGrid": {
-        "talentGridHash": 2303449158, 
-        "buildName": "thermal_titan", 
-        "hudIcon": "a_firestorm", 
-        "itemDetailString": "Details", 
-        "hudDamageType": 3
-    }, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Common", 
-        "bucketTypeHash": 3284755031, 
-        "stackUniqueLabel": "v300.builds.titan.thermal0", 
-        "tierTypeHash": 3340296461, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 2, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "loreHash": 3105935002, 
-    "equippable": true, 
-    "itemTypeDisplayName": "Titan Subclass", 
-    "isWrapper": false, 
-    "classType": 0, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        22, 
-        50, 
-        52
-    ], 
-    "uiItemDisplayStyle": "ui_display_style_engram", 
-    "secondaryOverlay": "/img/misc/missing_icon_d2.png", 
-    "secondaryIcon": "/common/destiny2_content/icons/596d3abd57e31f179af003b1cf0fcaf7.png", 
-    "equippingBlock": {
-        "displayStrings": [
-            ""
-        ], 
-        "equipmentSlotTypeHash": 3284755031, 
-        "ammoType": 0, 
-        "equippingSoundHash": 0, 
-        "hornSoundHash": 0, 
-        "attributes": 1, 
-        "uniqueLabelHash": 0
-    }, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "secondarySpecial": "/img/misc/missing_icon_d2.png", 
-    "displaySource": "", 
-    "perks": [
-        {
-            "requirementDisplayString": "", 
-            "perkHash": 3413782391, 
-            "perkVisibility": 0
-        }
-    ], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/ce681395733e3b2cfe86d538e74416b5.png", 
-        "hasIcon": true, 
-        "description": "Forge the fury of undying suns.", 
-        "name": "Sunbreaker"
-    }
+	"displayProperties": {
+		"description": "Forge the fury of undying suns.",
+		"name": "Sunbreaker",
+		"icon": "/common/destiny2_content/icons/ce681395733e3b2cfe86d538e74416b5.png",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"secondaryIcon": "/common/destiny2_content/icons/596d3abd57e31f179af003b1cf0fcaf7.png",
+	"secondaryOverlay": "/img/misc/missing_icon_d2.png",
+	"secondarySpecial": "/img/misc/missing_icon_d2.png",
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Titan Subclass",
+	"uiItemDisplayStyle": "ui_display_style_engram",
+	"itemTypeAndTierDisplayName": "Common Titan Subclass",
+	"displaySource": "",
+	"inventory": {
+		"stackUniqueLabel": "v300.builds.titan.thermal0",
+		"maxStackSize": 1,
+		"bucketTypeHash": 3284755031,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 3340296461,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Common",
+		"tierType": 2,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"equippingBlock": {
+		"uniqueLabelHash": 0,
+		"equipmentSlotTypeHash": 3284755031,
+		"attributes": 1,
+		"equippingSoundHash": 0,
+		"hornSoundHash": 0,
+		"ammoType": 0,
+		"displayStrings": [
+			""
+		]
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"talentGrid": {
+		"talentGridHash": 2303449158,
+		"itemDetailString": "Details",
+		"buildName": "thermal_titan",
+		"hudDamageType": 3,
+		"hudIcon": "a_firestorm"
+	},
+	"perks": [
+		{
+			"requirementDisplayString": "",
+			"perkHash": 3413782391,
+			"perkVisibility": 0
+		}
+	],
+	"loreHash": 3105935002,
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		22,
+		50,
+		52
+	],
+	"specialItemType": 0,
+	"itemType": 16,
+	"itemSubType": 0,
+	"classType": 0,
+	"breakerType": 0,
+	"equippable": true,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

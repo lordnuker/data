@@ -1,61 +1,61 @@
 {
-    "index": 947, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 1, 
-        "intervalObjectives": [
-            {
-                "intervalScoreValue": 20, 
-                "intervalObjectiveHash": 1096727162
-            }, 
-            {
-                "intervalScoreValue": 30, 
-                "intervalObjectiveHash": 1096727160
-            }, 
-            {
-                "intervalScoreValue": 30, 
-                "intervalObjectiveHash": 1096727161
-            }
-        ], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [], 
-    "parentNodeHashes": [
-        1186584469
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/099ab412d11b5c5a812e5cc5be5ee282.png", 
-        "hasIcon": true, 
-        "description": "Defeat opponents while holding all three zones in the Iron Banner playlist.", 
-        "name": "Timur's Study"
-    }, 
-    "scope": 0, 
-    "hash": 3484578777
+	"displayProperties": {
+		"description": "Defeat opponents while holding all three zones in the Iron Banner playlist.",
+		"name": "Timur's Study",
+		"icon": "/common/destiny2_content/icons/099ab412d11b5c5a812e5cc5be5ee282.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [
+			{
+				"intervalObjectiveHash": 1096727162,
+				"intervalScoreValue": 20
+			},
+			{
+				"intervalObjectiveHash": 1096727160,
+				"intervalScoreValue": 30
+			},
+			{
+				"intervalObjectiveHash": 1096727161,
+				"intervalScoreValue": 30
+			}
+		],
+		"originalObjectiveArrayInsertionIndex": 1,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		1186584469
+	],
+	"hash": 3484578777,
+	"index": 958,
+	"redacted": false,
+	"blacklisted": false
 }

@@ -1,83 +1,83 @@
 {
-    "itemTypeAndTierDisplayName": "Uncommon Consumable", 
-    "itemType": 20, 
-    "investmentStats": [], 
-    "redacted": false, 
-    "tooltipNotifications": [], 
-    "index": 7323, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Uncommon", 
-        "bucketTypeHash": 2422292810, 
-        "tierTypeHash": 2395677314, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 3, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "hash": 456408693, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Consumable", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        35, 
-        52, 
-        3109687656
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "plug": {
-        "insertionMaterialRequirementHash": 3961939938, 
-        "actionRewardSiteHash": 0, 
-        "enabledMaterialRequirementHash": 0, 
-        "previewItemOverrideHash": 0, 
-        "insertionRules": [
-            {
-                "failureMessage": "Weak Mote already in inventory."
-            }, 
-            {
-                "failureMessage": "Consumables Inventory Full"
-            }
-        ], 
-        "enabledRules": [], 
-        "plugCategoryHash": 472268526, 
-        "plugCategoryIdentifier": "enigma.vessel", 
-        "onActionRecreateSelf": false, 
-        "plugStyle": 0, 
-        "isDummyPlug": false, 
-        "actionRewardItemOverrideHash": 0, 
-        "uiPlugLabel": "", 
-        "alternatePlugStyle": 0, 
-        "alternateUiPlugLabel": "", 
-        "plugAvailability": 0
-    }, 
-    "blacklisted": false, 
-    "displaySource": "", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/f0f57afc9a9517cf3d9f8012c42c3330.jpg", 
-        "hasIcon": true, 
-        "description": "A key to the Reckoning. If you succeed, your reward is one piece of Illicit Collector armor.\n\nUsable only near the Reckoning in the Haul.", 
-        "name": "Weak Collector Mote"
-    }
+	"displayProperties": {
+		"description": "A key to the Reckoning. If you succeed, your reward is one piece of Illicit Collector armor.\n\nUsable only near the Reckoning in the Haul.",
+		"name": "Weak Collector Mote",
+		"icon": "/common/destiny2_content/icons/f0f57afc9a9517cf3d9f8012c42c3330.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Consumable",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Uncommon Consumable",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 2422292810,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 2395677314,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Uncommon",
+		"tierType": 3,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"plug": {
+		"insertionRules": [
+			{
+				"failureMessage": "Weak Mote already in inventory."
+			},
+			{
+				"failureMessage": "Consumables Inventory Full"
+			}
+		],
+		"plugCategoryIdentifier": "enigma.vessel",
+		"plugCategoryHash": 472268526,
+		"onActionRecreateSelf": false,
+		"actionRewardSiteHash": 0,
+		"actionRewardItemOverrideHash": 0,
+		"insertionMaterialRequirementHash": 3961939938,
+		"previewItemOverrideHash": 0,
+		"enabledMaterialRequirementHash": 0,
+		"enabledRules": [],
+		"uiPlugLabel": "",
+		"plugStyle": 0,
+		"plugAvailability": 0,
+		"alternateUiPlugLabel": "",
+		"alternatePlugStyle": 0,
+		"isDummyPlug": false
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		35,
+		52,
+		3109687656
+	],
+	"specialItemType": 0,
+	"itemType": 20,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"hash": 456408693,
+	"index": 7359,
+	"redacted": false,
+	"blacklisted": false
 }

@@ -1,67 +1,67 @@
 {
-    "itemTypeAndTierDisplayName": "Common Bowstring", 
-    "itemType": 19, 
-    "tooltipNotifications": [], 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "summaryItemHash": 3520001075, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Common", 
-        "bucketTypeHash": 1469714392, 
-        "tierTypeHash": 3340296461, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 2, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Bowstring", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 31, 
-    "itemCategoryHashes": [
-        59, 
-        3317538576, 
-        444756050, 
-        610365472
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "displaySource": "", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/a4ef0735253539a0244f7073f1622d98.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/845a353f8cb88922afd3836a8c7f85f9.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/a4ef0735253539a0244f7073f1622d98.png", 
-        "hasIcon": true, 
-        "description": "Simple balanced string.\n  •  Slightly increases accuracy\n  •  Slightly increases handling speed\n  •  Slightly increases stability", 
-        "name": "Natural String"
-    }
+	"displayProperties": {
+		"description": "Simple balanced string.\n  •  Slightly increases accuracy\n  •  Slightly increases handling speed\n  •  Slightly increases stability",
+		"name": "Natural String",
+		"icon": "/common/destiny2_content/icons/a4ef0735253539a0244f7073f1622d98.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/a4ef0735253539a0244f7073f1622d98.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/845a353f8cb88922afd3836a8c7f85f9.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Bowstring",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Common Bowstring",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1469714392,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 3340296461,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Common",
+		"tierType": 2,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [],
+	"summaryItemHash": 3520001075,
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		59,
+		3317538576,
+		444756050,
+		610365472
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 31,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

@@ -1,61 +1,61 @@
 {
-    "index": 635, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [
-            {
-                "intervalScoreValue": 50, 
-                "intervalObjectiveHash": 1820601254
-            }, 
-            {
-                "intervalScoreValue": 50, 
-                "intervalObjectiveHash": 1820601252
-            }, 
-            {
-                "intervalScoreValue": 50, 
-                "intervalObjectiveHash": 1820601253
-            }
-        ], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [], 
-    "parentNodeHashes": [
-        2783661087
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/a24eadbf986a1c51afbe0f57498539cb.png", 
-        "hasIcon": true, 
-        "description": "Deny Motes in Gambit by destroying enemy players who carry them.", 
-        "name": "Denied"
-    }, 
-    "scope": 0, 
-    "hash": 2575452461
+	"displayProperties": {
+		"description": "Deny Motes in Gambit by destroying enemy players who carry them.",
+		"name": "Denied",
+		"icon": "/common/destiny2_content/icons/a24eadbf986a1c51afbe0f57498539cb.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [
+			{
+				"intervalObjectiveHash": 1820601254,
+				"intervalScoreValue": 50
+			},
+			{
+				"intervalObjectiveHash": 1820601252,
+				"intervalScoreValue": 50
+			},
+			{
+				"intervalObjectiveHash": 1820601253,
+				"intervalScoreValue": 50
+			}
+		],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		2783661087
+	],
+	"hash": 2575452461,
+	"index": 646,
+	"redacted": false,
+	"blacklisted": false
 }

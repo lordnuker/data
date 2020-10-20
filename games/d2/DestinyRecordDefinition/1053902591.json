@@ -1,64 +1,64 @@
 {
-    "index": 1460, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        2023365788
-    ], 
-    "parentNodeHashes": [
-        3827492377
-    ], 
-    "expirationInfo": {
-        "hasExpiration": true, 
-        "description": "Available only during this year's Dawning."
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [
-        {
-            "itemHash": 3136552544, 
-            "quantity": 1
-        }
-    ], 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/39fac8d6882827c3023a3a302dd16b8d.png", 
-                    "/common/destiny2_content/icons/39fac8d6882827c3023a3a302dd16b8d.png", 
-                    "/common/destiny2_content/icons/8725b5a2d0ee0f7a7c17238b5a4db778.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/39fac8d6882827c3023a3a302dd16b8d.png", 
-        "hasIcon": true, 
-        "description": "Complete Dawning Triumphs by delivering delicious treats to your allies around the system.\n\nGrants the Holiday Treats emblem.", 
-        "name": "Bless Us, Everyone"
-    }, 
-    "scope": 1, 
-    "hash": 1053902591
+	"displayProperties": {
+		"description": "Complete Dawning Triumphs by delivering delicious treats to your allies around the system.\n\nGrants the Holiday Treats emblem.",
+		"name": "Bless Us, Everyone",
+		"icon": "/common/destiny2_content/icons/39fac8d6882827c3023a3a302dd16b8d.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/39fac8d6882827c3023a3a302dd16b8d.png",
+					"/common/destiny2_content/icons/39fac8d6882827c3023a3a302dd16b8d.png",
+					"/common/destiny2_content/icons/8725b5a2d0ee0f7a7c17238b5a4db778.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"scope": 1,
+	"objectiveHashes": [
+		2023365788
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": true,
+		"description": "Available only during this year's Dawning."
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [
+		{
+			"itemHash": 3136552544,
+			"quantity": 1
+		}
+	],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		3827492377
+	],
+	"hash": 1053902591,
+	"index": 1472,
+	"redacted": false,
+	"blacklisted": false
 }

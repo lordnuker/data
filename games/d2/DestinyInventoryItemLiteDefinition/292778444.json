@@ -1,57 +1,58 @@
 {
-    "itemTypeAndTierDisplayName": "Exotic Emote", 
-    "itemType": 23, 
-    "tooltipNotifications": [], 
-    "talentGrid": {
-        "talentGridHash": 521135891, 
-        "hudDamageType": 1, 
-        "itemDetailString": "Preview"
-    }, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Exotic", 
-        "bucketTypeHash": 2422292810, 
-        "stackUniqueLabel": "social.emotes.v300.ramen0", 
-        "tierTypeHash": 2759499571, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 6, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 162, 
-        "green": 175, 
-        "colorHash": 0, 
-        "red": 23, 
-        "alpha": 255
-    }, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Emote", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        44
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "displaySource": "", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/18bc43cb500896a064b1c9469eb46b23.jpg", 
-        "hasIcon": true, 
-        "description": "Never forget…", 
-        "name": "Spicy Ramen"
-    }
+	"displayProperties": {
+		"description": "Never forget…",
+		"name": "Spicy Ramen",
+		"icon": "/common/destiny2_content/icons/18bc43cb500896a064b1c9469eb46b23.jpg",
+		"highResIcon": "/common/destiny2_content/icons/fd54b198afbe27bc7564986c5a4871eb.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 23,
+		"green": 175,
+		"blue": 162,
+		"alpha": 255
+	},
+	"itemTypeDisplayName": "Emote",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Exotic Emote",
+	"displaySource": "",
+	"inventory": {
+		"stackUniqueLabel": "social.emotes.v300.ramen0",
+		"maxStackSize": 1,
+		"bucketTypeHash": 2422292810,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 2759499571,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Exotic",
+		"tierType": 6,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"talentGrid": {
+		"talentGridHash": 521135891,
+		"itemDetailString": "Preview",
+		"hudDamageType": 1
+	},
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		44
+	],
+	"specialItemType": 0,
+	"itemType": 23,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

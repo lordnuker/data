@@ -1,31 +1,31 @@
 {
-    "index": 377, 
-    "hash": 4222545800, 
-    "blacklisted": false, 
-    "redacted": false, 
-    "vendorHash": 0, 
-    "locationReleases": [
-        {
-            "worldPosition": [
-                -83, 
-                135, 
-                80, 
-                0
-            ], 
-            "spawnPoint": 0, 
-            "activityPathBundle": 4202649260, 
-            "activityBubbleName": 2762866308, 
-            "destinationHash": 2779202173, 
-            "activityGraphNodeHash": 0, 
-            "activityPathDestination": 1416096592, 
-            "activityGraphHash": 298686623, 
-            "displayProperties": {
-                "hasIcon": false, 
-                "description": "", 
-                "name": "Public Event Incoming"
-            }, 
-            "navPointType": 0, 
-            "activityHash": 445417088
-        }
-    ]
+	"vendorHash": 0,
+	"locationReleases": [
+		{
+			"displayProperties": {
+				"description": "",
+				"name": "Public Event Incoming",
+				"hasIcon": false
+			},
+			"spawnPoint": 0,
+			"destinationHash": 2779202173,
+			"activityHash": 445417088,
+			"activityGraphHash": 298686623,
+			"activityGraphNodeHash": 0,
+			"activityBubbleName": 2762866308,
+			"activityPathBundle": 4202649260,
+			"activityPathDestination": 1416096592,
+			"navPointType": 0,
+			"worldPosition": [
+				-83,
+				135,
+				80,
+				0
+			]
+		}
+	],
+	"hash": 4222545800,
+	"index": 377,
+	"redacted": false,
+	"blacklisted": false
 }

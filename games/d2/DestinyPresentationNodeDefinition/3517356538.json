@@ -1,47 +1,50 @@
 {
-    "index": 547, 
-    "traitHashes": [], 
-    "nodeType": 1, 
-    "blacklisted": false, 
-    "originalIcon": "/common/destiny2_content/icons/02a0f1d71250f42ee3d2a974be6635d2.png", 
-    "presentationNodeType": 1, 
-    "redacted": false, 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "objectiveHash": 287650480, 
-    "parentNodeHashes": [
-        3066887728
-    ], 
-    "displayStyle": 0, 
-    "rootViewIcon": "/common/destiny2_content/icons/02a0f1d71250f42ee3d2a974be6635d2.png", 
-    "screenStyle": 0, 
-    "traitIds": [], 
-    "disableChildSubscreenNavigation": false, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/02a0f1d71250f42ee3d2a974be6635d2.png", 
-                    "/common/destiny2_content/icons/90b97e61af9d42ca07cd3bd0c5570b4b.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/02a0f1d71250f42ee3d2a974be6635d2.png", 
-        "hasIcon": true, 
-        "description": "", 
-        "name": "Miscellaneous"
-    }, 
-    "scope": 0, 
-    "children": {
-        "metrics": [], 
-        "collectibles": [], 
-        "presentationNodes": [
-            {
-                "presentationNodeHash": 3139877809
-            }
-        ], 
-        "records": []
-    }, 
-    "hash": 3517356538
+	"displayProperties": {
+		"description": "",
+		"name": "Miscellaneous",
+		"icon": "/common/destiny2_content/icons/02a0f1d71250f42ee3d2a974be6635d2.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/02a0f1d71250f42ee3d2a974be6635d2.png",
+					"/common/destiny2_content/icons/90b97e61af9d42ca07cd3bd0c5570b4b.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"originalIcon": "/common/destiny2_content/icons/02a0f1d71250f42ee3d2a974be6635d2.png",
+	"rootViewIcon": "/common/destiny2_content/icons/02a0f1d71250f42ee3d2a974be6635d2.png",
+	"nodeType": 1,
+	"scope": 0,
+	"objectiveHash": 287650480,
+	"children": {
+		"presentationNodes": [
+			{
+				"presentationNodeHash": 3139877809
+			},
+			{
+				"presentationNodeHash": 3149360255
+			}
+		],
+		"collectibles": [],
+		"records": [],
+		"metrics": []
+	},
+	"displayStyle": 0,
+	"screenStyle": 0,
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"disableChildSubscreenNavigation": false,
+	"presentationNodeType": 1,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		3066887728
+	],
+	"hash": 3517356538,
+	"index": 600,
+	"redacted": false,
+	"blacklisted": false
 }

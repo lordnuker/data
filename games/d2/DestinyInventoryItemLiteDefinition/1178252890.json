@@ -1,81 +1,110 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Quest Step", 
-    "nonTransferrable": true, 
-    "tooltipNotifications": [], 
-    "itemType": 12, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 1801258597, 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "setData": {
-        "trackingUnlockValueHash": 0, 
-        "setIsFeatured": false, 
-        "itemList": [
-            {
-                "itemHash": 1178252890, 
-                "trackingValue": 100
-            }, 
-            {
-                "itemHash": 1178252889, 
-                "trackingValue": 200
-            }
-        ], 
-        "requireOrderedSetItemAdd": true, 
-        "questLineName": "The Treasure Hunt", 
-        "abandonmentUnlockHash": 0, 
-        "setType": "challenge"
-    }, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Quest Step", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": true, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        16
-    ], 
-    "uiItemDisplayStyle": "", 
-    "secondaryOverlay": "/img/misc/missing_icon_d2.png", 
-    "secondaryIcon": "/common/destiny2_content/icons/8aa2ee77cafe0aa1bdd1cd2202daf12a.jpg", 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "secondarySpecial": "/img/misc/missing_icon_d2.png", 
-    "displaySource": "", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/8e5c144a90a5b6ec351daf875096bf5b.png", 
-                    "/common/destiny2_content/icons/8e5c144a90a5b6ec351daf875096bf5b.png", 
-                    "/common/destiny2_content/icons/6aa113bfd80fc4ae4984652801ccf511.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/8e5c144a90a5b6ec351daf875096bf5b.png", 
-        "hasIcon": true, 
-        "description": "Unlock Solstice Packages from the European Aerial Zone by assembling Solstice Key Fragments.", 
-        "name": "Key to Power"
-    }
+	"displayProperties": {
+		"description": "Unlock Solstice Packages from the European Aerial Zone by assembling Solstice Key Fragments.",
+		"name": "Key to Power",
+		"icon": "/common/destiny2_content/icons/8e5c144a90a5b6ec351daf875096bf5b.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/8e5c144a90a5b6ec351daf875096bf5b.png",
+					"/common/destiny2_content/icons/8e5c144a90a5b6ec351daf875096bf5b.png",
+					"/common/destiny2_content/icons/6aa113bfd80fc4ae4984652801ccf511.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"secondaryIcon": "/common/destiny2_content/icons/8aa2ee77cafe0aa1bdd1cd2202daf12a.jpg",
+	"secondaryOverlay": "/img/misc/missing_icon_d2.png",
+	"secondarySpecial": "/img/misc/missing_icon_d2.png",
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Quest Step",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Quest Step",
+	"displaySource": "",
+	"setData": {
+		"itemList": [
+			{
+				"trackingValue": 100,
+				"itemHash": 1178252890
+			},
+			{
+				"trackingValue": 200,
+				"itemHash": 1178252889
+			}
+		],
+		"trackingUnlockValueHash": 0,
+		"abandonmentUnlockHash": 0,
+		"requireOrderedSetItemAdd": true,
+		"setIsFeatured": false,
+		"setType": "challenge",
+		"questLineName": "The Treasure Hunt"
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1801258597,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"value": {
+		"itemValue": [
+			{
+				"itemHash": 66825403,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			}
+		],
+		"valueDescription": ""
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": true,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		16
+	],
+	"specialItemType": 0,
+	"itemType": 12,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

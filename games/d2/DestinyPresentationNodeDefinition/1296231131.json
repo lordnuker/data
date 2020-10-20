@@ -1,46 +1,46 @@
 {
-    "index": 786, 
-    "traitHashes": [], 
-    "nodeType": 1, 
-    "blacklisted": false, 
-    "originalIcon": "/common/destiny2_content/icons/ae74a21c62d4f0e215406eff7a94899d.png", 
-    "presentationNodeType": 1, 
-    "redacted": false, 
-    "requirements": {
-        "entitlementUnavailableMessage": "Requires Sentry +10"
-    }, 
-    "parentNodeHashes": [
-        2103479654
-    ], 
-    "displayStyle": 0, 
-    "rootViewIcon": "/common/destiny2_content/icons/ae74a21c62d4f0e215406eff7a94899d.png", 
-    "screenStyle": 0, 
-    "traitIds": [], 
-    "disableChildSubscreenNavigation": false, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/ae74a21c62d4f0e215406eff7a94899d.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/b559bfe7756651038d6ecb67b0e4eb28.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/ae74a21c62d4f0e215406eff7a94899d.png", 
-        "hasIcon": true, 
-        "description": "Damaging an Invader marks them for your teammates.", 
-        "name": "Invader Tracker"
-    }, 
-    "scope": 1, 
-    "children": {
-        "metrics": [], 
-        "collectibles": [], 
-        "presentationNodes": [], 
-        "records": []
-    }, 
-    "hash": 1296231131
+	"displayProperties": {
+		"description": "Damaging an Invader marks them for your teammates.",
+		"name": "Invader Tracker",
+		"icon": "/common/destiny2_content/icons/ae74a21c62d4f0e215406eff7a94899d.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/ae74a21c62d4f0e215406eff7a94899d.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/b559bfe7756651038d6ecb67b0e4eb28.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"originalIcon": "/common/destiny2_content/icons/ae74a21c62d4f0e215406eff7a94899d.png",
+	"rootViewIcon": "/common/destiny2_content/icons/ae74a21c62d4f0e215406eff7a94899d.png",
+	"nodeType": 1,
+	"scope": 1,
+	"children": {
+		"presentationNodes": [],
+		"collectibles": [],
+		"records": [],
+		"metrics": []
+	},
+	"displayStyle": 0,
+	"screenStyle": 0,
+	"requirements": {
+		"entitlementUnavailableMessage": "Requires Sentry +10"
+	},
+	"disableChildSubscreenNavigation": false,
+	"presentationNodeType": 1,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		2103479654
+	],
+	"hash": 1296231131,
+	"index": 866,
+	"redacted": false,
+	"blacklisted": false
 }

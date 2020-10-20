@@ -1,69 +1,69 @@
 {
-    "index": 323, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 1, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": true, 
-        "titlesByGenderHash": {
-            "3111576190": "Enlightened", 
-            "2204441813": "Enlightened"
-        }, 
-        "titlesByGender": {
-            "Male": "Enlightened", 
-            "Female": "Enlightened"
-        }
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        3329747111
-    ], 
-    "parentNodeHashes": [], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/8eaefdbfaabd824e0e935f47a6695fad.png", 
-                    "/common/destiny2_content/icons/242de46a4a29ea512873f475b9255b8e.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/442f91e2724449e95ebdbbe11479100e.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/8eaefdbfaabd824e0e935f47a6695fad.png", 
-        "hasIcon": true, 
-        "description": "Complete all Triumphs for the \"Garden of Salvation\" raid.", 
-        "name": "Garden of Salvation"
-    }, 
-    "scope": 0, 
-    "hash": 3387213440
+	"displayProperties": {
+		"description": "Complete all Triumphs for the \"Garden of Salvation\" raid.",
+		"name": "Garden of Salvation",
+		"icon": "/common/destiny2_content/icons/8eaefdbfaabd824e0e935f47a6695fad.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/8eaefdbfaabd824e0e935f47a6695fad.png",
+					"/common/destiny2_content/icons/242de46a4a29ea512873f475b9255b8e.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/442f91e2724449e95ebdbbe11479100e.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		3329747111
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": true,
+		"titlesByGender": {
+			"Male": "Enlightened",
+			"Female": "Enlightened"
+		},
+		"titlesByGenderHash": {
+			"2204441813": "Enlightened",
+			"3111576190": "Enlightened"
+		}
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 1,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [],
+	"hash": 3387213440,
+	"index": 327,
+	"redacted": false,
+	"blacklisted": false
 }

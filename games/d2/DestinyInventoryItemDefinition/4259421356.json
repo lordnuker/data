@@ -1,149 +1,149 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Nightfall Modifier", 
-    "itemType": 19, 
-    "investmentStats": [], 
-    "redacted": false, 
-    "tooltipNotifications": [], 
-    "index": 3362, 
-    "allowActions": true, 
-    "objectives": {
-        "objectiveVerbName": "", 
-        "requireFullObjectiveCompletion": false, 
-        "questTypeIdentifier": "", 
-        "perObjectiveDisplayProperties": [
-            {
-                "displayOnItemPreviewScreen": false
-            }
-        ], 
-        "objectiveHashes": [
-            796038830
-        ], 
-        "displayAsStatTracker": false, 
-        "useOnObjectiveCompletion": false, 
-        "completionRewardSiteHash": 0, 
-        "timestampUnlockValueHash": 0, 
-        "questlineItemHash": 0, 
-        "isGlobalObjectiveItem": false, 
-        "inhibitCompletionUnlockValueHash": 0, 
-        "narrative": "", 
-        "displayActivityHashes": [
-            2166136261
-        ], 
-        "nextQuestStepRewardSiteHash": 0, 
-        "questTypeHash": 2166136261
-    }, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 3313201758, 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 178, 
-        "green": 178, 
-        "colorHash": 0, 
-        "red": 178, 
-        "alpha": 255
-    }, 
-    "hash": 4259421356, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Nightfall Modifier", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "action": {
-        "progressionRewards": [], 
-        "requiredCooldownHash": 0, 
-        "verbName": "Discard", 
-        "deleteOnAction": true, 
-        "requiredItems": [], 
-        "rewardItemHash": 0, 
-        "useOnAcquire": false, 
-        "isPositive": false, 
-        "requiredCooldownSeconds": 0, 
-        "rewardSheetHash": 0, 
-        "verbDescription": "", 
-        "rewardSiteHash": 0, 
-        "consumeEntireStack": false
-    }, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        59, 
-        3448069192
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": true, 
-    "tooltipStyle": "build", 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "plug": {
-        "insertionMaterialRequirementHash": 0, 
-        "actionRewardSiteHash": 0, 
-        "enabledMaterialRequirementHash": 0, 
-        "previewItemOverrideHash": 0, 
-        "insertionRules": [
-            {
-                "failureMessage": "Already Selected"
-            }, 
-            {
-                "failureMessage": "Mod Disabled"
-            }, 
-            {
-                "failureMessage": ""
-            }
-        ], 
-        "enabledRules": [
-            {
-                "failureMessage": "Mod Disabled"
-            }
-        ], 
-        "plugCategoryHash": 3332844716, 
-        "plugCategoryIdentifier": "v310.tickets.mods.nightfall", 
-        "onActionRecreateSelf": false, 
-        "plugStyle": 0, 
-        "isDummyPlug": false, 
-        "actionRewardItemOverrideHash": 0, 
-        "uiPlugLabel": "", 
-        "alternatePlugStyle": 0, 
-        "alternateUiPlugLabel": "", 
-        "plugAvailability": 0
-    }, 
-    "blacklisted": false, 
-    "acquireUnlockHash": 0, 
-    "displaySource": "", 
-    "perks": [
-        {
-            "requirementDisplayString": "", 
-            "perkHash": 2726629970, 
-            "perkVisibility": 0
-        }
-    ], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/79f225c487a4a42e406fdcb10c7e5376.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/f91c4499bd3e0722e3ee0b60105eb5ff.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/79f225c487a4a42e406fdcb10c7e5376.png", 
-        "hasIcon": true, 
-        "description": "", 
-        "name": "Brawler"
-    }
+	"displayProperties": {
+		"description": "",
+		"name": "Brawler",
+		"icon": "/common/destiny2_content/icons/79f225c487a4a42e406fdcb10c7e5376.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/79f225c487a4a42e406fdcb10c7e5376.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/f91c4499bd3e0722e3ee0b60105eb5ff.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 178,
+		"green": 178,
+		"blue": 178,
+		"alpha": 255
+	},
+	"itemTypeDisplayName": "Nightfall Modifier",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Nightfall Modifier",
+	"displaySource": "",
+	"tooltipStyle": "build",
+	"action": {
+		"verbName": "Discard",
+		"verbDescription": "",
+		"isPositive": false,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 3313201758,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"objectives": {
+		"objectiveHashes": [
+			796038830
+		],
+		"displayActivityHashes": [
+			2166136261
+		],
+		"requireFullObjectiveCompletion": false,
+		"questlineItemHash": 0,
+		"narrative": "",
+		"objectiveVerbName": "",
+		"questTypeIdentifier": "",
+		"questTypeHash": 2166136261,
+		"completionRewardSiteHash": 0,
+		"nextQuestStepRewardSiteHash": 0,
+		"timestampUnlockValueHash": 0,
+		"isGlobalObjectiveItem": false,
+		"useOnObjectiveCompletion": false,
+		"inhibitCompletionUnlockValueHash": 0,
+		"perObjectiveDisplayProperties": [
+			{
+				"displayOnItemPreviewScreen": false
+			}
+		],
+		"displayAsStatTracker": false
+	},
+	"plug": {
+		"insertionRules": [
+			{
+				"failureMessage": "Already Selected"
+			},
+			{
+				"failureMessage": "Mod Disabled"
+			},
+			{
+				"failureMessage": ""
+			}
+		],
+		"plugCategoryIdentifier": "v310.tickets.mods.nightfall",
+		"plugCategoryHash": 3332844716,
+		"onActionRecreateSelf": false,
+		"actionRewardSiteHash": 0,
+		"actionRewardItemOverrideHash": 0,
+		"insertionMaterialRequirementHash": 0,
+		"previewItemOverrideHash": 0,
+		"enabledMaterialRequirementHash": 0,
+		"enabledRules": [
+			{
+				"failureMessage": "Mod Disabled"
+			}
+		],
+		"uiPlugLabel": "",
+		"plugStyle": 0,
+		"plugAvailability": 0,
+		"alternateUiPlugLabel": "",
+		"alternatePlugStyle": 0,
+		"isDummyPlug": false
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [
+		{
+			"requirementDisplayString": "",
+			"perkHash": 2726629970,
+			"perkVisibility": 0
+		}
+	],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		59,
+		3448069192
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"hash": 4259421356,
+	"index": 3398,
+	"redacted": false,
+	"blacklisted": false
 }

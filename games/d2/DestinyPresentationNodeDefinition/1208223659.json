@@ -1,53 +1,56 @@
 {
-    "index": 559, 
-    "traitHashes": [], 
-    "nodeType": 1, 
-    "blacklisted": false, 
-    "originalIcon": "/common/destiny2_content/icons/1194f791acd9e8659bfdb4911b78b11f.png", 
-    "presentationNodeType": 1, 
-    "redacted": false, 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "objectiveHash": 3056333061, 
-    "parentNodeHashes": [
-        3066887728
-    ], 
-    "displayStyle": 0, 
-    "rootViewIcon": "/common/destiny2_content/icons/1194f791acd9e8659bfdb4911b78b11f.png", 
-    "screenStyle": 0, 
-    "traitIds": [], 
-    "disableChildSubscreenNavigation": false, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/1194f791acd9e8659bfdb4911b78b11f.png", 
-                    "/common/destiny2_content/icons/f2a63bd97df40ab8e2787228d3ae6e78.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/1194f791acd9e8659bfdb4911b78b11f.png", 
-        "hasIcon": true, 
-        "description": "", 
-        "name": "Finishers"
-    }, 
-    "scope": 1, 
-    "children": {
-        "metrics": [], 
-        "collectibles": [], 
-        "presentationNodes": [
-            {
-                "presentationNodeHash": 3006680607
-            }, 
-            {
-                "presentationNodeHash": 1313460861
-            }, 
-            {
-                "presentationNodeHash": 1313460860
-            }
-        ], 
-        "records": []
-    }, 
-    "hash": 1208223659
+	"displayProperties": {
+		"description": "",
+		"name": "Finishers",
+		"icon": "/common/destiny2_content/icons/1194f791acd9e8659bfdb4911b78b11f.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/1194f791acd9e8659bfdb4911b78b11f.png",
+					"/common/destiny2_content/icons/f2a63bd97df40ab8e2787228d3ae6e78.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"originalIcon": "/common/destiny2_content/icons/1194f791acd9e8659bfdb4911b78b11f.png",
+	"rootViewIcon": "/common/destiny2_content/icons/1194f791acd9e8659bfdb4911b78b11f.png",
+	"nodeType": 1,
+	"scope": 0,
+	"objectiveHash": 3056333061,
+	"children": {
+		"presentationNodes": [
+			{
+				"presentationNodeHash": 3006680606
+			},
+			{
+				"presentationNodeHash": 3006680607
+			},
+			{
+				"presentationNodeHash": 1313460861
+			},
+			{
+				"presentationNodeHash": 1313460860
+			}
+		],
+		"collectibles": [],
+		"records": [],
+		"metrics": []
+	},
+	"displayStyle": 0,
+	"screenStyle": 0,
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"disableChildSubscreenNavigation": false,
+	"presentationNodeType": 1,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		3066887728
+	],
+	"hash": 1208223659,
+	"index": 613,
+	"redacted": false,
+	"blacklisted": false
 }

@@ -1,53 +1,53 @@
 {
-    "index": 452, 
-    "hash": 3972215877, 
-    "blacklisted": false, 
-    "redacted": false, 
-    "vendorHash": 0, 
-    "locationReleases": [
-        {
-            "worldPosition": [
-                535, 
-                702, 
-                -2, 
-                0
-            ], 
-            "spawnPoint": 0, 
-            "activityPathBundle": 4285751486, 
-            "activityBubbleName": 1873893295, 
-            "destinationHash": 290444260, 
-            "activityGraphNodeHash": 0, 
-            "activityPathDestination": 677774031, 
-            "activityGraphHash": 2831782236, 
-            "displayProperties": {
-                "hasIcon": false, 
-                "description": "", 
-                "name": ""
-            }, 
-            "navPointType": 0, 
-            "activityHash": 2503939905
-        }, 
-        {
-            "worldPosition": [
-                0, 
-                0, 
-                0, 
-                0
-            ], 
-            "spawnPoint": 0, 
-            "activityPathBundle": 2284627401, 
-            "activityBubbleName": 240420607, 
-            "destinationHash": 0, 
-            "activityGraphNodeHash": 0, 
-            "activityPathDestination": 677774031, 
-            "activityGraphHash": 0, 
-            "displayProperties": {
-                "hasIcon": false, 
-                "description": "", 
-                "name": ""
-            }, 
-            "navPointType": 0, 
-            "activityHash": 0
-        }
-    ]
+	"vendorHash": 0,
+	"locationReleases": [
+		{
+			"displayProperties": {
+				"description": "",
+				"name": "",
+				"hasIcon": false
+			},
+			"spawnPoint": 0,
+			"destinationHash": 290444260,
+			"activityHash": 2503939905,
+			"activityGraphHash": 2831782236,
+			"activityGraphNodeHash": 0,
+			"activityBubbleName": 1873893295,
+			"activityPathBundle": 4285751486,
+			"activityPathDestination": 677774031,
+			"navPointType": 0,
+			"worldPosition": [
+				535,
+				702,
+				-2,
+				0
+			]
+		},
+		{
+			"displayProperties": {
+				"description": "",
+				"name": "",
+				"hasIcon": false
+			},
+			"spawnPoint": 0,
+			"destinationHash": 0,
+			"activityHash": 0,
+			"activityGraphHash": 0,
+			"activityGraphNodeHash": 0,
+			"activityBubbleName": 240420607,
+			"activityPathBundle": 2284627401,
+			"activityPathDestination": 677774031,
+			"navPointType": 0,
+			"worldPosition": [
+				0,
+				0,
+				0,
+				0
+			]
+		}
+	],
+	"hash": 3972215877,
+	"index": 452,
+	"redacted": false,
+	"blacklisted": false
 }

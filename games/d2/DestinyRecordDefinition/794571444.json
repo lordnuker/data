@@ -1,61 +1,61 @@
 {
-    "index": 648, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [
-            {
-                "intervalScoreValue": 50, 
-                "intervalObjectiveHash": 613334249
-            }, 
-            {
-                "intervalScoreValue": 50, 
-                "intervalObjectiveHash": 613334251
-            }, 
-            {
-                "intervalScoreValue": 50, 
-                "intervalObjectiveHash": 613334250
-            }
-        ], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [], 
-    "parentNodeHashes": [
-        662500459
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/6d4bedbd1389943766701cb46a533e10.png", 
-        "hasIcon": true, 
-        "description": "Rescue allies from being defeated by enemies in Gambit.", 
-        "name": "Rescue Allies"
-    }, 
-    "scope": 0, 
-    "hash": 794571444
+	"displayProperties": {
+		"description": "Rescue allies from being defeated by enemies in Gambit.",
+		"name": "Rescue Allies",
+		"icon": "/common/destiny2_content/icons/6d4bedbd1389943766701cb46a533e10.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [
+			{
+				"intervalObjectiveHash": 613334249,
+				"intervalScoreValue": 50
+			},
+			{
+				"intervalObjectiveHash": 613334251,
+				"intervalScoreValue": 50
+			},
+			{
+				"intervalObjectiveHash": 613334250,
+				"intervalScoreValue": 50
+			}
+		],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		662500459
+	],
+	"hash": 794571444,
+	"index": 659,
+	"redacted": false,
+	"blacklisted": false
 }

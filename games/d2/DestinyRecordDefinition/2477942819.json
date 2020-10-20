@@ -1,50 +1,50 @@
 {
-    "index": 711, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        405511768
-    ], 
-    "parentNodeHashes": [
-        2037331929
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 100, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/5b7cceeb85ec6d8a5a131a2d37ddead2.png", 
-        "hasIcon": true, 
-        "description": "Rapidly defeat multiple enemies with a single Sentinel Shield Super.", 
-        "name": "Captain of the Void"
-    }, 
-    "scope": 0, 
-    "hash": 2477942819
+	"displayProperties": {
+		"description": "Rapidly defeat multiple enemies with a single Sentinel Shield Super.",
+		"name": "Captain of the Void",
+		"icon": "/common/destiny2_content/icons/5b7cceeb85ec6d8a5a131a2d37ddead2.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		405511768
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 100,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		2037331929
+	],
+	"hash": 2477942819,
+	"index": 722,
+	"redacted": false,
+	"blacklisted": false
 }

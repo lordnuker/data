@@ -1,79 +1,79 @@
 {
-    "index": 631, 
-    "traitHashes": [], 
-    "nodeType": 3, 
-    "blacklisted": false, 
-    "originalIcon": "/common/destiny2_content/icons/e4bd7eb597cc57c87f359b6c6378433e.png", 
-    "presentationNodeType": 1, 
-    "redacted": false, 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "parentNodeHashes": [
-        1652422747
-    ], 
-    "children": {
-        "metrics": [], 
-        "collectibles": [], 
-        "presentationNodes": [], 
-        "records": [
-            {
-                "recordHash": 96478725
-            }, 
-            {
-                "recordHash": 4175541463
-            }, 
-            {
-                "recordHash": 3015116930
-            }, 
-            {
-                "recordHash": 1375269962
-            }, 
-            {
-                "recordHash": 2140812264
-            }, 
-            {
-                "recordHash": 3279886460
-            }, 
-            {
-                "recordHash": 376114010
-            }, 
-            {
-                "recordHash": 4011899423
-            }, 
-            {
-                "recordHash": 3232448575
-            }, 
-            {
-                "recordHash": 1842542594
-            }
-        ]
-    }, 
-    "rootViewIcon": "/img/destiny_content/also_triumphs/seals/seal_shadowkeep.png", 
-    "screenStyle": 2, 
-    "traitIds": [], 
-    "displayStyle": 2, 
-    "disableChildSubscreenNavigation": false, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/e4bd7eb597cc57c87f359b6c6378433e.png", 
-                    "/common/destiny2_content/icons/7f5bc819c19ae5a0fb7be5bcababd44c.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/76e00303bd710044598862cb8a9b214e.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/DestinyPresentationNodeDefinition_7e6767591bf301cedb5df8593832eaf2.png", 
-        "hasIcon": true, 
-        "description": "Complete all Triumphs for Shadowkeep.", 
-        "name": "Shadowkeep"
-    }, 
-    "scope": 0, 
-    "completionRecordHash": 3793754396, 
-    "hash": 2209950401
+	"displayProperties": {
+		"description": "Complete all Triumphs for Shadowkeep.",
+		"name": "Shadowkeep",
+		"icon": "/common/destiny2_content/icons/DestinyPresentationNodeDefinition_7e6767591bf301cedb5df8593832eaf2.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/e4bd7eb597cc57c87f359b6c6378433e.png",
+					"/common/destiny2_content/icons/7f5bc819c19ae5a0fb7be5bcababd44c.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/76e00303bd710044598862cb8a9b214e.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"originalIcon": "/common/destiny2_content/icons/e4bd7eb597cc57c87f359b6c6378433e.png",
+	"rootViewIcon": "/img/destiny_content/also_triumphs/seals/seal_shadowkeep.png",
+	"nodeType": 3,
+	"scope": 0,
+	"completionRecordHash": 3793754396,
+	"children": {
+		"presentationNodes": [],
+		"collectibles": [],
+		"records": [
+			{
+				"recordHash": 96478725
+			},
+			{
+				"recordHash": 4175541463
+			},
+			{
+				"recordHash": 3015116930
+			},
+			{
+				"recordHash": 1375269962
+			},
+			{
+				"recordHash": 2140812264
+			},
+			{
+				"recordHash": 3279886460
+			},
+			{
+				"recordHash": 376114010
+			},
+			{
+				"recordHash": 4011899423
+			},
+			{
+				"recordHash": 3232448575
+			},
+			{
+				"recordHash": 1842542594
+			}
+		],
+		"metrics": []
+	},
+	"displayStyle": 2,
+	"screenStyle": 2,
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"disableChildSubscreenNavigation": false,
+	"presentationNodeType": 1,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		1652422747
+	],
+	"hash": 2209950401,
+	"index": 705,
+	"redacted": false,
+	"blacklisted": false
 }

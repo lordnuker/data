@@ -1,101 +1,101 @@
 {
-    "itemTypeAndTierDisplayName": "", 
-    "itemType": 19, 
-    "investmentStats": [
-        {
-            "value": 6, 
-            "statTypeHash": 2018193158, 
-            "isConditionallyActive": false
-        }
-    ], 
-    "redacted": false, 
-    "tooltipNotifications": [], 
-    "index": 8629, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 3313201758, 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "hash": 3020065858, 
-    "equippable": false, 
-    "itemTypeDisplayName": "", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "action": {
-        "progressionRewards": [], 
-        "requiredCooldownHash": 0, 
-        "verbName": "Dismantle", 
-        "deleteOnAction": true, 
-        "requiredItems": [], 
-        "rewardItemHash": 0, 
-        "useOnAcquire": false, 
-        "isPositive": true, 
-        "requiredCooldownSeconds": 0, 
-        "rewardSheetHash": 0, 
-        "verbDescription": "", 
-        "rewardSiteHash": 0, 
-        "consumeEntireStack": false
-    }, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        59
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": false, 
-    "tooltipStyle": "vendor_action", 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "plug": {
-        "insertionMaterialRequirementHash": 3549770949, 
-        "actionRewardSiteHash": 0, 
-        "enabledMaterialRequirementHash": 0, 
-        "previewItemOverrideHash": 0, 
-        "insertionRules": [], 
-        "enabledRules": [], 
-        "plugCategoryHash": 400813042, 
-        "plugCategoryIdentifier": "v460.plugs.armor.masterworks.stat.resistance_3", 
-        "onActionRecreateSelf": false, 
-        "plugStyle": 0, 
-        "energyCapacity": {
-            "capacityValue": 6, 
-            "energyTypeHash": 591714140, 
-            "energyType": 2
-        }, 
-        "isDummyPlug": false, 
-        "actionRewardItemOverrideHash": 0, 
-        "uiPlugLabel": "", 
-        "alternatePlugStyle": 0, 
-        "alternateUiPlugLabel": "", 
-        "plugAvailability": 2
-    }, 
-    "blacklisted": false, 
-    "acquireUnlockHash": 0, 
-    "displaySource": "", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/df35c12ed7643d35936e88671d0059e1.png", 
-        "hasIcon": true, 
-        "description": "Upgrade this armor to increase its energy capacity by 1. Fully upgrading this armor to Masterwork provides a bonus to all stats.\n\nThis armor cannot accept mods that require Void or Arc energy.", 
-        "name": "Upgrade Armor"
-    }
+	"displayProperties": {
+		"description": "Upgrade this armor to increase its energy capacity by 1. Fully upgrading this armor to Masterwork provides a bonus to all stats.\n\nThis armor cannot accept mods that require Void or Arc energy.",
+		"name": "Upgrade Armor",
+		"icon": "/common/destiny2_content/icons/df35c12ed7643d35936e88671d0059e1.png",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "",
+	"displaySource": "",
+	"tooltipStyle": "vendor_action",
+	"action": {
+		"verbName": "Dismantle",
+		"verbDescription": "",
+		"isPositive": true,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 3313201758,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"plug": {
+		"insertionRules": [],
+		"plugCategoryIdentifier": "v460.plugs.armor.masterworks.stat.resistance_3",
+		"plugCategoryHash": 400813042,
+		"onActionRecreateSelf": false,
+		"actionRewardSiteHash": 0,
+		"actionRewardItemOverrideHash": 0,
+		"insertionMaterialRequirementHash": 3549770949,
+		"previewItemOverrideHash": 0,
+		"enabledMaterialRequirementHash": 0,
+		"enabledRules": [],
+		"uiPlugLabel": "",
+		"plugStyle": 0,
+		"plugAvailability": 2,
+		"alternateUiPlugLabel": "",
+		"alternatePlugStyle": 0,
+		"isDummyPlug": false,
+		"energyCapacity": {
+			"capacityValue": 6,
+			"energyTypeHash": 591714140,
+			"energyType": 2
+		}
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [
+		{
+			"statTypeHash": 2018193158,
+			"value": 6,
+			"isConditionallyActive": false
+		}
+	],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [
+		59
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"hash": 3020065858,
+	"index": 8664,
+	"redacted": false,
+	"blacklisted": false
 }

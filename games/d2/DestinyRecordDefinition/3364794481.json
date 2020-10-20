@@ -1,62 +1,62 @@
 {
-    "index": 1839, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        4252114274
-    ], 
-    "parentNodeHashes": [
-        1510571147
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 100, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/89cb21fcb08b92d29d87b54d64dafcbd.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/7999c3f27143fbf134bc6fff88a1f634.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/89cb21fcb08b92d29d87b54d64dafcbd.png", 
-        "hasIcon": true, 
-        "description": "Experience the story of Shadowkeep to complete this lore book.", 
-        "name": "Letters from Eris"
-    }, 
-    "scope": 0, 
-    "hash": 3364794481
+	"displayProperties": {
+		"description": "Experience the story of Shadowkeep to complete this lore book.",
+		"name": "Letters from Eris",
+		"icon": "/common/destiny2_content/icons/89cb21fcb08b92d29d87b54d64dafcbd.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/89cb21fcb08b92d29d87b54d64dafcbd.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/7999c3f27143fbf134bc6fff88a1f634.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		4252114274
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 100,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		1510571147
+	],
+	"hash": 3364794481,
+	"index": 1851,
+	"redacted": false,
+	"blacklisted": false
 }

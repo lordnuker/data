@@ -1,53 +1,53 @@
 {
-    "index": 413, 
-    "hash": 3298481793, 
-    "blacklisted": false, 
-    "redacted": false, 
-    "vendorHash": 0, 
-    "locationReleases": [
-        {
-            "worldPosition": [
-                -143, 
-                19, 
-                -25, 
-                0
-            ], 
-            "spawnPoint": 782826392, 
-            "activityPathBundle": 0, 
-            "activityBubbleName": 4101540847, 
-            "destinationHash": 333456177, 
-            "activityGraphNodeHash": 0, 
-            "activityPathDestination": 1821631635, 
-            "activityGraphHash": 3858837760, 
-            "displayProperties": {
-                "hasIcon": false, 
-                "description": "Fast travel to the Annex.", 
-                "name": "Annex"
-            }, 
-            "navPointType": 0, 
-            "activityHash": 3903562779
-        }, 
-        {
-            "worldPosition": [
-                -143, 
-                19, 
-                -25, 
-                0
-            ], 
-            "spawnPoint": 782826392, 
-            "activityPathBundle": 0, 
-            "activityBubbleName": 4101540847, 
-            "destinationHash": 333456177, 
-            "activityGraphNodeHash": 0, 
-            "activityPathDestination": 1821631635, 
-            "activityGraphHash": 3858837760, 
-            "displayProperties": {
-                "hasIcon": false, 
-                "description": "Travel to the Annex", 
-                "name": "Annex"
-            }, 
-            "navPointType": 0, 
-            "activityHash": 0
-        }
-    ]
+	"vendorHash": 0,
+	"locationReleases": [
+		{
+			"displayProperties": {
+				"description": "Fast travel to the Annex.",
+				"name": "Annex",
+				"hasIcon": false
+			},
+			"spawnPoint": 782826392,
+			"destinationHash": 333456177,
+			"activityHash": 3903562779,
+			"activityGraphHash": 3858837760,
+			"activityGraphNodeHash": 0,
+			"activityBubbleName": 4101540847,
+			"activityPathBundle": 0,
+			"activityPathDestination": 1821631635,
+			"navPointType": 0,
+			"worldPosition": [
+				-143,
+				19,
+				-25,
+				0
+			]
+		},
+		{
+			"displayProperties": {
+				"description": "Travel to the Annex",
+				"name": "Annex",
+				"hasIcon": false
+			},
+			"spawnPoint": 782826392,
+			"destinationHash": 333456177,
+			"activityHash": 0,
+			"activityGraphHash": 3858837760,
+			"activityGraphNodeHash": 0,
+			"activityBubbleName": 4101540847,
+			"activityPathBundle": 0,
+			"activityPathDestination": 1821631635,
+			"navPointType": 0,
+			"worldPosition": [
+				-143,
+				19,
+				-25,
+				0
+			]
+		}
+	],
+	"hash": 3298481793,
+	"index": 413,
+	"redacted": false,
+	"blacklisted": false
 }

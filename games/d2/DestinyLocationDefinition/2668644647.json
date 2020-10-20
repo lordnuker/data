@@ -1,44 +1,44 @@
 {
-    "index": 341, 
-    "hash": 2668644647, 
-    "blacklisted": false, 
-    "redacted": false, 
-    "vendorHash": 1454616762, 
-    "locationReleases": [
-        {
-            "worldPosition": [
-                132, 
-                -290, 
-                -50, 
-                0
-            ], 
-            "smallTransparentIcon": "/common/destiny2_content/icons/96e73157745a654f820cc237d6749b5f.png", 
-            "mapIcon": "/common/destiny2_content/icons/6ff1e3003f1a894e6076759e9a7404bc.png", 
-            "spawnPoint": 0, 
-            "activityPathBundle": 1833429427, 
-            "activityBubbleName": 824533556, 
-            "destinationHash": 359854275, 
-            "activityGraphNodeHash": 0, 
-            "activityPathDestination": 3821439926, 
-            "activityGraphHash": 2813095713, 
-            "displayProperties": {
-                "iconSequences": [
-                    {
-                        "frames": [
-                            "/common/destiny2_content/icons/96e73157745a654f820cc237d6749b5f.png", 
-                            "/common/destiny2_content/icons/6ff1e3003f1a894e6076759e9a7404bc.png", 
-                            "/common/destiny2_content/icons/1d8a3975825241f08089dd8763a66165.png"
-                        ]
-                    }
-                ], 
-                "icon": "/common/destiny2_content/icons/96e73157745a654f820cc237d6749b5f.png", 
-                "hasIcon": true, 
-                "description": "Queen's Wrath", 
-                "name": "Petra Venj"
-            }, 
-            "largeTransparentIcon": "/common/destiny2_content/icons/1d8a3975825241f08089dd8763a66165.png", 
-            "navPointType": 0, 
-            "activityHash": 1928964033
-        }
-    ]
+	"vendorHash": 1454616762,
+	"locationReleases": [
+		{
+			"displayProperties": {
+				"description": "Queen's Wrath",
+				"name": "Petra Venj",
+				"icon": "/common/destiny2_content/icons/96e73157745a654f820cc237d6749b5f.png",
+				"iconSequences": [
+					{
+						"frames": [
+							"/common/destiny2_content/icons/96e73157745a654f820cc237d6749b5f.png",
+							"/common/destiny2_content/icons/6ff1e3003f1a894e6076759e9a7404bc.png",
+							"/common/destiny2_content/icons/1d8a3975825241f08089dd8763a66165.png"
+						]
+					}
+				],
+				"hasIcon": true
+			},
+			"smallTransparentIcon": "/common/destiny2_content/icons/96e73157745a654f820cc237d6749b5f.png",
+			"mapIcon": "/common/destiny2_content/icons/6ff1e3003f1a894e6076759e9a7404bc.png",
+			"largeTransparentIcon": "/common/destiny2_content/icons/1d8a3975825241f08089dd8763a66165.png",
+			"spawnPoint": 0,
+			"destinationHash": 359854275,
+			"activityHash": 1928964033,
+			"activityGraphHash": 2813095713,
+			"activityGraphNodeHash": 0,
+			"activityBubbleName": 824533556,
+			"activityPathBundle": 1833429427,
+			"activityPathDestination": 3821439926,
+			"navPointType": 0,
+			"worldPosition": [
+				132,
+				-290,
+				-50,
+				0
+			]
+		}
+	],
+	"hash": 2668644647,
+	"index": 341,
+	"redacted": false,
+	"blacklisted": false
 }

@@ -1,56 +1,56 @@
 {
-    "index": 1970, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 0, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        203255009
-    ], 
-    "parentNodeHashes": [
-        3303651245, 
-        959627408
-    ], 
-    "expirationInfo": {
-        "hasExpiration": true, 
-        "description": "Available only during Season 9."
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 200, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [
-        {
-            "itemHash": 2266613161, 
-            "quantity": 5
-        }
-    ], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/f53ff29c216e76145aa17c440d6dfe51.png", 
-        "hasIcon": true, 
-        "description": "Complete the Empyrean Restoration effort and light the beacon.", 
-        "name": "Torch-Bearer"
-    }, 
-    "scope": 1, 
-    "hash": 3348410972
+	"displayProperties": {
+		"description": "Complete the Empyrean Restoration effort and light the beacon.",
+		"name": "Torch-Bearer",
+		"icon": "/common/destiny2_content/icons/f53ff29c216e76145aa17c440d6dfe51.png",
+		"hasIcon": true
+	},
+	"scope": 1,
+	"objectiveHashes": [
+		203255009
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 200,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 0,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": true,
+		"description": "Available only during Season 9."
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [
+		{
+			"itemHash": 2266613161,
+			"quantity": 5
+		}
+	],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		3303651245,
+		959627408
+	],
+	"hash": 3348410972,
+	"index": 1982,
+	"redacted": false,
+	"blacklisted": false
 }

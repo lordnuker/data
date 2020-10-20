@@ -1,65 +1,65 @@
 {
-    "index": 1009, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [
-            {
-                "intervalScoreValue": 50, 
-                "intervalObjectiveHash": 3277391739
-            }, 
-            {
-                "intervalScoreValue": 50, 
-                "intervalObjectiveHash": 3277391737
-            }, 
-            {
-                "intervalScoreValue": 50, 
-                "intervalObjectiveHash": 3277391736
-            }, 
-            {
-                "intervalScoreValue": 50, 
-                "intervalObjectiveHash": 3277391743
-            }
-        ], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [], 
-    "parentNodeHashes": [
-        1330303807
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/1c2ad3a94f74af9d93d4f4702f36c21f.png", 
-        "hasIcon": true, 
-        "description": "Complete matches with at least one other player in your fireteam.", 
-        "name": "Strength of the Pack"
-    }, 
-    "scope": 0, 
-    "hash": 2323654178
+	"displayProperties": {
+		"description": "Complete matches with at least one other player in your fireteam.",
+		"name": "Strength of the Pack",
+		"icon": "/common/destiny2_content/icons/1c2ad3a94f74af9d93d4f4702f36c21f.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [
+			{
+				"intervalObjectiveHash": 3277391739,
+				"intervalScoreValue": 50
+			},
+			{
+				"intervalObjectiveHash": 3277391737,
+				"intervalScoreValue": 50
+			},
+			{
+				"intervalObjectiveHash": 3277391736,
+				"intervalScoreValue": 50
+			},
+			{
+				"intervalObjectiveHash": 3277391743,
+				"intervalScoreValue": 50
+			}
+		],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		1330303807
+	],
+	"hash": 2323654178,
+	"index": 1021,
+	"redacted": false,
+	"blacklisted": false
 }

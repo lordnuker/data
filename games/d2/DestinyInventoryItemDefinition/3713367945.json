@@ -1,150 +1,136 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Prophecy Tablet", 
-    "itemType": 9, 
-    "investmentStats": [], 
-    "redacted": false, 
-    "tooltipNotifications": [], 
-    "quality": {
-        "infusionCategoryHash": 0, 
-        "infusionCategoryHashes": [], 
-        "infusionCategoryName": "0", 
-        "progressionLevelRequirementHash": 0, 
-        "qualityLevel": 0, 
-        "itemLevels": []
-    }, 
-    "index": 3543, 
-    "stats": {
-        "hasDisplayableStats": false, 
-        "primaryBaseStatHash": 0, 
-        "disablePrimaryStatDisplay": false, 
-        "stats": {}
-    }, 
-    "objectives": {
-        "objectiveVerbName": "", 
-        "requireFullObjectiveCompletion": true, 
-        "questTypeIdentifier": "", 
-        "perObjectiveDisplayProperties": [
-            {
-                "displayOnItemPreviewScreen": false
-            }, 
-            {
-                "displayOnItemPreviewScreen": false
-            }
-        ], 
-        "objectiveHashes": [
-            1593872883, 
-            1834675658
-        ], 
-        "displayAsStatTracker": false, 
-        "useOnObjectiveCompletion": false, 
-        "completionRewardSiteHash": 0, 
-        "timestampUnlockValueHash": 0, 
-        "questlineItemHash": 0, 
-        "isGlobalObjectiveItem": false, 
-        "inhibitCompletionUnlockValueHash": 0, 
-        "narrative": "", 
-        "displayActivityHashes": [
-            2166136261, 
-            2166136261
-        ], 
-        "nextQuestStepRewardSiteHash": 0, 
-        "questTypeHash": 2166136261
-    }, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 1469714392, 
-        "stackUniqueLabel": "mercury_sidearm0_artifact0", 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "preview": {
-        "screenStyle": "screen_style_vendor", 
-        "derivedItemCategories": [
-            {
-                "items": [
-                    {
-                        "itemHash": 4121721130, 
-                        "vendorItemIndex": 0
-                    }, 
-                    {
-                        "itemHash": 395873777, 
-                        "vendorItemIndex": 1
-                    }, 
-                    {
-                        "itemHash": 2015125095, 
-                        "vendorItemIndex": 2
-                    }, 
-                    {
-                        "itemHash": 3529196966, 
-                        "vendorItemIndex": 3
-                    }
-                ], 
-                "categoryDescription": "", 
-                "categoryIndex": 0
-            }
-        ], 
-        "previewVendorHash": 3638231761, 
-        "previewActionString": "Details"
-    }, 
-    "hash": 3713367945, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Prophecy Tablet", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "action": {
-        "progressionRewards": [], 
-        "requiredCooldownHash": 0, 
-        "verbName": "Destroy", 
-        "deleteOnAction": true, 
-        "requiredItems": [], 
-        "rewardItemHash": 0, 
-        "actionTypeLabel": "shard", 
-        "useOnAcquire": false, 
-        "isPositive": false, 
-        "requiredCooldownSeconds": 0, 
-        "rewardSheetHash": 0, 
-        "verbDescription": "", 
-        "rewardSiteHash": 0, 
-        "consumeEntireStack": false
-    }, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        2250046497, 
-        35, 
-        52
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": true, 
-    "tooltipStyle": "record", 
-    "allowActions": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "blacklisted": false, 
-    "acquireUnlockHash": 0, 
-    "displaySource": "", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/49ead2f800d5eadbe84aaeacf1b42fc8.jpg", 
-        "hasIcon": true, 
-        "description": "A visitor ignites the sky, and in the truth of light it dreams:\nAbove the dead and yet-to-die, a legion's blade with fire screams.", 
-        "name": "Lost Prophecy, Verse 5"
-    }
+	"displayProperties": {
+		"description": "A visitor ignites the sky, and in the truth of light it dreams:\nAbove the dead and yet-to-die, a legion's blade with fire screams.",
+		"name": "Lost Prophecy, Verse 5",
+		"icon": "/common/destiny2_content/icons/49ead2f800d5eadbe84aaeacf1b42fc8.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Prophecy Tablet",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Prophecy Tablet",
+	"displaySource": "",
+	"tooltipStyle": "record",
+	"action": {
+		"verbName": "Destroy",
+		"verbDescription": "",
+		"isPositive": false,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"actionTypeLabel": "shard",
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"stackUniqueLabel": "mercury_sidearm0_artifact0",
+		"maxStackSize": 1,
+		"bucketTypeHash": 1469714392,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"preview": {
+		"screenStyle": "screen_style_vendor",
+		"previewVendorHash": 3638231761,
+		"previewActionString": "Details",
+		"derivedItemCategories": [
+			{
+				"categoryDescription": "",
+				"items": [
+					{
+						"itemHash": 4121721130,
+						"vendorItemIndex": 0
+					},
+					{
+						"itemHash": 395873777,
+						"vendorItemIndex": 1
+					},
+					{
+						"itemHash": 2015125095,
+						"vendorItemIndex": 2
+					},
+					{
+						"itemHash": 3529196966,
+						"vendorItemIndex": 3
+					}
+				],
+				"categoryIndex": 0
+			}
+		]
+	},
+	"objectives": {
+		"objectiveHashes": [
+			1593872883,
+			1834675658
+		],
+		"displayActivityHashes": [
+			2166136261,
+			2166136261
+		],
+		"requireFullObjectiveCompletion": true,
+		"questlineItemHash": 0,
+		"narrative": "",
+		"objectiveVerbName": "",
+		"questTypeIdentifier": "",
+		"questTypeHash": 2166136261,
+		"completionRewardSiteHash": 0,
+		"nextQuestStepRewardSiteHash": 0,
+		"timestampUnlockValueHash": 0,
+		"isGlobalObjectiveItem": false,
+		"useOnObjectiveCompletion": false,
+		"inhibitCompletionUnlockValueHash": 0,
+		"perObjectiveDisplayProperties": [
+			{
+				"displayOnItemPreviewScreen": false
+			},
+			{
+				"displayOnItemPreviewScreen": false
+			}
+		],
+		"displayAsStatTracker": false
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		2250046497,
+		35,
+		52
+	],
+	"specialItemType": 0,
+	"itemType": 9,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"hash": 3713367945,
+	"index": 3579,
+	"redacted": false,
+	"blacklisted": false
 }

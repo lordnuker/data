@@ -1,34 +1,34 @@
 {
-    "allowValueChangeWhenCompleted": true, 
-    "isCountingDownward": false, 
-    "redacted": false, 
-    "progressDescription": "Tracks your successes in the Crucible as a function of kills plus assists, divided by deaths.", 
-    "unlockValueHash": 0, 
-    "index": 262, 
-    "stats": {
-        "style": 0
-    }, 
-    "isDisplayOnlyObjective": false, 
-    "allowNegativeValue": false, 
-    "scope": 3, 
-    "hash": 4294827528, 
-    "completedValueStyle": 0, 
-    "locationHash": 0, 
-    "inProgressValueStyle": 5, 
-    "showValueOnComplete": false, 
-    "allowOvercompletion": true, 
-    "valueStyle": 0, 
-    "blacklisted": false, 
-    "completionValue": 100, 
-    "minimumVisibilityThreshold": -2147483648, 
-    "perks": {
-        "style": 0, 
-        "perkHash": 0
-    }, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/6d560af2bc1712580e43350fae0cddd0.png", 
-        "hasIcon": true, 
-        "description": "Tracks your successes in the Crucible as a function of kills plus assists, divided by deaths.", 
-        "name": "Crucible KDA:"
-    }
+	"displayProperties": {
+		"description": "Tracks your successes in the Crucible as a function of kills plus assists, divided by deaths.",
+		"name": "Crucible KDA:",
+		"icon": "/common/destiny2_content/icons/6d560af2bc1712580e43350fae0cddd0.png",
+		"hasIcon": true
+	},
+	"unlockValueHash": 0,
+	"completionValue": 100,
+	"scope": 3,
+	"locationHash": 0,
+	"allowNegativeValue": false,
+	"allowValueChangeWhenCompleted": true,
+	"isCountingDownward": false,
+	"valueStyle": 0,
+	"progressDescription": "Tracks your successes in the Crucible as a function of kills plus assists, divided by deaths.",
+	"perks": {
+		"perkHash": 0,
+		"style": 0
+	},
+	"stats": {
+		"style": 0
+	},
+	"minimumVisibilityThreshold": -2147483648,
+	"allowOvercompletion": true,
+	"showValueOnComplete": false,
+	"isDisplayOnlyObjective": false,
+	"completedValueStyle": 0,
+	"inProgressValueStyle": 5,
+	"hash": 4294827528,
+	"index": 316,
+	"redacted": false,
+	"blacklisted": false
 }

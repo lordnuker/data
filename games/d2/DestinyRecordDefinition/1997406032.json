@@ -1,55 +1,50 @@
 {
-    "index": 2027, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        3553642109
-    ], 
-    "parentNodeHashes": [
-        2998268400
-    ], 
-    "expirationInfo": {
-        "hasExpiration": true, 
-        "description": "Available only during Season 10"
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 50, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [
-        {
-            "itemHash": 535079318, 
-            "quantity": 100
-        }
-    ], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/6e2145e694205c0cc0789af4204a1c03.png", 
-        "hasIcon": true, 
-        "description": "Complete a Seraph Tower Public Event while wearing a full set of Seventh Seraph armor.", 
-        "name": "Top of the Line"
-    }, 
-    "scope": 0, 
-    "hash": 1997406032
+	"displayProperties": {
+		"description": "Complete a Seraph Tower Public Event while wearing a full set of Seventh Seraph armor.",
+		"name": "Top of the Line",
+		"icon": "/common/destiny2_content/icons/6e2145e694205c0cc0789af4204a1c03.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		3553642109
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 50,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": true,
+		"description": "Available only during Season 10"
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		2998268400
+	],
+	"hash": 1997406032,
+	"index": 2039,
+	"redacted": false,
+	"blacklisted": false
 }

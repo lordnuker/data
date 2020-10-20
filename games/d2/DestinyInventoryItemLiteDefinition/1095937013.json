@@ -1,113 +1,113 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Quest Step", 
-    "nonTransferrable": true, 
-    "tooltipNotifications": [], 
-    "itemType": 12, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 1345459588, 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 114, 
-        "green": 111, 
-        "colorHash": 0, 
-        "red": 23, 
-        "alpha": 255
-    }, 
-    "setData": {
-        "trackingUnlockValueHash": 0, 
-        "setIsFeatured": false, 
-        "itemList": [
-            {
-                "itemHash": 4122447487, 
-                "trackingValue": 100
-            }, 
-            {
-                "itemHash": 3575754323, 
-                "trackingValue": 200
-            }, 
-            {
-                "itemHash": 50742572, 
-                "trackingValue": 300
-            }, 
-            {
-                "itemHash": 3072358633, 
-                "trackingValue": 400
-            }, 
-            {
-                "itemHash": 823187045, 
-                "trackingValue": 500
-            }, 
-            {
-                "itemHash": 2347946510, 
-                "trackingValue": 600
-            }, 
-            {
-                "itemHash": 1095937013, 
-                "trackingValue": 700
-            }, 
-            {
-                "itemHash": 2237931050, 
-                "trackingValue": 800
-            }, 
-            {
-                "itemHash": 13903920, 
-                "trackingValue": 900
-            }, 
-            {
-                "itemHash": 3767487431, 
-                "trackingValue": 1000
-            }
-        ], 
-        "requireOrderedSetItemAdd": true, 
-        "questLineName": "Legacy: Warmind", 
-        "abandonmentUnlockHash": 0, 
-        "setType": "quest_story"
-    }, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Quest Step", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": true, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        16
-    ], 
-    "uiItemDisplayStyle": "", 
-    "secondaryOverlay": "/img/misc/missing_icon_d2.png", 
-    "secondaryIcon": "/common/destiny2_content/icons/0e3e607703cff8b7db19e27846dbb2cf.jpg", 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "secondarySpecial": "/img/misc/missing_icon_d2.png", 
-    "displaySource": "", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/4b1377381bd8fafbb77db6350f19c728.jpg", 
-                    "/common/destiny2_content/icons/1266a910287db396e949cfc348369822.png", 
-                    "/common/destiny2_content/icons/728938826a6d9c3f7bb7095e8511fc50.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/4b1377381bd8fafbb77db6350f19c728.jpg", 
-        "hasIcon": true, 
-        "description": "Enter Hive territory and find Xol's feeding ground. Draw him out and stop him before he can surface.", 
-        "name": "Strange Terrain"
-    }
+	"displayProperties": {
+		"description": "Enter Hive territory and find Xol's feeding ground. Draw him out and stop him before he can surface.",
+		"name": "Strange Terrain",
+		"icon": "/common/destiny2_content/icons/4b1377381bd8fafbb77db6350f19c728.jpg",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/4b1377381bd8fafbb77db6350f19c728.jpg",
+					"/common/destiny2_content/icons/1266a910287db396e949cfc348369822.png",
+					"/common/destiny2_content/icons/728938826a6d9c3f7bb7095e8511fc50.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"secondaryIcon": "/common/destiny2_content/icons/0e3e607703cff8b7db19e27846dbb2cf.jpg",
+	"secondaryOverlay": "/img/misc/missing_icon_d2.png",
+	"secondarySpecial": "/img/misc/missing_icon_d2.png",
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 23,
+		"green": 111,
+		"blue": 114,
+		"alpha": 255
+	},
+	"itemTypeDisplayName": "Quest Step",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Quest Step",
+	"displaySource": "",
+	"setData": {
+		"itemList": [
+			{
+				"trackingValue": 100,
+				"itemHash": 4122447487
+			},
+			{
+				"trackingValue": 200,
+				"itemHash": 3575754323
+			},
+			{
+				"trackingValue": 300,
+				"itemHash": 50742572
+			},
+			{
+				"trackingValue": 400,
+				"itemHash": 3072358633
+			},
+			{
+				"trackingValue": 500,
+				"itemHash": 823187045
+			},
+			{
+				"trackingValue": 600,
+				"itemHash": 2347946510
+			},
+			{
+				"trackingValue": 700,
+				"itemHash": 1095937013
+			},
+			{
+				"trackingValue": 800,
+				"itemHash": 2237931050
+			},
+			{
+				"trackingValue": 900,
+				"itemHash": 13903920
+			},
+			{
+				"trackingValue": 1000,
+				"itemHash": 3767487431
+			}
+		],
+		"trackingUnlockValueHash": 0,
+		"abandonmentUnlockHash": 0,
+		"requireOrderedSetItemAdd": true,
+		"setIsFeatured": false,
+		"setType": "quest_story",
+		"questLineName": "Legacy: Warmind"
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1345459588,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": true,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		16
+	],
+	"specialItemType": 0,
+	"itemType": 12,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

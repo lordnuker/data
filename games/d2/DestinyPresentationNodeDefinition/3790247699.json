@@ -1,49 +1,49 @@
 {
-    "index": 0, 
-    "traitHashes": [], 
-    "nodeType": 1, 
-    "blacklisted": false, 
-    "presentationNodeType": 1, 
-    "redacted": false, 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "objectiveHash": 3395152237, 
-    "parentNodeHashes": [], 
-    "displayStyle": 0, 
-    "screenStyle": 0, 
-    "traitIds": [], 
-    "disableChildSubscreenNavigation": false, 
-    "displayProperties": {
-        "hasIcon": false, 
-        "description": "", 
-        "name": "Items"
-    }, 
-    "scope": 1, 
-    "children": {
-        "metrics": [], 
-        "collectibles": [], 
-        "presentationNodes": [
-            {
-                "presentationNodeHash": 1068557105
-            }, 
-            {
-                "presentationNodeHash": 1528930164
-            }, 
-            {
-                "presentationNodeHash": 1605042242
-            }, 
-            {
-                "presentationNodeHash": 3509235358
-            }, 
-            {
-                "presentationNodeHash": 3394315601
-            }, 
-            {
-                "presentationNodeHash": 3066887728
-            }
-        ], 
-        "records": []
-    }, 
-    "hash": 3790247699
+	"displayProperties": {
+		"description": "",
+		"name": "Items",
+		"hasIcon": false
+	},
+	"nodeType": 1,
+	"scope": 1,
+	"objectiveHash": 3395152237,
+	"children": {
+		"presentationNodes": [
+			{
+				"presentationNodeHash": 1068557105
+			},
+			{
+				"presentationNodeHash": 1528930164
+			},
+			{
+				"presentationNodeHash": 1605042242
+			},
+			{
+				"presentationNodeHash": 3509235358
+			},
+			{
+				"presentationNodeHash": 3394315601
+			},
+			{
+				"presentationNodeHash": 3066887728
+			}
+		],
+		"collectibles": [],
+		"records": [],
+		"metrics": []
+	},
+	"displayStyle": 0,
+	"screenStyle": 0,
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"disableChildSubscreenNavigation": false,
+	"presentationNodeType": 1,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [],
+	"hash": 3790247699,
+	"index": 0,
+	"redacted": false,
+	"blacklisted": false
 }

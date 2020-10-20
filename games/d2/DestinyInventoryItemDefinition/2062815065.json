@@ -1,0 +1,125 @@
+{
+	"displayProperties": {
+		"description": "Equip this item to change your Ghost's projection.",
+		"name": "Sterling Arbor Projection",
+		"icon": "/common/destiny2_content/icons/4d79ae1727f3e6fae85a961fbdbecc93.jpg",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/4d79ae1727f3e6fae85a961fbdbecc93.jpg"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/b0fcf65ff6d381edf82f7a1130f5b12d.png"
+				]
+			}
+		],
+		"highResIcon": "/common/destiny2_content/icons/6505de8ba888510410970da5e7637ce1.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Ghost Projection",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Ghost Projection",
+	"displaySource": "",
+	"action": {
+		"verbName": "Unlock",
+		"verbDescription": "",
+		"isPositive": true,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 3313201758,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"translationBlock": {
+		"weaponPatternHash": 0,
+		"defaultDyes": [],
+		"lockedDyes": [],
+		"customDyes": [],
+		"arrangements": [
+			{
+				"classHash": 0,
+				"artArrangementHash": 2062815065
+			}
+		],
+		"hasGeometry": true
+	},
+	"preview": {
+		"screenStyle": "screen_style_sockets",
+		"previewVendorHash": 0,
+		"previewActionString": "Preview"
+	},
+	"plug": {
+		"insertionRules": [],
+		"plugCategoryIdentifier": "hologram",
+		"plugCategoryHash": 2272427828,
+		"onActionRecreateSelf": false,
+		"actionRewardSiteHash": 0,
+		"actionRewardItemOverrideHash": 0,
+		"insertionMaterialRequirementHash": 0,
+		"previewItemOverrideHash": 0,
+		"enabledMaterialRequirementHash": 0,
+		"enabledRules": [],
+		"uiPlugLabel": "",
+		"plugStyle": 0,
+		"plugAvailability": 0,
+		"alternateUiPlugLabel": "",
+		"alternatePlugStyle": 0,
+		"isDummyPlug": false
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [
+		59,
+		1404791674,
+		1449602859
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"traitIds": [
+		"item_type.ghost_hologram"
+	],
+	"hash": 2062815065,
+	"index": 11899,
+	"redacted": false,
+	"blacklisted": false
+}

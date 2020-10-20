@@ -1,27 +1,27 @@
 {
-    "itemTypeRegexNot": "type_armor_mask.*", 
-    "groupCategoryOnly": false, 
-    "grantDestinyClass": 3, 
-    "blacklisted": false, 
-    "shortTitle": "Helmets", 
-    "grantDestinyItemType": 0, 
-    "deprecated": false, 
-    "originBucketIdentifier": "head", 
-    "redacted": false, 
-    "grantDestinySubType": 26, 
-    "itemTypeRegex": "type_armor.*", 
-    "parentCategoryHashes": [
-        20
-    ], 
-    "visible": false, 
-    "index": 37, 
-    "groupedCategoryHashes": [], 
-    "displayProperties": {
-        "hasIcon": false, 
-        "description": "", 
-        "name": "Helmets"
-    }, 
-    "hash": 45, 
-    "isPlug": false, 
-    "grantDestinyBreakerType": 0
+	"displayProperties": {
+		"description": "",
+		"name": "Helmets",
+		"hasIcon": false
+	},
+	"visible": false,
+	"deprecated": false,
+	"shortTitle": "Helmets",
+	"itemTypeRegex": "type_armor.*",
+	"grantDestinyBreakerType": 0,
+	"itemTypeRegexNot": "type_armor_mask.*",
+	"originBucketIdentifier": "head",
+	"grantDestinyItemType": 0,
+	"grantDestinySubType": 26,
+	"grantDestinyClass": 3,
+	"groupedCategoryHashes": [],
+	"isPlug": false,
+	"parentCategoryHashes": [
+		20
+	],
+	"groupCategoryOnly": false,
+	"hash": 45,
+	"index": 37,
+	"redacted": false,
+	"blacklisted": false
 }

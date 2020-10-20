@@ -1,57 +1,57 @@
 {
-    "index": 735, 
-    "traitHashes": [], 
-    "nodeType": 1, 
-    "blacklisted": false, 
-    "originalIcon": "/common/destiny2_content/icons/928da0142f083ed4c64c536f1d05536a.png", 
-    "presentationNodeType": 1, 
-    "redacted": false, 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "objectiveHash": 2699064949, 
-    "parentNodeHashes": [
-        1024788583
-    ], 
-    "displayStyle": 0, 
-    "rootViewIcon": "/img/destiny_content/also_triumphs/categories/category_lore.png", 
-    "screenStyle": 0, 
-    "traitIds": [], 
-    "disableChildSubscreenNavigation": false, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/928da0142f083ed4c64c536f1d05536a.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/044ffc835afc18fa4f3c5f631741ff2f.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/DestinyPresentationNodeDefinition_a1c76ff2087771dd6029a92ea264abd4.png", 
-        "hasIcon": true, 
-        "description": "", 
-        "name": "Lore"
-    }, 
-    "scope": 1, 
-    "children": {
-        "metrics": [], 
-        "collectibles": [], 
-        "presentationNodes": [
-            {
-                "presentationNodeHash": 1975975321
-            }, 
-            {
-                "presentationNodeHash": 1582800871
-            }, 
-            {
-                "presentationNodeHash": 3062577328
-            }
-        ], 
-        "records": []
-    }, 
-    "hash": 564676571
+	"displayProperties": {
+		"description": "",
+		"name": "Lore",
+		"icon": "/common/destiny2_content/icons/DestinyPresentationNodeDefinition_a1c76ff2087771dd6029a92ea264abd4.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/928da0142f083ed4c64c536f1d05536a.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/044ffc835afc18fa4f3c5f631741ff2f.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"originalIcon": "/common/destiny2_content/icons/928da0142f083ed4c64c536f1d05536a.png",
+	"rootViewIcon": "/img/destiny_content/also_triumphs/categories/category_lore.png",
+	"nodeType": 1,
+	"scope": 1,
+	"objectiveHash": 2699064949,
+	"children": {
+		"presentationNodes": [
+			{
+				"presentationNodeHash": 1975975321
+			},
+			{
+				"presentationNodeHash": 1582800871
+			},
+			{
+				"presentationNodeHash": 3062577328
+			}
+		],
+		"collectibles": [],
+		"records": [],
+		"metrics": []
+	},
+	"displayStyle": 0,
+	"screenStyle": 0,
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"disableChildSubscreenNavigation": false,
+	"presentationNodeType": 1,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		1024788583
+	],
+	"hash": 564676571,
+	"index": 813,
+	"redacted": false,
+	"blacklisted": false
 }

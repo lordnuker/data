@@ -1,52 +1,52 @@
 {
-    "index": 990, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        3296270292, 
-        3296270293, 
-        3296270294
-    ], 
-    "parentNodeHashes": [
-        164629583
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 50, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/2565ae54801563abfefd78f8c2dd6463.png", 
-        "hasIcon": true, 
-        "description": "Defeat opponents with any Fusion Rifle, and land precision final blows with any Linear Fusion Rifle. Earn the medal \"Cold Fusion.\"", 
-        "name": "Fusion Rifle Mastery"
-    }, 
-    "scope": 0, 
-    "hash": 2304075271
+	"displayProperties": {
+		"description": "Defeat opponents with any Fusion Rifle, and land precision final blows with any Linear Fusion Rifle. Earn the medal \"Cold Fusion.\"",
+		"name": "Fusion Rifle Mastery",
+		"icon": "/common/destiny2_content/icons/2565ae54801563abfefd78f8c2dd6463.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		3296270292,
+		3296270293,
+		3296270294
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 50,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		164629583
+	],
+	"hash": 2304075271,
+	"index": 1002,
+	"redacted": false,
+	"blacklisted": false
 }

@@ -1,34 +1,34 @@
 {
-    "repeatLastStep": true, 
-    "rewardItems": [], 
-    "progressToNextStepScaling": 0, 
-    "currentResetCountUnlockValueHash": 0, 
-    "blacklisted": false, 
-    "index": 64, 
-    "redacted": false, 
-    "storageMappingIndex": 0, 
-    "visible": true, 
-    "steps": [
-        {
-            "displayEffectType": 0, 
-            "stepName": "", 
-            "progressTotal": 100000
-        }
-    ], 
-    "BungieNet.Engine.Contract.Destiny.World.Definitions.IDestinyDisplayDefinition.displayProperties": {
-        "icon": "/common/destiny2_content/icons/723b88191f3d20cf38f8eedc3ba2efb2.png", 
-        "hasIcon": true, 
-        "description": "Your Nightfall rank based on personal high scores set in different Nightfall strikes.", 
-        "displayUnitsName": "", 
-        "name": "Nightfall Rank"
-    }, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/723b88191f3d20cf38f8eedc3ba2efb2.png", 
-        "hasIcon": true, 
-        "description": "Your Nightfall rank based on personal high scores set in different Nightfall strikes.", 
-        "displayUnitsName": "", 
-        "name": "Nightfall Rank"
-    }, 
-    "scope": 8, 
-    "hash": 689153319
+	"displayProperties": {
+		"displayUnitsName": "",
+		"description": "Your Nightfall rank based on personal high scores set in different Nightfall strikes.",
+		"name": "Nightfall Rank",
+		"icon": "/common/destiny2_content/icons/723b88191f3d20cf38f8eedc3ba2efb2.png",
+		"hasIcon": true
+	},
+	"BungieNet.Engine.Contract.Destiny.World.Definitions.IDestinyDisplayDefinition.displayProperties": {
+		"displayUnitsName": "",
+		"description": "Your Nightfall rank based on personal high scores set in different Nightfall strikes.",
+		"name": "Nightfall Rank",
+		"icon": "/common/destiny2_content/icons/723b88191f3d20cf38f8eedc3ba2efb2.png",
+		"hasIcon": true
+	},
+	"scope": 8,
+	"repeatLastStep": true,
+	"steps": [
+		{
+			"stepName": "",
+			"displayEffectType": 0,
+			"progressTotal": 100000
+		}
+	],
+	"visible": true,
+	"progressToNextStepScaling": 0,
+	"storageMappingIndex": 0,
+	"currentResetCountUnlockValueHash": 0,
+	"rewardItems": [],
+	"hash": 689153319,
+	"index": 66,
+	"redacted": false,
+	"blacklisted": false
 }

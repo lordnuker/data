@@ -1,31 +1,31 @@
 {
-    "index": 366, 
-    "hash": 1832266506, 
-    "blacklisted": false, 
-    "redacted": false, 
-    "vendorHash": 0, 
-    "locationReleases": [
-        {
-            "worldPosition": [
-                -720, 
-                -127, 
-                35, 
-                0
-            ], 
-            "spawnPoint": 3822449365, 
-            "activityPathBundle": 0, 
-            "activityBubbleName": 706937272, 
-            "destinationHash": 2779202173, 
-            "activityGraphNodeHash": 0, 
-            "activityPathDestination": 1416096592, 
-            "activityGraphHash": 298686623, 
-            "displayProperties": {
-                "hasIcon": false, 
-                "description": "Travel to the Divalian Mists.", 
-                "name": "Divalian Mists"
-            }, 
-            "navPointType": 0, 
-            "activityHash": 0
-        }
-    ]
+	"vendorHash": 0,
+	"locationReleases": [
+		{
+			"displayProperties": {
+				"description": "Travel to the Divalian Mists.",
+				"name": "Divalian Mists",
+				"hasIcon": false
+			},
+			"spawnPoint": 3822449365,
+			"destinationHash": 2779202173,
+			"activityHash": 0,
+			"activityGraphHash": 298686623,
+			"activityGraphNodeHash": 0,
+			"activityBubbleName": 706937272,
+			"activityPathBundle": 0,
+			"activityPathDestination": 1416096592,
+			"navPointType": 0,
+			"worldPosition": [
+				-720,
+				-127,
+				35,
+				0
+			]
+		}
+	],
+	"hash": 1832266506,
+	"index": 366,
+	"redacted": false,
+	"blacklisted": false
 }

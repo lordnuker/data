@@ -1,65 +1,65 @@
 {
-    "index": 1506, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 1, 
-        "intervalObjectives": [
-            {
-                "intervalScoreValue": 20, 
-                "intervalObjectiveHash": 3225425698
-            }, 
-            {
-                "intervalScoreValue": 30, 
-                "intervalObjectiveHash": 3225425696
-            }, 
-            {
-                "intervalScoreValue": 30, 
-                "intervalObjectiveHash": 3225425697
-            }, 
-            {
-                "intervalScoreValue": 30, 
-                "intervalObjectiveHash": 3225425702
-            }
-        ], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [], 
-    "parentNodeHashes": [
-        3618458455
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/a08e986205f79f7aa535ba45b16dd042.png", 
-        "hasIcon": true, 
-        "description": "Mark high-value targets.", 
-        "name": "High-Value Scout"
-    }, 
-    "scope": 0, 
-    "hash": 2776744497
+	"displayProperties": {
+		"description": "Mark high-value targets.",
+		"name": "High-Value Scout",
+		"icon": "/common/destiny2_content/icons/a08e986205f79f7aa535ba45b16dd042.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [
+			{
+				"intervalObjectiveHash": 3225425698,
+				"intervalScoreValue": 20
+			},
+			{
+				"intervalObjectiveHash": 3225425696,
+				"intervalScoreValue": 30
+			},
+			{
+				"intervalObjectiveHash": 3225425697,
+				"intervalScoreValue": 30
+			},
+			{
+				"intervalObjectiveHash": 3225425702,
+				"intervalScoreValue": 30
+			}
+		],
+		"originalObjectiveArrayInsertionIndex": 1,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		3618458455
+	],
+	"hash": 2776744497,
+	"index": 1518,
+	"redacted": false,
+	"blacklisted": false
 }

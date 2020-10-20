@@ -1,0 +1,138 @@
+{
+	"displayProperties": {
+		"description": "Generate laurels by landing final blows with supers, grenades, and charged melee abilities while wearing your Guardian Games class item.",
+		"name": "Badge of Honor",
+		"icon": "/common/destiny2_content/icons/cc135bffbca7bd0843ef987139f893cb.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Weekly Bounty",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Rare Weekly Bounty",
+	"displaySource": "\"Sometimes it takes time for a new holiday to… catch on. Perhaps if you helped spread the word?\" —Eva Levante",
+	"tooltipStyle": "build",
+	"action": {
+		"verbName": "Abandon",
+		"verbDescription": "",
+		"isPositive": false,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"stackUniqueLabel": "events.spring.bounties.weekly.crests",
+		"maxStackSize": 1,
+		"bucketTypeHash": 1345459588,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 2127292149,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Rare",
+		"tierType": 4,
+		"expirationTooltip": "Expires in .",
+		"expiredInActivityMessage": "Expired. Unless completed, this bounty will be removed when you return to orbit or load into a new activity.",
+		"expiredInOrbitMessage": "Expired. Bounty will be removed upon leaving orbit.",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"stats": {
+		"disablePrimaryStatDisplay": false,
+		"stats": {},
+		"hasDisplayableStats": false,
+		"primaryBaseStatHash": 0
+	},
+	"value": {
+		"itemValue": [
+			{
+				"itemHash": 2211488305,
+				"quantity": 0
+			},
+			{
+				"itemHash": 3168101969,
+				"quantity": 0
+			},
+			{
+				"itemHash": 3085039018,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			}
+		],
+		"valueDescription": ""
+	},
+	"objectives": {
+		"objectiveHashes": [
+			2676371367
+		],
+		"displayActivityHashes": [
+			2166136261
+		],
+		"requireFullObjectiveCompletion": true,
+		"questlineItemHash": 0,
+		"narrative": "",
+		"objectiveVerbName": "Claim Bounty",
+		"questTypeIdentifier": "patrol_tier1",
+		"questTypeHash": 18743735,
+		"completionRewardSiteHash": 0,
+		"nextQuestStepRewardSiteHash": 0,
+		"timestampUnlockValueHash": 0,
+		"isGlobalObjectiveItem": false,
+		"useOnObjectiveCompletion": false,
+		"inhibitCompletionUnlockValueHash": 0,
+		"perObjectiveDisplayProperties": [
+			{
+				"displayOnItemPreviewScreen": false
+			}
+		],
+		"displayAsStatTracker": false
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		1784235469
+	],
+	"specialItemType": 0,
+	"itemType": 26,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"traitIds": [
+		"inventory_filtering.bounty",
+		"item_type.bounty"
+	],
+	"hash": 1768347793,
+	"index": 13994,
+	"redacted": false,
+	"blacklisted": false
+}

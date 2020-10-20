@@ -1,35 +1,35 @@
 {
-    "index": 541, 
-    "hash": 2579692242, 
-    "blacklisted": false, 
-    "avoidDuplicatesOnInitialization": false, 
-    "insertAction": {
-        "actionSoundHash": 0, 
-        "isPositiveAction": false, 
-        "actionType": 0, 
-        "actionExecuteSeconds": 1
-    }, 
-    "plugWhitelist": [
-        {
-            "categoryIdentifier": "v410_activities_iron_banner_hand_cannon0_skins", 
-            "categoryHash": 2119866985
-        }, 
-        {
-            "categoryIdentifier": "exotic_all_skins", 
-            "categoryHash": 3940152116
-        }
-    ], 
-    "currencyScalars": [], 
-    "redacted": false, 
-    "visibility": 1, 
-    "isPreviewEnabled": false, 
-    "alwaysRandomizeSockets": false, 
-    "overridesUiAppearance": true, 
-    "displayProperties": {
-        "hasIcon": false, 
-        "description": "", 
-        "name": ""
-    }, 
-    "socketCategoryHash": 2048875504, 
-    "hideDuplicateReusablePlugs": true
+	"displayProperties": {
+		"description": "",
+		"name": "",
+		"hasIcon": false
+	},
+	"insertAction": {
+		"actionExecuteSeconds": 1,
+		"actionSoundHash": 0,
+		"isPositiveAction": false,
+		"actionType": 0
+	},
+	"plugWhitelist": [
+		{
+			"categoryHash": 2119866985,
+			"categoryIdentifier": "v410_activities_iron_banner_hand_cannon0_skins"
+		},
+		{
+			"categoryHash": 3940152116,
+			"categoryIdentifier": "exotic_all_skins"
+		}
+	],
+	"socketCategoryHash": 2048875504,
+	"visibility": 1,
+	"alwaysRandomizeSockets": false,
+	"isPreviewEnabled": false,
+	"hideDuplicateReusablePlugs": true,
+	"overridesUiAppearance": true,
+	"avoidDuplicatesOnInitialization": false,
+	"currencyScalars": [],
+	"hash": 2579692242,
+	"index": 541,
+	"redacted": false,
+	"blacklisted": false
 }

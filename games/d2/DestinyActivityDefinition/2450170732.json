@@ -1,85 +1,85 @@
 {
-    "originalDisplayProperties": {
-        "icon": "/img/misc/missing_icon_d2.png", 
-        "hasIcon": false, 
-        "description": "Defeat the Nightmare of Crota, Son of Oryx.", 
-        "name": "Nightmare Hunt: Despair"
-    }, 
-    "pgcrImage": "/img/destiny_content/pgcr/nightmare_hunt_despair.jpg", 
-    "placeHash": 3325508439, 
-    "activityTypeHash": 332181804, 
-    "redacted": false, 
-    "destinationHash": 290444260, 
-    "challenges": [
-        {
-            "dummyRewards": [
-                {
-                    "itemHash": 3114385605, 
-                    "quantity": 0
-                }
-            ], 
-            "rewardSiteHash": 0, 
-            "objectiveHash": 3683641566, 
-            "inhibitRewardsUnlockHash": 0
-        }, 
-        {
-            "dummyRewards": [
-                {
-                    "itemHash": 73143230, 
-                    "quantity": 0
-                }
-            ], 
-            "rewardSiteHash": 0, 
-            "objectiveHash": 2190387136, 
-            "inhibitRewardsUnlockHash": 0
-        }
-    ], 
-    "releaseTime": 0, 
-    "loadouts": [], 
-    "activityLightLevel": 860, 
-    "index": 181, 
-    "activityLevel": 50, 
-    "playlistItems": [], 
-    "insertionPoints": [], 
-    "isPlaylist": false, 
-    "completionUnlockHash": 0, 
-    "suppressOtherRewards": false, 
-    "rewards": [], 
-    "hash": 2450170732, 
-    "releaseIcon": "/img/misc/missing_icon_d2.png", 
-    "tier": 2, 
-    "isPvP": false, 
-    "modifiers": [
-        {
-            "activityModifierHash": 3386610488
-        }, 
-        {
-            "activityModifierHash": 3831042173
-        }, 
-        {
-            "activityModifierHash": 2229336658
-        }
-    ], 
-    "blacklisted": false, 
-    "optionalUnlockStrings": [], 
-    "activityLocationMappings": [], 
-    "inheritFromFreeRoam": false, 
-    "displayProperties": {
-        "icon": "/img/misc/missing_icon_d2.png", 
-        "hasIcon": false, 
-        "description": "Defeat the Nightmare of Crota, Son of Oryx.", 
-        "name": "Nightmare Hunt: Despair: Adept"
-    }, 
-    "matchmaking": {
-        "minParty": 1, 
-        "requiresGuardianOath": false, 
-        "maxPlayers": 3, 
-        "maxParty": 3, 
-        "isMatchmade": true
-    }, 
-    "selectionScreenDisplayProperties": {
-        "hasIcon": false, 
-        "description": "Show them the meaning of strength.\n\nMatchmaking: ON", 
-        "name": "Adept"
-    }
+	"displayProperties": {
+		"description": "Defeat the Nightmare of Crota, Son of Oryx.",
+		"name": "Nightmare Hunt: Despair: Adept",
+		"icon": "/img/misc/missing_icon_d2.png",
+		"hasIcon": false
+	},
+	"originalDisplayProperties": {
+		"description": "Defeat the Nightmare of Crota, Son of Oryx.",
+		"name": "Nightmare Hunt: Despair",
+		"icon": "/img/misc/missing_icon_d2.png",
+		"hasIcon": false
+	},
+	"selectionScreenDisplayProperties": {
+		"description": "Show them the meaning of strength.\n\nMatchmaking: ON",
+		"name": "Adept",
+		"hasIcon": false
+	},
+	"releaseIcon": "/img/misc/missing_icon_d2.png",
+	"releaseTime": 0,
+	"activityLevel": 50,
+	"completionUnlockHash": 0,
+	"activityLightLevel": 860,
+	"destinationHash": 290444260,
+	"placeHash": 3325508439,
+	"activityTypeHash": 332181804,
+	"tier": 2,
+	"pgcrImage": "/img/destiny_content/pgcr/nightmare_hunt_despair.jpg",
+	"rewards": [],
+	"modifiers": [
+		{
+			"activityModifierHash": 3386610488
+		},
+		{
+			"activityModifierHash": 3831042173
+		},
+		{
+			"activityModifierHash": 2229336658
+		}
+	],
+	"isPlaylist": false,
+	"challenges": [
+		{
+			"rewardSiteHash": 0,
+			"inhibitRewardsUnlockHash": 0,
+			"objectiveHash": 3683641566,
+			"dummyRewards": [
+				{
+					"itemHash": 3114385605,
+					"quantity": 0
+				}
+			]
+		},
+		{
+			"rewardSiteHash": 0,
+			"inhibitRewardsUnlockHash": 0,
+			"objectiveHash": 2190387136,
+			"dummyRewards": [
+				{
+					"itemHash": 73143230,
+					"quantity": 0
+				}
+			]
+		}
+	],
+	"optionalUnlockStrings": [],
+	"inheritFromFreeRoam": false,
+	"suppressOtherRewards": false,
+	"playlistItems": [],
+	"matchmaking": {
+		"isMatchmade": true,
+		"minParty": 1,
+		"maxParty": 3,
+		"maxPlayers": 3,
+		"requiresGuardianOath": false
+	},
+	"loadouts": [],
+	"isPvP": false,
+	"insertionPoints": [],
+	"activityLocationMappings": [],
+	"hash": 2450170732,
+	"index": 181,
+	"redacted": false,
+	"blacklisted": false
 }

@@ -1,25 +1,25 @@
 {
-    "index": 6, 
-    "progressionHash": 3398051042, 
-    "hash": 3398051042, 
-    "blacklisted": false, 
-    "redacted": false, 
-    "vendors": [
-        {
-            "vendorHash": 3354631265, 
-            "backgroundImagePath": "/img/destiny_content/factions/vendors/dead-orbit-arach-jalaal.jpg", 
-            "destinationHash": 333456177
-        }
-    ], 
-    "rewardItemHash": 349457197, 
-    "tokenValues": {
-        "2959556799": 100
-    }, 
-    "rewardVendorHash": 349457197, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/942cc29296c934a6ecd9ee45306e781e.png", 
-        "hasIcon": true, 
-        "description": "Dead Orbit believes Earth is doomed, no matter what Guardians do. They advocate for deep-space exploration and hope to see humanity scattered across the entire galaxy.", 
-        "name": "Dead Orbit"
-    }
+	"displayProperties": {
+		"description": "Dead Orbit believes Earth is doomed, no matter what Guardians do. They advocate for deep-space exploration and hope to see humanity scattered across the entire galaxy.",
+		"name": "Dead Orbit",
+		"icon": "/common/destiny2_content/icons/942cc29296c934a6ecd9ee45306e781e.png",
+		"hasIcon": true
+	},
+	"progressionHash": 3398051042,
+	"tokenValues": {
+		"2959556799": 100
+	},
+	"rewardItemHash": 349457197,
+	"rewardVendorHash": 349457197,
+	"vendors": [
+		{
+			"vendorHash": 3354631265,
+			"destinationHash": 333456177,
+			"backgroundImagePath": "/img/destiny_content/factions/vendors/dead-orbit-arach-jalaal.jpg"
+		}
+	],
+	"hash": 3398051042,
+	"index": 7,
+	"redacted": false,
+	"blacklisted": false
 }

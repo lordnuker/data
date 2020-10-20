@@ -1,50 +1,50 @@
 {
-    "index": 1096, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        4119816431
-    ], 
-    "parentNodeHashes": [
-        837301677
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/40aa92273287f3f2bc4f979e6ddda4f3.png", 
-        "hasIcon": true, 
-        "description": "Countdown: Defeat an opponent within 5 seconds of them setting a charge.", 
-        "name": "Counter Attack"
-    }, 
-    "scope": 0, 
-    "hash": 1290309454
+	"displayProperties": {
+		"description": "Countdown: Defeat an opponent within 5 seconds of them setting a charge.",
+		"name": "Counter Attack",
+		"icon": "/common/destiny2_content/icons/40aa92273287f3f2bc4f979e6ddda4f3.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		4119816431
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		837301677
+	],
+	"hash": 1290309454,
+	"index": 1108,
+	"redacted": false,
+	"blacklisted": false
 }

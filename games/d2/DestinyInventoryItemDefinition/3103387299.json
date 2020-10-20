@@ -1,0 +1,134 @@
+{
+	"displayProperties": {
+		"description": "Equip this ornament to change the appearance of Cold Denial. Once you get an ornament, it's unlocked for all characters on your account.",
+		"name": "Dark Waters",
+		"icon": "/common/destiny2_content/icons/208ffc4f032307d90d0946c0f49b7f6d.jpg",
+		"highResIcon": "/common/destiny2_content/icons/4fa9fe0c9865534b4ea1cbbbea27ef37.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"collectibleHash": 2082018394,
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"screenshot": "/common/destiny2_content/screenshots/3103387299.jpg",
+	"itemTypeDisplayName": "Weapon Ornament",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Weapon Ornament",
+	"displaySource": "",
+	"action": {
+		"verbName": "Unlock",
+		"verbDescription": "",
+		"isPositive": true,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"maxStackSize": 999,
+		"bucketTypeHash": 3313201758,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"translationBlock": {
+		"weaponPatternHash": 0,
+		"defaultDyes": [
+			{
+				"channelHash": 1667433279,
+				"dyeHash": 487140657
+			},
+			{
+				"channelHash": 1667433278,
+				"dyeHash": 487140656
+			},
+			{
+				"channelHash": 1667433277,
+				"dyeHash": 487140659
+			}
+		],
+		"lockedDyes": [],
+		"customDyes": [],
+		"arrangements": [
+			{
+				"classHash": 0,
+				"artArrangementHash": 3103387299
+			}
+		],
+		"hasGeometry": true
+	},
+	"preview": {
+		"screenStyle": "screen_style_sockets",
+		"previewVendorHash": 0,
+		"previewActionString": "Preview"
+	},
+	"plug": {
+		"insertionRules": [
+			{
+				"failureMessage": "Requires Mod Item"
+			}
+		],
+		"plugCategoryIdentifier": "v490.weapons.activities.season_pass.pulse_rifle0_skins",
+		"plugCategoryHash": 3428111374,
+		"onActionRecreateSelf": false,
+		"actionRewardSiteHash": 0,
+		"actionRewardItemOverrideHash": 0,
+		"insertionMaterialRequirementHash": 0,
+		"previewItemOverrideHash": 0,
+		"enabledMaterialRequirementHash": 0,
+		"enabledRules": [],
+		"uiPlugLabel": "",
+		"plugStyle": 0,
+		"plugAvailability": 0,
+		"alternateUiPlugLabel": "",
+		"alternatePlugStyle": 0,
+		"isDummyPlug": false
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [
+		56,
+		52,
+		59,
+		3124752623,
+		610365472
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 21,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"traitIds": [
+		"item_type.weapon_ornament"
+	],
+	"hash": 3103387299,
+	"index": 11981,
+	"redacted": false,
+	"blacklisted": false
+}

@@ -1,98 +1,92 @@
 {
-    "activityModeHashes": [
-        547513715, 
-        2394616003, 
-        1164760493
-    ], 
-    "originalDisplayProperties": {
-        "icon": "/img/misc/missing_icon_d2.png", 
-        "hasIcon": false, 
-        "description": "Head to Aphix Conduit and defeat the Ruined Mind to retrieve Warmind Bits.\n\nMatch Game: Vex\n\nChampions: Barrier, Overload", 
-        "name": "Aphix Conduit (Legendary)"
-    }, 
-    "pgcrImage": "/img/destiny_content/pgcr/aphix_conduit.jpg", 
-    "placeHash": 4251857532, 
-    "activityTypeHash": 575572995, 
-    "redacted": false, 
-    "destinationHash": 2218917881, 
-    "challenges": [], 
-    "directActivityModeHash": 547513715, 
-    "loadouts": [], 
-    "activityLightLevel": 0, 
-    "index": 249, 
-    "activityLevel": 1, 
-    "playlistItems": [], 
-    "insertionPoints": [], 
-    "isPlaylist": false, 
-    "completionUnlockHash": 0, 
-    "suppressOtherRewards": false, 
-    "rewards": [], 
-    "hash": 265024475, 
-    "releaseIcon": "/img/misc/missing_icon_d2.png", 
-    "tier": -1, 
-    "isPvP": false, 
-    "modifiers": [
-        {
-            "activityModifierHash": 650244931
-        }, 
-        {
-            "activityModifierHash": 2024261722
-        }, 
-        {
-            "activityModifierHash": 2438751461
-        }, 
-        {
-            "activityModifierHash": 882588556
-        }, 
-        {
-            "activityModifierHash": 605585258
-        }, 
-        {
-            "activityModifierHash": 1930311099
-        }, 
-        {
-            "activityModifierHash": 2301442403
-        }, 
-        {
-            "activityModifierHash": 3859784314
-        }
-    ], 
-    "blacklisted": false, 
-    "optionalUnlockStrings": [], 
-    "activityModeTypes": [
-        46, 
-        18, 
-        7
-    ], 
-    "activityLocationMappings": [
-        {
-            "locationHash": 2582187419, 
-            "activityHash": 265024475, 
-            "activationSource": "patrol"
-        }
-    ], 
-    "directActivityModeType": 46, 
-    "inheritFromFreeRoam": false, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/f2154b781b36b19760efcb23695c66fe.png", 
-        "hasIcon": true, 
-        "description": "Head to Aphix Conduit and defeat the Ruined Mind to retrieve Warmind Bits.\n\nMatch Game: Vex\n\nChampions: Barrier, Overload", 
-        "name": "Aphix Conduit (Legendary)"
-    }, 
-    "releaseTime": 0, 
-    "activityGraphList": [
-        {
-            "activityGraphHash": 397386732
-        }, 
-        {
-            "activityGraphHash": 392381107
-        }
-    ], 
-    "matchmaking": {
-        "minParty": 1, 
-        "requiresGuardianOath": false, 
-        "maxPlayers": 3, 
-        "maxParty": 3, 
-        "isMatchmade": false
-    }
+	"displayProperties": {
+		"description": "Head to Aphix Conduit and defeat the Ruined Mind to retrieve Warmind Bits.\n\nMatch Game: Vex\n\nChampions: Barrier, Overload",
+		"name": "Aphix Conduit (Legendary)",
+		"icon": "/common/destiny2_content/icons/f2154b781b36b19760efcb23695c66fe.png",
+		"hasIcon": true
+	},
+	"originalDisplayProperties": {
+		"description": "Head to Aphix Conduit and defeat the Ruined Mind to retrieve Warmind Bits.\n\nMatch Game: Vex\n\nChampions: Barrier, Overload",
+		"name": "Aphix Conduit (Legendary)",
+		"icon": "/img/misc/missing_icon_d2.png",
+		"hasIcon": false
+	},
+	"releaseIcon": "/img/misc/missing_icon_d2.png",
+	"releaseTime": 0,
+	"activityLevel": 1,
+	"completionUnlockHash": 0,
+	"activityLightLevel": 0,
+	"destinationHash": 2218917881,
+	"placeHash": 4251857532,
+	"activityTypeHash": 575572995,
+	"tier": -1,
+	"pgcrImage": "/img/destiny_content/pgcr/aphix_conduit.jpg",
+	"rewards": [],
+	"modifiers": [
+		{
+			"activityModifierHash": 650244931
+		},
+		{
+			"activityModifierHash": 2024261722
+		},
+		{
+			"activityModifierHash": 2438751461
+		},
+		{
+			"activityModifierHash": 882588556
+		},
+		{
+			"activityModifierHash": 605585258
+		},
+		{
+			"activityModifierHash": 1930311099
+		},
+		{
+			"activityModifierHash": 2301442403
+		},
+		{
+			"activityModifierHash": 3859784314
+		}
+	],
+	"isPlaylist": false,
+	"challenges": [],
+	"optionalUnlockStrings": [],
+	"inheritFromFreeRoam": false,
+	"suppressOtherRewards": false,
+	"playlistItems": [],
+	"activityGraphList": [
+		{
+			"activityGraphHash": 397386732
+		},
+		{
+			"activityGraphHash": 392381107
+		}
+	],
+	"matchmaking": {
+		"isMatchmade": false,
+		"minParty": 1,
+		"maxParty": 3,
+		"maxPlayers": 3,
+		"requiresGuardianOath": false
+	},
+	"directActivityModeHash": 547513715,
+	"directActivityModeType": 46,
+	"loadouts": [],
+	"activityModeHashes": [
+		547513715,
+		2394616003,
+		1164760493
+	],
+	"activityModeTypes": [
+		46,
+		18,
+		7
+	],
+	"isPvP": false,
+	"insertionPoints": [],
+	"activityLocationMappings": [],
+	"hash": 265024475,
+	"index": 245,
+	"redacted": false,
+	"blacklisted": false
 }

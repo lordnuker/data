@@ -1,37 +1,37 @@
 {
-    "index": 6, 
-    "hash": 2032714362, 
-    "blacklisted": false, 
-    "reasons": {
-        "3087590961": {
-            "displayProperties": {
-                "hasIcon": false, 
-                "description": "", 
-                "name": "Other"
-            }, 
-            "reasonHash": 3087590961
-        }, 
-        "508855581": {
-            "displayProperties": {
-                "hasIcon": false, 
-                "description": "", 
-                "name": "Exploiting Map"
-            }, 
-            "reasonHash": 508855581
-        }, 
-        "2749021087": {
-            "displayProperties": {
-                "hasIcon": false, 
-                "description": "", 
-                "name": "Exploiting Game"
-            }, 
-            "reasonHash": 2749021087
-        }
-    }, 
-    "redacted": false, 
-    "displayProperties": {
-        "hasIcon": false, 
-        "description": "Exploits are use of bugs or glitches in the game not intended by the game designers, that players take advantage of for personal benefit.\n\nExamples: Exploiting Game, Exploiting Map", 
-        "name": "Exploiting"
-    }
+	"displayProperties": {
+		"description": "Exploits are use of bugs or glitches in the game not intended by the game designers, that players take advantage of for personal benefit.\n\nExamples: Exploiting Game, Exploiting Map",
+		"name": "Exploiting",
+		"hasIcon": false
+	},
+	"reasons": {
+		"508855581": {
+			"reasonHash": 508855581,
+			"displayProperties": {
+				"description": "",
+				"name": "Exploiting Map",
+				"hasIcon": false
+			}
+		},
+		"2749021087": {
+			"reasonHash": 2749021087,
+			"displayProperties": {
+				"description": "",
+				"name": "Exploiting Game",
+				"hasIcon": false
+			}
+		},
+		"3087590961": {
+			"reasonHash": 3087590961,
+			"displayProperties": {
+				"description": "",
+				"name": "Other",
+				"hasIcon": false
+			}
+		}
+	},
+	"hash": 2032714362,
+	"index": 6,
+	"redacted": false,
+	"blacklisted": false
 }

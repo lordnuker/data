@@ -1,88 +1,97 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Grenade Launcher", 
-    "damageTypeHashes": [
-        3373582085
-    ], 
-    "itemType": 3, 
-    "tooltipNotifications": [], 
-    "defaultDamageTypeHash": 3373582085, 
-    "quality": {
-        "infusionCategoryHash": 2601628231, 
-        "infusionCategoryHashes": [
-            2601628231
-        ], 
-        "infusionCategoryName": "2601628231", 
-        "progressionLevelRequirementHash": 3157915980, 
-        "qualityLevel": 0, 
-        "itemLevels": []
-    }, 
-    "talentGrid": {
-        "talentGridHash": 521135891, 
-        "hudDamageType": 1, 
-        "itemDetailString": "Details"
-    }, 
-    "allowActions": true, 
-    "defaultDamageType": 1, 
-    "summaryItemHash": 3520001075, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 1498876634, 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "equippable": true, 
-    "itemTypeDisplayName": "Grenade Launcher", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 23, 
-    "itemCategoryHashes": [
-        2, 
-        1, 
-        153950757
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": false, 
-    "equippingBlock": {
-        "displayStrings": [
-            ""
-        ], 
-        "equipmentSlotTypeHash": 1498876634, 
-        "ammoType": 2, 
-        "equippingSoundHash": 0, 
-        "hornSoundHash": 0, 
-        "attributes": 0, 
-        "uniqueLabelHash": 0
-    }, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "collectibleHash": 1602518767, 
-    "displaySource": "Random Perks: This item cannot be reacquired from Collections.", 
-    "damageTypes": [
-        1
-    ], 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/39b67dae56153d70e935bfad21faecc7.jpg", 
-        "hasIcon": true, 
-        "description": "\"Earth is our home. Not Mars, not Venus, not even the Reef. We must ensure it is a place we can continue to live for many generations to come.\" —Devrim Kay", 
-        "name": "The Militia's Birthright"
-    }
+	"displayProperties": {
+		"description": "\"Earth is our home. Not Mars, not Venus, not even the Reef. We must ensure it is a place we can continue to live for many generations to come.\" —Devrim Kay",
+		"name": "The Militia's Birthright",
+		"icon": "/common/destiny2_content/icons/39b67dae56153d70e935bfad21faecc7.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"collectibleHash": 1602518767,
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Grenade Launcher",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Grenade Launcher",
+	"displaySource": "Random Perks: This item cannot be reacquired from Collections.",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1498876634,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"equippingBlock": {
+		"uniqueLabelHash": 0,
+		"equipmentSlotTypeHash": 1498876634,
+		"attributes": 0,
+		"equippingSoundHash": 0,
+		"hornSoundHash": 0,
+		"ammoType": 2,
+		"displayStrings": [
+			""
+		]
+	},
+	"quality": {
+		"itemLevels": [],
+		"qualityLevel": 0,
+		"infusionCategoryName": "2601628231",
+		"infusionCategoryHash": 2601628231,
+		"infusionCategoryHashes": [
+			2601628231
+		],
+		"progressionLevelRequirementHash": 3157915980,
+		"currentVersion": 0,
+		"versions": [
+			{
+				"powerCapHash": 1862490583
+			}
+		],
+		"displayVersionWatermarkIcons": [
+			""
+		]
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"talentGrid": {
+		"talentGridHash": 521135891,
+		"itemDetailString": "Details",
+		"hudDamageType": 1
+	},
+	"perks": [],
+	"summaryItemHash": 3520001075,
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [
+		2,
+		1,
+		153950757
+	],
+	"specialItemType": 0,
+	"itemType": 3,
+	"itemSubType": 23,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": true,
+	"damageTypeHashes": [
+		3373582085
+	],
+	"damageTypes": [
+		1
+	],
+	"defaultDamageType": 1,
+	"defaultDamageTypeHash": 3373582085,
+	"isWrapper": false
 }

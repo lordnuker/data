@@ -1,24 +1,24 @@
 {
-    "index": 27, 
-    "groupCategoryOnly": false, 
-    "grantDestinyClass": 3, 
-    "blacklisted": false, 
-    "shortTitle": "Engrams", 
-    "grantDestinyItemType": 8, 
-    "deprecated": false, 
-    "originBucketIdentifier": "mission", 
-    "redacted": false, 
-    "grantDestinySubType": 0, 
-    "itemTypeRegex": "(type_engram.*)|(type_silver_engram)", 
-    "parentCategoryHashes": [], 
-    "visible": false, 
-    "groupedCategoryHashes": [], 
-    "displayProperties": {
-        "hasIcon": false, 
-        "description": "", 
-        "name": "Engrams"
-    }, 
-    "hash": 34, 
-    "isPlug": false, 
-    "grantDestinyBreakerType": 0
+	"displayProperties": {
+		"description": "",
+		"name": "Engrams",
+		"hasIcon": false
+	},
+	"visible": false,
+	"deprecated": false,
+	"shortTitle": "Engrams",
+	"itemTypeRegex": "(type_engram.*)|(type_silver_engram)",
+	"grantDestinyBreakerType": 0,
+	"originBucketIdentifier": "mission",
+	"grantDestinyItemType": 8,
+	"grantDestinySubType": 0,
+	"grantDestinyClass": 3,
+	"groupedCategoryHashes": [],
+	"isPlug": false,
+	"parentCategoryHashes": [],
+	"groupCategoryOnly": false,
+	"hash": 34,
+	"index": 27,
+	"redacted": false,
+	"blacklisted": false
 }

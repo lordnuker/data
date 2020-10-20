@@ -1,0 +1,86 @@
+{
+	"displayProperties": {
+		"description": "Altered energy radiated by the Pyramids and used to enhance the Prismatic Recaster to further unlock the secrets of Darkness.",
+		"name": "Twisted Energy",
+		"icon": "/common/destiny2_content/icons/c3782d5e59c0ea80df8c468d9ca4b555.jpg",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/c3782d5e59c0ea80df8c468d9ca4b555.jpg",
+					"/common/destiny2_content/icons/98b474c54308c8a5143bb098dbce9bf9.png",
+					"/common/destiny2_content/icons/f1aed0d77340dd9d8aa61839af230556.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [
+		{
+			"displayString": "Expires at the end of Season of Arrivals",
+			"displayStyle": ""
+		}
+	],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Seasonal Currency",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Seasonal Currency",
+	"displaySource": "",
+	"action": {
+		"verbName": "Discard",
+		"verbDescription": "",
+		"isPositive": false,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"actionTypeLabel": "shard",
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": true,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"maxStackSize": 9999,
+		"bucketTypeHash": 2422292810,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": true,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		3109687656
+	],
+	"specialItemType": 0,
+	"itemType": 20,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"hash": 686728455,
+	"index": 12538,
+	"redacted": false,
+	"blacklisted": false
+}

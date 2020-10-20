@@ -1,0 +1,86 @@
+{
+	"displayProperties": {
+		"description": "As a Striker, land final blows with Pulse Grenades. Defeated Guardians grant the most efficient progress.",
+		"name": "Zero Pulse",
+		"icon": "/common/destiny2_content/icons/2e07357bb9efacc0bd7e4e573a7e3f05.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [
+		{
+			"displayString": "Requires equipped Guardian Games class item.",
+			"displayStyle": ""
+		}
+	],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Daily Bounty",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Common Daily Bounty",
+	"displaySource": "\"Titans personify the most important quality for victory: perseverance. You cannot lose if you never surrender.\" —Lord Shaxx",
+	"inventory": {
+		"stackUniqueLabel": "events.spring.bounties.daily_titan.bounty11",
+		"maxStackSize": 1,
+		"bucketTypeHash": 1345459588,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 3340296461,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Common",
+		"tierType": 2,
+		"expirationTooltip": "Expires in .",
+		"expiredInActivityMessage": "Expired. Unless completed, this bounty will be removed when you return to orbit or load into a new activity.",
+		"expiredInOrbitMessage": "Expired. Bounty will be removed upon leaving orbit.",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"value": {
+		"itemValue": [
+			{
+				"itemHash": 2211488305,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			}
+		],
+		"valueDescription": ""
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		1784235469
+	],
+	"specialItemType": 0,
+	"itemType": 26,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
+}

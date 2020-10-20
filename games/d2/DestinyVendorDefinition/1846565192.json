@@ -1,572 +1,195 @@
 {
-    "ignoreSaleItemHashes": [], 
-    "redacted": false, 
-    "actions": [], 
-    "visible": false, 
-    "BungieNet.Engine.Contract.Destiny.World.Definitions.IDestinyDisplayDefinition.displayProperties": {
-        "subtitle": "Postmaster", 
-        "description": "Postmaster Frames dutifully oversee deliveries, messages, and lost items.", 
-        "originalIcon": "/common/destiny2_content/icons/58e0868540ff4053d1a1f10f2dd959dd.png", 
-        "name": "Darbi 55-30", 
-        "requirementsDisplay": [], 
-        "hasIcon": true, 
-        "icon": "/common/destiny2_content/icons/58e0868540ff4053d1a1f10f2dd959dd.png"
-    }, 
-    "hash": 1846565192, 
-    "inventoryFlyouts": [
-        {
-            "displayProperties": {
-                "hasIcon": false, 
-                "description": "Messages and deliveries for pickup.", 
-                "name": "Messages"
-            }, 
-            "lockedDescription": "", 
-            "buckets": [
-                {
-                    "inventoryBucketHash": 3161908920, 
-                    "collapsible": false, 
-                    "sortItemsBy": 1
-                }
-            ], 
-            "suppressNewness": false, 
-            "flyoutId": 3161908920
-        }
-    ], 
-    "index": 13, 
-    "resetOffsetMinutes": 960, 
-    "inhibitSelling": true, 
-    "acceptedItems": [
-        {
-            "destinationInventoryBucketHash": 0, 
-            "acceptedInventoryBucketHash": 3161908920
-        }, 
-        {
-            "destinationInventoryBucketHash": 0, 
-            "acceptedInventoryBucketHash": 1367666825
-        }, 
-        {
-            "destinationInventoryBucketHash": 0, 
-            "acceptedInventoryBucketHash": 215593132
-        }
-    ], 
-    "inhibitBuying": false, 
-    "originalCategories": [], 
-    "itemList": [
-        {
-            "refundPolicy": 0, 
-            "purchasableScope": 0, 
-            "weight": 0.0, 
-            "visibilityScope": 0, 
-            "priceOverrideEnabled": false, 
-            "failureIndexes": [], 
-            "originalCategoryIndex": -1, 
-            "maximumLevel": 0, 
-            "exclusivity": -1, 
-            "categoryIndex": -1, 
-            "creationLevels": [
-                {
-                    "level": 0
-                }
-            ], 
-            "seedOverride": 0, 
-            "redirectToSaleIndexes": [], 
-            "licenseUnlockHash": 0, 
-            "expirationTooltip": "", 
-            "currencies": [], 
-            "socketOverrides": [], 
-            "rewardAdjustorPointerHash": 0, 
-            "refundTimeLimit": 0, 
-            "vendorItemIndex": 0, 
-            "displayCategoryIndex": -1, 
-            "displayCategory": "", 
-            "sortValue": 0, 
-            "action": {
-                "executeSeconds": 0.0, 
-                "isPositive": false
-            }, 
-            "inventoryBucketHash": 1345459588, 
-            "minimumLevel": 0, 
-            "itemHash": 346974120, 
-            "quantity": 1
-        }, 
-        {
-            "refundPolicy": 0, 
-            "purchasableScope": 0, 
-            "weight": 0.0, 
-            "visibilityScope": 0, 
-            "priceOverrideEnabled": false, 
-            "failureIndexes": [], 
-            "originalCategoryIndex": -1, 
-            "maximumLevel": 0, 
-            "exclusivity": -1, 
-            "categoryIndex": -1, 
-            "creationLevels": [
-                {
-                    "level": 0
-                }
-            ], 
-            "seedOverride": 0, 
-            "redirectToSaleIndexes": [], 
-            "licenseUnlockHash": 0, 
-            "expirationTooltip": "", 
-            "currencies": [], 
-            "socketOverrides": [], 
-            "rewardAdjustorPointerHash": 0, 
-            "refundTimeLimit": 0, 
-            "vendorItemIndex": 1, 
-            "displayCategoryIndex": -1, 
-            "displayCategory": "", 
-            "sortValue": 0, 
-            "action": {
-                "executeSeconds": 0.0, 
-                "isPositive": false
-            }, 
-            "inventoryBucketHash": 1345459588, 
-            "minimumLevel": 0, 
-            "itemHash": 774885924, 
-            "quantity": 1
-        }, 
-        {
-            "refundPolicy": 0, 
-            "purchasableScope": 0, 
-            "weight": 0.0, 
-            "visibilityScope": 0, 
-            "priceOverrideEnabled": false, 
-            "failureIndexes": [], 
-            "originalCategoryIndex": -1, 
-            "maximumLevel": 0, 
-            "exclusivity": -1, 
-            "categoryIndex": -1, 
-            "creationLevels": [
-                {
-                    "level": 0
-                }
-            ], 
-            "seedOverride": 0, 
-            "redirectToSaleIndexes": [], 
-            "licenseUnlockHash": 0, 
-            "expirationTooltip": "", 
-            "currencies": [], 
-            "socketOverrides": [], 
-            "rewardAdjustorPointerHash": 0, 
-            "refundTimeLimit": 0, 
-            "vendorItemIndex": 2, 
-            "displayCategoryIndex": -1, 
-            "displayCategory": "", 
-            "sortValue": 0, 
-            "action": {
-                "executeSeconds": 0.0, 
-                "isPositive": false
-            }, 
-            "inventoryBucketHash": 1345459588, 
-            "minimumLevel": 0, 
-            "itemHash": 4237578370, 
-            "quantity": 1
-        }, 
-        {
-            "refundPolicy": 0, 
-            "purchasableScope": 0, 
-            "weight": 0.0, 
-            "visibilityScope": 0, 
-            "priceOverrideEnabled": false, 
-            "failureIndexes": [], 
-            "originalCategoryIndex": -1, 
-            "maximumLevel": 0, 
-            "exclusivity": -1, 
-            "categoryIndex": -1, 
-            "creationLevels": [
-                {
-                    "level": 0
-                }
-            ], 
-            "seedOverride": 0, 
-            "redirectToSaleIndexes": [], 
-            "licenseUnlockHash": 0, 
-            "expirationTooltip": "", 
-            "currencies": [], 
-            "socketOverrides": [], 
-            "rewardAdjustorPointerHash": 0, 
-            "refundTimeLimit": 0, 
-            "vendorItemIndex": 3, 
-            "displayCategoryIndex": -1, 
-            "displayCategory": "", 
-            "sortValue": 0, 
-            "action": {
-                "executeSeconds": 0.0, 
-                "isPositive": false
-            }, 
-            "inventoryBucketHash": 1345459588, 
-            "minimumLevel": 0, 
-            "itemHash": 1126196126, 
-            "quantity": 1
-        }, 
-        {
-            "refundPolicy": 0, 
-            "purchasableScope": 0, 
-            "weight": 0.0, 
-            "visibilityScope": 0, 
-            "priceOverrideEnabled": false, 
-            "failureIndexes": [], 
-            "originalCategoryIndex": -1, 
-            "maximumLevel": 0, 
-            "exclusivity": -1, 
-            "categoryIndex": -1, 
-            "creationLevels": [
-                {
-                    "level": 0
-                }
-            ], 
-            "seedOverride": 0, 
-            "redirectToSaleIndexes": [], 
-            "licenseUnlockHash": 0, 
-            "expirationTooltip": "", 
-            "currencies": [], 
-            "socketOverrides": [], 
-            "rewardAdjustorPointerHash": 0, 
-            "refundTimeLimit": 0, 
-            "vendorItemIndex": 4, 
-            "displayCategoryIndex": -1, 
-            "displayCategory": "", 
-            "sortValue": 0, 
-            "action": {
-                "executeSeconds": 0.0, 
-                "isPositive": false
-            }, 
-            "inventoryBucketHash": 1345459588, 
-            "minimumLevel": 0, 
-            "itemHash": 3357615447, 
-            "quantity": 1
-        }, 
-        {
-            "refundPolicy": 0, 
-            "purchasableScope": 0, 
-            "weight": 0.0, 
-            "visibilityScope": 0, 
-            "priceOverrideEnabled": false, 
-            "failureIndexes": [], 
-            "originalCategoryIndex": -1, 
-            "maximumLevel": 0, 
-            "exclusivity": -1, 
-            "categoryIndex": -1, 
-            "creationLevels": [
-                {
-                    "level": 0
-                }
-            ], 
-            "seedOverride": 0, 
-            "redirectToSaleIndexes": [], 
-            "licenseUnlockHash": 0, 
-            "expirationTooltip": "", 
-            "currencies": [], 
-            "socketOverrides": [], 
-            "rewardAdjustorPointerHash": 0, 
-            "refundTimeLimit": 0, 
-            "vendorItemIndex": 5, 
-            "displayCategoryIndex": -1, 
-            "displayCategory": "", 
-            "sortValue": 0, 
-            "action": {
-                "executeSeconds": 0.0, 
-                "isPositive": false
-            }, 
-            "inventoryBucketHash": 1345459588, 
-            "minimumLevel": 0, 
-            "itemHash": 1727646073, 
-            "quantity": 1
-        }, 
-        {
-            "refundPolicy": 0, 
-            "purchasableScope": 0, 
-            "weight": 0.0, 
-            "visibilityScope": 0, 
-            "priceOverrideEnabled": false, 
-            "failureIndexes": [], 
-            "originalCategoryIndex": -1, 
-            "maximumLevel": 0, 
-            "exclusivity": -1, 
-            "categoryIndex": -1, 
-            "creationLevels": [
-                {
-                    "level": 0
-                }
-            ], 
-            "seedOverride": 0, 
-            "redirectToSaleIndexes": [], 
-            "licenseUnlockHash": 0, 
-            "expirationTooltip": "", 
-            "currencies": [], 
-            "socketOverrides": [], 
-            "rewardAdjustorPointerHash": 0, 
-            "refundTimeLimit": 0, 
-            "vendorItemIndex": 6, 
-            "displayCategoryIndex": -1, 
-            "displayCategory": "", 
-            "sortValue": 0, 
-            "action": {
-                "executeSeconds": 0.0, 
-                "isPositive": false
-            }, 
-            "inventoryBucketHash": 1345459588, 
-            "minimumLevel": 0, 
-            "itemHash": 1085775425, 
-            "quantity": 1
-        }, 
-        {
-            "refundPolicy": 0, 
-            "purchasableScope": 0, 
-            "weight": 0.0, 
-            "visibilityScope": 0, 
-            "priceOverrideEnabled": false, 
-            "failureIndexes": [], 
-            "originalCategoryIndex": -1, 
-            "maximumLevel": 0, 
-            "exclusivity": -1, 
-            "categoryIndex": -1, 
-            "creationLevels": [
-                {
-                    "level": 0
-                }
-            ], 
-            "seedOverride": 0, 
-            "redirectToSaleIndexes": [], 
-            "licenseUnlockHash": 0, 
-            "expirationTooltip": "", 
-            "currencies": [], 
-            "socketOverrides": [], 
-            "rewardAdjustorPointerHash": 0, 
-            "refundTimeLimit": 0, 
-            "vendorItemIndex": 7, 
-            "displayCategoryIndex": -1, 
-            "displayCategory": "", 
-            "sortValue": 0, 
-            "action": {
-                "executeSeconds": 0.0, 
-                "isPositive": false
-            }, 
-            "inventoryBucketHash": 1345459588, 
-            "minimumLevel": 0, 
-            "itemHash": 89995072, 
-            "quantity": 1
-        }, 
-        {
-            "refundPolicy": 0, 
-            "purchasableScope": 6, 
-            "weight": 0.0, 
-            "visibilityScope": 6, 
-            "priceOverrideEnabled": false, 
-            "failureIndexes": [
-                0
-            ], 
-            "originalCategoryIndex": -1, 
-            "maximumLevel": 0, 
-            "exclusivity": -1, 
-            "categoryIndex": -1, 
-            "creationLevels": [
-                {
-                    "level": 0
-                }
-            ], 
-            "seedOverride": 0, 
-            "redirectToSaleIndexes": [], 
-            "licenseUnlockHash": 0, 
-            "expirationTooltip": "Expires  after purchase.", 
-            "currencies": [], 
-            "socketOverrides": [], 
-            "rewardAdjustorPointerHash": 0, 
-            "refundTimeLimit": 0, 
-            "vendorItemIndex": 8, 
-            "displayCategoryIndex": -1, 
-            "displayCategory": "Queen's Bounty", 
-            "sortValue": 0, 
-            "action": {
-                "executeSeconds": 0.0, 
-                "isPositive": false
-            }, 
-            "inventoryBucketHash": 1345459588, 
-            "minimumLevel": 0, 
-            "itemHash": 346263927, 
-            "quantity": 1
-        }, 
-        {
-            "refundPolicy": 0, 
-            "purchasableScope": 6, 
-            "weight": 0.0, 
-            "visibilityScope": 6, 
-            "priceOverrideEnabled": false, 
-            "failureIndexes": [
-                0
-            ], 
-            "originalCategoryIndex": -1, 
-            "maximumLevel": 0, 
-            "exclusivity": -1, 
-            "categoryIndex": -1, 
-            "creationLevels": [
-                {
-                    "level": 0
-                }
-            ], 
-            "seedOverride": 0, 
-            "redirectToSaleIndexes": [], 
-            "licenseUnlockHash": 0, 
-            "expirationTooltip": "Expires  after purchase.", 
-            "currencies": [], 
-            "socketOverrides": [], 
-            "rewardAdjustorPointerHash": 0, 
-            "refundTimeLimit": 0, 
-            "vendorItemIndex": 9, 
-            "displayCategoryIndex": -1, 
-            "displayCategory": "Queen's Bounty", 
-            "sortValue": 0, 
-            "action": {
-                "executeSeconds": 0.0, 
-                "isPositive": false
-            }, 
-            "inventoryBucketHash": 1345459588, 
-            "minimumLevel": 0, 
-            "itemHash": 1123124244, 
-            "quantity": 1
-        }, 
-        {
-            "refundPolicy": 0, 
-            "purchasableScope": 6, 
-            "weight": 0.0, 
-            "visibilityScope": 6, 
-            "priceOverrideEnabled": false, 
-            "failureIndexes": [
-                0
-            ], 
-            "originalCategoryIndex": -1, 
-            "maximumLevel": 0, 
-            "exclusivity": -1, 
-            "categoryIndex": -1, 
-            "creationLevels": [
-                {
-                    "level": 0
-                }
-            ], 
-            "seedOverride": 0, 
-            "redirectToSaleIndexes": [], 
-            "licenseUnlockHash": 0, 
-            "expirationTooltip": "Expires  after purchase.", 
-            "currencies": [], 
-            "socketOverrides": [], 
-            "rewardAdjustorPointerHash": 0, 
-            "refundTimeLimit": 0, 
-            "vendorItemIndex": 10, 
-            "displayCategoryIndex": -1, 
-            "displayCategory": "Queen's Bounty", 
-            "sortValue": 0, 
-            "action": {
-                "executeSeconds": 0.0, 
-                "isPositive": false
-            }, 
-            "inventoryBucketHash": 1345459588, 
-            "minimumLevel": 0, 
-            "itemHash": 2256480378, 
-            "quantity": 1
-        }, 
-        {
-            "refundPolicy": 0, 
-            "purchasableScope": 6, 
-            "weight": 0.0, 
-            "visibilityScope": 6, 
-            "priceOverrideEnabled": false, 
-            "failureIndexes": [
-                0
-            ], 
-            "originalCategoryIndex": -1, 
-            "maximumLevel": 0, 
-            "exclusivity": -1, 
-            "categoryIndex": -1, 
-            "creationLevels": [
-                {
-                    "level": 0
-                }
-            ], 
-            "seedOverride": 0, 
-            "redirectToSaleIndexes": [], 
-            "licenseUnlockHash": 0, 
-            "expirationTooltip": "Expires  after purchase.", 
-            "currencies": [], 
-            "socketOverrides": [], 
-            "rewardAdjustorPointerHash": 0, 
-            "refundTimeLimit": 0, 
-            "vendorItemIndex": 11, 
-            "displayCategoryIndex": -1, 
-            "displayCategory": "Queen's Bounty", 
-            "sortValue": 0, 
-            "action": {
-                "executeSeconds": 0.0, 
-                "isPositive": false
-            }, 
-            "inventoryBucketHash": 1345459588, 
-            "minimumLevel": 0, 
-            "itemHash": 455233900, 
-            "quantity": 1
-        }, 
-        {
-            "refundPolicy": 0, 
-            "purchasableScope": 6, 
-            "weight": 0.0, 
-            "visibilityScope": 6, 
-            "priceOverrideEnabled": false, 
-            "failureIndexes": [
-                0
-            ], 
-            "originalCategoryIndex": -1, 
-            "maximumLevel": 0, 
-            "exclusivity": -1, 
-            "categoryIndex": -1, 
-            "creationLevels": [
-                {
-                    "level": 0
-                }
-            ], 
-            "seedOverride": 0, 
-            "redirectToSaleIndexes": [], 
-            "licenseUnlockHash": 0, 
-            "expirationTooltip": "Expires  after purchase.", 
-            "currencies": [], 
-            "socketOverrides": [], 
-            "rewardAdjustorPointerHash": 0, 
-            "refundTimeLimit": 0, 
-            "vendorItemIndex": 12, 
-            "displayCategoryIndex": -1, 
-            "displayCategory": "Queen's Bounty", 
-            "sortValue": 0, 
-            "action": {
-                "executeSeconds": 0.0, 
-                "isPositive": false
-            }, 
-            "inventoryBucketHash": 1345459588, 
-            "minimumLevel": 0, 
-            "itemHash": 2663541547, 
-            "quantity": 1
-        }
-    ], 
-    "displayCategories": [], 
-    "consolidateCategories": false, 
-    "unlockValueHash": 0, 
-    "interactions": [], 
-    "resetIntervalMinutes": 0, 
-    "services": [], 
-    "displayItemHash": 3159615086, 
-    "categories": [], 
-    "blacklisted": false, 
-    "failureStrings": [
-        "You have already completed this."
-    ], 
-    "factionHash": 1838583129, 
-    "enabled": false, 
-    "unlockRanges": [], 
-    "returnWithVendorRequest": false, 
-    "displayProperties": {
-        "subtitle": "Postmaster", 
-        "description": "Postmaster Frames dutifully oversee deliveries, messages, and lost items.", 
-        "originalIcon": "/common/destiny2_content/icons/58e0868540ff4053d1a1f10f2dd959dd.png", 
-        "name": "Darbi 55-30", 
-        "requirementsDisplay": [], 
-        "hasIcon": true, 
-        "icon": "/common/destiny2_content/icons/58e0868540ff4053d1a1f10f2dd959dd.png"
-    }
+	"displayProperties": {
+		"subtitle": "Postmaster",
+		"originalIcon": "/common/destiny2_content/icons/58e0868540ff4053d1a1f10f2dd959dd.png",
+		"requirementsDisplay": [],
+		"description": "Postmaster Frames dutifully oversee deliveries, messages, and lost items.",
+		"name": "Darbi 55-30",
+		"icon": "/common/destiny2_content/icons/58e0868540ff4053d1a1f10f2dd959dd.png",
+		"hasIcon": true
+	},
+	"BungieNet.Engine.Contract.Destiny.World.Definitions.IDestinyDisplayDefinition.displayProperties": {
+		"subtitle": "Postmaster",
+		"originalIcon": "/common/destiny2_content/icons/58e0868540ff4053d1a1f10f2dd959dd.png",
+		"requirementsDisplay": [],
+		"description": "Postmaster Frames dutifully oversee deliveries, messages, and lost items.",
+		"name": "Darbi 55-30",
+		"icon": "/common/destiny2_content/icons/58e0868540ff4053d1a1f10f2dd959dd.png",
+		"hasIcon": true
+	},
+	"displayItemHash": 3159615086,
+	"inhibitBuying": false,
+	"inhibitSelling": true,
+	"factionHash": 1838583129,
+	"resetIntervalMinutes": 0,
+	"resetOffsetMinutes": 960,
+	"failureStrings": [],
+	"unlockRanges": [],
+	"enabled": false,
+	"visible": false,
+	"consolidateCategories": false,
+	"unlockValueHash": 0,
+	"actions": [],
+	"categories": [
+		{
+			"categoryIndex": 0,
+			"sortValue": 0,
+			"categoryHash": 1633021530,
+			"quantityAvailable": 0,
+			"showUnavailableItems": false,
+			"hideIfNoCurrency": false,
+			"hideFromRegularPurchase": true,
+			"buyStringOverride": "",
+			"disabledDescription": "",
+			"vendorItemIndexes": [
+				0
+			],
+			"isPreview": false,
+			"isDisplayOnly": false,
+			"resetIntervalMinutesOverride": -1,
+			"resetOffsetMinutesOverride": -1
+		}
+	],
+	"originalCategories": [
+		{
+			"categoryIndex": 0,
+			"sortValue": 0,
+			"categoryHash": 1633021530,
+			"quantityAvailable": 0,
+			"showUnavailableItems": false,
+			"hideIfNoCurrency": false,
+			"hideFromRegularPurchase": true,
+			"buyStringOverride": "",
+			"disabledDescription": "",
+			"vendorItemIndexes": [
+				0
+			],
+			"isPreview": false,
+			"isDisplayOnly": false,
+			"resetIntervalMinutesOverride": -1,
+			"resetOffsetMinutesOverride": -1
+		}
+	],
+	"displayCategories": [
+		{
+			"index": 0,
+			"identifier": "",
+			"displayCategoryHash": 2166136261,
+			"displayProperties": {
+				"description": "",
+				"name": "",
+				"hasIcon": false
+			},
+			"displayInBanner": false,
+			"sortOrder": 0
+		}
+	],
+	"interactions": [
+		{
+			"interactionIndex": 0,
+			"replies": [
+				{
+					"itemRewardsSelection": 1,
+					"rewardSiteHash": 0,
+					"reply": "ACCEPT REWARD:",
+					"replyType": 2
+				}
+			],
+			"vendorCategoryIndex": 0,
+			"questlineItemHash": 0,
+			"sackInteractionList": [],
+			"uiInteractionType": 3784864740,
+			"interactionType": 7,
+			"rewardBlockLabel": "",
+			"rewardVendorCategoryIndex": -1,
+			"flavorLineOne": "",
+			"flavorLineTwo": "",
+			"headerDisplayProperties": {
+				"description": "",
+				"name": "A Festival of Masks",
+				"hasIcon": false
+			},
+			"instructions": ""
+		}
+	],
+	"inventoryFlyouts": [
+		{
+			"lockedDescription": "",
+			"displayProperties": {
+				"description": "Messages and deliveries for pickup.",
+				"name": "Messages",
+				"hasIcon": false
+			},
+			"buckets": [
+				{
+					"collapsible": false,
+					"inventoryBucketHash": 3161908920,
+					"sortItemsBy": 1
+				}
+			],
+			"flyoutId": 3161908920,
+			"suppressNewness": false
+		}
+	],
+	"itemList": [
+		{
+			"vendorItemIndex": 0,
+			"itemHash": 3271578316,
+			"quantity": 1,
+			"failureIndexes": [],
+			"priceOverrideEnabled": false,
+			"currencies": [],
+			"refundPolicy": 0,
+			"refundTimeLimit": 0,
+			"rewardAdjustorPointerHash": 0,
+			"creationLevels": [
+				{
+					"level": 0
+				}
+			],
+			"displayCategoryIndex": 0,
+			"seedOverride": 0,
+			"categoryIndex": 0,
+			"originalCategoryIndex": 0,
+			"weight": 0,
+			"minimumLevel": 0,
+			"maximumLevel": 0,
+			"licenseUnlockHash": 0,
+			"action": {
+				"executeSeconds": 0,
+				"isPositive": false
+			},
+			"displayCategory": "",
+			"inventoryBucketHash": 1345459588,
+			"visibilityScope": 0,
+			"purchasableScope": 0,
+			"exclusivity": -1,
+			"sortValue": 0,
+			"expirationTooltip": "",
+			"redirectToSaleIndexes": [],
+			"socketOverrides": [],
+			"unpurchasable": true
+		}
+	],
+	"services": [],
+	"acceptedItems": [
+		{
+			"acceptedInventoryBucketHash": 3161908920,
+			"destinationInventoryBucketHash": 0
+		},
+		{
+			"acceptedInventoryBucketHash": 1367666825,
+			"destinationInventoryBucketHash": 0
+		},
+		{
+			"acceptedInventoryBucketHash": 215593132,
+			"destinationInventoryBucketHash": 0
+		}
+	],
+	"returnWithVendorRequest": false,
+	"ignoreSaleItemHashes": [],
+	"hash": 1846565192,
+	"index": 13,
+	"redacted": false,
+	"blacklisted": false
 }

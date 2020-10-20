@@ -1,27 +1,27 @@
 {
-    "index": 15, 
-    "progressionHash": 1660497607, 
-    "hash": 1660497607, 
-    "blacklisted": false, 
-    "redacted": false, 
-    "vendors": [
-        {
-            "vendorHash": 1576276905, 
-            "backgroundImagePath": "/img/destiny_content/factions/vendors/nessus-failsafe.jpg", 
-            "destinationHash": 126924919
-        }
-    ], 
-    "rewardItemHash": 3876745998, 
-    "tokenValues": {
-        "3201839676": 100, 
-        "2949414982": 250, 
-        "3487922223": 50
-    }, 
-    "rewardVendorHash": 468122550, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/a802d6f4595db175154f3c465210af0f.png", 
-        "hasIcon": true, 
-        "description": "A Golden Age AI marooned on  Nessus, Failsafe stands watch over the wreckage of her ship.", 
-        "name": "Exodus Black AI"
-    }
+	"displayProperties": {
+		"description": "A Golden Age AI marooned on  Nessus, Failsafe stands watch over the wreckage of her ship.",
+		"name": "Exodus Black AI",
+		"icon": "/common/destiny2_content/icons/a802d6f4595db175154f3c465210af0f.png",
+		"hasIcon": true
+	},
+	"progressionHash": 1660497607,
+	"tokenValues": {
+		"2949414982": 250,
+		"3201839676": 100,
+		"3487922223": 50
+	},
+	"rewardItemHash": 3876745998,
+	"rewardVendorHash": 468122550,
+	"vendors": [
+		{
+			"vendorHash": 1576276905,
+			"destinationHash": 126924919,
+			"backgroundImagePath": "/img/destiny_content/factions/vendors/nessus-failsafe.jpg"
+		}
+	],
+	"hash": 1660497607,
+	"index": 16,
+	"redacted": false,
+	"blacklisted": false
 }

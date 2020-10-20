@@ -1,112 +1,112 @@
 {
-    "itemTypeAndTierDisplayName": "Rare Emblem", 
-    "nonTransferrable": true, 
-    "investmentStats": [], 
-    "redacted": false, 
-    "tooltipNotifications": [], 
-    "specialItemType": 0, 
-    "itemType": 14, 
-    "talentGrid": {
-        "talentGridHash": 521135891, 
-        "hudDamageType": 1, 
-        "itemDetailString": "Details"
-    }, 
-    "index": 3075, 
-    "stats": {
-        "hasDisplayableStats": false, 
-        "primaryBaseStatHash": 0, 
-        "disablePrimaryStatDisplay": false, 
-        "stats": {}
-    }, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Rare", 
-        "bucketTypeHash": 4274335291, 
-        "stackUniqueLabel": "v310.emblems.rare.emblem2", 
-        "tierTypeHash": 2127292149, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 4, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 10, 
-        "green": 12, 
-        "colorHash": 0, 
-        "red": 48, 
-        "alpha": 255
-    }, 
-    "preview": {
-        "screenStyle": "screen_style_emblem", 
-        "previewVendorHash": 0, 
-        "previewActionString": ""
-    }, 
-    "hash": 2939572584, 
-    "equippable": true, 
-    "itemTypeDisplayName": "Emblem", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "metrics": {
-        "availableMetricCategoryNodeHashes": [
-            3844527950, 
-            2875839731, 
-            2663569174
-        ]
-    }, 
-    "action": {
-        "progressionRewards": [], 
-        "requiredCooldownHash": 0, 
-        "verbName": "Store", 
-        "deleteOnAction": true, 
-        "requiredItems": [], 
-        "rewardItemHash": 0, 
-        "useOnAcquire": false, 
-        "isPositive": false, 
-        "requiredCooldownSeconds": 0, 
-        "rewardSheetHash": 0, 
-        "verbDescription": "", 
-        "rewardSiteHash": 0, 
-        "consumeEntireStack": false
-    }, 
-    "itemSubType": 0, 
-    "allowActions": true, 
-    "uiItemDisplayStyle": "", 
-    "secondaryOverlay": "/common/destiny2_content/icons/73e42c6cb29388e95408b40d66192530.png", 
-    "secondaryIcon": "/common/destiny2_content/icons/996a1fc5cc34e5f954828e9d30d6d5e5.jpg", 
-    "equippingBlock": {
-        "displayStrings": [], 
-        "equipmentSlotTypeHash": 4274335291, 
-        "ammoType": 0, 
-        "equippingSoundHash": 0, 
-        "hornSoundHash": 0, 
-        "attributes": 0, 
-        "uniqueLabelHash": 0
-    }, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "secondarySpecial": "/common/destiny2_content/icons/c1a1f8a0720a41e68689c2182f4d2166.jpg", 
-    "blacklisted": false, 
-    "acquireUnlockHash": 0, 
-    "collectibleHash": 225592291, 
-    "displaySource": "", 
-    "traitIds": [
-        "item_type.emblem"
-    ], 
-    "perks": [], 
-    "itemCategoryHashes": [
-        19, 
-        52
-    ], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/29fa47a20b4afd04d645102bbb18aba0.jpg", 
-        "hasIcon": true, 
-        "description": "", 
-        "name": "Secrets of the Vex"
-    }
+	"displayProperties": {
+		"description": "",
+		"name": "Secrets of the Vex",
+		"icon": "/common/destiny2_content/icons/29fa47a20b4afd04d645102bbb18aba0.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"collectibleHash": 225592291,
+	"secondaryIcon": "/common/destiny2_content/icons/996a1fc5cc34e5f954828e9d30d6d5e5.jpg",
+	"secondaryOverlay": "/common/destiny2_content/icons/73e42c6cb29388e95408b40d66192530.png",
+	"secondarySpecial": "/common/destiny2_content/icons/c1a1f8a0720a41e68689c2182f4d2166.jpg",
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 48,
+		"green": 12,
+		"blue": 10,
+		"alpha": 255
+	},
+	"itemTypeDisplayName": "Emblem",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Rare Emblem",
+	"displaySource": "",
+	"action": {
+		"verbName": "Store",
+		"verbDescription": "",
+		"isPositive": false,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"stackUniqueLabel": "v310.emblems.rare.emblem2",
+		"maxStackSize": 1,
+		"bucketTypeHash": 4274335291,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 2127292149,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Rare",
+		"tierType": 4,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"stats": {
+		"disablePrimaryStatDisplay": false,
+		"stats": {},
+		"hasDisplayableStats": false,
+		"primaryBaseStatHash": 0
+	},
+	"equippingBlock": {
+		"uniqueLabelHash": 0,
+		"equipmentSlotTypeHash": 4274335291,
+		"attributes": 0,
+		"equippingSoundHash": 0,
+		"hornSoundHash": 0,
+		"ammoType": 0,
+		"displayStrings": []
+	},
+	"preview": {
+		"screenStyle": "screen_style_emblem",
+		"previewVendorHash": 0,
+		"previewActionString": ""
+	},
+	"metrics": {
+		"availableMetricCategoryNodeHashes": [
+			3844527950,
+			2875839731,
+			2663569174
+		]
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"talentGrid": {
+		"talentGridHash": 521135891,
+		"itemDetailString": "Details",
+		"hudDamageType": 1
+	},
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		19,
+		52
+	],
+	"specialItemType": 0,
+	"itemType": 14,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": true,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"traitIds": [
+		"item_type.emblem"
+	],
+	"hash": 2939572584,
+	"index": 3111,
+	"redacted": false,
+	"blacklisted": false
 }

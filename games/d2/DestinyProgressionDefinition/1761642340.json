@@ -1,45 +1,45 @@
 {
-    "repeatLastStep": true, 
-    "rewardItems": [], 
-    "progressToNextStepScaling": 0, 
-    "currentResetCountUnlockValueHash": 0, 
-    "blacklisted": false, 
-    "index": 55, 
-    "factionHash": 1761642340, 
-    "redacted": false, 
-    "storageMappingIndex": 0, 
-    "visible": true, 
-    "steps": [
-        {
-            "displayEffectType": 0, 
-            "stepName": "", 
-            "progressTotal": 2000
-        }, 
-        {
-            "displayEffectType": 0, 
-            "stepName": "", 
-            "progressTotal": 2000
-        }, 
-        {
-            "displayEffectType": 0, 
-            "stepName": "", 
-            "progressTotal": 2000
-        }
-    ], 
-    "BungieNet.Engine.Contract.Destiny.World.Definitions.IDestinyDisplayDefinition.displayProperties": {
-        "icon": "/common/destiny2_content/icons/1d006c1576409a7a188bda7879857784.png", 
-        "hasIcon": true, 
-        "description": "The Iron Banner is a Crucible tournament held to honor long-lost heroes.", 
-        "displayUnitsName": "Reputation", 
-        "name": "Iron Banner"
-    }, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/1d006c1576409a7a188bda7879857784.png", 
-        "hasIcon": true, 
-        "description": "The Iron Banner is a Crucible tournament held to honor long-lost heroes.", 
-        "displayUnitsName": "Reputation", 
-        "name": "Iron Banner"
-    }, 
-    "scope": 1, 
-    "hash": 1761642340
+	"displayProperties": {
+		"displayUnitsName": "Reputation",
+		"description": "The Iron Banner is a Crucible tournament held to honor long-lost heroes.",
+		"name": "Iron Banner",
+		"icon": "/common/destiny2_content/icons/1d006c1576409a7a188bda7879857784.png",
+		"hasIcon": true
+	},
+	"BungieNet.Engine.Contract.Destiny.World.Definitions.IDestinyDisplayDefinition.displayProperties": {
+		"displayUnitsName": "Reputation",
+		"description": "The Iron Banner is a Crucible tournament held to honor long-lost heroes.",
+		"name": "Iron Banner",
+		"icon": "/common/destiny2_content/icons/1d006c1576409a7a188bda7879857784.png",
+		"hasIcon": true
+	},
+	"scope": 1,
+	"repeatLastStep": true,
+	"steps": [
+		{
+			"stepName": "",
+			"displayEffectType": 0,
+			"progressTotal": 2000
+		},
+		{
+			"stepName": "",
+			"displayEffectType": 0,
+			"progressTotal": 2000
+		},
+		{
+			"stepName": "",
+			"displayEffectType": 0,
+			"progressTotal": 2000
+		}
+	],
+	"visible": true,
+	"factionHash": 1761642340,
+	"progressToNextStepScaling": 0,
+	"storageMappingIndex": 0,
+	"currentResetCountUnlockValueHash": 0,
+	"rewardItems": [],
+	"hash": 1761642340,
+	"index": 57,
+	"redacted": false,
+	"blacklisted": false
 }

@@ -1,27 +1,27 @@
 {
-    "index": 24, 
-    "progressionHash": 2677528157, 
-    "hash": 2677528157, 
-    "blacklisted": false, 
-    "redacted": false, 
-    "vendors": [
-        {
-            "vendorHash": 2398407866, 
-            "backgroundImagePath": "/img/destiny_content/factions/vendors/mercury-osiris-brother-vance-0.jpg", 
-            "destinationHash": 3669933163
-        }
-    ], 
-    "rewardItemHash": 10653108, 
-    "tokenValues": {
-        "2386485406": 250, 
-        "3022799524": 100, 
-        "49145143": 50
-    }, 
-    "rewardVendorHash": 10653108, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/54af55fd53ef164c2bd2b542f1cdd70f.png", 
-        "hasIcon": true, 
-        "description": "Brother Vance leads the Followers of Osiris on Mercury, studying the life and teachings of Osiris and standing watch over the Infinite Forest.", 
-        "name": "Follower of Osiris"
-    }
+	"displayProperties": {
+		"description": "Brother Vance leads the Followers of Osiris on Mercury, studying the life and teachings of Osiris and standing watch over the Infinite Forest.",
+		"name": "Follower of Osiris",
+		"icon": "/common/destiny2_content/icons/54af55fd53ef164c2bd2b542f1cdd70f.png",
+		"hasIcon": true
+	},
+	"progressionHash": 2677528157,
+	"tokenValues": {
+		"49145143": 50,
+		"2386485406": 250,
+		"3022799524": 100
+	},
+	"rewardItemHash": 10653108,
+	"rewardVendorHash": 10653108,
+	"vendors": [
+		{
+			"vendorHash": 2398407866,
+			"destinationHash": 3669933163,
+			"backgroundImagePath": "/img/destiny_content/factions/vendors/mercury-osiris-brother-vance-0.jpg"
+		}
+	],
+	"hash": 2677528157,
+	"index": 25,
+	"redacted": false,
+	"blacklisted": false
 }

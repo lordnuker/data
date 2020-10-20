@@ -1,0 +1,86 @@
+{
+	"displayProperties": {
+		"description": "Earn points by defeating combatants and Guardians with Scout Rifles. Defeating Guardians grants the most efficient progress.",
+		"name": "Scout It Out",
+		"icon": "/common/destiny2_content/icons/5ce0eeb04a81b3bd25ff65325d2addd4.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [
+		{
+			"displayString": "Expires at the end of Season of Arrivals",
+			"displayStyle": ""
+		}
+	],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Daily Bounty",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Common Daily Bounty",
+	"displaySource": "\"Ammunition depletes when we need it most. Pick your shots carefully.\" —Eris Morn",
+	"inventory": {
+		"stackUniqueLabel": "v490.bounties.limited.ritual.jerboa.daily.bounty22",
+		"maxStackSize": 1,
+		"bucketTypeHash": 1345459588,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 3340296461,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Common",
+		"tierType": 2,
+		"expirationTooltip": "Expires in .",
+		"expiredInActivityMessage": "Expired. Unless completed, this bounty will be removed when you return to orbit or load into a new activity.",
+		"expiredInOrbitMessage": "Expired. Bounty will be removed upon leaving orbit.",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"value": {
+		"itemValue": [
+			{
+				"itemHash": 4237793827,
+				"quantity": 25
+			},
+			{
+				"itemHash": 2211488305,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			}
+		],
+		"valueDescription": ""
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		1784235469
+	],
+	"specialItemType": 0,
+	"itemType": 26,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
+}

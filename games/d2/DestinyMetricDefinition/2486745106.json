@@ -1,32 +1,32 @@
 {
-    "index": 53, 
-    "hash": 2486745106, 
-    "blacklisted": false, 
-    "presentationNodeType": 4, 
-    "trackingObjectiveHash": 3727582319, 
-    "traitHashes": [
-        1434215347, 
-        4263853822
-    ], 
-    "redacted": false, 
-    "traitIds": [], 
-    "parentNodeHashes": [
-        926976517, 
-        3007691132
-    ], 
-    "lowerValueIsBetter": false, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/3a484184ba35748d86650fe508f0b35b.png", 
-                    "/common/destiny2_content/icons/d6eb731c2dd07d3d59e7c6a5fcdfc6c1.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/3a484184ba35748d86650fe508f0b35b.png", 
-        "hasIcon": true, 
-        "description": "The total number of \"Leviathan\" completions.\n\nTracks from Season 10 onward.", 
-        "name": "Leviathan Completions"
-    }
+	"displayProperties": {
+		"description": "The total number of \"Leviathan\" completions.\n\nTracks from Season 1 onward.",
+		"name": "Leviathan Completions",
+		"icon": "/common/destiny2_content/icons/3a484184ba35748d86650fe508f0b35b.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/3a484184ba35748d86650fe508f0b35b.png",
+					"/common/destiny2_content/icons/d6eb731c2dd07d3d59e7c6a5fcdfc6c1.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"trackingObjectiveHash": 3727582319,
+	"lowerValueIsBetter": false,
+	"presentationNodeType": 4,
+	"traitIds": [],
+	"traitHashes": [
+		1434215347,
+		4263853822
+	],
+	"parentNodeHashes": [
+		926976517,
+		3007691132
+	],
+	"hash": 2486745106,
+	"index": 84,
+	"redacted": false,
+	"blacklisted": false
 }

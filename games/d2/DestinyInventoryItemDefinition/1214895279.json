@@ -1,104 +1,121 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Gauntlets", 
-    "translationBlock": {
-        "customDyes": [], 
-        "hasGeometry": true, 
-        "lockedDyes": [], 
-        "weaponPatternHash": 0, 
-        "defaultDyes": [
-            {
-                "dyeHash": 904221637, 
-                "channelHash": 662199250
-            }, 
-            {
-                "dyeHash": 2882713580, 
-                "channelHash": 1367384683
-            }, 
-            {
-                "dyeHash": 419658107, 
-                "channelHash": 218592586
-            }
-        ], 
-        "arrangements": [
-            {
-                "classHash": 0, 
-                "artArrangementHash": 2210586425
-            }
-        ]
-    }, 
-    "itemType": 20, 
-    "investmentStats": [], 
-    "redacted": false, 
-    "tooltipNotifications": [], 
-    "index": 2933, 
-    "stats": {
-        "hasDisplayableStats": false, 
-        "primaryBaseStatHash": 0, 
-        "disablePrimaryStatDisplay": false, 
-        "stats": {}
-    }, 
-    "defaultDamageType": 0, 
-    "summaryItemHash": 3407672161, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 3551918588, 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "allowActions": true, 
-    "hash": 1214895279, 
-    "equippable": true, 
-    "itemTypeDisplayName": "Gauntlets", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 27, 
-    "itemCategoryHashes": [
-        46, 
-        20, 
-        3109687656
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": false, 
-    "equippingBlock": {
-        "displayStrings": [], 
-        "equipmentSlotTypeHash": 3551918588, 
-        "ammoType": 0, 
-        "equippingSoundHash": 0, 
-        "hornSoundHash": 0, 
-        "attributes": 0, 
-        "uniqueLabelHash": 0
-    }, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "blacklisted": false, 
-    "displaySource": "", 
-    "traitIds": [
-        "armor_type.arms", 
-        "item_type.armor"
-    ], 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/87fbc71febc0a77bdf943e7312789b38.jpg", 
-        "hasIcon": true, 
-        "description": "Equip this ornament to change the appearance of your Iron Truage arms armor. Once you get an ornament, it's unlocked on all characters on your account.", 
-        "name": "Iron Pledge Ornament"
-    }
+	"displayProperties": {
+		"description": "Equip this ornament to change the appearance of your Iron Truage arms armor. Once you get an ornament, it's unlocked on all characters on your account.",
+		"name": "Iron Pledge Ornament",
+		"icon": "/common/destiny2_content/icons/87fbc71febc0a77bdf943e7312789b38.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Gauntlets",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Gauntlets",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 3551918588,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"stats": {
+		"disablePrimaryStatDisplay": false,
+		"stats": {},
+		"hasDisplayableStats": false,
+		"primaryBaseStatHash": 0
+	},
+	"equippingBlock": {
+		"uniqueLabelHash": 0,
+		"equipmentSlotTypeHash": 3551918588,
+		"attributes": 0,
+		"equippingSoundHash": 0,
+		"hornSoundHash": 0,
+		"ammoType": 0,
+		"displayStrings": []
+	},
+	"translationBlock": {
+		"weaponPatternHash": 0,
+		"defaultDyes": [
+			{
+				"channelHash": 662199250,
+				"dyeHash": 904221637
+			},
+			{
+				"channelHash": 1367384683,
+				"dyeHash": 2882713580
+			},
+			{
+				"channelHash": 218592586,
+				"dyeHash": 419658107
+			}
+		],
+		"lockedDyes": [],
+		"customDyes": [],
+		"arrangements": [
+			{
+				"classHash": 0,
+				"artArrangementHash": 2210586425
+			}
+		],
+		"hasGeometry": true
+	},
+	"quality": {
+		"itemLevels": [],
+		"qualityLevel": 0,
+		"infusionCategoryName": "0",
+		"infusionCategoryHash": 0,
+		"infusionCategoryHashes": [],
+		"progressionLevelRequirementHash": 0,
+		"currentVersion": 0,
+		"versions": [
+			{
+				"powerCapHash": 1862490583
+			}
+		],
+		"displayVersionWatermarkIcons": [
+			""
+		]
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [],
+	"summaryItemHash": 3407672161,
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [
+		46,
+		20,
+		3109687656
+	],
+	"specialItemType": 0,
+	"itemType": 20,
+	"itemSubType": 27,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": true,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"traitIds": [
+		"armor_type.arms",
+		"item_type.armor"
+	],
+	"hash": 1214895279,
+	"index": 2969,
+	"redacted": false,
+	"blacklisted": false
 }

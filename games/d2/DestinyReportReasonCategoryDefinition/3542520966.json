@@ -1,21 +1,21 @@
 {
-    "index": 2, 
-    "hash": 3542520966, 
-    "blacklisted": false, 
-    "reasons": {
-        "3087590961": {
-            "displayProperties": {
-                "hasIcon": false, 
-                "description": "", 
-                "name": "Other"
-            }, 
-            "reasonHash": 3087590961
-        }
-    }, 
-    "redacted": false, 
-    "displayProperties": {
-        "hasIcon": false, 
-        "description": "Unsolicited invitations or messages sent frequently or to large numbers of recipients.\n\nExamples: Friend Invite, Whisper, Chat.", 
-        "name": "Spam"
-    }
+	"displayProperties": {
+		"description": "Unsolicited invitations or messages sent frequently or to large numbers of recipients.\n\nExamples: Friend Invite, Whisper, Chat.",
+		"name": "Spam",
+		"hasIcon": false
+	},
+	"reasons": {
+		"3087590961": {
+			"reasonHash": 3087590961,
+			"displayProperties": {
+				"description": "",
+				"name": "Other",
+				"hasIcon": false
+			}
+		}
+	},
+	"hash": 3542520966,
+	"index": 2,
+	"redacted": false,
+	"blacklisted": false
 }

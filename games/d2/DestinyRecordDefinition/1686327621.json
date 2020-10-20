@@ -1,61 +1,61 @@
 {
-    "index": 1921, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [
-            {
-                "intervalScoreValue": 10, 
-                "intervalObjectiveHash": 2364197326
-            }, 
-            {
-                "intervalScoreValue": 15, 
-                "intervalObjectiveHash": 2364197327
-            }, 
-            {
-                "intervalScoreValue": 25, 
-                "intervalObjectiveHash": 2364197324
-            }
-        ], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 91000, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [], 
-    "parentNodeHashes": [
-        2802172173
-    ], 
-    "expirationInfo": {
-        "hasExpiration": true, 
-        "description": "Available only during Season of the Undying."
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/63949d9416593734fe0cb9fbad23f96e.png", 
-        "hasIcon": true, 
-        "description": "In Season 8, increase your Power bonus with the Gate Lord's Eye.", 
-        "name": "Season 8: Power Bonus"
-    }, 
-    "scope": 0, 
-    "hash": 1686327621
+	"displayProperties": {
+		"description": "In Season 8, increase your Power bonus with the Gate Lord's Eye.",
+		"name": "Season 8: Power Bonus",
+		"icon": "/common/destiny2_content/icons/63949d9416593734fe0cb9fbad23f96e.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 91000,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": true,
+		"description": "Available only during Season of the Undying."
+	},
+	"intervalInfo": {
+		"intervalObjectives": [
+			{
+				"intervalObjectiveHash": 2364197326,
+				"intervalScoreValue": 10
+			},
+			{
+				"intervalObjectiveHash": 2364197327,
+				"intervalScoreValue": 15
+			},
+			{
+				"intervalObjectiveHash": 2364197324,
+				"intervalScoreValue": 25
+			}
+		],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		2802172173
+	],
+	"hash": 1686327621,
+	"index": 1933,
+	"redacted": false,
+	"blacklisted": false
 }

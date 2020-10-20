@@ -1,0 +1,72 @@
+{
+	"displayProperties": {
+		"description": ": Launch a heavy projectile attack.\nHeavy attacks are stronger with full energy.\nAttacks partially bypass elemental shields.",
+		"name": "Caster Frame",
+		"icon": "/common/destiny2_content/icons/92f279839ef0bc779235c1c3f89edf6f.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/92f279839ef0bc779235c1c3f89edf6f.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/6748776777905d711eb2a216ecd9ccc4.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Intrinsic",
+	"uiItemDisplayStyle": "ui_display_style_intrinsic_plug",
+	"itemTypeAndTierDisplayName": "Exotic Intrinsic",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1469714392,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 2759499571,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Exotic",
+		"tierType": 6,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [
+		{
+			"requirementDisplayString": "",
+			"perkHash": 4055790776,
+			"perkVisibility": 0
+		}
+	],
+	"summaryItemHash": 3520001075,
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		59,
+		2237038328,
+		610365472
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
+}

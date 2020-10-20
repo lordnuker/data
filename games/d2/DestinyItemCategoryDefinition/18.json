@@ -1,25 +1,25 @@
 {
-    "index": 16, 
-    "groupCategoryOnly": false, 
-    "grantDestinyClass": 3, 
-    "blacklisted": false, 
-    "shortTitle": "Currencies", 
-    "grantDestinyItemType": 1, 
-    "deprecated": false, 
-    "originBucketIdentifier": "currency.*", 
-    "redacted": false, 
-    "grantDestinySubType": 0, 
-    "parentCategoryHashes": [
-        52
-    ], 
-    "visible": false, 
-    "groupedCategoryHashes": [], 
-    "displayProperties": {
-        "hasIcon": false, 
-        "description": "Used to buy new weapons and gear.", 
-        "name": "Currencies"
-    }, 
-    "hash": 18, 
-    "isPlug": false, 
-    "grantDestinyBreakerType": 0
+	"displayProperties": {
+		"description": "Used to buy new weapons and gear.",
+		"name": "Currencies",
+		"hasIcon": false
+	},
+	"visible": false,
+	"deprecated": false,
+	"shortTitle": "Currencies",
+	"grantDestinyBreakerType": 0,
+	"originBucketIdentifier": "currency.*",
+	"grantDestinyItemType": 1,
+	"grantDestinySubType": 0,
+	"grantDestinyClass": 3,
+	"groupedCategoryHashes": [],
+	"isPlug": false,
+	"parentCategoryHashes": [
+		52
+	],
+	"groupCategoryOnly": false,
+	"hash": 18,
+	"index": 16,
+	"redacted": false,
+	"blacklisted": false
 }

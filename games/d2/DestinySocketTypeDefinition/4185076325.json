@@ -1,41 +1,41 @@
 {
-    "index": 429, 
-    "hash": 4185076325, 
-    "blacklisted": false, 
-    "avoidDuplicatesOnInitialization": false, 
-    "insertAction": {
-        "actionSoundHash": 0, 
-        "isPositiveAction": false, 
-        "actionType": 2, 
-        "actionExecuteSeconds": 1
-    }, 
-    "plugWhitelist": [
-        {
-            "reinitializationPossiblePlugHashes": [
-                615063266
-            ], 
-            "categoryIdentifier": "v300_new_pulse_rifle1_masterwork", 
-            "categoryHash": 3306482479
-        }, 
-        {
-            "reinitializationPossiblePlugHashes": [
-                615063266
-            ], 
-            "categoryIdentifier": "exotic_weapon_masterwork_upgrade", 
-            "categoryHash": 1932084301
-        }
-    ], 
-    "currencyScalars": [], 
-    "redacted": false, 
-    "visibility": 0, 
-    "isPreviewEnabled": false, 
-    "alwaysRandomizeSockets": false, 
-    "overridesUiAppearance": false, 
-    "displayProperties": {
-        "hasIcon": false, 
-        "description": "", 
-        "name": ""
-    }, 
-    "socketCategoryHash": 2685412949, 
-    "hideDuplicateReusablePlugs": false
+	"displayProperties": {
+		"description": "",
+		"name": "",
+		"hasIcon": false
+	},
+	"insertAction": {
+		"actionExecuteSeconds": 1,
+		"actionSoundHash": 0,
+		"isPositiveAction": false,
+		"actionType": 2
+	},
+	"plugWhitelist": [
+		{
+			"categoryHash": 3306482479,
+			"categoryIdentifier": "v300_new_pulse_rifle1_masterwork",
+			"reinitializationPossiblePlugHashes": [
+				615063266
+			]
+		},
+		{
+			"categoryHash": 1932084301,
+			"categoryIdentifier": "exotic_weapon_masterwork_upgrade",
+			"reinitializationPossiblePlugHashes": [
+				615063266
+			]
+		}
+	],
+	"socketCategoryHash": 2685412949,
+	"visibility": 0,
+	"alwaysRandomizeSockets": false,
+	"isPreviewEnabled": false,
+	"hideDuplicateReusablePlugs": false,
+	"overridesUiAppearance": false,
+	"avoidDuplicatesOnInitialization": false,
+	"currencyScalars": [],
+	"hash": 4185076325,
+	"index": 429,
+	"redacted": false,
+	"blacklisted": false
 }

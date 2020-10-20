@@ -1,133 +1,134 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Weapon Ornament", 
-    "translationBlock": {
-        "customDyes": [], 
-        "hasGeometry": true, 
-        "lockedDyes": [], 
-        "weaponPatternHash": 0, 
-        "defaultDyes": [
-            {
-                "dyeHash": 3376428111, 
-                "channelHash": 1667433279
-            }, 
-            {
-                "dyeHash": 3376428110, 
-                "channelHash": 1667433278
-            }, 
-            {
-                "dyeHash": 3376428109, 
-                "channelHash": 1667433277
-            }
-        ], 
-        "arrangements": [
-            {
-                "classHash": 0, 
-                "artArrangementHash": 3562520053
-            }
-        ]
-    }, 
-    "itemType": 19, 
-    "investmentStats": [], 
-    "redacted": false, 
-    "tooltipNotifications": [], 
-    "index": 8985, 
-    "allowActions": true, 
-    "equippable": false, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 3313201758, 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 999, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "preview": {
-        "screenStyle": "screen_style_sockets", 
-        "previewVendorHash": 0, 
-        "previewActionString": "Preview"
-    }, 
-    "hash": 3562520053, 
-    "screenshot": "/common/destiny2_content/screenshots/3562520053.jpg", 
-    "itemTypeDisplayName": "Weapon Ornament", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/ce8aac64e7ba150ef580dd21ba228852.jpg", 
-        "hasIcon": true, 
-        "description": "Equip this weapon ornament to change the appearance of Pluperfect. Once you get an ornament, it's unlocked for all characters on your account.", 
-        "highResIcon": "/common/destiny2_content/icons/a9d0dbcded68a49082dc75c148c30863.png", 
-        "name": "They Had Built"
-    }, 
-    "itemSubType": 21, 
-    "itemCategoryHashes": [
-        56, 
-        52, 
-        59, 
-        3124752623, 
-        610365472
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": false, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "plug": {
-        "insertionMaterialRequirementHash": 0, 
-        "actionRewardSiteHash": 0, 
-        "enabledMaterialRequirementHash": 0, 
-        "previewItemOverrideHash": 0, 
-        "insertionRules": [
-            {
-                "failureMessage": "Requires Mod Item"
-            }
-        ], 
-        "enabledRules": [], 
-        "plugCategoryHash": 4020011895, 
-        "plugCategoryIdentifier": "v460_activities_season_pass_auto_rifle0_skins", 
-        "onActionRecreateSelf": false, 
-        "plugStyle": 0, 
-        "isDummyPlug": false, 
-        "actionRewardItemOverrideHash": 0, 
-        "uiPlugLabel": "", 
-        "alternatePlugStyle": 0, 
-        "alternateUiPlugLabel": "", 
-        "plugAvailability": 0
-    }, 
-    "blacklisted": false, 
-    "acquireUnlockHash": 0, 
-    "displaySource": "", 
-    "traitIds": [
-        "item_type.weapon_ornament"
-    ], 
-    "perks": [], 
-    "specialItemType": 0, 
-    "action": {
-        "progressionRewards": [], 
-        "requiredCooldownHash": 0, 
-        "verbName": "Unlock", 
-        "deleteOnAction": true, 
-        "requiredItems": [], 
-        "rewardItemHash": 0, 
-        "useOnAcquire": false, 
-        "isPositive": true, 
-        "requiredCooldownSeconds": 0, 
-        "rewardSheetHash": 0, 
-        "verbDescription": "", 
-        "rewardSiteHash": 0, 
-        "consumeEntireStack": false
-    }
+	"displayProperties": {
+		"description": "Equip this weapon ornament to change the appearance of Pluperfect. Once you get an ornament, it's unlocked for all characters on your account.",
+		"name": "They Had Built",
+		"icon": "/common/destiny2_content/icons/ce8aac64e7ba150ef580dd21ba228852.jpg",
+		"highResIcon": "/common/destiny2_content/icons/12ce1b983f54294a7c7c9327efceddaa.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"collectibleHash": 3607300878,
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"screenshot": "/common/destiny2_content/screenshots/3562520053.jpg",
+	"itemTypeDisplayName": "Weapon Ornament",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Weapon Ornament",
+	"displaySource": "",
+	"action": {
+		"verbName": "Unlock",
+		"verbDescription": "",
+		"isPositive": true,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"maxStackSize": 999,
+		"bucketTypeHash": 3313201758,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"translationBlock": {
+		"weaponPatternHash": 0,
+		"defaultDyes": [
+			{
+				"channelHash": 1667433279,
+				"dyeHash": 3376428111
+			},
+			{
+				"channelHash": 1667433278,
+				"dyeHash": 3376428110
+			},
+			{
+				"channelHash": 1667433277,
+				"dyeHash": 3376428109
+			}
+		],
+		"lockedDyes": [],
+		"customDyes": [],
+		"arrangements": [
+			{
+				"classHash": 0,
+				"artArrangementHash": 3562520053
+			}
+		],
+		"hasGeometry": true
+	},
+	"preview": {
+		"screenStyle": "screen_style_sockets",
+		"previewVendorHash": 0,
+		"previewActionString": "Preview"
+	},
+	"plug": {
+		"insertionRules": [
+			{
+				"failureMessage": "Requires Mod Item"
+			}
+		],
+		"plugCategoryIdentifier": "v460_activities_season_pass_auto_rifle0_skins",
+		"plugCategoryHash": 4020011895,
+		"onActionRecreateSelf": false,
+		"actionRewardSiteHash": 0,
+		"actionRewardItemOverrideHash": 0,
+		"insertionMaterialRequirementHash": 0,
+		"previewItemOverrideHash": 0,
+		"enabledMaterialRequirementHash": 0,
+		"enabledRules": [],
+		"uiPlugLabel": "",
+		"plugStyle": 0,
+		"plugAvailability": 0,
+		"alternateUiPlugLabel": "",
+		"alternatePlugStyle": 0,
+		"isDummyPlug": false
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [
+		56,
+		52,
+		59,
+		3124752623,
+		610365472
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 21,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"traitIds": [
+		"item_type.weapon_ornament"
+	],
+	"hash": 3562520053,
+	"index": 9020,
+	"redacted": false,
+	"blacklisted": false
 }

@@ -1,61 +1,61 @@
 {
-    "index": 1378, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [
-            {
-                "intervalScoreValue": 50, 
-                "intervalObjectiveHash": 3040371003
-            }, 
-            {
-                "intervalScoreValue": 50, 
-                "intervalObjectiveHash": 3040371002
-            }, 
-            {
-                "intervalScoreValue": 200, 
-                "intervalObjectiveHash": 3040371001
-            }
-        ], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [], 
-    "parentNodeHashes": [
-        656562339
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/48dda413d9f412ca2b10fd56a35a2665.png", 
-        "hasIcon": true, 
-        "description": "Earn the high score in Nightfall: The Ordeal.", 
-        "name": "Lightbearer"
-    }, 
-    "scope": 0, 
-    "hash": 4020709858
+	"displayProperties": {
+		"description": "Earn the high score in Nightfall: The Ordeal.",
+		"name": "Lightbearer",
+		"icon": "/common/destiny2_content/icons/48dda413d9f412ca2b10fd56a35a2665.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [
+			{
+				"intervalObjectiveHash": 3040371003,
+				"intervalScoreValue": 50
+			},
+			{
+				"intervalObjectiveHash": 3040371002,
+				"intervalScoreValue": 50
+			},
+			{
+				"intervalObjectiveHash": 3040371001,
+				"intervalScoreValue": 200
+			}
+		],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		656562339
+	],
+	"hash": 4020709858,
+	"index": 1390,
+	"redacted": false,
+	"blacklisted": false
 }

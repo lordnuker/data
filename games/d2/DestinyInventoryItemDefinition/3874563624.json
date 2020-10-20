@@ -1,126 +1,143 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Package", 
-    "itemType": 25, 
-    "investmentStats": [], 
-    "redacted": false, 
-    "sack": {
-        "openOnAcquire": false, 
-        "resolvedItemCountUnlockValueHash": 0, 
-        "openAction": "Open", 
-        "rollStateUnlockValueHash": 0, 
-        "selectItemCount": 0, 
-        "seedUnlockValueHash": 0, 
-        "rewardItemListHash": 0, 
-        "resolvedBitVectorUnlockValueHash": 0, 
-        "detailAction": "Preview"
-    }, 
-    "tooltipNotifications": [], 
-    "index": 11277, 
-    "stats": {
-        "hasDisplayableStats": false, 
-        "primaryBaseStatHash": 0, 
-        "disablePrimaryStatDisplay": false, 
-        "stats": {}
-    }, 
-    "gearset": {
-        "trackingValueMax": 0, 
-        "itemList": [
-            3789539490, 
-            729400710, 
-            1471849583, 
-            2001565587, 
-            2004752092
-        ]
-    }, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 1469714392, 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "preview": {
-        "screenStyle": "screen_style_vendor", 
-        "derivedItemCategories": [
-            {
-                "items": [
-                    {
-                        "itemHash": 4131215577, 
-                        "vendorItemIndex": 0
-                    }, 
-                    {
-                        "itemHash": 1505795903, 
-                        "vendorItemIndex": 1
-                    }, 
-                    {
-                        "itemHash": 2752954446, 
-                        "vendorItemIndex": 2
-                    }, 
-                    {
-                        "itemHash": 488913992, 
-                        "vendorItemIndex": 3
-                    }, 
-                    {
-                        "itemHash": 2728433867, 
-                        "vendorItemIndex": 4
-                    }
-                ], 
-                "categoryDescription": "", 
-                "categoryIndex": 0
-            }
-        ], 
-        "previewVendorHash": 3874563624, 
-        "previewActionString": "Preview"
-    }, 
-    "hash": 3874563624, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Package", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        268598612
-    ], 
-    "uiItemDisplayStyle": "ui_display_style_box", 
-    "nonTransferrable": true, 
-    "tooltipStyle": "package", 
-    "allowActions": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "blacklisted": false, 
-    "displaySource": "", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "hasIcon": true, 
-        "description": "Contains a full set of Sunbreak Titan universal ornaments.\n\nBundle price reduced for each item you already own.", 
-        "highResIcon": "/common/destiny2_content/icons/c84ae308ee9d56238e59b7294a3dc459.jpg", 
-        "name": "Sunbreak Titan Bundle", 
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/778d8e8d86e045596a234bd78ac06c39.png", 
-                    "/common/destiny2_content/icons/2fc5b9709b3331a495f02594e2ac14a1.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/778d8e8d86e045596a234bd78ac06c39.png"
-    }
+	"displayProperties": {
+		"description": "Contains a full set of Sunbreak Titan universal ornaments.\n\nBundle price reduced for each item you already own.",
+		"name": "Sunbreak Titan Bundle",
+		"icon": "/common/destiny2_content/icons/778d8e8d86e045596a234bd78ac06c39.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/778d8e8d86e045596a234bd78ac06c39.png",
+					"/common/destiny2_content/icons/2fc5b9709b3331a495f02594e2ac14a1.png"
+				]
+			}
+		],
+		"highResIcon": "/common/destiny2_content/icons/c84ae308ee9d56238e59b7294a3dc459.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Package",
+	"uiItemDisplayStyle": "ui_display_style_box",
+	"itemTypeAndTierDisplayName": "Legendary Package",
+	"displaySource": "",
+	"tooltipStyle": "package",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1469714392,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"stats": {
+		"disablePrimaryStatDisplay": false,
+		"stats": {},
+		"hasDisplayableStats": false,
+		"primaryBaseStatHash": 0
+	},
+	"preview": {
+		"screenStyle": "screen_style_vendor",
+		"previewVendorHash": 3874563624,
+		"previewActionString": "Preview",
+		"derivedItemCategories": [
+			{
+				"categoryDescription": "",
+				"items": [
+					{
+						"itemHash": 4131215577,
+						"vendorItemIndex": 0
+					},
+					{
+						"itemHash": 1505795903,
+						"vendorItemIndex": 1
+					},
+					{
+						"itemHash": 2752954446,
+						"vendorItemIndex": 2
+					},
+					{
+						"itemHash": 488913992,
+						"vendorItemIndex": 3
+					},
+					{
+						"itemHash": 2728433867,
+						"vendorItemIndex": 4
+					}
+				],
+				"categoryIndex": 0
+			}
+		]
+	},
+	"quality": {
+		"itemLevels": [],
+		"qualityLevel": 0,
+		"infusionCategoryName": "0",
+		"infusionCategoryHash": 0,
+		"infusionCategoryHashes": [],
+		"progressionLevelRequirementHash": 0,
+		"currentVersion": 0,
+		"versions": [
+			{
+				"powerCapHash": 723350001
+			}
+		],
+		"displayVersionWatermarkIcons": [
+			""
+		]
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"gearset": {
+		"trackingValueMax": 0,
+		"itemList": [
+			3789539490,
+			729400710,
+			1471849583,
+			2001565587,
+			2004752092
+		]
+	},
+	"sack": {
+		"detailAction": "Preview",
+		"openAction": "Open",
+		"seedUnlockValueHash": 0,
+		"resolvedBitVectorUnlockValueHash": 0,
+		"resolvedItemCountUnlockValueHash": 0,
+		"selectItemCount": 0,
+		"rollStateUnlockValueHash": 0,
+		"rewardItemListHash": 0,
+		"openOnAcquire": false
+	},
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		268598612
+	],
+	"specialItemType": 0,
+	"itemType": 25,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"hash": 3874563624,
+	"index": 11283,
+	"redacted": false,
+	"blacklisted": false
 }

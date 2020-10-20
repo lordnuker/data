@@ -1,176 +1,176 @@
 {
-    "itemTypeAndTierDisplayName": "Rare Challenge Card", 
-    "itemType": 9, 
-    "investmentStats": [], 
-    "redacted": false, 
-    "tooltipNotifications": [], 
-    "sockets": {
-        "socketEntries": [
-            {
-                "reusablePlugItems": [], 
-                "preventInitializationOnVendorPurchase": false, 
-                "reusablePlugSetHash": 854, 
-                "preventInitializationWhenVersioning": false, 
-                "overridesUiAppearance": false, 
-                "hidePerksInItemTooltip": false, 
-                "singleInitialItemHash": 1524950365, 
-                "socketTypeHash": 1720281877, 
-                "defaultVisible": true, 
-                "plugSources": 7
-            }, 
-            {
-                "reusablePlugItems": [], 
-                "preventInitializationOnVendorPurchase": false, 
-                "preventInitializationWhenVersioning": false, 
-                "overridesUiAppearance": false, 
-                "hidePerksInItemTooltip": false, 
-                "singleInitialItemHash": 1563183311, 
-                "socketTypeHash": 3332844716, 
-                "defaultVisible": true, 
-                "plugSources": 1
-            }, 
-            {
-                "reusablePlugItems": [], 
-                "preventInitializationOnVendorPurchase": false, 
-                "reusablePlugSetHash": 855, 
-                "preventInitializationWhenVersioning": false, 
-                "overridesUiAppearance": false, 
-                "hidePerksInItemTooltip": false, 
-                "singleInitialItemHash": 2895215636, 
-                "socketTypeHash": 3332844716, 
-                "defaultVisible": true, 
-                "plugSources": 7
-            }
-        ], 
-        "socketCategories": [
-            {
-                "socketIndexes": [
-                    0, 
-                    1, 
-                    2
-                ], 
-                "socketCategoryHash": 2622243744
-            }
-        ], 
-        "detail": "Nightfall Challenge", 
-        "intrinsicSockets": []
-    }, 
-    "talentGrid": {
-        "talentGridHash": 521135891, 
-        "hudDamageType": 1, 
-        "itemDetailString": "Details"
-    }, 
-    "index": 3822, 
-    "stats": {
-        "hasDisplayableStats": false, 
-        "primaryBaseStatHash": 0, 
-        "disablePrimaryStatDisplay": false, 
-        "stats": {}
-    }, 
-    "objectives": {
-        "objectiveVerbName": "", 
-        "requireFullObjectiveCompletion": true, 
-        "questTypeIdentifier": "", 
-        "perObjectiveDisplayProperties": [
-            {
-                "displayOnItemPreviewScreen": true
-            }, 
-            {
-                "displayOnItemPreviewScreen": false
-            }
-        ], 
-        "objectiveHashes": [
-            1430837241, 
-            4011311747
-        ], 
-        "displayAsStatTracker": false, 
-        "useOnObjectiveCompletion": false, 
-        "completionRewardSiteHash": 0, 
-        "timestampUnlockValueHash": 0, 
-        "questlineItemHash": 0, 
-        "isGlobalObjectiveItem": false, 
-        "inhibitCompletionUnlockValueHash": 0, 
-        "narrative": "", 
-        "displayActivityHashes": [
-            2166136261, 
-            2166136261
-        ], 
-        "nextQuestStepRewardSiteHash": 0, 
-        "questTypeHash": 2166136261
-    }, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Rare", 
-        "bucketTypeHash": 1469714392, 
-        "stackUniqueLabel": "v310.tickets.nightfall.rare0", 
-        "tierTypeHash": 2127292149, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 4, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "preview": {
-        "screenStyle": "screen_style_sockets", 
-        "previewVendorHash": 0, 
-        "previewActionString": ""
-    }, 
-    "hash": 1476367555, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Challenge Card", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": true, 
-    "action": {
-        "progressionRewards": [], 
-        "requiredCooldownHash": 0, 
-        "verbName": "Discard", 
-        "deleteOnAction": true, 
-        "requiredItems": [], 
-        "rewardItemHash": 0, 
-        "useOnAcquire": false, 
-        "isPositive": false, 
-        "requiredCooldownSeconds": 0, 
-        "rewardSheetHash": 0, 
-        "verbDescription": "", 
-        "rewardSiteHash": 0, 
-        "consumeEntireStack": true
-    }, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        35, 
-        52, 
-        3041770480
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": true, 
-    "tooltipStyle": "record", 
-    "allowActions": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "blacklisted": false, 
-    "acquireUnlockHash": 0, 
-    "displaySource": "", 
-    "traitIds": [
-        "item_type.consumable"
-    ], 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/ccc446830f251edcd81e32e0bb3b73e6.jpg", 
-        "hasIcon": true, 
-        "description": "When present in your inventory, this enables modifiers in Nightfall strikes. More challenging modifiers will apply larger score multipliers.", 
-        "name": "Nightfall Challenge"
-    }
+	"displayProperties": {
+		"description": "When present in your inventory, this enables modifiers in Nightfall strikes. More challenging modifiers will apply larger score multipliers.",
+		"name": "Nightfall Challenge",
+		"icon": "/common/destiny2_content/icons/ccc446830f251edcd81e32e0bb3b73e6.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Challenge Card",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Rare Challenge Card",
+	"displaySource": "",
+	"tooltipStyle": "record",
+	"action": {
+		"verbName": "Discard",
+		"verbDescription": "",
+		"isPositive": false,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": true,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"stackUniqueLabel": "v310.tickets.nightfall.rare0",
+		"maxStackSize": 1,
+		"bucketTypeHash": 1469714392,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 2127292149,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Rare",
+		"tierType": 4,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"stats": {
+		"disablePrimaryStatDisplay": false,
+		"stats": {},
+		"hasDisplayableStats": false,
+		"primaryBaseStatHash": 0
+	},
+	"preview": {
+		"screenStyle": "screen_style_sockets",
+		"previewVendorHash": 0,
+		"previewActionString": ""
+	},
+	"objectives": {
+		"objectiveHashes": [
+			1430837241,
+			4011311747
+		],
+		"displayActivityHashes": [
+			2166136261,
+			2166136261
+		],
+		"requireFullObjectiveCompletion": true,
+		"questlineItemHash": 0,
+		"narrative": "",
+		"objectiveVerbName": "",
+		"questTypeIdentifier": "",
+		"questTypeHash": 2166136261,
+		"completionRewardSiteHash": 0,
+		"nextQuestStepRewardSiteHash": 0,
+		"timestampUnlockValueHash": 0,
+		"isGlobalObjectiveItem": false,
+		"useOnObjectiveCompletion": false,
+		"inhibitCompletionUnlockValueHash": 0,
+		"perObjectiveDisplayProperties": [
+			{
+				"displayOnItemPreviewScreen": true
+			},
+			{
+				"displayOnItemPreviewScreen": false
+			}
+		],
+		"displayAsStatTracker": false
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"sockets": {
+		"detail": "Nightfall Challenge",
+		"socketEntries": [
+			{
+				"socketTypeHash": 1720281877,
+				"singleInitialItemHash": 1524950365,
+				"reusablePlugItems": [],
+				"preventInitializationOnVendorPurchase": false,
+				"preventInitializationWhenVersioning": false,
+				"hidePerksInItemTooltip": false,
+				"plugSources": 7,
+				"reusablePlugSetHash": 854,
+				"overridesUiAppearance": false,
+				"defaultVisible": true
+			},
+			{
+				"socketTypeHash": 3332844716,
+				"singleInitialItemHash": 1563183311,
+				"reusablePlugItems": [],
+				"preventInitializationOnVendorPurchase": false,
+				"preventInitializationWhenVersioning": false,
+				"hidePerksInItemTooltip": false,
+				"plugSources": 1,
+				"overridesUiAppearance": false,
+				"defaultVisible": true
+			},
+			{
+				"socketTypeHash": 3332844716,
+				"singleInitialItemHash": 2895215636,
+				"reusablePlugItems": [],
+				"preventInitializationOnVendorPurchase": false,
+				"preventInitializationWhenVersioning": false,
+				"hidePerksInItemTooltip": false,
+				"plugSources": 7,
+				"reusablePlugSetHash": 855,
+				"overridesUiAppearance": false,
+				"defaultVisible": true
+			}
+		],
+		"intrinsicSockets": [],
+		"socketCategories": [
+			{
+				"socketCategoryHash": 2622243744,
+				"socketIndexes": [
+					0,
+					1,
+					2
+				]
+			}
+		]
+	},
+	"talentGrid": {
+		"talentGridHash": 521135891,
+		"itemDetailString": "Details",
+		"hudDamageType": 1
+	},
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": true,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		35,
+		52,
+		3041770480
+	],
+	"specialItemType": 0,
+	"itemType": 9,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"traitIds": [
+		"item_type.consumable"
+	],
+	"hash": 1476367555,
+	"index": 3858,
+	"redacted": false,
+	"blacklisted": false
 }

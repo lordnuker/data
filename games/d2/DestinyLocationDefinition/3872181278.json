@@ -1,110 +1,110 @@
 {
-    "index": 195, 
-    "hash": 3872181278, 
-    "blacklisted": false, 
-    "redacted": false, 
-    "vendorHash": 1303210083, 
-    "locationReleases": [
-        {
-            "worldPosition": [
-                135, 
-                42, 
-                6, 
-                0
-            ], 
-            "smallTransparentIcon": "/common/destiny2_content/icons/dc8dfdde34e25b92afb5403882c9983b.png", 
-            "mapIcon": "/common/destiny2_content/icons/19ddbaf503fac9f72aa2f2cae84677b3.png", 
-            "spawnPoint": 0, 
-            "activityPathBundle": 3412876599, 
-            "activityBubbleName": 2192450996, 
-            "destinationHash": 333456177, 
-            "activityGraphNodeHash": 0, 
-            "activityPathDestination": 1821631635, 
-            "activityGraphHash": 3858837760, 
-            "displayProperties": {
-                "iconSequences": [
-                    {
-                        "frames": [
-                            "/common/destiny2_content/icons/dc8dfdde34e25b92afb5403882c9983b.png", 
-                            "/common/destiny2_content/icons/19ddbaf503fac9f72aa2f2cae84677b3.png", 
-                            "/common/destiny2_content/icons/ab7342a43ce1b81fdbf5db422fcd784a.png"
-                        ]
-                    }
-                ], 
-                "icon": "/common/destiny2_content/icons/dc8dfdde34e25b92afb5403882c9983b.png", 
-                "hasIcon": true, 
-                "description": "Hunter Vanguard", 
-                "name": "Cayde-6"
-            }, 
-            "largeTransparentIcon": "/common/destiny2_content/icons/ab7342a43ce1b81fdbf5db422fcd784a.png", 
-            "navPointType": 0, 
-            "activityHash": 3903562779
-        }, 
-        {
-            "worldPosition": [
-                0, 
-                0, 
-                0, 
-                0
-            ], 
-            "spawnPoint": 0, 
-            "activityPathBundle": 368045378, 
-            "activityBubbleName": 2871560606, 
-            "destinationHash": 0, 
-            "activityGraphNodeHash": 0, 
-            "activityPathDestination": 1821631635, 
-            "activityGraphHash": 0, 
-            "displayProperties": {
-                "hasIcon": false, 
-                "description": "", 
-                "name": ""
-            }, 
-            "navPointType": 0, 
-            "activityHash": 0
-        }, 
-        {
-            "worldPosition": [
-                0, 
-                0, 
-                0, 
-                0
-            ], 
-            "spawnPoint": 0, 
-            "activityPathBundle": 3657562122, 
-            "activityBubbleName": 2372580540, 
-            "destinationHash": 0, 
-            "activityGraphNodeHash": 0, 
-            "activityPathDestination": 1821631635, 
-            "activityGraphHash": 0, 
-            "displayProperties": {
-                "hasIcon": false, 
-                "description": "", 
-                "name": ""
-            }, 
-            "navPointType": 0, 
-            "activityHash": 0
-        }, 
-        {
-            "worldPosition": [
-                0, 
-                0, 
-                0, 
-                0
-            ], 
-            "spawnPoint": 0, 
-            "activityPathBundle": 2017689649, 
-            "activityBubbleName": 4101540847, 
-            "destinationHash": 0, 
-            "activityGraphNodeHash": 0, 
-            "activityPathDestination": 1821631635, 
-            "activityGraphHash": 0, 
-            "displayProperties": {
-                "hasIcon": false, 
-                "description": "", 
-                "name": ""
-            }, 
-            "navPointType": 0, 
-            "activityHash": 0
-        }
-    ]
+	"vendorHash": 1303210083,
+	"locationReleases": [
+		{
+			"displayProperties": {
+				"description": "Hunter Vanguard",
+				"name": "Cayde-6",
+				"icon": "/common/destiny2_content/icons/dc8dfdde34e25b92afb5403882c9983b.png",
+				"iconSequences": [
+					{
+						"frames": [
+							"/common/destiny2_content/icons/dc8dfdde34e25b92afb5403882c9983b.png",
+							"/common/destiny2_content/icons/19ddbaf503fac9f72aa2f2cae84677b3.png",
+							"/common/destiny2_content/icons/ab7342a43ce1b81fdbf5db422fcd784a.png"
+						]
+					}
+				],
+				"hasIcon": true
+			},
+			"smallTransparentIcon": "/common/destiny2_content/icons/dc8dfdde34e25b92afb5403882c9983b.png",
+			"mapIcon": "/common/destiny2_content/icons/19ddbaf503fac9f72aa2f2cae84677b3.png",
+			"largeTransparentIcon": "/common/destiny2_content/icons/ab7342a43ce1b81fdbf5db422fcd784a.png",
+			"spawnPoint": 0,
+			"destinationHash": 333456177,
+			"activityHash": 3903562779,
+			"activityGraphHash": 3858837760,
+			"activityGraphNodeHash": 0,
+			"activityBubbleName": 2192450996,
+			"activityPathBundle": 3412876599,
+			"activityPathDestination": 1821631635,
+			"navPointType": 0,
+			"worldPosition": [
+				135,
+				42,
+				6,
+				0
+			]
+		},
+		{
+			"displayProperties": {
+				"description": "",
+				"name": "",
+				"hasIcon": false
+			},
+			"spawnPoint": 0,
+			"destinationHash": 0,
+			"activityHash": 0,
+			"activityGraphHash": 0,
+			"activityGraphNodeHash": 0,
+			"activityBubbleName": 2871560606,
+			"activityPathBundle": 368045378,
+			"activityPathDestination": 1821631635,
+			"navPointType": 0,
+			"worldPosition": [
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"displayProperties": {
+				"description": "",
+				"name": "",
+				"hasIcon": false
+			},
+			"spawnPoint": 0,
+			"destinationHash": 0,
+			"activityHash": 0,
+			"activityGraphHash": 0,
+			"activityGraphNodeHash": 0,
+			"activityBubbleName": 2372580540,
+			"activityPathBundle": 3657562122,
+			"activityPathDestination": 1821631635,
+			"navPointType": 0,
+			"worldPosition": [
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"displayProperties": {
+				"description": "",
+				"name": "",
+				"hasIcon": false
+			},
+			"spawnPoint": 0,
+			"destinationHash": 0,
+			"activityHash": 0,
+			"activityGraphHash": 0,
+			"activityGraphNodeHash": 0,
+			"activityBubbleName": 4101540847,
+			"activityPathBundle": 2017689649,
+			"activityPathDestination": 1821631635,
+			"navPointType": 0,
+			"worldPosition": [
+				0,
+				0,
+				0,
+				0
+			]
+		}
+	],
+	"hash": 3872181278,
+	"index": 195,
+	"redacted": false,
+	"blacklisted": false
 }

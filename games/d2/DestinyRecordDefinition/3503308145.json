@@ -1,63 +1,63 @@
 {
-    "index": 8, 
-    "traitHashes": [], 
-    "loreHash": 3293617210, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 0, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "traitIds": [], 
-    "objectiveHashes": [
-        4015312043
-    ], 
-    "parentNodeHashes": [
-        2447807737
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 0, 
-        "ScoreValue": 50, 
-        "shouldFireToast": false
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/d607917e27b5c55c2f73500c2502a1c9.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/5610275f985583f2b2f83b770273865e.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/d607917e27b5c55c2f73500c2502a1c9.png", 
-        "hasIcon": true, 
-        "description": "", 
-        "name": "An Evolution of Faith"
-    }, 
-    "scope": 0, 
-    "hash": 3503308145
+	"displayProperties": {
+		"description": "",
+		"name": "An Evolution of Faith",
+		"icon": "/common/destiny2_content/icons/d607917e27b5c55c2f73500c2502a1c9.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/d607917e27b5c55c2f73500c2502a1c9.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/5610275f985583f2b2f83b770273865e.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"scope": 0,
+	"loreHash": 3293617210,
+	"objectiveHashes": [
+		4015312043
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 50,
+		"shouldFireToast": false,
+		"toastStyle": 0
+	},
+	"stateInfo": {
+		"featuredPriority": 0,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		2447807737
+	],
+	"hash": 3503308145,
+	"index": 8,
+	"redacted": false,
+	"blacklisted": false
 }

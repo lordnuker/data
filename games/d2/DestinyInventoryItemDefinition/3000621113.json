@@ -1,0 +1,133 @@
+{
+	"displayProperties": {
+		"description": "",
+		"name": "",
+		"icon": "/common/destiny2_content/icons/c5b0fc9decd80c9f393f435151822058.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/c5b0fc9decd80c9f393f435151822058.png",
+					"/common/destiny2_content/icons/cd44370351c60d45c37b1dbc09c4904c.png",
+					"/common/destiny2_content/icons/cc9b9d4bfaaf6cd181015d8ba82be0e2.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [
+		{
+			"displayString": "Expires at the end of Season of Arrivals",
+			"displayStyle": ""
+		}
+	],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Quest Step",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Basic Quest Step",
+	"displaySource": "",
+	"tooltipStyle": "bounty",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1801258597,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 1801258597,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Basic",
+		"tierType": 0,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"setData": {
+		"itemList": [
+			{
+				"trackingValue": 100,
+				"itemHash": 3000621112
+			},
+			{
+				"trackingValue": 1000,
+				"itemHash": 3000621113
+			},
+			{
+				"trackingValue": 2000,
+				"itemHash": 3000621114
+			},
+			{
+				"trackingValue": 3000,
+				"itemHash": 3000621115
+			}
+		],
+		"trackingUnlockValueHash": 0,
+		"abandonmentUnlockHash": 0,
+		"requireOrderedSetItemAdd": true,
+		"setIsFeatured": true,
+		"setType": "quest_global",
+		"questLineName": "A Shadow Overhead"
+	},
+	"stats": {
+		"disablePrimaryStatDisplay": false,
+		"stats": {},
+		"hasDisplayableStats": false,
+		"primaryBaseStatHash": 0
+	},
+	"objectives": {
+		"objectiveHashes": [
+			540400218
+		],
+		"displayActivityHashes": [
+			2166136261
+		],
+		"requireFullObjectiveCompletion": true,
+		"questlineItemHash": 3000621113,
+		"narrative": "",
+		"objectiveVerbName": "",
+		"questTypeIdentifier": "quest_global",
+		"questTypeHash": 3413310557,
+		"completionRewardSiteHash": 0,
+		"nextQuestStepRewardSiteHash": 0,
+		"timestampUnlockValueHash": 0,
+		"isGlobalObjectiveItem": false,
+		"useOnObjectiveCompletion": false,
+		"inhibitCompletionUnlockValueHash": 0,
+		"perObjectiveDisplayProperties": [
+			{
+				"displayOnItemPreviewScreen": false
+			}
+		],
+		"displayAsStatTracker": false
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": true,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		16
+	],
+	"specialItemType": 0,
+	"itemType": 12,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"traitIds": [
+		"inventory_filtering.quest.featured",
+		"quest.seasonal"
+	],
+	"hash": 3000621113,
+	"index": 15353,
+	"redacted": false,
+	"blacklisted": false
+}

@@ -1,31 +1,31 @@
 {
-    "index": 32, 
-    "hash": 1462038198, 
-    "blacklisted": false, 
-    "presentationNodeType": 4, 
-    "trackingObjectiveHash": 1842945649, 
-    "traitHashes": [
-        1434215347, 
-        4263853822
-    ], 
-    "redacted": false, 
-    "traitIds": [], 
-    "parentNodeHashes": [
-        4193411410
-    ], 
-    "lowerValueIsBetter": false, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/7689e34bdfbb5df228ca012bd204b0a2.png", 
-                    "/common/destiny2_content/icons/3e8851e69f5caa836466fcf62ee9a95b.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/7689e34bdfbb5df228ca012bd204b0a2.png", 
-        "hasIcon": true, 
-        "description": "The total number of Motes banked in Gambit matches.\n\nTracks from Season 4 onward.", 
-        "name": "Motes Banked"
-    }
+	"displayProperties": {
+		"description": "The total number of Motes banked in Gambit matches.\n\nTracks from Season 4 onward.",
+		"name": "Motes Banked",
+		"icon": "/common/destiny2_content/icons/7689e34bdfbb5df228ca012bd204b0a2.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/7689e34bdfbb5df228ca012bd204b0a2.png",
+					"/common/destiny2_content/icons/3e8851e69f5caa836466fcf62ee9a95b.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"trackingObjectiveHash": 1842945649,
+	"lowerValueIsBetter": false,
+	"presentationNodeType": 4,
+	"traitIds": [],
+	"traitHashes": [
+		1434215347,
+		4263853822
+	],
+	"parentNodeHashes": [
+		4193411410
+	],
+	"hash": 1462038198,
+	"index": 62,
+	"redacted": false,
+	"blacklisted": false
 }

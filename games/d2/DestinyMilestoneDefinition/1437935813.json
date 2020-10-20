@@ -1,71 +1,39 @@
 {
-    "activities": [
-        {
-            "challenges": [
-                {
-                    "challengeObjectiveHash": 2312894169, 
-                    "completeUnlockHash": 0
-                }
-            ], 
-            "activityGraphNodes": [
-                {
-                    "activityGraphNodeHash": 49992779, 
-                    "activityGraphHash": 3632206917
-                }
-            ], 
-            "activityHash": 4252456044
-        }
-    ], 
-    "rewards": {
-        "326786556": {
-            "displayProperties": {
-                "hasIcon": false, 
-                "description": "", 
-                "name": "Rewards"
-            }, 
-            "rewardEntries": {
-                "326786556": {
-                    "redeemedUnlockHash": 0, 
-                    "items": [
-                        {
-                            "itemHash": 3114385605, 
-                            "quantity": 1
-                        }
-                    ], 
-                    "rewardEntryHash": 326786556, 
-                    "displayProperties": {
-                        "hasIcon": false, 
-                        "description": "Complete strikes using the same subclass element as the currently active elemental burn.", 
-                        "name": "Weekly Strike Challenge"
-                    }, 
-                    "earnedUnlockHash": 0, 
-                    "rewardEntryIdentifier": "ChallengeSourcedReward", 
-                    "order": 0
-                }
-            }, 
-            "categoryIdentifier": "ChallengeSourcedReward", 
-            "categoryHash": 326786556, 
-            "order": 0
-        }
-    }, 
-    "hash": 1437935813, 
-    "blacklisted": false, 
-    "isInGameMilestone": false, 
-    "index": 41, 
-    "showInExplorer": false, 
-    "image": "/img/destiny_content/pgcr/vanguard_strike_playlist.jpg", 
-    "redacted": false, 
-    "explorePrioritizesActivityImage": false, 
-    "showInMilestones": true, 
-    "friendlyName": "MILESTONE_WEEKLY_STRIKES", 
-    "milestoneType": 3, 
-    "hasPredictableDates": true, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/f2154b781b36b19760efcb23695c66fe.png", 
-        "hasIcon": true, 
-        "description": "Complete strikes using the same subclass element as the currently active elemental burn.", 
-        "name": "Weekly Vanguard Strikes"
-    }, 
-    "defaultOrder": 2000, 
-    "recruitable": false
+	"displayProperties": {
+		"description": "Complete strikes using the same subclass element as the currently active elemental burn.",
+		"name": "Weekly Vanguard Strikes",
+		"icon": "/common/destiny2_content/icons/f2154b781b36b19760efcb23695c66fe.png",
+		"hasIcon": true
+	},
+	"image": "/img/destiny_content/pgcr/vanguard_strike_playlist.jpg",
+	"milestoneType": 3,
+	"recruitable": false,
+	"friendlyName": "MILESTONE_WEEKLY_STRIKES",
+	"showInExplorer": false,
+	"showInMilestones": true,
+	"explorePrioritizesActivityImage": false,
+	"hasPredictableDates": true,
+	"isInGameMilestone": false,
+	"activities": [
+		{
+			"activityHash": 4252456044,
+			"challenges": [
+				{
+					"challengeObjectiveHash": 2312894169,
+					"completeUnlockHash": 0
+				}
+			],
+			"activityGraphNodes": [
+				{
+					"activityGraphHash": 3632206917,
+					"activityGraphNodeHash": 49992779
+				}
+			]
+		}
+	],
+	"defaultOrder": 2000,
+	"hash": 1437935813,
+	"index": 53,
+	"redacted": false,
+	"blacklisted": false
 }

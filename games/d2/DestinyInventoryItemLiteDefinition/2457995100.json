@@ -1,115 +1,115 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Quest Step", 
-    "itemType": 12, 
-    "tooltipNotifications": [], 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 1801258597, 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "setData": {
-        "trackingUnlockValueHash": 0, 
-        "setIsFeatured": true, 
-        "itemList": [
-            {
-                "itemHash": 2457995100, 
-                "trackingValue": 100
-            }, 
-            {
-                "itemHash": 613001527, 
-                "trackingValue": 200
-            }, 
-            {
-                "itemHash": 2659620686, 
-                "trackingValue": 300
-            }, 
-            {
-                "itemHash": 544905217, 
-                "trackingValue": 400
-            }
-        ], 
-        "requireOrderedSetItemAdd": true, 
-        "questLineName": "The Dawning", 
-        "abandonmentUnlockHash": 0, 
-        "setType": ""
-    }, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Quest Step", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": true, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        16
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "displaySource": "\"The joy of the Dawning is a reminder that we should never, ever lose hope.\" —Eva Levante", 
-    "value": {
-        "itemValue": [
-            {
-                "itemHash": 3136552544, 
-                "quantity": 1
-            }, 
-            {
-                "itemHash": 0, 
-                "quantity": 0
-            }, 
-            {
-                "itemHash": 0, 
-                "quantity": 0
-            }, 
-            {
-                "itemHash": 0, 
-                "quantity": 0
-            }, 
-            {
-                "itemHash": 0, 
-                "quantity": 0
-            }, 
-            {
-                "itemHash": 0, 
-                "quantity": 0
-            }
-        ], 
-        "valueDescription": ""
-    }, 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/000a658bf7431f902793ec40b7f29e23.jpg", 
-                    "/common/destiny2_content/icons/39fac8d6882827c3023a3a302dd16b8d.png", 
-                    "/common/destiny2_content/icons/8725b5a2d0ee0f7a7c17238b5a4db778.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/000a658bf7431f902793ec40b7f29e23.jpg", 
-        "hasIcon": true, 
-        "description": "The Dawning has returned to the Tower. Seek out Eva Levante in the Courtyard to join the festivities.\n\nAvailable only during the Dawning 2019.", 
-        "name": "The Dawning Begins"
-    }
+	"displayProperties": {
+		"description": "The Dawning has returned to the Tower. Seek out Eva Levante in the Courtyard to join the festivities.\n\nAvailable only during the Dawning 2019.",
+		"name": "The Dawning Begins",
+		"icon": "/common/destiny2_content/icons/000a658bf7431f902793ec40b7f29e23.jpg",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/000a658bf7431f902793ec40b7f29e23.jpg",
+					"/common/destiny2_content/icons/39fac8d6882827c3023a3a302dd16b8d.png",
+					"/common/destiny2_content/icons/8725b5a2d0ee0f7a7c17238b5a4db778.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Quest Step",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Quest Step",
+	"displaySource": "\"The joy of the Dawning is a reminder that we should never, ever lose hope.\" —Eva Levante",
+	"setData": {
+		"itemList": [
+			{
+				"trackingValue": 100,
+				"itemHash": 2457995100
+			},
+			{
+				"trackingValue": 200,
+				"itemHash": 613001527
+			},
+			{
+				"trackingValue": 300,
+				"itemHash": 2659620686
+			},
+			{
+				"trackingValue": 400,
+				"itemHash": 544905217
+			}
+		],
+		"trackingUnlockValueHash": 0,
+		"abandonmentUnlockHash": 0,
+		"requireOrderedSetItemAdd": true,
+		"setIsFeatured": true,
+		"setType": "",
+		"questLineName": "The Dawning"
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1801258597,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"value": {
+		"itemValue": [
+			{
+				"itemHash": 3136552544,
+				"quantity": 1
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			}
+		],
+		"valueDescription": ""
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": true,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		16
+	],
+	"specialItemType": 0,
+	"itemType": 12,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

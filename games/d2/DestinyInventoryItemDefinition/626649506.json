@@ -1,36 +1,115 @@
 {
-    "index": 3072, 
-    "allowActions": true, 
-    "itemType": 0, 
-    "equippable": true, 
-    "defaultDamageType": 0, 
-    "isWrapper": false, 
-    "classType": 0, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "blacklisted": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "specialItemType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": false, 
-        "bucketTypeHash": 4274335291, 
-        "tierTypeHash": 0, 
-        "recoveryBucketTypeHash": 215593132, 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 0
-    }, 
-    "nonTransferrable": true, 
-    "displayProperties": {
-        "icon": "/img/misc/missing_icon_d2.png", 
-        "hasIcon": false, 
-        "description": "Keep it secret.  Keep it safe.", 
-        "highResIcon": "/img/misc/missing_icon_d2.png", 
-        "name": "Classified"
-    }, 
-    "hash": 626649506, 
-    "redacted": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0
+	"displayProperties": {
+		"description": "",
+		"name": "Stream of Light",
+		"icon": "/common/destiny2_content/icons/f62a79177aeeecfa06665bfb9dcb3e97.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"collectibleHash": 1776643462,
+	"secondaryIcon": "/common/destiny2_content/icons/1f0eec836f4e0d1e34e2456fd0723288.jpg",
+	"secondaryOverlay": "/common/destiny2_content/icons/244e2d291fcad84f9b61aa1bbf158ba1.png",
+	"secondarySpecial": "/common/destiny2_content/icons/e6d3c027838682392ec39d83db4978ef.jpg",
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 23,
+		"green": 8,
+		"blue": 77,
+		"alpha": 255
+	},
+	"itemTypeDisplayName": "Emblem",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Emblem",
+	"displaySource": "",
+	"action": {
+		"verbName": "Store",
+		"verbDescription": "",
+		"isPositive": false,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"stackUniqueLabel": "v310.emblems.promo.twitch0",
+		"maxStackSize": 1,
+		"bucketTypeHash": 4274335291,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"stats": {
+		"disablePrimaryStatDisplay": false,
+		"stats": {},
+		"hasDisplayableStats": false,
+		"primaryBaseStatHash": 0
+	},
+	"equippingBlock": {
+		"uniqueLabelHash": 0,
+		"equipmentSlotTypeHash": 4274335291,
+		"attributes": 0,
+		"equippingSoundHash": 0,
+		"hornSoundHash": 0,
+		"ammoType": 0,
+		"displayStrings": []
+	},
+	"preview": {
+		"screenStyle": "screen_style_emblem",
+		"previewVendorHash": 0,
+		"previewActionString": ""
+	},
+	"metrics": {
+		"availableMetricCategoryNodeHashes": [
+			3844527950,
+			2875839731,
+			565440981,
+			4193411410,
+			2755216039,
+			2663569174
+		]
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"talentGrid": {
+		"talentGridHash": 521135891,
+		"itemDetailString": "Details",
+		"hudDamageType": 1
+	},
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		19,
+		52
+	],
+	"specialItemType": 0,
+	"itemType": 14,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": true,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"traitIds": [
+		"item_type.emblem"
+	],
+	"hash": 626649506,
+	"index": 3108,
+	"redacted": false,
+	"blacklisted": false
 }

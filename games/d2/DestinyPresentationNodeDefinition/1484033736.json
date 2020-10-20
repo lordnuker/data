@@ -1,39 +1,42 @@
 {
-    "index": 426, 
-    "traitHashes": [], 
-    "nodeType": 1, 
-    "blacklisted": false, 
-    "presentationNodeType": 1, 
-    "redacted": false, 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "objectiveHash": 2546790678, 
-    "parentNodeHashes": [
-        1557970698
-    ], 
-    "displayStyle": 0, 
-    "screenStyle": 0, 
-    "traitIds": [], 
-    "disableChildSubscreenNavigation": false, 
-    "displayProperties": {
-        "hasIcon": false, 
-        "description": "", 
-        "name": "Seasonal"
-    }, 
-    "scope": 1, 
-    "children": {
-        "metrics": [], 
-        "collectibles": [
-            {
-                "collectibleHash": 1261549905
-            }, 
-            {
-                "collectibleHash": 2986713884
-            }
-        ], 
-        "presentationNodes": [], 
-        "records": []
-    }, 
-    "hash": 1484033736
+	"displayProperties": {
+		"description": "",
+		"name": "Seasonal",
+		"hasIcon": false
+	},
+	"nodeType": 1,
+	"scope": 1,
+	"objectiveHash": 2546790678,
+	"children": {
+		"presentationNodes": [],
+		"collectibles": [
+			{
+				"collectibleHash": 1261549905
+			},
+			{
+				"collectibleHash": 2986713884
+			},
+			{
+				"collectibleHash": 587401868
+			}
+		],
+		"records": [],
+		"metrics": []
+	},
+	"displayStyle": 0,
+	"screenStyle": 0,
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"disableChildSubscreenNavigation": false,
+	"presentationNodeType": 1,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		1557970698
+	],
+	"hash": 1484033736,
+	"index": 456,
+	"redacted": false,
+	"blacklisted": false
 }

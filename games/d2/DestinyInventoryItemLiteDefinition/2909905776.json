@@ -1,93 +1,102 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Submachine Gun", 
-    "damageTypeHashes": [
-        3454344768
-    ], 
-    "secondaryOverlay": "/img/misc/missing_icon_d2.png", 
-    "tooltipNotifications": [], 
-    "defaultDamageTypeHash": 3454344768, 
-    "quality": {
-        "infusionCategoryHash": 2806069436, 
-        "infusionCategoryHashes": [
-            2806069436
-        ], 
-        "infusionCategoryName": "2806069436", 
-        "progressionLevelRequirementHash": 3157915980, 
-        "qualityLevel": 0, 
-        "itemLevels": []
-    }, 
-    "itemType": 3, 
-    "talentGrid": {
-        "talentGridHash": 521135891, 
-        "hudDamageType": 1, 
-        "itemDetailString": "Details"
-    }, 
-    "allowActions": true, 
-    "defaultDamageType": 4, 
-    "summaryItemHash": 3520001075, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 2465295065, 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "equippable": true, 
-    "itemTypeDisplayName": "Submachine Gun", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 24, 
-    "itemCategoryHashes": [
-        3, 
-        1, 
-        3954685534
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": false, 
-    "secondaryIcon": "/common/destiny2_content/icons/e9fcd73e969a9295c3ab4ee5743893c2.png", 
-    "equippingBlock": {
-        "displayStrings": [
-            "", 
-            "", 
-            ""
-        ], 
-        "equipmentSlotTypeHash": 2465295065, 
-        "ammoType": 1, 
-        "equippingSoundHash": 0, 
-        "hornSoundHash": 0, 
-        "attributes": 0, 
-        "uniqueLabelHash": 0
-    }, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "secondarySpecial": "/img/misc/missing_icon_d2.png", 
-    "collectibleHash": 2982198558, 
-    "displaySource": "", 
-    "damageTypes": [
-        4
-    ], 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/7a9d14e35c16d3b5c1fb78395b72adb5.jpg", 
-        "hasIcon": true, 
-        "description": "Forged in honor of Saladin, of all that has been lost and all  that remains.", 
-        "name": "The Hero's Burden"
-    }
+	"displayProperties": {
+		"description": "Forged in honor of Saladin, of all that has been lost and all  that remains.",
+		"name": "The Hero's Burden",
+		"icon": "/common/destiny2_content/icons/7a9d14e35c16d3b5c1fb78395b72adb5.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"collectibleHash": 2982198558,
+	"secondaryIcon": "/common/destiny2_content/icons/e9fcd73e969a9295c3ab4ee5743893c2.png",
+	"secondaryOverlay": "/img/misc/missing_icon_d2.png",
+	"secondarySpecial": "/img/misc/missing_icon_d2.png",
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Submachine Gun",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Submachine Gun",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 2465295065,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"equippingBlock": {
+		"uniqueLabelHash": 0,
+		"equipmentSlotTypeHash": 2465295065,
+		"attributes": 0,
+		"equippingSoundHash": 0,
+		"hornSoundHash": 0,
+		"ammoType": 1,
+		"displayStrings": [
+			"",
+			"",
+			""
+		]
+	},
+	"quality": {
+		"itemLevels": [],
+		"qualityLevel": 0,
+		"infusionCategoryName": "2806069436",
+		"infusionCategoryHash": 2806069436,
+		"infusionCategoryHashes": [
+			2806069436
+		],
+		"progressionLevelRequirementHash": 3157915980,
+		"currentVersion": 0,
+		"versions": [
+			{
+				"powerCapHash": 1862490583
+			}
+		],
+		"displayVersionWatermarkIcons": [
+			"/common/destiny2_content/icons/0dac2f181f0245cfc64494eccb7db9f7.png"
+		]
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"talentGrid": {
+		"talentGridHash": 521135891,
+		"itemDetailString": "Details",
+		"hudDamageType": 1
+	},
+	"perks": [],
+	"summaryItemHash": 3520001075,
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [
+		3,
+		1,
+		3954685534
+	],
+	"specialItemType": 0,
+	"itemType": 3,
+	"itemSubType": 24,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": true,
+	"damageTypeHashes": [
+		3454344768
+	],
+	"damageTypes": [
+		4
+	],
+	"defaultDamageType": 4,
+	"defaultDamageTypeHash": 3454344768,
+	"isWrapper": false
 }

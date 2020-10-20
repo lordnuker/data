@@ -1,45 +1,45 @@
 {
-    "repeatLastStep": true, 
-    "rewardItems": [], 
-    "progressToNextStepScaling": 0, 
-    "currentResetCountUnlockValueHash": 0, 
-    "blacklisted": false, 
-    "index": 56, 
-    "factionHash": 24856709, 
-    "redacted": false, 
-    "storageMappingIndex": 0, 
-    "visible": true, 
-    "steps": [
-        {
-            "displayEffectType": 0, 
-            "stepName": "", 
-            "progressTotal": 2000
-        }, 
-        {
-            "displayEffectType": 0, 
-            "stepName": "", 
-            "progressTotal": 2000
-        }, 
-        {
-            "displayEffectType": 0, 
-            "stepName": "", 
-            "progressTotal": 2000
-        }
-    ], 
-    "BungieNet.Engine.Contract.Destiny.World.Definitions.IDestinyDisplayDefinition.displayProperties": {
-        "icon": "/common/destiny2_content/icons/b8177e166f01c2cd914fc3e925ae902d.png", 
-        "hasIcon": true, 
-        "description": "Emperor Calus of the Cabal seeks champions.", 
-        "displayUnitsName": "Reputation", 
-        "name": "Leviathan"
-    }, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/b8177e166f01c2cd914fc3e925ae902d.png", 
-        "hasIcon": true, 
-        "description": "Emperor Calus of the Cabal seeks champions.", 
-        "displayUnitsName": "Reputation", 
-        "name": "Leviathan"
-    }, 
-    "scope": 1, 
-    "hash": 1482334108
+	"displayProperties": {
+		"displayUnitsName": "Reputation",
+		"description": "Emperor Calus of the Cabal seeks champions.",
+		"name": "Leviathan",
+		"icon": "/common/destiny2_content/icons/b8177e166f01c2cd914fc3e925ae902d.png",
+		"hasIcon": true
+	},
+	"BungieNet.Engine.Contract.Destiny.World.Definitions.IDestinyDisplayDefinition.displayProperties": {
+		"displayUnitsName": "Reputation",
+		"description": "Emperor Calus of the Cabal seeks champions.",
+		"name": "Leviathan",
+		"icon": "/common/destiny2_content/icons/b8177e166f01c2cd914fc3e925ae902d.png",
+		"hasIcon": true
+	},
+	"scope": 1,
+	"repeatLastStep": true,
+	"steps": [
+		{
+			"stepName": "",
+			"displayEffectType": 0,
+			"progressTotal": 2000
+		},
+		{
+			"stepName": "",
+			"displayEffectType": 0,
+			"progressTotal": 2000
+		},
+		{
+			"stepName": "",
+			"displayEffectType": 0,
+			"progressTotal": 2000
+		}
+	],
+	"visible": true,
+	"factionHash": 24856709,
+	"progressToNextStepScaling": 0,
+	"storageMappingIndex": 0,
+	"currentResetCountUnlockValueHash": 0,
+	"rewardItems": [],
+	"hash": 1482334108,
+	"index": 58,
+	"redacted": false,
+	"blacklisted": false
 }

@@ -1,132 +1,132 @@
 {
-    "repeatLastStep": false, 
-    "rewardItems": [], 
-    "progressToNextStepScaling": 0, 
-    "currentResetCountUnlockValueHash": 0, 
-    "blacklisted": false, 
-    "rankIcon": "/img/theme/destiny/icons/icon_rank_green.png", 
-    "color": {
-        "blue": 160, 
-        "alpha": 255, 
-        "green": 192, 
-        "red": 65
-    }, 
-    "index": 85, 
-    "redacted": false, 
-    "storageMappingIndex": 0, 
-    "visible": true, 
-    "steps": [
-        {
-            "displayEffectType": 0, 
-            "stepName": "Guardian I", 
-            "progressTotal": 250, 
-            "icon": "/common/destiny2_content/icons/a4b2789de63ea71cdfb81762b073fcd9.png"
-        }, 
-        {
-            "displayEffectType": 0, 
-            "stepName": "Guardian II", 
-            "progressTotal": 350, 
-            "icon": "/common/destiny2_content/icons/dcf2ce89169b15d63c88afe3e564f9ab.png"
-        }, 
-        {
-            "displayEffectType": 0, 
-            "stepName": "Guardian III", 
-            "progressTotal": 400, 
-            "icon": "/common/destiny2_content/icons/5fdd1bd496c6b8ec25dda3f5786ade6a.png"
-        }, 
-        {
-            "displayEffectType": 0, 
-            "stepName": "Brave I", 
-            "progressTotal": 450, 
-            "icon": "/common/destiny2_content/icons/6553afc58dc549376f9ec448bc8241b5.png"
-        }, 
-        {
-            "displayEffectType": 0, 
-            "stepName": "Brave II", 
-            "progressTotal": 500, 
-            "icon": "/common/destiny2_content/icons/3e7c579f746b718f68e67c6c17e94793.png"
-        }, 
-        {
-            "displayEffectType": 0, 
-            "stepName": "Brave III", 
-            "progressTotal": 550, 
-            "icon": "/common/destiny2_content/icons/a54c2bfce51c934a5e35d87ba42c1c60.png"
-        }, 
-        {
-            "displayEffectType": 0, 
-            "stepName": "Heroic I", 
-            "progressTotal": 600, 
-            "icon": "/common/destiny2_content/icons/57e39680b2531e47cac3678274550fc3.png"
-        }, 
-        {
-            "displayEffectType": 0, 
-            "stepName": "Heroic II", 
-            "progressTotal": 650, 
-            "icon": "/common/destiny2_content/icons/07f6509baf179c368fa5971d932cbafa.png"
-        }, 
-        {
-            "displayEffectType": 0, 
-            "stepName": "Heroic III", 
-            "progressTotal": 750, 
-            "icon": "/common/destiny2_content/icons/8c1badc237df7ed15ad768b689784ae7.png"
-        }, 
-        {
-            "displayEffectType": 0, 
-            "stepName": "Fabled I", 
-            "progressTotal": 850, 
-            "icon": "/common/destiny2_content/icons/6187e890bfc081662a4bd1900792d50d.png"
-        }, 
-        {
-            "displayEffectType": 0, 
-            "stepName": "Fabled II", 
-            "progressTotal": 1000, 
-            "icon": "/common/destiny2_content/icons/cd9a6fbc717c5cfdb52b95ba83e662ee.png"
-        }, 
-        {
-            "displayEffectType": 0, 
-            "stepName": "Fabled III", 
-            "progressTotal": 1150, 
-            "icon": "/common/destiny2_content/icons/a4f4c8904093ecf37a79120c32d06f39.png"
-        }, 
-        {
-            "displayEffectType": 0, 
-            "stepName": "Mythic I", 
-            "progressTotal": 1300, 
-            "icon": "/common/destiny2_content/icons/5960c8d3b43ae9f778d45095676506e5.png"
-        }, 
-        {
-            "displayEffectType": 0, 
-            "stepName": "Mythic II", 
-            "progressTotal": 1500, 
-            "icon": "/common/destiny2_content/icons/c6d2bfd3265c823e3ad7dd638bcd9946.png"
-        }, 
-        {
-            "displayEffectType": 0, 
-            "stepName": "Mythic III", 
-            "progressTotal": 1700, 
-            "icon": "/common/destiny2_content/icons/e5e4baaf5109e2d0852f23ed5be42f48.png"
-        }, 
-        {
-            "displayEffectType": 0, 
-            "stepName": "Legend", 
-            "progressTotal": 3000, 
-            "icon": "/common/destiny2_content/icons/ca325cfd9a3ef802f7d6599fa2ee6138.png"
-        }
-    ], 
-    "BungieNet.Engine.Contract.Destiny.World.Definitions.IDestinyDisplayDefinition.displayProperties": {
-        "icon": "/common/destiny2_content/icons/bcbc0ca71df2379ce17c089dcc6c6106.png", 
-        "hasIcon": true, 
-        "description": "\"I don't care if you win or lose. I just want you to get paid. Heh.\" —The Drifter \n\nWin Gambit matches to gain Infamy. Multiple wins in a row help you rank up faster.", 
-        "displayUnitsName": "Infamy Rank Points", 
-        "name": "Infamy Rank"
-    }, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/bcbc0ca71df2379ce17c089dcc6c6106.png", 
-        "hasIcon": true, 
-        "description": "\"I don't care if you win or lose. I just want you to get paid. Heh.\" —The Drifter \n\nWin Gambit matches to gain Infamy. Multiple wins in a row help you rank up faster.", 
-        "displayUnitsName": "Infamy Rank Points", 
-        "name": "Infamy Rank"
-    }, 
-    "scope": 0, 
-    "hash": 2772425241
+	"displayProperties": {
+		"displayUnitsName": "Infamy Rank Points",
+		"description": "\"I don't care if you win or lose. I just want you to get paid. Heh.\" —The Drifter \n\nWin Gambit matches to gain Infamy. Multiple wins in a row help you rank up faster.",
+		"name": "Infamy Rank",
+		"icon": "/common/destiny2_content/icons/bcbc0ca71df2379ce17c089dcc6c6106.png",
+		"hasIcon": true
+	},
+	"BungieNet.Engine.Contract.Destiny.World.Definitions.IDestinyDisplayDefinition.displayProperties": {
+		"displayUnitsName": "Infamy Rank Points",
+		"description": "\"I don't care if you win or lose. I just want you to get paid. Heh.\" —The Drifter \n\nWin Gambit matches to gain Infamy. Multiple wins in a row help you rank up faster.",
+		"name": "Infamy Rank",
+		"icon": "/common/destiny2_content/icons/bcbc0ca71df2379ce17c089dcc6c6106.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"repeatLastStep": false,
+	"steps": [
+		{
+			"stepName": "Guardian I",
+			"displayEffectType": 0,
+			"progressTotal": 250,
+			"icon": "/common/destiny2_content/icons/a4b2789de63ea71cdfb81762b073fcd9.png"
+		},
+		{
+			"stepName": "Guardian II",
+			"displayEffectType": 0,
+			"progressTotal": 350,
+			"icon": "/common/destiny2_content/icons/dcf2ce89169b15d63c88afe3e564f9ab.png"
+		},
+		{
+			"stepName": "Guardian III",
+			"displayEffectType": 0,
+			"progressTotal": 400,
+			"icon": "/common/destiny2_content/icons/5fdd1bd496c6b8ec25dda3f5786ade6a.png"
+		},
+		{
+			"stepName": "Brave I",
+			"displayEffectType": 0,
+			"progressTotal": 450,
+			"icon": "/common/destiny2_content/icons/6553afc58dc549376f9ec448bc8241b5.png"
+		},
+		{
+			"stepName": "Brave II",
+			"displayEffectType": 0,
+			"progressTotal": 500,
+			"icon": "/common/destiny2_content/icons/3e7c579f746b718f68e67c6c17e94793.png"
+		},
+		{
+			"stepName": "Brave III",
+			"displayEffectType": 0,
+			"progressTotal": 550,
+			"icon": "/common/destiny2_content/icons/a54c2bfce51c934a5e35d87ba42c1c60.png"
+		},
+		{
+			"stepName": "Heroic I",
+			"displayEffectType": 0,
+			"progressTotal": 600,
+			"icon": "/common/destiny2_content/icons/57e39680b2531e47cac3678274550fc3.png"
+		},
+		{
+			"stepName": "Heroic II",
+			"displayEffectType": 0,
+			"progressTotal": 650,
+			"icon": "/common/destiny2_content/icons/07f6509baf179c368fa5971d932cbafa.png"
+		},
+		{
+			"stepName": "Heroic III",
+			"displayEffectType": 0,
+			"progressTotal": 750,
+			"icon": "/common/destiny2_content/icons/8c1badc237df7ed15ad768b689784ae7.png"
+		},
+		{
+			"stepName": "Fabled I",
+			"displayEffectType": 0,
+			"progressTotal": 850,
+			"icon": "/common/destiny2_content/icons/6187e890bfc081662a4bd1900792d50d.png"
+		},
+		{
+			"stepName": "Fabled II",
+			"displayEffectType": 0,
+			"progressTotal": 1000,
+			"icon": "/common/destiny2_content/icons/cd9a6fbc717c5cfdb52b95ba83e662ee.png"
+		},
+		{
+			"stepName": "Fabled III",
+			"displayEffectType": 0,
+			"progressTotal": 1150,
+			"icon": "/common/destiny2_content/icons/a4f4c8904093ecf37a79120c32d06f39.png"
+		},
+		{
+			"stepName": "Mythic I",
+			"displayEffectType": 0,
+			"progressTotal": 1300,
+			"icon": "/common/destiny2_content/icons/5960c8d3b43ae9f778d45095676506e5.png"
+		},
+		{
+			"stepName": "Mythic II",
+			"displayEffectType": 0,
+			"progressTotal": 1500,
+			"icon": "/common/destiny2_content/icons/c6d2bfd3265c823e3ad7dd638bcd9946.png"
+		},
+		{
+			"stepName": "Mythic III",
+			"displayEffectType": 0,
+			"progressTotal": 1700,
+			"icon": "/common/destiny2_content/icons/e5e4baaf5109e2d0852f23ed5be42f48.png"
+		},
+		{
+			"stepName": "Legend",
+			"displayEffectType": 0,
+			"progressTotal": 3000,
+			"icon": "/common/destiny2_content/icons/ca325cfd9a3ef802f7d6599fa2ee6138.png"
+		}
+	],
+	"visible": true,
+	"progressToNextStepScaling": 0,
+	"storageMappingIndex": 0,
+	"color": {
+		"red": 65,
+		"green": 192,
+		"blue": 160,
+		"alpha": 255
+	},
+	"rankIcon": "/img/theme/destiny/icons/icon_rank_green.png",
+	"currentResetCountUnlockValueHash": 0,
+	"rewardItems": [],
+	"hash": 2772425241,
+	"index": 86,
+	"redacted": false,
+	"blacklisted": false
 }

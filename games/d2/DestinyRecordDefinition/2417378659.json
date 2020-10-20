@@ -1,53 +1,53 @@
 {
-    "index": 1007, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        4007019160, 
-        4007019161, 
-        4007019162, 
-        4007019163
-    ], 
-    "parentNodeHashes": [
-        845187784
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 50, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/af30d04d96057d14a6dd54f74b98fcf1.png", 
-        "hasIcon": true, 
-        "description": "In Supremacy: Win matches, create crests with final blows, secure opposing crests, and recover your teammates' crests.", 
-        "name": "Supremacy"
-    }, 
-    "scope": 0, 
-    "hash": 2417378659
+	"displayProperties": {
+		"description": "In Supremacy: Win matches, create crests with final blows, secure opposing crests, and recover your teammates' crests.",
+		"name": "Supremacy",
+		"icon": "/common/destiny2_content/icons/af30d04d96057d14a6dd54f74b98fcf1.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		4007019160,
+		4007019161,
+		4007019162,
+		4007019163
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 50,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		845187784
+	],
+	"hash": 2417378659,
+	"index": 1019,
+	"redacted": false,
+	"blacklisted": false
 }

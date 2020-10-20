@@ -1,51 +1,51 @@
 {
-    "index": 986, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        299893109, 
-        299893108
-    ], 
-    "parentNodeHashes": [
-        164629583
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 50, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/2565ae54801563abfefd78f8c2dd6463.png", 
-        "hasIcon": true, 
-        "description": "Defeat opponents with any Sidearm. Earn the medal \"One for Each of You.\"", 
-        "name": "Sidearm Mastery"
-    }, 
-    "scope": 0, 
-    "hash": 3949040536
+	"displayProperties": {
+		"description": "Defeat opponents with any Sidearm. Earn the medal \"One for Each of You.\"",
+		"name": "Sidearm Mastery",
+		"icon": "/common/destiny2_content/icons/2565ae54801563abfefd78f8c2dd6463.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		299893109,
+		299893108
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 50,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		164629583
+	],
+	"hash": 3949040536,
+	"index": 998,
+	"redacted": false,
+	"blacklisted": false
 }

@@ -1,61 +1,61 @@
 {
-    "index": 423, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [
-            {
-                "intervalScoreValue": 100, 
-                "intervalObjectiveHash": 618911934
-            }, 
-            {
-                "intervalScoreValue": 100, 
-                "intervalObjectiveHash": 618911932
-            }, 
-            {
-                "intervalScoreValue": 100, 
-                "intervalObjectiveHash": 618911933
-            }
-        ], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [], 
-    "parentNodeHashes": [
-        555927954
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/08abe62a2664be8c3239e23a80dfea9d.png", 
-        "hasIcon": true, 
-        "description": "As a Voidwalker running Attunement of Chaos, get 3 kills with a single Nova Bomb.", 
-        "name": "Black Holes in the Sky"
-    }, 
-    "scope": 0, 
-    "hash": 1141543029
+	"displayProperties": {
+		"description": "As a Voidwalker running Attunement of Chaos, get 3 kills with a single Nova Bomb.",
+		"name": "Black Holes in the Sky",
+		"icon": "/common/destiny2_content/icons/08abe62a2664be8c3239e23a80dfea9d.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [
+			{
+				"intervalObjectiveHash": 618911934,
+				"intervalScoreValue": 100
+			},
+			{
+				"intervalObjectiveHash": 618911932,
+				"intervalScoreValue": 100
+			},
+			{
+				"intervalObjectiveHash": 618911933,
+				"intervalScoreValue": 100
+			}
+		],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		555927954
+	],
+	"hash": 1141543029,
+	"index": 434,
+	"redacted": false,
+	"blacklisted": false
 }

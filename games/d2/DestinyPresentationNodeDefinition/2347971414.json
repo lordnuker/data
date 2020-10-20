@@ -1,37 +1,37 @@
 {
-    "index": 663, 
-    "traitHashes": [], 
-    "nodeType": 1, 
-    "blacklisted": false, 
-    "presentationNodeType": 1, 
-    "redacted": false, 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "objectiveHash": 3617290604, 
-    "parentNodeHashes": [], 
-    "displayStyle": 0, 
-    "screenStyle": 0, 
-    "traitIds": [], 
-    "disableChildSubscreenNavigation": false, 
-    "displayProperties": {
-        "hasIcon": false, 
-        "description": "Triumphs awarded for achievement while playing as a Titan.", 
-        "name": "Class: Titan"
-    }, 
-    "scope": 0, 
-    "children": {
-        "metrics": [], 
-        "collectibles": [], 
-        "presentationNodes": [], 
-        "records": [
-            {
-                "recordHash": 1518515265
-            }, 
-            {
-                "recordHash": 1790031820
-            }
-        ]
-    }, 
-    "hash": 2347971414
+	"displayProperties": {
+		"description": "Triumphs awarded for achievement while playing as a Titan.",
+		"name": "Class: Titan",
+		"hasIcon": false
+	},
+	"nodeType": 1,
+	"scope": 0,
+	"objectiveHash": 3617290604,
+	"children": {
+		"presentationNodes": [],
+		"collectibles": [],
+		"records": [
+			{
+				"recordHash": 1518515265
+			},
+			{
+				"recordHash": 1790031820
+			}
+		],
+		"metrics": []
+	},
+	"displayStyle": 0,
+	"screenStyle": 0,
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"disableChildSubscreenNavigation": false,
+	"presentationNodeType": 1,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [],
+	"hash": 2347971414,
+	"index": 741,
+	"redacted": false,
+	"blacklisted": false
 }

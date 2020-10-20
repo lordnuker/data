@@ -1,65 +1,65 @@
 {
-    "index": 1257, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 2, 
-        "intervalObjectives": [
-            {
-                "intervalScoreValue": 25, 
-                "intervalObjectiveHash": 1602790052
-            }, 
-            {
-                "intervalScoreValue": 50, 
-                "intervalObjectiveHash": 1602790054
-            }, 
-            {
-                "intervalScoreValue": 75, 
-                "intervalObjectiveHash": 1602790055
-            }, 
-            {
-                "intervalScoreValue": 75, 
-                "intervalObjectiveHash": 1602790048
-            }
-        ], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [], 
-    "parentNodeHashes": [
-        1256609117
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/0f13fc2a7eb07c0b7cac49a4265981a3.png", 
-        "hasIcon": true, 
-        "description": "Complete bounties from Zavala.", 
-        "name": "Vanguard Agent"
-    }, 
-    "scope": 0, 
-    "hash": 2929326295
+	"displayProperties": {
+		"description": "Complete bounties from Zavala.",
+		"name": "Vanguard Agent",
+		"icon": "/common/destiny2_content/icons/0f13fc2a7eb07c0b7cac49a4265981a3.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [
+			{
+				"intervalObjectiveHash": 1602790052,
+				"intervalScoreValue": 25
+			},
+			{
+				"intervalObjectiveHash": 1602790054,
+				"intervalScoreValue": 50
+			},
+			{
+				"intervalObjectiveHash": 1602790055,
+				"intervalScoreValue": 75
+			},
+			{
+				"intervalObjectiveHash": 1602790048,
+				"intervalScoreValue": 75
+			}
+		],
+		"originalObjectiveArrayInsertionIndex": 2,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		1256609117
+	],
+	"hash": 2929326295,
+	"index": 1269,
+	"redacted": false,
+	"blacklisted": false
 }

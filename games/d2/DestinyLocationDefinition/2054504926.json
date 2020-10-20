@@ -1,43 +1,43 @@
 {
-    "index": 443, 
-    "hash": 2054504926, 
-    "blacklisted": false, 
-    "redacted": false, 
-    "vendorHash": 0, 
-    "locationReleases": [
-        {
-            "worldPosition": [
-                -43, 
-                -23, 
-                -58, 
-                0
-            ], 
-            "smallTransparentIcon": "/common/destiny2_content/icons/25aec8dccdbb2d2c30f28b6a84460bb4.png", 
-            "mapIcon": "/common/destiny2_content/icons/f3b49f9a7b45368f20d2790d831d8b84.png", 
-            "spawnPoint": 0, 
-            "activityPathBundle": 2236440429, 
-            "activityBubbleName": 286194652, 
-            "destinationHash": 290444260, 
-            "activityGraphNodeHash": 0, 
-            "activityPathDestination": 677774031, 
-            "activityGraphHash": 2831782236, 
-            "displayProperties": {
-                "iconSequences": [
-                    {
-                        "frames": [
-                            "/common/destiny2_content/icons/25aec8dccdbb2d2c30f28b6a84460bb4.png", 
-                            "/common/destiny2_content/icons/f3b49f9a7b45368f20d2790d831d8b84.png"
-                        ]
-                    }
-                ], 
-                "icon": "/common/destiny2_content/icons/25aec8dccdbb2d2c30f28b6a84460bb4.png", 
-                "hasIcon": true, 
-                "description": "Steal the wicked power of the Hive's Deathsong. Rewrite and bind its melody until its siren's call is yours to command.", 
-                "name": "Symphony of Death"
-            }, 
-            "largeTransparentIcon": "/img/misc/missing_icon_d2.png", 
-            "navPointType": 0, 
-            "activityHash": 1396849690
-        }
-    ]
+	"vendorHash": 0,
+	"locationReleases": [
+		{
+			"displayProperties": {
+				"description": "Steal the wicked power of the Hive's Deathsong. Rewrite and bind its melody until its siren's call is yours to command.",
+				"name": "Symphony of Death",
+				"icon": "/common/destiny2_content/icons/25aec8dccdbb2d2c30f28b6a84460bb4.png",
+				"iconSequences": [
+					{
+						"frames": [
+							"/common/destiny2_content/icons/25aec8dccdbb2d2c30f28b6a84460bb4.png",
+							"/common/destiny2_content/icons/f3b49f9a7b45368f20d2790d831d8b84.png"
+						]
+					}
+				],
+				"hasIcon": true
+			},
+			"smallTransparentIcon": "/common/destiny2_content/icons/25aec8dccdbb2d2c30f28b6a84460bb4.png",
+			"mapIcon": "/common/destiny2_content/icons/f3b49f9a7b45368f20d2790d831d8b84.png",
+			"largeTransparentIcon": "/img/misc/missing_icon_d2.png",
+			"spawnPoint": 0,
+			"destinationHash": 290444260,
+			"activityHash": 1396849690,
+			"activityGraphHash": 2831782236,
+			"activityGraphNodeHash": 0,
+			"activityBubbleName": 286194652,
+			"activityPathBundle": 2236440429,
+			"activityPathDestination": 677774031,
+			"navPointType": 0,
+			"worldPosition": [
+				-43,
+				-23,
+				-58,
+				0
+			]
+		}
+	],
+	"hash": 2054504926,
+	"index": 443,
+	"redacted": false,
+	"blacklisted": false
 }

@@ -1,100 +1,100 @@
 {
-    "itemTypeAndTierDisplayName": "Common Chalice Improvements", 
-    "itemType": 0, 
-    "investmentStats": [], 
-    "redacted": false, 
-    "tooltipNotifications": [], 
-    "index": 7970, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Common", 
-        "bucketTypeHash": 1469714392, 
-        "tierTypeHash": 3340296461, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 2, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "hash": 328804976, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Chalice Improvements", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": false, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "plug": {
-        "insertionMaterialRequirementHash": 684310682, 
-        "actionRewardSiteHash": 0, 
-        "enabledMaterialRequirementHash": 0, 
-        "previewItemOverrideHash": 0, 
-        "insertionRules": [
-            {
-                "failureMessage": "Requires \"Rune Bonus I\""
-            }, 
-            {
-                "failureMessage": ""
-            }, 
-            {
-                "failureMessage": "Requires Quest Progress"
-            }
-        ], 
-        "enabledRules": [], 
-        "plugCategoryHash": 2419970938, 
-        "plugCategoryIdentifier": "penumbra.chalice.upgrades.efficiency", 
-        "onActionRecreateSelf": false, 
-        "plugStyle": 0, 
-        "isDummyPlug": false, 
-        "actionRewardItemOverrideHash": 0, 
-        "uiPlugLabel": "", 
-        "alternatePlugStyle": 0, 
-        "alternateUiPlugLabel": "", 
-        "plugAvailability": 0
-    }, 
-    "blacklisted": false, 
-    "displaySource": "", 
-    "perks": [
-        {
-            "requirementDisplayString": "", 
-            "perkHash": 318003671, 
-            "perkVisibility": 0
-        }
-    ], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/d231b2a103fa4cf83562f8cf966260cd.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/a352fa6fd39da700ba8595a8e9d4fae4.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/d231b2a103fa4cf83562f8cf966260cd.png", 
-        "hasIcon": true, 
-        "description": "One actively slotted rune is refunded upon looting the final chest in the Menagerie.", 
-        "name": "Rune Bonus II"
-    }
+	"displayProperties": {
+		"description": "One actively slotted rune is refunded upon looting the final chest in the Menagerie.",
+		"name": "Rune Bonus II",
+		"icon": "/common/destiny2_content/icons/d231b2a103fa4cf83562f8cf966260cd.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/d231b2a103fa4cf83562f8cf966260cd.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/a352fa6fd39da700ba8595a8e9d4fae4.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Chalice Improvements",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Common Chalice Improvements",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1469714392,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 3340296461,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Common",
+		"tierType": 2,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"plug": {
+		"insertionRules": [
+			{
+				"failureMessage": "Requires \"Rune Bonus I\""
+			},
+			{
+				"failureMessage": ""
+			},
+			{
+				"failureMessage": "Requires Quest Progress"
+			}
+		],
+		"plugCategoryIdentifier": "penumbra.chalice.upgrades.efficiency",
+		"plugCategoryHash": 2419970938,
+		"onActionRecreateSelf": false,
+		"actionRewardSiteHash": 0,
+		"actionRewardItemOverrideHash": 0,
+		"insertionMaterialRequirementHash": 684310682,
+		"previewItemOverrideHash": 0,
+		"enabledMaterialRequirementHash": 0,
+		"enabledRules": [],
+		"uiPlugLabel": "",
+		"plugStyle": 0,
+		"plugAvailability": 0,
+		"alternateUiPlugLabel": "",
+		"alternatePlugStyle": 0,
+		"isDummyPlug": false
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [
+		{
+			"requirementDisplayString": "",
+			"perkHash": 318003671,
+			"perkVisibility": 0
+		}
+	],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [],
+	"specialItemType": 0,
+	"itemType": 0,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"hash": 328804976,
+	"index": 8006,
+	"redacted": false,
+	"blacklisted": false
 }

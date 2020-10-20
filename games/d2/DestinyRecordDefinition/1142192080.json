@@ -1,62 +1,62 @@
 {
-    "index": 1586, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        3063104509
-    ], 
-    "parentNodeHashes": [
-        139066480
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 150, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/cea968a40ffb450d042a4f56751aec00.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/83a36da5831d255bafe974ceb6a0c132.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/cea968a40ffb450d042a4f56751aec00.png", 
-        "hasIcon": true, 
-        "description": "Unlock all pages in \"Ecdysis\" to complete this Triumph.", 
-        "name": "Ecdysis"
-    }, 
-    "scope": 0, 
-    "hash": 1142192080
+	"displayProperties": {
+		"description": "Unlock all pages in \"Ecdysis\" to complete this Triumph.",
+		"name": "Ecdysis",
+		"icon": "/common/destiny2_content/icons/cea968a40ffb450d042a4f56751aec00.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/cea968a40ffb450d042a4f56751aec00.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/83a36da5831d255bafe974ceb6a0c132.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		3063104509
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 150,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		139066480
+	],
+	"hash": 1142192080,
+	"index": 1598,
+	"redacted": false,
+	"blacklisted": false
 }

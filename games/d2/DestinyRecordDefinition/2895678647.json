@@ -1,61 +1,61 @@
 {
-    "index": 406, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 1, 
-        "intervalObjectives": [
-            {
-                "intervalScoreValue": 40, 
-                "intervalObjectiveHash": 4270054788
-            }, 
-            {
-                "intervalScoreValue": 60, 
-                "intervalObjectiveHash": 4270054790
-            }, 
-            {
-                "intervalScoreValue": 60, 
-                "intervalObjectiveHash": 4270054791
-            }
-        ], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [], 
-    "parentNodeHashes": [
-        2623445341
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/bfe570eef316e3893589a152af716479.png", 
-        "hasIcon": true, 
-        "description": "As a Gunslinger running Way of the Outlaw, get 6 golden gun kills with a single Super.", 
-        "name": "Six for Six"
-    }, 
-    "scope": 0, 
-    "hash": 2895678647
+	"displayProperties": {
+		"description": "As a Gunslinger running Way of the Outlaw, get 6 golden gun kills with a single Super.",
+		"name": "Six for Six",
+		"icon": "/common/destiny2_content/icons/bfe570eef316e3893589a152af716479.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [
+			{
+				"intervalObjectiveHash": 4270054788,
+				"intervalScoreValue": 40
+			},
+			{
+				"intervalObjectiveHash": 4270054790,
+				"intervalScoreValue": 60
+			},
+			{
+				"intervalObjectiveHash": 4270054791,
+				"intervalScoreValue": 60
+			}
+		],
+		"originalObjectiveArrayInsertionIndex": 1,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		2623445341
+	],
+	"hash": 2895678647,
+	"index": 417,
+	"redacted": false,
+	"blacklisted": false
 }

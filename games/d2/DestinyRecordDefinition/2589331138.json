@@ -1,51 +1,51 @@
 {
-    "index": 1924, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 98000, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        462720155
-    ], 
-    "parentNodeHashes": [
-        3303651244, 
-        2802172173
-    ], 
-    "expirationInfo": {
-        "hasExpiration": true, 
-        "description": "Available only during Season of the Undying."
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 50, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/7646b5dcc5531a9f2d9695a5ef9754d1.png", 
-        "hasIcon": true, 
-        "description": "In the Vex Offensive, defeat the Undying Mind.", 
-        "name": "Final Assault"
-    }, 
-    "scope": 0, 
-    "hash": 2589331138
+	"displayProperties": {
+		"description": "In the Vex Offensive, defeat the Undying Mind.",
+		"name": "Final Assault",
+		"icon": "/common/destiny2_content/icons/7646b5dcc5531a9f2d9695a5ef9754d1.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		462720155
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 50,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 98000,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": true,
+		"description": "Available only during Season of the Undying."
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		3303651244,
+		2802172173
+	],
+	"hash": 2589331138,
+	"index": 1936,
+	"redacted": false,
+	"blacklisted": false
 }

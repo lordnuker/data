@@ -1,70 +1,70 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Nightfall Modifier", 
-    "itemType": 19, 
-    "tooltipNotifications": [], 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 3313201758, 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 178, 
-        "green": 178, 
-        "colorHash": 0, 
-        "red": 178, 
-        "alpha": 255
-    }, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Nightfall Modifier", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        59, 
-        3448069192
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "displaySource": "", 
-    "perks": [
-        {
-            "requirementDisplayString": "", 
-            "perkHash": 1765081052, 
-            "perkVisibility": 0
-        }
-    ], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/aec7754d26d845bcede3a153341ca8b3.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/4011e75c0847841405fbf63a1c2a252a.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/aec7754d26d845bcede3a153341ca8b3.png", 
-        "hasIcon": true, 
-        "description": "", 
-        "name": "Grenadier"
-    }
+	"displayProperties": {
+		"description": "",
+		"name": "Grenadier",
+		"icon": "/common/destiny2_content/icons/aec7754d26d845bcede3a153341ca8b3.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/aec7754d26d845bcede3a153341ca8b3.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/4011e75c0847841405fbf63a1c2a252a.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 178,
+		"green": 178,
+		"blue": 178,
+		"alpha": 255
+	},
+	"itemTypeDisplayName": "Nightfall Modifier",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Nightfall Modifier",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 3313201758,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [
+		{
+			"requirementDisplayString": "",
+			"perkHash": 1765081052,
+			"perkVisibility": 0
+		}
+	],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		59,
+		3448069192
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

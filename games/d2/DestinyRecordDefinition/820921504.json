@@ -1,50 +1,50 @@
 {
-    "index": 1623, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        3995228749
-    ], 
-    "parentNodeHashes": [
-        3658766455
-    ], 
-    "expirationInfo": {
-        "hasExpiration": true, 
-        "description": "Available only during the 2019 Revelry."
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/82c0529677e012c08eb9437238ffd865.png", 
-        "hasIcon": true, 
-        "description": "Complete daily and weekly bounties for Eva Levante during the Guardian Games.", 
-        "name": "A Bountiful Spring"
-    }, 
-    "scope": 0, 
-    "hash": 820921504
+	"displayProperties": {
+		"description": "Complete daily and weekly bounties for Eva Levante during the Revelry.",
+		"name": "A Bountiful Spring",
+		"icon": "/common/destiny2_content/icons/82c0529677e012c08eb9437238ffd865.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		3995228749
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": true,
+		"description": "Available only during the 2019 Revelry."
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		3658766455
+	],
+	"hash": 820921504,
+	"index": 1635,
+	"redacted": false,
+	"blacklisted": false
 }

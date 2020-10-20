@@ -1,53 +1,54 @@
 {
-    "index": 1758, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 90001, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        952172223, 
-        952172222, 
-        952172221, 
-        952172220
-    ], 
-    "parentNodeHashes": [
-        4017869588
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 100, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/6a2761d2475623125d896d1a424a91f9.png", 
-        "hasIcon": true, 
-        "description": "Complete and loot all of the Moon's Lost Sectors.", 
-        "name": "K1 Discovered"
-    }, 
-    "scope": 0, 
-    "hash": 1974332638
+	"displayProperties": {
+		"description": "Complete and loot all of the Moon's Lost Sectors.",
+		"name": "K1 Discovered",
+		"icon": "/common/destiny2_content/icons/6a2761d2475623125d896d1a424a91f9.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		952172223,
+		952172222,
+		952172221,
+		952172220
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 100,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 90001,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		952001576,
+		4017869588
+	],
+	"hash": 1974332638,
+	"index": 1770,
+	"redacted": false,
+	"blacklisted": false
 }

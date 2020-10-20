@@ -1,61 +1,61 @@
 {
-    "index": 1377, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [
-            {
-                "intervalScoreValue": 50, 
-                "intervalObjectiveHash": 345435383
-            }, 
-            {
-                "intervalScoreValue": 50, 
-                "intervalObjectiveHash": 345435382
-            }, 
-            {
-                "intervalScoreValue": 100, 
-                "intervalObjectiveHash": 345435381
-            }
-        ], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [], 
-    "parentNodeHashes": [
-        656562339
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/48dda413d9f412ca2b10fd56a35a2665.png", 
-        "hasIcon": true, 
-        "description": "Defeat Champions in Nightfall: The Ordeal.", 
-        "name": "Breaker of Champions"
-    }, 
-    "scope": 0, 
-    "hash": 1464434566
+	"displayProperties": {
+		"description": "Defeat Champions in Nightfall: The Ordeal.",
+		"name": "Breaker of Champions",
+		"icon": "/common/destiny2_content/icons/48dda413d9f412ca2b10fd56a35a2665.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [
+			{
+				"intervalObjectiveHash": 345435383,
+				"intervalScoreValue": 50
+			},
+			{
+				"intervalObjectiveHash": 345435382,
+				"intervalScoreValue": 50
+			},
+			{
+				"intervalObjectiveHash": 345435381,
+				"intervalScoreValue": 100
+			}
+		],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		656562339
+	],
+	"hash": 1464434566,
+	"index": 1389,
+	"redacted": false,
+	"blacklisted": false
 }

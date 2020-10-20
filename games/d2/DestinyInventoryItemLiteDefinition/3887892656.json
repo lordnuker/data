@@ -1,90 +1,82 @@
 {
-    "itemTypeAndTierDisplayName": "Common Warlock Subclass", 
-    "nonTransferrable": true, 
-    "tooltipNotifications": [], 
-    "quality": {
-        "infusionCategoryHash": 0, 
-        "infusionCategoryHashes": [], 
-        "infusionCategoryName": "0", 
-        "progressionLevelRequirementHash": 0, 
-        "qualityLevel": 0, 
-        "itemLevels": []
-    }, 
-    "itemType": 16, 
-    "talentGrid": {
-        "talentGridHash": 3774745298, 
-        "buildName": "void_warlock", 
-        "hudIcon": "a_nova_bomb", 
-        "itemDetailString": "Details", 
-        "hudDamageType": 4
-    }, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Common", 
-        "bucketTypeHash": 3284755031, 
-        "stackUniqueLabel": "v300.builds.warlock.void0", 
-        "tierTypeHash": 3340296461, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 2, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "loreHash": 3887892656, 
-    "equippable": true, 
-    "itemTypeDisplayName": "Warlock Subclass", 
-    "isWrapper": false, 
-    "classType": 2, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        21, 
-        50, 
-        52
-    ], 
-    "uiItemDisplayStyle": "ui_display_style_engram", 
-    "secondaryOverlay": "/img/misc/missing_icon_d2.png", 
-    "secondaryIcon": "/common/destiny2_content/icons/44e7ae6bd0fe6310576671e5497734aa.png", 
-    "equippingBlock": {
-        "displayStrings": [
-            ""
-        ], 
-        "equipmentSlotTypeHash": 3284755031, 
-        "ammoType": 0, 
-        "equippingSoundHash": 0, 
-        "hornSoundHash": 0, 
-        "attributes": 1, 
-        "uniqueLabelHash": 0
-    }, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "secondarySpecial": "/img/misc/missing_icon_d2.png", 
-    "displaySource": "", 
-    "perks": [
-        {
-            "requirementDisplayString": "", 
-            "perkHash": 3413782391, 
-            "perkVisibility": 0
-        }
-    ], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/e2ea0a55f931666f1569704d116982b0.png", 
-        "hasIcon": true, 
-        "description": "From the smallest atoms bloom the greatest explosions.", 
-        "name": "Voidwalker"
-    }
+	"displayProperties": {
+		"description": "From the smallest atoms bloom the greatest explosions.",
+		"name": "Voidwalker",
+		"icon": "/common/destiny2_content/icons/e2ea0a55f931666f1569704d116982b0.png",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"secondaryIcon": "/common/destiny2_content/icons/44e7ae6bd0fe6310576671e5497734aa.png",
+	"secondaryOverlay": "/img/misc/missing_icon_d2.png",
+	"secondarySpecial": "/img/misc/missing_icon_d2.png",
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Warlock Subclass",
+	"uiItemDisplayStyle": "ui_display_style_engram",
+	"itemTypeAndTierDisplayName": "Common Warlock Subclass",
+	"displaySource": "",
+	"inventory": {
+		"stackUniqueLabel": "v300.builds.warlock.void0",
+		"maxStackSize": 1,
+		"bucketTypeHash": 3284755031,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 3340296461,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Common",
+		"tierType": 2,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"equippingBlock": {
+		"uniqueLabelHash": 0,
+		"equipmentSlotTypeHash": 3284755031,
+		"attributes": 1,
+		"equippingSoundHash": 0,
+		"hornSoundHash": 0,
+		"ammoType": 0,
+		"displayStrings": [
+			""
+		]
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"talentGrid": {
+		"talentGridHash": 3774745298,
+		"itemDetailString": "Details",
+		"buildName": "void_warlock",
+		"hudDamageType": 4,
+		"hudIcon": "a_nova_bomb"
+	},
+	"perks": [
+		{
+			"requirementDisplayString": "",
+			"perkHash": 3413782391,
+			"perkVisibility": 0
+		}
+	],
+	"loreHash": 3887892656,
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		21,
+		50,
+		52
+	],
+	"specialItemType": 0,
+	"itemType": 16,
+	"itemSubType": 0,
+	"classType": 2,
+	"breakerType": 0,
+	"equippable": true,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

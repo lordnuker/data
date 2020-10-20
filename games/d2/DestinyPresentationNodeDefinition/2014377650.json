@@ -1,37 +1,37 @@
 {
-    "index": 662, 
-    "traitHashes": [], 
-    "nodeType": 1, 
-    "blacklisted": false, 
-    "presentationNodeType": 1, 
-    "redacted": false, 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "objectiveHash": 4168878440, 
-    "parentNodeHashes": [], 
-    "displayStyle": 0, 
-    "screenStyle": 0, 
-    "traitIds": [], 
-    "disableChildSubscreenNavigation": false, 
-    "displayProperties": {
-        "hasIcon": false, 
-        "description": "Triumphs awarded for achievement while playing as a Hunter.", 
-        "name": "Class: Hunter"
-    }, 
-    "scope": 0, 
-    "children": {
-        "metrics": [], 
-        "collectibles": [], 
-        "presentationNodes": [], 
-        "records": [
-            {
-                "recordHash": 3307463725
-            }, 
-            {
-                "recordHash": 3303390072
-            }
-        ]
-    }, 
-    "hash": 2014377650
+	"displayProperties": {
+		"description": "Triumphs awarded for achievement while playing as a Hunter.",
+		"name": "Class: Hunter",
+		"hasIcon": false
+	},
+	"nodeType": 1,
+	"scope": 0,
+	"objectiveHash": 4168878440,
+	"children": {
+		"presentationNodes": [],
+		"collectibles": [],
+		"records": [
+			{
+				"recordHash": 3307463725
+			},
+			{
+				"recordHash": 3303390072
+			}
+		],
+		"metrics": []
+	},
+	"displayStyle": 0,
+	"screenStyle": 0,
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"disableChildSubscreenNavigation": false,
+	"presentationNodeType": 1,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [],
+	"hash": 2014377650,
+	"index": 740,
+	"redacted": false,
+	"blacklisted": false
 }

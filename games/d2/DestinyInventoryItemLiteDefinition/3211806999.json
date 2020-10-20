@@ -1,93 +1,102 @@
 {
-    "itemTypeAndTierDisplayName": "Exotic Sniper Rifle", 
-    "damageTypeHashes": [
-        3373582085
-    ], 
-    "nonTransferrable": false, 
-    "tooltipNotifications": [], 
-    "defaultDamageTypeHash": 3373582085, 
-    "quality": {
-        "infusionCategoryHash": 2601628231, 
-        "infusionCategoryHashes": [
-            2601628231
-        ], 
-        "infusionCategoryName": "2601628231", 
-        "progressionLevelRequirementHash": 492032699, 
-        "qualityLevel": 0, 
-        "itemLevels": []
-    }, 
-    "itemType": 3, 
-    "talentGrid": {
-        "talentGridHash": 521135891, 
-        "hudDamageType": 1, 
-        "itemDetailString": "Details"
-    }, 
-    "allowActions": true, 
-    "defaultDamageType": 1, 
-    "summaryItemHash": 2673424576, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Exotic", 
-        "bucketTypeHash": 1498876634, 
-        "tierTypeHash": 2759499571, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 6, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "loreHash": 3211806999, 
-    "equippable": true, 
-    "itemTypeDisplayName": "Sniper Rifle", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 12, 
-    "itemCategoryHashes": [
-        2, 
-        1, 
-        10
-    ], 
-    "uiItemDisplayStyle": "", 
-    "secondaryOverlay": "/img/misc/missing_icon_d2.png", 
-    "secondaryIcon": "/common/destiny2_content/icons/d1f7db758d2da8756c5d302b13b156ab.png", 
-    "equippingBlock": {
-        "displayStrings": [
-            ""
-        ], 
-        "equipmentSlotTypeHash": 1498876634, 
-        "ammoType": 2, 
-        "equippingSoundHash": 0, 
-        "hornSoundHash": 0, 
-        "attributes": 0, 
-        "uniqueLabelHash": 4017842899, 
-        "uniqueLabel": "exotic_weapon"
-    }, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "secondarySpecial": "/img/misc/missing_icon_d2.png", 
-    "collectibleHash": 24541428, 
-    "displaySource": "", 
-    "damageTypes": [
-        1
-    ], 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/3f0aeef852ddaeb12ea847bc14d8ed14.jpg", 
-        "hasIcon": true, 
-        "description": "\"Shame. Guilt. Fear. We all bear them. Gather your regrets, purge them as best you can. Let your enemies feel the weight of your burdens.\" —Ada-1", 
-        "name": "Izanagi's Burden"
-    }
+	"displayProperties": {
+		"description": "\"Shame. Guilt. Fear. We all bear them. Gather your regrets, purge them as best you can. Let your enemies feel the weight of your burdens.\" —Ada-1",
+		"name": "Izanagi's Burden",
+		"icon": "/common/destiny2_content/icons/3f0aeef852ddaeb12ea847bc14d8ed14.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"collectibleHash": 24541428,
+	"secondaryIcon": "/common/destiny2_content/icons/d1f7db758d2da8756c5d302b13b156ab.png",
+	"secondaryOverlay": "/img/misc/missing_icon_d2.png",
+	"secondarySpecial": "/img/misc/missing_icon_d2.png",
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Sniper Rifle",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Exotic Sniper Rifle",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1498876634,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 2759499571,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Exotic",
+		"tierType": 6,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"equippingBlock": {
+		"uniqueLabel": "exotic_weapon",
+		"uniqueLabelHash": 4017842899,
+		"equipmentSlotTypeHash": 1498876634,
+		"attributes": 0,
+		"equippingSoundHash": 0,
+		"hornSoundHash": 0,
+		"ammoType": 2,
+		"displayStrings": [
+			""
+		]
+	},
+	"quality": {
+		"itemLevels": [],
+		"qualityLevel": 0,
+		"infusionCategoryName": "2601628231",
+		"infusionCategoryHash": 2601628231,
+		"infusionCategoryHashes": [
+			2601628231
+		],
+		"progressionLevelRequirementHash": 492032699,
+		"currentVersion": 0,
+		"versions": [
+			{
+				"powerCapHash": 2759499571
+			}
+		],
+		"displayVersionWatermarkIcons": [
+			""
+		]
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"talentGrid": {
+		"talentGridHash": 521135891,
+		"itemDetailString": "Details",
+		"hudDamageType": 1
+	},
+	"perks": [],
+	"loreHash": 3211806999,
+	"summaryItemHash": 2673424576,
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [
+		2,
+		1,
+		10
+	],
+	"specialItemType": 0,
+	"itemType": 3,
+	"itemSubType": 12,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": true,
+	"damageTypeHashes": [
+		3373582085
+	],
+	"damageTypes": [
+		1
+	],
+	"defaultDamageType": 1,
+	"defaultDamageTypeHash": 3373582085,
+	"isWrapper": false
 }

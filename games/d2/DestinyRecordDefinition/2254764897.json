@@ -1,69 +1,69 @@
 {
-    "index": 318, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 1, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": true, 
-        "titlesByGenderHash": {
-            "3111576190": "MMXIX", 
-            "2204441813": "MMXIX"
-        }, 
-        "titlesByGender": {
-            "Male": "MMXIX", 
-            "Female": "MMXIX"
-        }
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        3351064675
-    ], 
-    "parentNodeHashes": [], 
-    "expirationInfo": {
-        "hasExpiration": true, 
-        "description": "Available only during Moments of Triumph 2019."
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/2e3c60186f7aa64107d843ed697fad1f.png", 
-                    "/common/destiny2_content/icons/a50bc17a2afd79d03d9b4a0a2450134d.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/248af36c59dcfdaa58e240851c1f1189.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/2e3c60186f7aa64107d843ed697fad1f.png", 
-        "hasIcon": true, 
-        "description": "Complete these feats of strength before 9/17/2019 to claim your unique rewards.", 
-        "name": "Moments of Triumph: MMXIX"
-    }, 
-    "scope": 0, 
-    "hash": 2254764897
+	"displayProperties": {
+		"description": "Complete these feats of strength before 9/17/2019 to claim your unique rewards.",
+		"name": "Moments of Triumph: MMXIX",
+		"icon": "/common/destiny2_content/icons/2e3c60186f7aa64107d843ed697fad1f.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/2e3c60186f7aa64107d843ed697fad1f.png",
+					"/common/destiny2_content/icons/a50bc17a2afd79d03d9b4a0a2450134d.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/248af36c59dcfdaa58e240851c1f1189.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		3351064675
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": true,
+		"titlesByGender": {
+			"Male": "MMXIX",
+			"Female": "MMXIX"
+		},
+		"titlesByGenderHash": {
+			"2204441813": "MMXIX",
+			"3111576190": "MMXIX"
+		}
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": true,
+		"description": "Available only during Moments of Triumph 2019."
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 1,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [],
+	"hash": 2254764897,
+	"index": 322,
+	"redacted": false,
+	"blacklisted": false
 }

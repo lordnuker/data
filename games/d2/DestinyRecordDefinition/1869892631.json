@@ -1,61 +1,61 @@
 {
-    "index": 602, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 1, 
-        "intervalObjectives": [
-            {
-                "intervalScoreValue": 20, 
-                "intervalObjectiveHash": 4206664420
-            }, 
-            {
-                "intervalScoreValue": 30, 
-                "intervalObjectiveHash": 4206664422
-            }, 
-            {
-                "intervalScoreValue": 30, 
-                "intervalObjectiveHash": 4206664423
-            }
-        ], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [], 
-    "parentNodeHashes": [
-        3644665243
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/4389cf5224e39bffa00608f9f2c20055.png", 
-        "hasIcon": true, 
-        "description": "Complete bounties from the Spider.", 
-        "name": "Bounty Hunter: Tangled Shore"
-    }, 
-    "scope": 0, 
-    "hash": 1869892631
+	"displayProperties": {
+		"description": "Complete bounties from the Spider.",
+		"name": "Bounty Hunter: Tangled Shore",
+		"icon": "/common/destiny2_content/icons/4389cf5224e39bffa00608f9f2c20055.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [
+			{
+				"intervalObjectiveHash": 4206664420,
+				"intervalScoreValue": 20
+			},
+			{
+				"intervalObjectiveHash": 4206664422,
+				"intervalScoreValue": 30
+			},
+			{
+				"intervalObjectiveHash": 4206664423,
+				"intervalScoreValue": 30
+			}
+		],
+		"originalObjectiveArrayInsertionIndex": 1,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		3644665243
+	],
+	"hash": 1869892631,
+	"index": 613,
+	"redacted": false,
+	"blacklisted": false
 }

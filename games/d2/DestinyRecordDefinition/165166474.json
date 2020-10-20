@@ -1,61 +1,61 @@
 {
-    "index": 1357, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 1, 
-        "intervalObjectives": [
-            {
-                "intervalScoreValue": 20, 
-                "intervalObjectiveHash": 1140864691
-            }, 
-            {
-                "intervalScoreValue": 30, 
-                "intervalObjectiveHash": 1140864689
-            }, 
-            {
-                "intervalScoreValue": 30, 
-                "intervalObjectiveHash": 1140864688
-            }
-        ], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [], 
-    "parentNodeHashes": [
-        4213993861
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/a72e5ce5c66e21f34a420271a30d7ec3.png", 
-        "hasIcon": true, 
-        "description": "Complete Nightfall strike \"Strange Terrain\" and get a great score.", 
-        "name": "Strange Terrain"
-    }, 
-    "scope": 0, 
-    "hash": 165166474
+	"displayProperties": {
+		"description": "Complete Nightfall strike \"Strange Terrain\" and get a great score.",
+		"name": "Strange Terrain",
+		"icon": "/common/destiny2_content/icons/a72e5ce5c66e21f34a420271a30d7ec3.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [
+			{
+				"intervalObjectiveHash": 1140864691,
+				"intervalScoreValue": 20
+			},
+			{
+				"intervalObjectiveHash": 1140864689,
+				"intervalScoreValue": 30
+			},
+			{
+				"intervalObjectiveHash": 1140864688,
+				"intervalScoreValue": 30
+			}
+		],
+		"originalObjectiveArrayInsertionIndex": 1,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		4213993861
+	],
+	"hash": 165166474,
+	"index": 1369,
+	"redacted": false,
+	"blacklisted": false
 }

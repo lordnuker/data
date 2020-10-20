@@ -1,94 +1,103 @@
 {
-    "itemTypeAndTierDisplayName": "Uncommon Scout Rifle", 
-    "damageTypeHashes": [
-        2303181850
-    ], 
-    "secondaryOverlay": "/img/misc/missing_icon_d2.png", 
-    "tooltipNotifications": [], 
-    "defaultDamageTypeHash": 2303181850, 
-    "quality": {
-        "infusionCategoryHash": 0, 
-        "infusionCategoryHashes": [], 
-        "infusionCategoryName": "0", 
-        "progressionLevelRequirementHash": 2393583370, 
-        "qualityLevel": 0, 
-        "itemLevels": []
-    }, 
-    "itemType": 3, 
-    "talentGrid": {
-        "talentGridHash": 521135891, 
-        "hudDamageType": 1, 
-        "itemDetailString": "Details"
-    }, 
-    "allowActions": true, 
-    "defaultDamageType": 2, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Uncommon", 
-        "bucketTypeHash": 2465295065, 
-        "tierTypeHash": 2395677314, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 3, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 255, 
-        "green": 255, 
-        "colorHash": 0, 
-        "red": 255, 
-        "alpha": 255
-    }, 
-    "equippable": true, 
-    "itemTypeDisplayName": "Scout Rifle", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 14, 
-    "itemCategoryHashes": [
-        3, 
-        1, 
-        8
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": false, 
-    "secondaryIcon": "/common/destiny2_content/icons/33679ff3935b6b925f007181f0959d84.png", 
-    "equippingBlock": {
-        "displayStrings": [
-            ""
-        ], 
-        "equipmentSlotTypeHash": 2465295065, 
-        "ammoType": 1, 
-        "equippingSoundHash": 0, 
-        "hornSoundHash": 0, 
-        "attributes": 0, 
-        "uniqueLabelHash": 0
-    }, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "secondarySpecial": "/img/misc/missing_icon_d2.png", 
-    "collectibleHash": 3479501008, 
-    "displaySource": "", 
-    "damageTypes": [
-        2
-    ], 
-    "perks": [
-        {
-            "requirementDisplayString": "", 
-            "perkHash": 2965563642, 
-            "perkVisibility": 0
-        }
-    ], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/a1c60a21d2072edbb466a793b5711031.jpg", 
-        "hasIcon": true, 
-        "description": "A prototype from VEIST, the City's newest weapon foundry.", 
-        "name": "Sea Scorpion-1sr"
-    }
+	"displayProperties": {
+		"description": "A prototype from VEIST, the City's newest weapon foundry.",
+		"name": "Sea Scorpion-1sr",
+		"icon": "/common/destiny2_content/icons/a1c60a21d2072edbb466a793b5711031.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"collectibleHash": 3479501008,
+	"secondaryIcon": "/common/destiny2_content/icons/33679ff3935b6b925f007181f0959d84.png",
+	"secondaryOverlay": "/img/misc/missing_icon_d2.png",
+	"secondarySpecial": "/img/misc/missing_icon_d2.png",
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 255,
+		"green": 255,
+		"blue": 255,
+		"alpha": 255
+	},
+	"itemTypeDisplayName": "Scout Rifle",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Uncommon Scout Rifle",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 2465295065,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 2395677314,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Uncommon",
+		"tierType": 3,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"equippingBlock": {
+		"uniqueLabelHash": 0,
+		"equipmentSlotTypeHash": 2465295065,
+		"attributes": 0,
+		"equippingSoundHash": 0,
+		"hornSoundHash": 0,
+		"ammoType": 1,
+		"displayStrings": [
+			""
+		]
+	},
+	"quality": {
+		"itemLevels": [],
+		"qualityLevel": 0,
+		"infusionCategoryName": "0",
+		"infusionCategoryHash": 0,
+		"infusionCategoryHashes": [],
+		"progressionLevelRequirementHash": 2393583370,
+		"currentVersion": 0,
+		"versions": [
+			{
+				"powerCapHash": 2395677314
+			}
+		],
+		"displayVersionWatermarkIcons": [
+			"/common/destiny2_content/icons/0dac2f181f0245cfc64494eccb7db9f7.png"
+		]
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"talentGrid": {
+		"talentGridHash": 521135891,
+		"itemDetailString": "Details",
+		"hudDamageType": 1
+	},
+	"perks": [
+		{
+			"requirementDisplayString": "",
+			"perkHash": 2965563642,
+			"perkVisibility": 0
+		}
+	],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [
+		3,
+		1,
+		8
+	],
+	"specialItemType": 0,
+	"itemType": 3,
+	"itemSubType": 14,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": true,
+	"damageTypeHashes": [
+		2303181850
+	],
+	"damageTypes": [
+		2
+	],
+	"defaultDamageType": 2,
+	"defaultDamageTypeHash": 2303181850,
+	"isWrapper": false
 }

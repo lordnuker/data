@@ -1,0 +1,84 @@
+{
+	"displayProperties": {
+		"description": "A sample of elemental matter twisted by the Pyramids. Used to focus Umbral Engrams or enhance the Prismatic Recaster to further unlock the secrets of Darkness.",
+		"name": "Altered Element",
+		"icon": "/common/destiny2_content/icons/12f66959f883d8190101cfc36f18b6c9.jpg",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/12f66959f883d8190101cfc36f18b6c9.jpg",
+					"/common/destiny2_content/icons/e21d958aaaad97cb3d8eddc268870a03.png",
+					"/common/destiny2_content/icons/28987ab9f7465ae156e81969d9ae46ad.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [
+		{
+			"displayString": "Expires at the end of Season of Arrivals",
+			"displayStyle": ""
+		}
+	],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Seasonal Currency",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Seasonal Currency",
+	"displaySource": "",
+	"action": {
+		"verbName": "Discard",
+		"verbDescription": "",
+		"isPositive": false,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"actionTypeLabel": "shard",
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": true,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"maxStackSize": 9999,
+		"bucketTypeHash": 1469714392,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [],
+	"specialItemType": 0,
+	"itemType": 0,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"hash": 4237793827,
+	"index": 12533,
+	"redacted": false,
+	"blacklisted": false
+}

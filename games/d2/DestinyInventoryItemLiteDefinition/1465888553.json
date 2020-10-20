@@ -1,85 +1,85 @@
 {
-    "itemTypeAndTierDisplayName": "Exotic Quest Step", 
-    "itemType": 12, 
-    "tooltipNotifications": [], 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Exotic", 
-        "bucketTypeHash": 1345459588, 
-        "tierTypeHash": 2759499571, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 6, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "setData": {
-        "trackingUnlockValueHash": 0, 
-        "setIsFeatured": false, 
-        "itemList": [
-            {
-                "itemHash": 3715926175, 
-                "trackingValue": 1
-            }, 
-            {
-                "itemHash": 3710486535, 
-                "trackingValue": 2
-            }, 
-            {
-                "itemHash": 2269402074, 
-                "trackingValue": 3
-            }, 
-            {
-                "itemHash": 1503907116, 
-                "trackingValue": 4
-            }, 
-            {
-                "itemHash": 60788839, 
-                "trackingValue": 5
-            }, 
-            {
-                "itemHash": 1465888553, 
-                "trackingValue": 6
-            }
-        ], 
-        "requireOrderedSetItemAdd": true, 
-        "questLineName": "The Journey", 
-        "abandonmentUnlockHash": 0, 
-        "setType": "quest_global"
-    }, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Quest Step", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": true, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        16
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "displaySource": "\"As they peeled away my Light piece by piece, the dark began to set in. I went limp. My mind started to fade. But the fire raged on.\n\n\"It's a funny thing, dying for good twice. I imagine my first death was frightening. But this one was calming. This time I knew I wasn't really gone forever. Neither were my friends. Vell. Eriana. Sai. Toland. …Eris. There was peace in that. Knowing we'd always be together, somewhere. Somehow.\n\n\"I felt my spirit leave my body through my Light. And then—only darkness.\"\n\n—A loyal friend", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/68be1cf59e392d610f7d99fa79436eb8.jpg", 
-        "hasIcon": true, 
-        "description": "Return to Eris Morn with the Hive bug.", 
-        "name": "Finality"
-    }
+	"displayProperties": {
+		"description": "Return to Eris Morn with the Hive bug.",
+		"name": "Finality",
+		"icon": "/common/destiny2_content/icons/68be1cf59e392d610f7d99fa79436eb8.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Quest Step",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Exotic Quest Step",
+	"displaySource": "\"As they peeled away my Light piece by piece, the dark began to set in. I went limp. My mind started to fade. But the fire raged on.\n\n\"It's a funny thing, dying for good twice. I imagine my first death was frightening. But this one was calming. This time I knew I wasn't really gone forever. Neither were my friends. Vell. Eriana. Sai. Toland. …Eris. There was peace in that. Knowing we'd always be together, somewhere. Somehow.\n\n\"I felt my spirit leave my body through my Light. And then—only darkness.\"\n\n—A loyal friend",
+	"setData": {
+		"itemList": [
+			{
+				"trackingValue": 1,
+				"itemHash": 3715926175
+			},
+			{
+				"trackingValue": 2,
+				"itemHash": 3710486535
+			},
+			{
+				"trackingValue": 3,
+				"itemHash": 2269402074
+			},
+			{
+				"trackingValue": 4,
+				"itemHash": 1503907116
+			},
+			{
+				"trackingValue": 5,
+				"itemHash": 60788839
+			},
+			{
+				"trackingValue": 6,
+				"itemHash": 1465888553
+			}
+		],
+		"trackingUnlockValueHash": 0,
+		"abandonmentUnlockHash": 0,
+		"requireOrderedSetItemAdd": true,
+		"setIsFeatured": false,
+		"setType": "quest_global",
+		"questLineName": "The Journey"
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1345459588,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 2759499571,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Exotic",
+		"tierType": 6,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": true,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		16
+	],
+	"specialItemType": 0,
+	"itemType": 12,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

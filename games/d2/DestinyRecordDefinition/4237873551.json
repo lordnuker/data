@@ -1,61 +1,61 @@
 {
-    "index": 1256, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 2, 
-        "intervalObjectives": [
-            {
-                "intervalScoreValue": 50, 
-                "intervalObjectiveHash": 3837456812
-            }, 
-            {
-                "intervalScoreValue": 75, 
-                "intervalObjectiveHash": 3837456814
-            }, 
-            {
-                "intervalScoreValue": 125, 
-                "intervalObjectiveHash": 3837456815
-            }
-        ], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [], 
-    "parentNodeHashes": [
-        1256609117
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/0f13fc2a7eb07c0b7cac49a4265981a3.png", 
-        "hasIcon": true, 
-        "description": "Complete strikes in any strike playlist.", 
-        "name": "Strike Specialist"
-    }, 
-    "scope": 0, 
-    "hash": 4237873551
+	"displayProperties": {
+		"description": "Complete strikes in any strike playlist.",
+		"name": "Strike Specialist",
+		"icon": "/common/destiny2_content/icons/0f13fc2a7eb07c0b7cac49a4265981a3.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [
+			{
+				"intervalObjectiveHash": 3837456812,
+				"intervalScoreValue": 50
+			},
+			{
+				"intervalObjectiveHash": 3837456814,
+				"intervalScoreValue": 75
+			},
+			{
+				"intervalObjectiveHash": 3837456815,
+				"intervalScoreValue": 125
+			}
+		],
+		"originalObjectiveArrayInsertionIndex": 2,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		1256609117
+	],
+	"hash": 4237873551,
+	"index": 1268,
+	"redacted": false,
+	"blacklisted": false
 }

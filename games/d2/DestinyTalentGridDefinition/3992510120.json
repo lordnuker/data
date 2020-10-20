@@ -1,257 +1,257 @@
 {
-    "index": 12, 
-    "progressionHash": 0, 
-    "independentNodeIndexes": [
-        2
-    ], 
-    "groups": {
-        "2697262607": {
-            "groupHash": 2697262607, 
-            "opposingNodeHashes": [], 
-            "nodeHashes": [
-                2
-            ], 
-            "opposingGroupHashes": [
-                2697262606, 
-                2697262605
-            ]
-        }
-    }, 
-    "redacted": false, 
-    "nodeCategories": [
-        {
-            "displayProperties": {
-                "hasIcon": false, 
-                "name": "Grenades"
-            }, 
-            "nodeHashes": [
-                2
-            ], 
-            "identifier": "Grenades", 
-            "isLoreDriven": false
-        }
-    ], 
-    "calcProgressToMaxLevel": 0, 
-    "maxGridLevel": 0, 
-    "blacklisted": false, 
-    "exclusiveSets": [], 
-    "calcMaxGridLevel": 0, 
-    "hash": 3992510120, 
-    "nodes": [
-        {
-            "nodeIndex": 0, 
-            "isRealStepSelectionRandom": false, 
-            "originalNodeHash": 0, 
-            "autoUnlocks": false, 
-            "column": -1, 
-            "exclusiveWithNodeHashes": [], 
-            "groupScopeIndex": 0, 
-            "prerequisiteNodeIndexes": [], 
-            "nodeStyleIdentifier": "", 
-            "isRandom": false, 
-            "exclusiveSetHash": 0, 
-            "randomStartProgressionBarAtProgression": 0, 
-            "steps": [
-                {
-                    "statHashes": [], 
-                    "startProgressionBarAtProgress": 0, 
-                    "nextStepIndex": -1, 
-                    "damageType": 0, 
-                    "nodeStepHash": 0, 
-                    "stepIndex": 0, 
-                    "truePropertyIndex": 0, 
-                    "perkHashes": [], 
-                    "interactionDescription": "", 
-                    "affectsQuality": false, 
-                    "affectsLevel": false, 
-                    "trueStepIndex": 0, 
-                    "displayProperties": {
-                        "icon": "/img/misc/missing_icon_d2.png", 
-                        "hasIcon": false, 
-                        "description": "", 
-                        "name": ""
-                    }, 
-                    "canActivateNextStep": false, 
-                    "activationRequirement": {
-                        "materialRequirementHashes": [], 
-                        "gridLevel": 0, 
-                        "exclusiveSetRequiredHash": 0
-                    }, 
-                    "isNextStepRandom": false
-                }
-            ], 
-            "lastStepRepeats": false, 
-            "binaryPairNodeIndex": -1, 
-            "layoutIdentifier": "melee", 
-            "isRandomRepurchasable": false, 
-            "nodeHash": 0, 
-            "ignoreForCompletion": false, 
-            "talentNodeTypes": 0, 
-            "row": 0
-        }, 
-        {
-            "nodeIndex": 1, 
-            "isRealStepSelectionRandom": false, 
-            "originalNodeHash": 0, 
-            "autoUnlocks": false, 
-            "column": -1, 
-            "exclusiveWithNodeHashes": [], 
-            "groupScopeIndex": 0, 
-            "prerequisiteNodeIndexes": [], 
-            "nodeStyleIdentifier": "", 
-            "isRandom": false, 
-            "exclusiveSetHash": 0, 
-            "randomStartProgressionBarAtProgression": 0, 
-            "steps": [
-                {
-                    "statHashes": [], 
-                    "startProgressionBarAtProgress": 0, 
-                    "nextStepIndex": -1, 
-                    "damageType": 0, 
-                    "nodeStepHash": 0, 
-                    "stepIndex": 0, 
-                    "truePropertyIndex": 0, 
-                    "perkHashes": [], 
-                    "interactionDescription": "", 
-                    "affectsQuality": false, 
-                    "affectsLevel": false, 
-                    "trueStepIndex": 0, 
-                    "displayProperties": {
-                        "icon": "/img/misc/missing_icon_d2.png", 
-                        "hasIcon": false, 
-                        "description": "", 
-                        "name": ""
-                    }, 
-                    "canActivateNextStep": false, 
-                    "activationRequirement": {
-                        "materialRequirementHashes": [], 
-                        "gridLevel": 0, 
-                        "exclusiveSetRequiredHash": 0
-                    }, 
-                    "isNextStepRandom": false
-                }
-            ], 
-            "lastStepRepeats": false, 
-            "binaryPairNodeIndex": -1, 
-            "layoutIdentifier": "sprint", 
-            "isRandomRepurchasable": false, 
-            "nodeHash": 1, 
-            "ignoreForCompletion": false, 
-            "talentNodeTypes": 0, 
-            "row": 1
-        }, 
-        {
-            "isRealStepSelectionRandom": false, 
-            "groupScopeIndex": 0, 
-            "isRandom": false, 
-            "talentNodeTypes": 0, 
-            "row": 11, 
-            "nodeIndex": 2, 
-            "originalNodeHash": 0, 
-            "autoUnlocks": false, 
-            "exclusiveSetHash": 0, 
-            "ignoreForCompletion": false, 
-            "exclusiveWithNodeHashes": [], 
-            "randomStartProgressionBarAtProgression": 0, 
-            "nodeHash": 2, 
-            "isRandomRepurchasable": false, 
-            "lastStepRepeats": false, 
-            "prerequisiteNodeIndexes": [], 
-            "nodeStyleIdentifier": "specialization_grenade", 
-            "binaryPairNodeIndex": -1, 
-            "layoutIdentifier": "grenade0", 
-            "groupHash": 2697262607, 
-            "column": 21, 
-            "steps": [
-                {
-                    "statHashes": [], 
-                    "startProgressionBarAtProgress": 0, 
-                    "nextStepIndex": -1, 
-                    "damageType": 0, 
-                    "nodeStepHash": 2576774201, 
-                    "stepIndex": 0, 
-                    "truePropertyIndex": 0, 
-                    "perkHashes": [], 
-                    "interactionDescription": "Upgrade", 
-                    "affectsQuality": false, 
-                    "affectsLevel": false, 
-                    "trueStepIndex": 0, 
-                    "displayProperties": {
-                        "icon": "/common/destiny2_content/icons/16fea06a87c6c9f9060bcacf49aee8f6.png", 
-                        "hasIcon": true, 
-                        "description": "A grenade that creates a horizontal wall of burning Void Light.", 
-                        "name": "Voidwall Grenade"
-                    }, 
-                    "canActivateNextStep": false, 
-                    "activationRequirement": {
-                        "materialRequirementHashes": [
-                            2732484384
-                        ], 
-                        "gridLevel": 0, 
-                        "exclusiveSetRequiredHash": 0
-                    }, 
-                    "isNextStepRandom": false
-                }
-            ]
-        }, 
-        {
-            "nodeIndex": 3, 
-            "isRealStepSelectionRandom": false, 
-            "originalNodeHash": 0, 
-            "autoUnlocks": false, 
-            "column": -1, 
-            "exclusiveWithNodeHashes": [], 
-            "groupScopeIndex": 0, 
-            "prerequisiteNodeIndexes": [], 
-            "nodeStyleIdentifier": "", 
-            "isRandom": false, 
-            "exclusiveSetHash": 0, 
-            "randomStartProgressionBarAtProgression": 0, 
-            "steps": [
-                {
-                    "statHashes": [], 
-                    "startProgressionBarAtProgress": 0, 
-                    "nextStepIndex": -1, 
-                    "damageType": 0, 
-                    "nodeStepHash": 0, 
-                    "stepIndex": 0, 
-                    "truePropertyIndex": 0, 
-                    "perkHashes": [
-                        2928341343, 
-                        2928341342, 
-                        2928341341, 
-                        527070274, 
-                        129527218
-                    ], 
-                    "interactionDescription": "", 
-                    "affectsQuality": false, 
-                    "affectsLevel": false, 
-                    "trueStepIndex": 0, 
-                    "displayProperties": {
-                        "icon": "/img/misc/missing_icon_d2.png", 
-                        "hasIcon": false, 
-                        "description": "", 
-                        "name": ""
-                    }, 
-                    "canActivateNextStep": false, 
-                    "activationRequirement": {
-                        "materialRequirementHashes": [], 
-                        "gridLevel": 0, 
-                        "exclusiveSetRequiredHash": 0
-                    }, 
-                    "isNextStepRandom": false
-                }
-            ], 
-            "lastStepRepeats": false, 
-            "binaryPairNodeIndex": -1, 
-            "layoutIdentifier": "stats", 
-            "isRandomRepurchasable": false, 
-            "nodeHash": 3, 
-            "ignoreForCompletion": false, 
-            "talentNodeTypes": 0, 
-            "row": 2
-        }
-    ], 
-    "maximumRandomMaterialRequirements": 0, 
-    "gridLevelPerColumn": 0
+	"maxGridLevel": 0,
+	"gridLevelPerColumn": 0,
+	"progressionHash": 0,
+	"nodes": [
+		{
+			"nodeIndex": 0,
+			"nodeHash": 0,
+			"row": 0,
+			"column": -1,
+			"prerequisiteNodeIndexes": [],
+			"binaryPairNodeIndex": -1,
+			"autoUnlocks": false,
+			"lastStepRepeats": false,
+			"isRandom": false,
+			"isRandomRepurchasable": false,
+			"steps": [
+				{
+					"displayProperties": {
+						"description": "",
+						"name": "",
+						"icon": "/img/misc/missing_icon_d2.png",
+						"hasIcon": false
+					},
+					"stepIndex": 0,
+					"nodeStepHash": 0,
+					"interactionDescription": "",
+					"damageType": 0,
+					"activationRequirement": {
+						"gridLevel": 0,
+						"materialRequirementHashes": [],
+						"exclusiveSetRequiredHash": 0
+					},
+					"canActivateNextStep": false,
+					"nextStepIndex": -1,
+					"isNextStepRandom": false,
+					"perkHashes": [],
+					"startProgressionBarAtProgress": 0,
+					"statHashes": [],
+					"affectsQuality": false,
+					"trueStepIndex": 0,
+					"truePropertyIndex": 0,
+					"affectsLevel": false
+				}
+			],
+			"exclusiveWithNodeHashes": [],
+			"randomStartProgressionBarAtProgression": 0,
+			"layoutIdentifier": "melee",
+			"groupScopeIndex": 0,
+			"nodeStyleIdentifier": "",
+			"ignoreForCompletion": false,
+			"originalNodeHash": 0,
+			"talentNodeTypes": 0,
+			"exclusiveSetHash": 0,
+			"isRealStepSelectionRandom": false
+		},
+		{
+			"nodeIndex": 1,
+			"nodeHash": 1,
+			"row": 1,
+			"column": -1,
+			"prerequisiteNodeIndexes": [],
+			"binaryPairNodeIndex": -1,
+			"autoUnlocks": false,
+			"lastStepRepeats": false,
+			"isRandom": false,
+			"isRandomRepurchasable": false,
+			"steps": [
+				{
+					"displayProperties": {
+						"description": "",
+						"name": "",
+						"icon": "/img/misc/missing_icon_d2.png",
+						"hasIcon": false
+					},
+					"stepIndex": 0,
+					"nodeStepHash": 0,
+					"interactionDescription": "",
+					"damageType": 0,
+					"activationRequirement": {
+						"gridLevel": 0,
+						"materialRequirementHashes": [],
+						"exclusiveSetRequiredHash": 0
+					},
+					"canActivateNextStep": false,
+					"nextStepIndex": -1,
+					"isNextStepRandom": false,
+					"perkHashes": [],
+					"startProgressionBarAtProgress": 0,
+					"statHashes": [],
+					"affectsQuality": false,
+					"trueStepIndex": 0,
+					"truePropertyIndex": 0,
+					"affectsLevel": false
+				}
+			],
+			"exclusiveWithNodeHashes": [],
+			"randomStartProgressionBarAtProgression": 0,
+			"layoutIdentifier": "sprint",
+			"groupScopeIndex": 0,
+			"nodeStyleIdentifier": "",
+			"ignoreForCompletion": false,
+			"originalNodeHash": 0,
+			"talentNodeTypes": 0,
+			"exclusiveSetHash": 0,
+			"isRealStepSelectionRandom": false
+		},
+		{
+			"nodeIndex": 2,
+			"nodeHash": 2,
+			"row": 11,
+			"column": 21,
+			"prerequisiteNodeIndexes": [],
+			"binaryPairNodeIndex": -1,
+			"autoUnlocks": false,
+			"lastStepRepeats": false,
+			"isRandom": false,
+			"isRandomRepurchasable": false,
+			"steps": [
+				{
+					"displayProperties": {
+						"description": "A grenade that creates a horizontal wall of burning Void Light.",
+						"name": "Voidwall Grenade",
+						"icon": "/common/destiny2_content/icons/16fea06a87c6c9f9060bcacf49aee8f6.png",
+						"hasIcon": true
+					},
+					"stepIndex": 0,
+					"nodeStepHash": 2576774201,
+					"interactionDescription": "Upgrade",
+					"damageType": 0,
+					"activationRequirement": {
+						"gridLevel": 0,
+						"materialRequirementHashes": [
+							2732484384
+						],
+						"exclusiveSetRequiredHash": 0
+					},
+					"canActivateNextStep": false,
+					"nextStepIndex": -1,
+					"isNextStepRandom": false,
+					"perkHashes": [],
+					"startProgressionBarAtProgress": 0,
+					"statHashes": [],
+					"affectsQuality": false,
+					"trueStepIndex": 0,
+					"truePropertyIndex": 0,
+					"affectsLevel": false
+				}
+			],
+			"exclusiveWithNodeHashes": [],
+			"randomStartProgressionBarAtProgression": 0,
+			"layoutIdentifier": "grenade0",
+			"groupHash": 2697262607,
+			"groupScopeIndex": 0,
+			"nodeStyleIdentifier": "specialization_grenade",
+			"ignoreForCompletion": false,
+			"originalNodeHash": 0,
+			"talentNodeTypes": 0,
+			"exclusiveSetHash": 0,
+			"isRealStepSelectionRandom": false
+		},
+		{
+			"nodeIndex": 3,
+			"nodeHash": 3,
+			"row": 2,
+			"column": -1,
+			"prerequisiteNodeIndexes": [],
+			"binaryPairNodeIndex": -1,
+			"autoUnlocks": false,
+			"lastStepRepeats": false,
+			"isRandom": false,
+			"isRandomRepurchasable": false,
+			"steps": [
+				{
+					"displayProperties": {
+						"description": "",
+						"name": "",
+						"icon": "/img/misc/missing_icon_d2.png",
+						"hasIcon": false
+					},
+					"stepIndex": 0,
+					"nodeStepHash": 0,
+					"interactionDescription": "",
+					"damageType": 0,
+					"activationRequirement": {
+						"gridLevel": 0,
+						"materialRequirementHashes": [],
+						"exclusiveSetRequiredHash": 0
+					},
+					"canActivateNextStep": false,
+					"nextStepIndex": -1,
+					"isNextStepRandom": false,
+					"perkHashes": [
+						2928341343,
+						2928341342,
+						2928341341,
+						527070274,
+						129527218
+					],
+					"startProgressionBarAtProgress": 0,
+					"statHashes": [],
+					"affectsQuality": false,
+					"trueStepIndex": 0,
+					"truePropertyIndex": 0,
+					"affectsLevel": false
+				}
+			],
+			"exclusiveWithNodeHashes": [],
+			"randomStartProgressionBarAtProgression": 0,
+			"layoutIdentifier": "stats",
+			"groupScopeIndex": 0,
+			"nodeStyleIdentifier": "",
+			"ignoreForCompletion": false,
+			"originalNodeHash": 0,
+			"talentNodeTypes": 0,
+			"exclusiveSetHash": 0,
+			"isRealStepSelectionRandom": false
+		}
+	],
+	"calcMaxGridLevel": 0,
+	"calcProgressToMaxLevel": 0,
+	"exclusiveSets": [],
+	"independentNodeIndexes": [
+		2
+	],
+	"maximumRandomMaterialRequirements": 0,
+	"groups": {
+		"2697262607": {
+			"groupHash": 2697262607,
+			"nodeHashes": [
+				2
+			],
+			"opposingGroupHashes": [
+				2697262606,
+				2697262605
+			],
+			"opposingNodeHashes": []
+		}
+	},
+	"nodeCategories": [
+		{
+			"identifier": "Grenades",
+			"isLoreDriven": false,
+			"displayProperties": {
+				"name": "Grenades",
+				"hasIcon": false
+			},
+			"nodeHashes": [
+				2
+			]
+		}
+	],
+	"hash": 3992510120,
+	"index": 12,
+	"redacted": false,
+	"blacklisted": false
 }

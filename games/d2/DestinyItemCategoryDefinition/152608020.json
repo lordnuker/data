@@ -1,28 +1,28 @@
 {
-    "index": 78, 
-    "groupCategoryOnly": true, 
-    "grantDestinyClass": 3, 
-    "blacklisted": false, 
-    "shortTitle": "Sparrow Mods", 
-    "grantDestinyItemType": 0, 
-    "deprecated": false, 
-    "redacted": false, 
-    "grantDestinySubType": 0, 
-    "itemTypeRegex": "type_vehicle_mod.*", 
-    "parentCategoryHashes": [
-        59
-    ], 
-    "visible": false, 
-    "groupedCategoryHashes": [
-        2294843884, 
-        319279448
-    ], 
-    "displayProperties": {
-        "hasIcon": false, 
-        "description": "These mods can only be applied to Sparrows.", 
-        "name": "Sparrow Mods"
-    }, 
-    "hash": 152608020, 
-    "isPlug": false, 
-    "grantDestinyBreakerType": 0
+	"displayProperties": {
+		"description": "These mods can only be applied to Sparrows.",
+		"name": "Sparrow Mods",
+		"hasIcon": false
+	},
+	"visible": false,
+	"deprecated": false,
+	"shortTitle": "Sparrow Mods",
+	"itemTypeRegex": "type_vehicle_mod.*",
+	"grantDestinyBreakerType": 0,
+	"grantDestinyItemType": 0,
+	"grantDestinySubType": 0,
+	"grantDestinyClass": 3,
+	"groupedCategoryHashes": [
+		2294843884,
+		319279448
+	],
+	"isPlug": false,
+	"parentCategoryHashes": [
+		59
+	],
+	"groupCategoryOnly": true,
+	"hash": 152608020,
+	"index": 78,
+	"redacted": false,
+	"blacklisted": false
 }

@@ -1,162 +1,177 @@
 {
-    "index": 538, 
-    "traitHashes": [], 
-    "nodeType": 1, 
-    "blacklisted": false, 
-    "presentationNodeType": 1, 
-    "redacted": false, 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "objectiveHash": 4171317651, 
-    "parentNodeHashes": [
-        2381001021
-    ], 
-    "displayStyle": 0, 
-    "screenStyle": 0, 
-    "traitIds": [], 
-    "disableChildSubscreenNavigation": false, 
-    "displayProperties": {
-        "hasIcon": false, 
-        "description": "", 
-        "name": "Seasonal"
-    }, 
-    "scope": 1, 
-    "children": {
-        "metrics": [], 
-        "collectibles": [
-            {
-                "collectibleHash": 728274839
-            }, 
-            {
-                "collectibleHash": 2195312826
-            }, 
-            {
-                "collectibleHash": 1242690195
-            }, 
-            {
-                "collectibleHash": 1242690194
-            }, 
-            {
-                "collectibleHash": 1242690193
-            }, 
-            {
-                "collectibleHash": 1242690197
-            }, 
-            {
-                "collectibleHash": 2195312824
-            }, 
-            {
-                "collectibleHash": 2195312825
-            }, 
-            {
-                "collectibleHash": 2195312817
-            }, 
-            {
-                "collectibleHash": 1453679214
-            }, 
-            {
-                "collectibleHash": 2682678288
-            }, 
-            {
-                "collectibleHash": 1453679215
-            }, 
-            {
-                "collectibleHash": 2580783367
-            }, 
-            {
-                "collectibleHash": 1453679212
-            }, 
-            {
-                "collectibleHash": 2684277474
-            }, 
-            {
-                "collectibleHash": 1453679213
-            }, 
-            {
-                "collectibleHash": 3785627593
-            }, 
-            {
-                "collectibleHash": 1098033987
-            }, 
-            {
-                "collectibleHash": 1098033986
-            }, 
-            {
-                "collectibleHash": 1098033985
-            }, 
-            {
-                "collectibleHash": 3689404793
-            }, 
-            {
-                "collectibleHash": 2769022687
-            }, 
-            {
-                "collectibleHash": 3133090329
-            }, 
-            {
-                "collectibleHash": 3967648329
-            }, 
-            {
-                "collectibleHash": 842351817
-            }, 
-            {
-                "collectibleHash": 842351816
-            }, 
-            {
-                "collectibleHash": 3211376030
-            }, 
-            {
-                "collectibleHash": 3211376031
-            }, 
-            {
-                "collectibleHash": 2119243634
-            }, 
-            {
-                "collectibleHash": 2119243635
-            }, 
-            {
-                "collectibleHash": 3615580824
-            }, 
-            {
-                "collectibleHash": 3615580825
-            }, 
-            {
-                "collectibleHash": 33346658
-            }, 
-            {
-                "collectibleHash": 33346659
-            }, 
-            {
-                "collectibleHash": 2269808636
-            }, 
-            {
-                "collectibleHash": 16122352
-            }, 
-            {
-                "collectibleHash": 2195312816
-            }, 
-            {
-                "collectibleHash": 2195312831
-            }, 
-            {
-                "collectibleHash": 4085938167
-            }, 
-            {
-                "collectibleHash": 4085938166
-            }, 
-            {
-                "collectibleHash": 4085938165
-            }, 
-            {
-                "collectibleHash": 4085938160
-            }, 
-            {
-                "collectibleHash": 4085938175
-            }
-        ], 
-        "presentationNodes": [], 
-        "records": []
-    }, 
-    "hash": 2451657441
+	"displayProperties": {
+		"description": "",
+		"name": "Seasonal",
+		"hasIcon": false
+	},
+	"nodeType": 1,
+	"scope": 1,
+	"objectiveHash": 4171317651,
+	"children": {
+		"presentationNodes": [],
+		"collectibles": [
+			{
+				"collectibleHash": 728274839
+			},
+			{
+				"collectibleHash": 2195312826
+			},
+			{
+				"collectibleHash": 1242690195
+			},
+			{
+				"collectibleHash": 1242690194
+			},
+			{
+				"collectibleHash": 1242690193
+			},
+			{
+				"collectibleHash": 1242690197
+			},
+			{
+				"collectibleHash": 2195312824
+			},
+			{
+				"collectibleHash": 2195312825
+			},
+			{
+				"collectibleHash": 2195312817
+			},
+			{
+				"collectibleHash": 1453679214
+			},
+			{
+				"collectibleHash": 2682678288
+			},
+			{
+				"collectibleHash": 1453679215
+			},
+			{
+				"collectibleHash": 2580783367
+			},
+			{
+				"collectibleHash": 1453679212
+			},
+			{
+				"collectibleHash": 2684277474
+			},
+			{
+				"collectibleHash": 1453679213
+			},
+			{
+				"collectibleHash": 3785627593
+			},
+			{
+				"collectibleHash": 1098033987
+			},
+			{
+				"collectibleHash": 1098033986
+			},
+			{
+				"collectibleHash": 1098033985
+			},
+			{
+				"collectibleHash": 3689404793
+			},
+			{
+				"collectibleHash": 2769022687
+			},
+			{
+				"collectibleHash": 3133090329
+			},
+			{
+				"collectibleHash": 3967648329
+			},
+			{
+				"collectibleHash": 842351817
+			},
+			{
+				"collectibleHash": 842351816
+			},
+			{
+				"collectibleHash": 3211376030
+			},
+			{
+				"collectibleHash": 3211376031
+			},
+			{
+				"collectibleHash": 2119243634
+			},
+			{
+				"collectibleHash": 2119243635
+			},
+			{
+				"collectibleHash": 3615580824
+			},
+			{
+				"collectibleHash": 3615580825
+			},
+			{
+				"collectibleHash": 33346658
+			},
+			{
+				"collectibleHash": 33346659
+			},
+			{
+				"collectibleHash": 2269808636
+			},
+			{
+				"collectibleHash": 16122352
+			},
+			{
+				"collectibleHash": 2195312816
+			},
+			{
+				"collectibleHash": 2195312831
+			},
+			{
+				"collectibleHash": 4085938167
+			},
+			{
+				"collectibleHash": 4085938166
+			},
+			{
+				"collectibleHash": 4085938165
+			},
+			{
+				"collectibleHash": 4085938160
+			},
+			{
+				"collectibleHash": 4085938175
+			},
+			{
+				"collectibleHash": 847533998
+			},
+			{
+				"collectibleHash": 847533997
+			},
+			{
+				"collectibleHash": 847533991
+			},
+			{
+				"collectibleHash": 847533990
+			},
+			{
+				"collectibleHash": 894830669
+			}
+		],
+		"records": [],
+		"metrics": []
+	},
+	"displayStyle": 0,
+	"screenStyle": 0,
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"disableChildSubscreenNavigation": false,
+	"presentationNodeType": 1,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		2381001021
+	],
+	"hash": 2451657441,
+	"index": 591,
+	"redacted": false,
+	"blacklisted": false
 }

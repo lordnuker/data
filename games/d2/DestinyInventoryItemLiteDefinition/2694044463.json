@@ -1,94 +1,103 @@
 {
-    "itemTypeAndTierDisplayName": "Uncommon Auto Rifle", 
-    "damageTypeHashes": [
-        1847026933
-    ], 
-    "secondaryOverlay": "/img/misc/missing_icon_d2.png", 
-    "tooltipNotifications": [], 
-    "defaultDamageTypeHash": 1847026933, 
-    "quality": {
-        "infusionCategoryHash": 0, 
-        "infusionCategoryHashes": [], 
-        "infusionCategoryName": "0", 
-        "progressionLevelRequirementHash": 2393583370, 
-        "qualityLevel": 0, 
-        "itemLevels": []
-    }, 
-    "itemType": 3, 
-    "talentGrid": {
-        "talentGridHash": 521135891, 
-        "hudDamageType": 1, 
-        "itemDetailString": "Details"
-    }, 
-    "allowActions": true, 
-    "defaultDamageType": 3, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Uncommon", 
-        "bucketTypeHash": 2465295065, 
-        "tierTypeHash": 2395677314, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 3, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 255, 
-        "green": 255, 
-        "colorHash": 0, 
-        "red": 255, 
-        "alpha": 255
-    }, 
-    "equippable": true, 
-    "itemTypeDisplayName": "Auto Rifle", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 6, 
-    "itemCategoryHashes": [
-        3, 
-        1, 
-        5
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": false, 
-    "secondaryIcon": "/common/destiny2_content/icons/36de329ebf19e58fa0aa90f6828edd57.png", 
-    "equippingBlock": {
-        "displayStrings": [
-            ""
-        ], 
-        "equipmentSlotTypeHash": 2465295065, 
-        "ammoType": 1, 
-        "equippingSoundHash": 0, 
-        "hornSoundHash": 0, 
-        "attributes": 0, 
-        "uniqueLabelHash": 0
-    }, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "secondarySpecial": "/img/misc/missing_icon_d2.png", 
-    "collectibleHash": 907544173, 
-    "displaySource": "", 
-    "damageTypes": [
-        3
-    ], 
-    "perks": [
-        {
-            "requirementDisplayString": "", 
-            "perkHash": 819176563, 
-            "perkVisibility": 0
-        }
-    ], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/9464e7878dcb714d5dd4b16b73b5566b.jpg", 
-        "hasIcon": true, 
-        "description": "A modded version of the Omolon Jiangshi, a Guardian standby.", 
-        "name": "Jiangshi AR1"
-    }
+	"displayProperties": {
+		"description": "A modded version of the Omolon Jiangshi, a Guardian standby.",
+		"name": "Jiangshi AR1",
+		"icon": "/common/destiny2_content/icons/9464e7878dcb714d5dd4b16b73b5566b.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"collectibleHash": 907544173,
+	"secondaryIcon": "/common/destiny2_content/icons/36de329ebf19e58fa0aa90f6828edd57.png",
+	"secondaryOverlay": "/img/misc/missing_icon_d2.png",
+	"secondarySpecial": "/img/misc/missing_icon_d2.png",
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 255,
+		"green": 255,
+		"blue": 255,
+		"alpha": 255
+	},
+	"itemTypeDisplayName": "Auto Rifle",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Uncommon Auto Rifle",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 2465295065,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 2395677314,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Uncommon",
+		"tierType": 3,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"equippingBlock": {
+		"uniqueLabelHash": 0,
+		"equipmentSlotTypeHash": 2465295065,
+		"attributes": 0,
+		"equippingSoundHash": 0,
+		"hornSoundHash": 0,
+		"ammoType": 1,
+		"displayStrings": [
+			""
+		]
+	},
+	"quality": {
+		"itemLevels": [],
+		"qualityLevel": 0,
+		"infusionCategoryName": "0",
+		"infusionCategoryHash": 0,
+		"infusionCategoryHashes": [],
+		"progressionLevelRequirementHash": 2393583370,
+		"currentVersion": 0,
+		"versions": [
+			{
+				"powerCapHash": 2395677314
+			}
+		],
+		"displayVersionWatermarkIcons": [
+			"/common/destiny2_content/icons/0dac2f181f0245cfc64494eccb7db9f7.png"
+		]
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"talentGrid": {
+		"talentGridHash": 521135891,
+		"itemDetailString": "Details",
+		"hudDamageType": 1
+	},
+	"perks": [
+		{
+			"requirementDisplayString": "",
+			"perkHash": 819176563,
+			"perkVisibility": 0
+		}
+	],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [
+		3,
+		1,
+		5
+	],
+	"specialItemType": 0,
+	"itemType": 3,
+	"itemSubType": 6,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": true,
+	"damageTypeHashes": [
+		1847026933
+	],
+	"damageTypes": [
+		3
+	],
+	"defaultDamageType": 3,
+	"defaultDamageTypeHash": 1847026933,
+	"isWrapper": false
 }

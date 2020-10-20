@@ -1,105 +1,105 @@
 {
-    "itemTypeAndTierDisplayName": "Exotic Quest", 
-    "nonTransferrable": true, 
-    "investmentStats": [], 
-    "redacted": false, 
-    "tooltipNotifications": [], 
-    "itemType": 15, 
-    "index": 12862, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Exotic", 
-        "bucketTypeHash": 2422292810, 
-        "tierTypeHash": 2759499571, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 6, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "setData": {
-        "trackingUnlockValueHash": 0, 
-        "setIsFeatured": false, 
-        "itemList": [
-            {
-                "itemHash": 2988193930, 
-                "trackingValue": -1745019786
-            }, 
-            {
-                "itemHash": 4141540845, 
-                "trackingValue": -114067327
-            }, 
-            {
-                "itemHash": 2042637506, 
-                "trackingValue": -1596212522
-            }, 
-            {
-                "itemHash": 2564613094, 
-                "trackingValue": 611273258
-            }, 
-            {
-                "itemHash": 4141540844, 
-                "trackingValue": -114067328
-            }, 
-            {
-                "itemHash": 2032901917, 
-                "trackingValue": -1299575823
-            }, 
-            {
-                "itemHash": 2117992050, 
-                "trackingValue": -751502962
-            }, 
-            {
-                "itemHash": 4106252, 
-                "trackingValue": -31003520
-            }
-        ], 
-        "requireOrderedSetItemAdd": true, 
-        "questLineName": "", 
-        "abandonmentUnlockHash": 0, 
-        "setType": "quest_global"
-    }, 
-    "hash": 438293901, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Quest", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        53
-    ], 
-    "uiItemDisplayStyle": "", 
-    "secondaryOverlay": "/common/destiny2_content/icons/215100c99216b9c0bd83b9daa50ace45.png", 
-    "secondaryIcon": "/common/destiny2_content/icons/58a478d967ff3f4a92fd9006f71cf52d.png", 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "secondarySpecial": "/img/misc/missing_icon_d2.png", 
-    "blacklisted": false, 
-    "displaySource": "", 
-    "traitIds": [
-        "inventory_filtering.quest", 
-        "quest.exotic"
-    ], 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/b8ff9cefdfa748ef7a6f5c3f1e80c313.jpg", 
-        "hasIcon": true, 
-        "description": "", 
-        "name": "The Lost Cryptarch"
-    }
+	"displayProperties": {
+		"description": "",
+		"name": "The Lost Cryptarch",
+		"icon": "/common/destiny2_content/icons/b8ff9cefdfa748ef7a6f5c3f1e80c313.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"secondaryIcon": "/common/destiny2_content/icons/58a478d967ff3f4a92fd9006f71cf52d.png",
+	"secondaryOverlay": "/common/destiny2_content/icons/215100c99216b9c0bd83b9daa50ace45.png",
+	"secondarySpecial": "/img/misc/missing_icon_d2.png",
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Quest",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Exotic Quest",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 2422292810,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 2759499571,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Exotic",
+		"tierType": 6,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"setData": {
+		"itemList": [
+			{
+				"trackingValue": -1745019786,
+				"itemHash": 2988193930
+			},
+			{
+				"trackingValue": -114067327,
+				"itemHash": 4141540845
+			},
+			{
+				"trackingValue": -1596212522,
+				"itemHash": 2042637506
+			},
+			{
+				"trackingValue": 611273258,
+				"itemHash": 2564613094
+			},
+			{
+				"trackingValue": -114067328,
+				"itemHash": 4141540844
+			},
+			{
+				"trackingValue": -1299575823,
+				"itemHash": 2032901917
+			},
+			{
+				"trackingValue": -751502962,
+				"itemHash": 2117992050
+			},
+			{
+				"trackingValue": -31003520,
+				"itemHash": 4106252
+			}
+		],
+		"trackingUnlockValueHash": 0,
+		"abandonmentUnlockHash": 0,
+		"requireOrderedSetItemAdd": true,
+		"setIsFeatured": false,
+		"setType": "quest_global",
+		"questLineName": ""
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		53
+	],
+	"specialItemType": 0,
+	"itemType": 15,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"traitIds": [
+		"inventory_filtering.quest",
+		"quest.exotic"
+	],
+	"hash": 438293901,
+	"index": 13456,
+	"redacted": false,
+	"blacklisted": false
 }

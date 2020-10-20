@@ -1,108 +1,117 @@
 {
-    "itemTypeAndTierDisplayName": "Exotic Trace Rifle", 
-    "damageTypeHashes": [
-        2303181850
-    ], 
-    "itemType": 3, 
-    "tooltipNotifications": [], 
-    "defaultDamageTypeHash": 2303181850, 
-    "quality": {
-        "infusionCategoryHash": 2806069436, 
-        "infusionCategoryHashes": [
-            2806069436
-        ], 
-        "infusionCategoryName": "2806069436", 
-        "progressionLevelRequirementHash": 492032699, 
-        "qualityLevel": 0, 
-        "itemLevels": []
-    }, 
-    "talentGrid": {
-        "talentGridHash": 521135891, 
-        "hudDamageType": 1, 
-        "itemDetailString": "Details"
-    }, 
-    "allowActions": true, 
-    "breakerTypeHash": 2611060930, 
-    "defaultDamageType": 2, 
-    "summaryItemHash": 2673424576, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Exotic", 
-        "bucketTypeHash": 2465295065, 
-        "tierTypeHash": 2759499571, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 6, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "loreHash": 4103414242, 
-    "equippable": true, 
-    "itemTypeDisplayName": "Trace Rifle", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 25, 
-    "itemCategoryHashes": [
-        3, 
-        1, 
-        2489664120, 
-        964228942
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": false, 
-    "equippingBlock": {
-        "displayStrings": [
-            ""
-        ], 
-        "equipmentSlotTypeHash": 2465295065, 
-        "ammoType": 2, 
-        "equippingSoundHash": 0, 
-        "hornSoundHash": 0, 
-        "attributes": 0, 
-        "uniqueLabelHash": 4017842899, 
-        "uniqueLabel": "exotic_weapon"
-    }, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 2, 
-    "collectibleHash": 1988948484, 
-    "displaySource": "", 
-    "damageTypes": [
-        2
-    ], 
-    "perks": [
-        {
-            "requirementDisplayString": "", 
-            "perkHash": 3435464613, 
-            "perkVisibility": 0
-        }, 
-        {
-            "requirementDisplayString": "", 
-            "perkHash": 2017119434, 
-            "perkVisibility": 0
-        }, 
-        {
-            "requirementDisplayString": "", 
-            "perkHash": 128516240, 
-            "perkVisibility": 0
-        }
-    ], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/9fca585b5cc85e25f99d4cc9bee58db5.jpg", 
-        "hasIcon": true, 
-        "description": "Calibrate reality. Seek inevitability. Embody divinity.", 
-        "name": "Divinity"
-    }
+	"displayProperties": {
+		"description": "Calibrate reality. Seek inevitability. Embody divinity.",
+		"name": "Divinity",
+		"icon": "/common/destiny2_content/icons/9fca585b5cc85e25f99d4cc9bee58db5.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"collectibleHash": 1988948484,
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Trace Rifle",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Exotic Trace Rifle",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 2465295065,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 2759499571,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Exotic",
+		"tierType": 6,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"equippingBlock": {
+		"uniqueLabel": "exotic_weapon",
+		"uniqueLabelHash": 4017842899,
+		"equipmentSlotTypeHash": 2465295065,
+		"attributes": 0,
+		"equippingSoundHash": 0,
+		"hornSoundHash": 0,
+		"ammoType": 2,
+		"displayStrings": [
+			""
+		]
+	},
+	"quality": {
+		"itemLevels": [],
+		"qualityLevel": 0,
+		"infusionCategoryName": "2806069436",
+		"infusionCategoryHash": 2806069436,
+		"infusionCategoryHashes": [
+			2806069436
+		],
+		"progressionLevelRequirementHash": 492032699,
+		"currentVersion": 0,
+		"versions": [
+			{
+				"powerCapHash": 2759499571
+			}
+		],
+		"displayVersionWatermarkIcons": [
+			""
+		]
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"talentGrid": {
+		"talentGridHash": 521135891,
+		"itemDetailString": "Details",
+		"hudDamageType": 1
+	},
+	"perks": [
+		{
+			"requirementDisplayString": "",
+			"perkHash": 3435464613,
+			"perkVisibility": 0
+		},
+		{
+			"requirementDisplayString": "",
+			"perkHash": 2017119434,
+			"perkVisibility": 0
+		},
+		{
+			"requirementDisplayString": "",
+			"perkHash": 128516240,
+			"perkVisibility": 0
+		}
+	],
+	"loreHash": 4103414242,
+	"summaryItemHash": 2673424576,
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [
+		3,
+		1,
+		2489664120,
+		964228942
+	],
+	"specialItemType": 0,
+	"itemType": 3,
+	"itemSubType": 25,
+	"classType": 3,
+	"breakerType": 2,
+	"breakerTypeHash": 2611060930,
+	"equippable": true,
+	"damageTypeHashes": [
+		2303181850
+	],
+	"damageTypes": [
+		2
+	],
+	"defaultDamageType": 2,
+	"defaultDamageTypeHash": 2303181850,
+	"isWrapper": false
 }

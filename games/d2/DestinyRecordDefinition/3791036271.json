@@ -1,65 +1,65 @@
 {
-    "index": 1947, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [
-            {
-                "intervalScoreValue": 10, 
-                "intervalObjectiveHash": 3019943436
-            }, 
-            {
-                "intervalScoreValue": 15, 
-                "intervalObjectiveHash": 3019943437
-            }, 
-            {
-                "intervalScoreValue": 25, 
-                "intervalObjectiveHash": 3019943438
-            }, 
-            {
-                "intervalScoreValue": 50, 
-                "intervalObjectiveHash": 3019943439
-            }
-        ], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 91000, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [], 
-    "parentNodeHashes": [
-        959627408
-    ], 
-    "expirationInfo": {
-        "hasExpiration": true, 
-        "description": "Available only during Season 9."
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/abc9f0cbbb09ac6110b9910cd4f00ace.png", 
-        "hasIcon": true, 
-        "description": "In Season 9, unlock levels of the Season Pass.", 
-        "name": "Season 9: Progress"
-    }, 
-    "scope": 0, 
-    "hash": 3791036271
+	"displayProperties": {
+		"description": "In Season 9, unlock levels of the Season Pass.",
+		"name": "Season 9: Progress",
+		"icon": "/common/destiny2_content/icons/abc9f0cbbb09ac6110b9910cd4f00ace.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 91000,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": true,
+		"description": "Available only during Season 9."
+	},
+	"intervalInfo": {
+		"intervalObjectives": [
+			{
+				"intervalObjectiveHash": 3019943436,
+				"intervalScoreValue": 10
+			},
+			{
+				"intervalObjectiveHash": 3019943437,
+				"intervalScoreValue": 15
+			},
+			{
+				"intervalObjectiveHash": 3019943438,
+				"intervalScoreValue": 25
+			},
+			{
+				"intervalObjectiveHash": 3019943439,
+				"intervalScoreValue": 50
+			}
+		],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		959627408
+	],
+	"hash": 3791036271,
+	"index": 1959,
+	"redacted": false,
+	"blacklisted": false
 }

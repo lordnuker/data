@@ -1,57 +1,57 @@
 {
-    "index": 715, 
-    "traitHashes": [], 
-    "nodeType": 1, 
-    "blacklisted": false, 
-    "originalIcon": "/common/destiny2_content/icons/c674128301b07ad9c66faedba5ee06be.png", 
-    "presentationNodeType": 1, 
-    "redacted": false, 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "objectiveHash": 1932333355, 
-    "parentNodeHashes": [
-        1024788583
-    ], 
-    "displayStyle": 0, 
-    "rootViewIcon": "/img/destiny_content/also_triumphs/categories/category_gambit.png", 
-    "screenStyle": 0, 
-    "traitIds": [], 
-    "disableChildSubscreenNavigation": false, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/c674128301b07ad9c66faedba5ee06be.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/3bd129151e24f2f48c50ab12ef94c3b5.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/DestinyPresentationNodeDefinition_73fce8ec68add056e13343869d50a030.png", 
-        "hasIcon": true, 
-        "description": "", 
-        "name": "Gambit"
-    }, 
-    "scope": 0, 
-    "children": {
-        "metrics": [], 
-        "collectibles": [], 
-        "presentationNodes": [
-            {
-                "presentationNodeHash": 3220433604
-            }, 
-            {
-                "presentationNodeHash": 2600659924
-            }, 
-            {
-                "presentationNodeHash": 2658087905
-            }
-        ], 
-        "records": []
-    }, 
-    "hash": 3025751065
+	"displayProperties": {
+		"description": "",
+		"name": "Gambit",
+		"icon": "/common/destiny2_content/icons/DestinyPresentationNodeDefinition_73fce8ec68add056e13343869d50a030.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/c674128301b07ad9c66faedba5ee06be.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/3bd129151e24f2f48c50ab12ef94c3b5.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"originalIcon": "/common/destiny2_content/icons/c674128301b07ad9c66faedba5ee06be.png",
+	"rootViewIcon": "/img/destiny_content/also_triumphs/categories/category_gambit.png",
+	"nodeType": 1,
+	"scope": 0,
+	"objectiveHash": 1932333355,
+	"children": {
+		"presentationNodes": [
+			{
+				"presentationNodeHash": 3220433604
+			},
+			{
+				"presentationNodeHash": 2600659924
+			},
+			{
+				"presentationNodeHash": 2658087905
+			}
+		],
+		"collectibles": [],
+		"records": [],
+		"metrics": []
+	},
+	"displayStyle": 0,
+	"screenStyle": 0,
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"disableChildSubscreenNavigation": false,
+	"presentationNodeType": 1,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		1024788583
+	],
+	"hash": 3025751065,
+	"index": 793,
+	"redacted": false,
+	"blacklisted": false
 }

@@ -1,44 +1,44 @@
 {
-    "index": 116, 
-    "hash": 2555952090, 
-    "blacklisted": false, 
-    "redacted": false, 
-    "vendorHash": 1062861569, 
-    "locationReleases": [
-        {
-            "worldPosition": [
-                -195, 
-                410, 
-                78, 
-                0
-            ], 
-            "smallTransparentIcon": "/common/destiny2_content/icons/a24735c49623caf24079d0e3e7dfb249.png", 
-            "mapIcon": "/common/destiny2_content/icons/c08b3f3761472a2d4876928bc3967ad8.png", 
-            "spawnPoint": 0, 
-            "activityPathBundle": 87182709, 
-            "activityBubbleName": 1291433366, 
-            "destinationHash": 2388758973, 
-            "activityGraphNodeHash": 0, 
-            "activityPathDestination": 1455639803, 
-            "activityGraphHash": 44602463, 
-            "displayProperties": {
-                "iconSequences": [
-                    {
-                        "frames": [
-                            "/common/destiny2_content/icons/a24735c49623caf24079d0e3e7dfb249.png", 
-                            "/common/destiny2_content/icons/c08b3f3761472a2d4876928bc3967ad8.png", 
-                            "/common/destiny2_content/icons/ec039a7b698281e1543a92b5436f4ced.png"
-                        ]
-                    }
-                ], 
-                "icon": "/common/destiny2_content/icons/a24735c49623caf24079d0e3e7dfb249.png", 
-                "hasIcon": true, 
-                "description": "Field Commander", 
-                "name": "Sloane"
-            }, 
-            "largeTransparentIcon": "/common/destiny2_content/icons/ec039a7b698281e1543a92b5436f4ced.png", 
-            "navPointType": 0, 
-            "activityHash": 4166562681
-        }
-    ]
+	"vendorHash": 1062861569,
+	"locationReleases": [
+		{
+			"displayProperties": {
+				"description": "Field Commander",
+				"name": "Sloane",
+				"icon": "/common/destiny2_content/icons/a24735c49623caf24079d0e3e7dfb249.png",
+				"iconSequences": [
+					{
+						"frames": [
+							"/common/destiny2_content/icons/a24735c49623caf24079d0e3e7dfb249.png",
+							"/common/destiny2_content/icons/c08b3f3761472a2d4876928bc3967ad8.png",
+							"/common/destiny2_content/icons/ec039a7b698281e1543a92b5436f4ced.png"
+						]
+					}
+				],
+				"hasIcon": true
+			},
+			"smallTransparentIcon": "/common/destiny2_content/icons/a24735c49623caf24079d0e3e7dfb249.png",
+			"mapIcon": "/common/destiny2_content/icons/c08b3f3761472a2d4876928bc3967ad8.png",
+			"largeTransparentIcon": "/common/destiny2_content/icons/ec039a7b698281e1543a92b5436f4ced.png",
+			"spawnPoint": 0,
+			"destinationHash": 2388758973,
+			"activityHash": 4166562681,
+			"activityGraphHash": 44602463,
+			"activityGraphNodeHash": 0,
+			"activityBubbleName": 1291433366,
+			"activityPathBundle": 87182709,
+			"activityPathDestination": 1455639803,
+			"navPointType": 0,
+			"worldPosition": [
+				-195,
+				410,
+				78,
+				0
+			]
+		}
+	],
+	"hash": 2555952090,
+	"index": 116,
+	"redacted": false,
+	"blacklisted": false
 }

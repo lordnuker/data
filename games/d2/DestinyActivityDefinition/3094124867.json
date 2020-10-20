@@ -1,103 +1,103 @@
 {
-    "activityModeHashes": [
-        3497767639, 
-        1164760493
-    ], 
-    "originalDisplayProperties": {
-        "icon": "/img/misc/missing_icon_d2.png", 
-        "hasIcon": false, 
-        "description": "", 
-        "name": "Salvage Mission"
-    }, 
-    "pgcrImage": "/img/destiny_content/pgcr/free_roam_tangled_shore.jpg", 
-    "placeHash": 975684424, 
-    "activityTypeHash": 3497767639, 
-    "redacted": false, 
-    "destinationHash": 359854275, 
-    "challenges": [], 
-    "directActivityModeHash": 3497767639, 
-    "activityLightLevel": 0, 
-    "index": 1090, 
-    "activityLevel": 1, 
-    "playlistItems": [], 
-    "insertionPoints": [], 
-    "isPlaylist": false, 
-    "completionUnlockHash": 0, 
-    "suppressOtherRewards": false, 
-    "rewards": [
-        {
-            "rewardItems": [
-                {
-                    "itemHash": 1305274547, 
-                    "quantity": 4
-                }
-            ]
-        }, 
-        {
-            "rewardItems": [
-                {
-                    "itemHash": 950899352, 
-                    "quantity": 4
-                }
-            ]
-        }, 
-        {
-            "rewardItems": [
-                {
-                    "itemHash": 2014411539, 
-                    "quantity": 4
-                }
-            ]
-        }, 
-        {
-            "rewardItems": [
-                {
-                    "itemHash": 3487922223, 
-                    "quantity": 4
-                }
-            ]
-        }, 
-        {
-            "rewardItems": [
-                {
-                    "itemHash": 31293053, 
-                    "quantity": 4
-                }
-            ]
-        }
-    ], 
-    "hash": 3094124867, 
-    "releaseIcon": "/img/misc/missing_icon_d2.png", 
-    "tier": -1, 
-    "isPvP": false, 
-    "modifiers": [], 
-    "blacklisted": false, 
-    "optionalUnlockStrings": [], 
-    "activityModeTypes": [
-        6, 
-        7
-    ], 
-    "activityLocationMappings": [
-        {
-            "locationHash": 3094124867, 
-            "activityHash": 3094124867, 
-            "activationSource": "patrol"
-        }
-    ], 
-    "directActivityModeType": 6, 
-    "inheritFromFreeRoam": false, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/c60303e278aa5fc566a04e98c3d8024c.png", 
-        "hasIcon": true, 
-        "description": "", 
-        "name": "Salvage Mission"
-    }, 
-    "releaseTime": 0, 
-    "matchmaking": {
-        "minParty": 1, 
-        "requiresGuardianOath": false, 
-        "maxPlayers": 3, 
-        "maxParty": 3, 
-        "isMatchmade": false
-    }
+	"displayProperties": {
+		"description": "",
+		"name": "Salvage Mission",
+		"icon": "/common/destiny2_content/icons/c60303e278aa5fc566a04e98c3d8024c.png",
+		"hasIcon": true
+	},
+	"originalDisplayProperties": {
+		"description": "",
+		"name": "Salvage Mission",
+		"icon": "/img/misc/missing_icon_d2.png",
+		"hasIcon": false
+	},
+	"releaseIcon": "/img/misc/missing_icon_d2.png",
+	"releaseTime": 0,
+	"activityLevel": 1,
+	"completionUnlockHash": 0,
+	"activityLightLevel": 0,
+	"destinationHash": 359854275,
+	"placeHash": 975684424,
+	"activityTypeHash": 3497767639,
+	"tier": -1,
+	"pgcrImage": "/img/destiny_content/pgcr/free_roam_tangled_shore.jpg",
+	"rewards": [
+		{
+			"rewardItems": [
+				{
+					"itemHash": 1305274547,
+					"quantity": 4
+				}
+			]
+		},
+		{
+			"rewardItems": [
+				{
+					"itemHash": 950899352,
+					"quantity": 4
+				}
+			]
+		},
+		{
+			"rewardItems": [
+				{
+					"itemHash": 2014411539,
+					"quantity": 4
+				}
+			]
+		},
+		{
+			"rewardItems": [
+				{
+					"itemHash": 3487922223,
+					"quantity": 4
+				}
+			]
+		},
+		{
+			"rewardItems": [
+				{
+					"itemHash": 31293053,
+					"quantity": 4
+				}
+			]
+		}
+	],
+	"modifiers": [],
+	"isPlaylist": false,
+	"challenges": [],
+	"optionalUnlockStrings": [],
+	"inheritFromFreeRoam": false,
+	"suppressOtherRewards": false,
+	"playlistItems": [],
+	"matchmaking": {
+		"isMatchmade": false,
+		"minParty": 1,
+		"maxParty": 3,
+		"maxPlayers": 3,
+		"requiresGuardianOath": false
+	},
+	"directActivityModeHash": 3497767639,
+	"directActivityModeType": 6,
+	"activityModeHashes": [
+		3497767639,
+		1164760493
+	],
+	"activityModeTypes": [
+		6,
+		7
+	],
+	"isPvP": false,
+	"insertionPoints": [],
+	"activityLocationMappings": [
+		{
+			"locationHash": 3094124867,
+			"activationSource": "patrol",
+			"activityHash": 3094124867
+		}
+	],
+	"hash": 3094124867,
+	"index": 1099,
+	"redacted": false,
+	"blacklisted": false
 }

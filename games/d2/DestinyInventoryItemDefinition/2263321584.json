@@ -1,0 +1,135 @@
+{
+	"displayProperties": {
+		"description": "This mod imposes a stat penalty when socketed in exchange for a reduced energy cost.",
+		"name": "Precision Charge",
+		"icon": "/common/destiny2_content/icons/79ee3166a7918765c7b7bb2f27d4442d.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/79ee3166a7918765c7b7bb2f27d4442d.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/ddcfe51a4fa33ed1147da61ec5cf1300.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Arrival Armor Mod",
+	"uiItemDisplayStyle": "ui_display_style_energy_mod",
+	"itemTypeAndTierDisplayName": "Common Arrival Armor Mod",
+	"displaySource": "",
+	"tooltipStyle": "build",
+	"action": {
+		"verbName": "Dismantle",
+		"verbDescription": "",
+		"isPositive": false,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"actionTypeLabel": "shard",
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 2422292810,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 3340296461,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Common",
+		"tierType": 2,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"plug": {
+		"insertionRules": [],
+		"plugCategoryIdentifier": "enhancements.season_v490",
+		"plugCategoryHash": 443647229,
+		"onActionRecreateSelf": false,
+		"actionRewardSiteHash": 0,
+		"actionRewardItemOverrideHash": 0,
+		"insertionMaterialRequirementHash": 1564811296,
+		"previewItemOverrideHash": 0,
+		"enabledMaterialRequirementHash": 0,
+		"enabledRules": [
+			{
+				"failureMessage": ""
+			}
+		],
+		"uiPlugLabel": "",
+		"plugStyle": 0,
+		"plugAvailability": 0,
+		"alternateUiPlugLabel": "",
+		"alternatePlugStyle": 0,
+		"isDummyPlug": false,
+		"energyCost": {
+			"energyCost": 2,
+			"energyTypeHash": 4069572561,
+			"energyType": 3
+		}
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [
+		{
+			"statTypeHash": 2399985800,
+			"value": 2,
+			"isConditionallyActive": false
+		},
+		{
+			"statTypeHash": 4244567218,
+			"value": -10,
+			"isConditionallyActive": false
+		}
+	],
+	"perks": [
+		{
+			"requirementDisplayString": "",
+			"perkHash": 728767131,
+			"perkVisibility": 1
+		},
+		{
+			"requirementDisplayString": "",
+			"perkHash": 3725596862,
+			"perkVisibility": 1
+		}
+	],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		59,
+		4104513227
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"hash": 2263321584,
+	"index": 11973,
+	"redacted": false,
+	"blacklisted": false
+}

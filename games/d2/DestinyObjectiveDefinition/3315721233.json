@@ -1,42 +1,42 @@
 {
-    "allowValueChangeWhenCompleted": true, 
-    "isCountingDownward": false, 
-    "redacted": false, 
-    "progressDescription": "Final Blows", 
-    "unlockValueHash": 0, 
-    "index": 155, 
-    "stats": {
-        "style": 0
-    }, 
-    "isDisplayOnlyObjective": false, 
-    "allowNegativeValue": false, 
-    "scope": 3, 
-    "hash": 3315721233, 
-    "completedValueStyle": 6, 
-    "locationHash": 0, 
-    "inProgressValueStyle": 6, 
-    "showValueOnComplete": false, 
-    "allowOvercompletion": true, 
-    "valueStyle": 0, 
-    "blacklisted": false, 
-    "completionValue": 25, 
-    "minimumVisibilityThreshold": -2147483648, 
-    "perks": {
-        "style": 0, 
-        "perkHash": 0
-    }, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/e7eadf253fdf8e1a60edd7fb9ec1e4af.png", 
-                    "/common/destiny2_content/icons/9662e47f74160f8142210bceb0874443.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/e7eadf253fdf8e1a60edd7fb9ec1e4af.png", 
-        "hasIcon": true, 
-        "description": "", 
-        "name": ""
-    }
+	"displayProperties": {
+		"description": "",
+		"name": "",
+		"icon": "/common/destiny2_content/icons/e7eadf253fdf8e1a60edd7fb9ec1e4af.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/e7eadf253fdf8e1a60edd7fb9ec1e4af.png",
+					"/common/destiny2_content/icons/9662e47f74160f8142210bceb0874443.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"unlockValueHash": 0,
+	"completionValue": 25,
+	"scope": 3,
+	"locationHash": 0,
+	"allowNegativeValue": false,
+	"allowValueChangeWhenCompleted": true,
+	"isCountingDownward": false,
+	"valueStyle": 0,
+	"progressDescription": "Opponents Defeated",
+	"perks": {
+		"perkHash": 0,
+		"style": 0
+	},
+	"stats": {
+		"style": 0
+	},
+	"minimumVisibilityThreshold": -2147483648,
+	"allowOvercompletion": true,
+	"showValueOnComplete": false,
+	"isDisplayOnlyObjective": false,
+	"completedValueStyle": 6,
+	"inProgressValueStyle": 6,
+	"hash": 3315721233,
+	"index": 208,
+	"redacted": false,
+	"blacklisted": false
 }

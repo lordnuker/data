@@ -1,119 +1,119 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Quest Step", 
-    "itemType": 12, 
-    "tooltipNotifications": [], 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 1345459588, 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "setData": {
-        "trackingUnlockValueHash": 0, 
-        "setIsFeatured": false, 
-        "itemList": [
-            {
-                "itemHash": 541677529, 
-                "trackingValue": 100
-            }, 
-            {
-                "itemHash": 2933633156, 
-                "trackingValue": 200
-            }, 
-            {
-                "itemHash": 800881163, 
-                "trackingValue": 300
-            }, 
-            {
-                "itemHash": 2113674066, 
-                "trackingValue": 400
-            }, 
-            {
-                "itemHash": 2933633157, 
-                "trackingValue": 500
-            }
-        ], 
-        "requireOrderedSetItemAdd": true, 
-        "questLineName": "Introduction: Crucible", 
-        "abandonmentUnlockHash": 0, 
-        "setType": "quest_global"
-    }, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Quest Step", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": true, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        16
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "displaySource": "", 
-    "value": {
-        "itemValue": [
-            {
-                "itemHash": 66825403, 
-                "quantity": 1
-            }, 
-            {
-                "itemHash": 0, 
-                "quantity": 0
-            }, 
-            {
-                "itemHash": 0, 
-                "quantity": 0
-            }, 
-            {
-                "itemHash": 0, 
-                "quantity": 0
-            }, 
-            {
-                "itemHash": 0, 
-                "quantity": 0
-            }, 
-            {
-                "itemHash": 0, 
-                "quantity": 0
-            }
-        ], 
-        "valueDescription": ""
-    }, 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/5f24d01080cb11a05dcfba15409a0f9b.jpg", 
-                    "/common/destiny2_content/icons/da7de3475613cf8435dbcfe972e8e627.png", 
-                    "/common/destiny2_content/icons/09caa7f3c55cc0fa42cfec507ca05300.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/5f24d01080cb11a05dcfba15409a0f9b.jpg", 
-        "hasIcon": true, 
-        "description": "Find the Crucible handler in the Tower Courtyard on Earth.", 
-        "name": "Visit Lord Shaxx"
-    }
+	"displayProperties": {
+		"description": "Find the Crucible handler in the Tower Courtyard on Earth.",
+		"name": "Visit Lord Shaxx",
+		"icon": "/common/destiny2_content/icons/5f24d01080cb11a05dcfba15409a0f9b.jpg",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/5f24d01080cb11a05dcfba15409a0f9b.jpg",
+					"/common/destiny2_content/icons/da7de3475613cf8435dbcfe972e8e627.png",
+					"/common/destiny2_content/icons/09caa7f3c55cc0fa42cfec507ca05300.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Quest Step",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Quest Step",
+	"displaySource": "",
+	"setData": {
+		"itemList": [
+			{
+				"trackingValue": 100,
+				"itemHash": 541677529
+			},
+			{
+				"trackingValue": 200,
+				"itemHash": 2933633156
+			},
+			{
+				"trackingValue": 300,
+				"itemHash": 800881163
+			},
+			{
+				"trackingValue": 400,
+				"itemHash": 2113674066
+			},
+			{
+				"trackingValue": 500,
+				"itemHash": 2933633157
+			}
+		],
+		"trackingUnlockValueHash": 0,
+		"abandonmentUnlockHash": 0,
+		"requireOrderedSetItemAdd": true,
+		"setIsFeatured": false,
+		"setType": "quest_global",
+		"questLineName": "Introduction: Crucible"
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1345459588,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"value": {
+		"itemValue": [
+			{
+				"itemHash": 66825403,
+				"quantity": 1
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			}
+		],
+		"valueDescription": ""
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": true,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		16
+	],
+	"specialItemType": 0,
+	"itemType": 12,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

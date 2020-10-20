@@ -1,88 +1,97 @@
 {
-    "itemTypeAndTierDisplayName": "Rare Pulse Rifle", 
-    "damageTypeHashes": [
-        3373582085
-    ], 
-    "itemType": 3, 
-    "tooltipNotifications": [], 
-    "defaultDamageTypeHash": 3373582085, 
-    "quality": {
-        "infusionCategoryHash": 2601628231, 
-        "infusionCategoryHashes": [
-            2601628231
-        ], 
-        "infusionCategoryName": "2601628231", 
-        "progressionLevelRequirementHash": 1749211501, 
-        "qualityLevel": 0, 
-        "itemLevels": []
-    }, 
-    "talentGrid": {
-        "talentGridHash": 521135891, 
-        "hudDamageType": 1, 
-        "itemDetailString": "Details"
-    }, 
-    "allowActions": true, 
-    "defaultDamageType": 1, 
-    "summaryItemHash": 75112946, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Rare", 
-        "bucketTypeHash": 1498876634, 
-        "tierTypeHash": 2127292149, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 4, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 255, 
-        "green": 255, 
-        "colorHash": 0, 
-        "red": 255, 
-        "alpha": 255
-    }, 
-    "equippable": true, 
-    "itemTypeDisplayName": "Pulse Rifle", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 13, 
-    "itemCategoryHashes": [
-        2, 
-        1, 
-        7
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": false, 
-    "equippingBlock": {
-        "displayStrings": [
-            ""
-        ], 
-        "equipmentSlotTypeHash": 1498876634, 
-        "ammoType": 1, 
-        "equippingSoundHash": 0, 
-        "hornSoundHash": 0, 
-        "attributes": 0, 
-        "uniqueLabelHash": 0
-    }, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "collectibleHash": 3769246783, 
-    "displaySource": "", 
-    "damageTypes": [
-        1
-    ], 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/84840820b26100b7b03620a1e7e21b6c.jpg", 
-        "hasIcon": true, 
-        "description": "What are the chances?", 
-        "name": "Bayesian MSu"
-    }
+	"displayProperties": {
+		"description": "What are the chances?",
+		"name": "Bayesian MSu",
+		"icon": "/common/destiny2_content/icons/84840820b26100b7b03620a1e7e21b6c.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"collectibleHash": 3769246783,
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 255,
+		"green": 255,
+		"blue": 255,
+		"alpha": 255
+	},
+	"itemTypeDisplayName": "Pulse Rifle",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Rare Pulse Rifle",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1498876634,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 2127292149,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Rare",
+		"tierType": 4,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"equippingBlock": {
+		"uniqueLabelHash": 0,
+		"equipmentSlotTypeHash": 1498876634,
+		"attributes": 0,
+		"equippingSoundHash": 0,
+		"hornSoundHash": 0,
+		"ammoType": 1,
+		"displayStrings": [
+			""
+		]
+	},
+	"quality": {
+		"itemLevels": [],
+		"qualityLevel": 0,
+		"infusionCategoryName": "2601628231",
+		"infusionCategoryHash": 2601628231,
+		"infusionCategoryHashes": [
+			2601628231
+		],
+		"progressionLevelRequirementHash": 1749211501,
+		"currentVersion": 0,
+		"versions": [
+			{
+				"powerCapHash": 2127292149
+			}
+		],
+		"displayVersionWatermarkIcons": [
+			""
+		]
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"talentGrid": {
+		"talentGridHash": 521135891,
+		"itemDetailString": "Details",
+		"hudDamageType": 1
+	},
+	"perks": [],
+	"summaryItemHash": 75112946,
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [
+		2,
+		1,
+		7
+	],
+	"specialItemType": 0,
+	"itemType": 3,
+	"itemSubType": 13,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": true,
+	"damageTypeHashes": [
+		3373582085
+	],
+	"damageTypes": [
+		1
+	],
+	"defaultDamageType": 1,
+	"defaultDamageTypeHash": 3373582085,
+	"isWrapper": false
 }

@@ -1,82 +1,82 @@
 {
-    "itemTypeAndTierDisplayName": "Common Intrinsic", 
-    "itemType": 19, 
-    "tooltipNotifications": [], 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "summaryItemHash": 3520001075, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Common", 
-        "bucketTypeHash": 1469714392, 
-        "tierTypeHash": 3340296461, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 2, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Intrinsic", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        59, 
-        2237038328, 
-        610365472
-    ], 
-    "uiItemDisplayStyle": "ui_display_style_intrinsic_plug", 
-    "nonTransferrable": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "displaySource": "", 
-    "perks": [
-        {
-            "requirementDisplayString": "", 
-            "perkHash": 1351998384, 
-            "perkVisibility": 0
-        }, 
-        {
-            "requirementDisplayString": "", 
-            "perkHash": 1430763932, 
-            "perkVisibility": 0
-        }, 
-        {
-            "requirementDisplayString": "", 
-            "perkHash": 128516240, 
-            "perkVisibility": 0
-        }
-    ], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/da09e7fe9b65de58b224f2c34009a6a2.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/de982377c046bb08374f715786e2b1f0.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/da09e7fe9b65de58b224f2c34009a6a2.png", 
-        "hasIcon": true, 
-        "description": "Laser damage has three power levels that oscillate while the trigger is held down.", 
-        "name": "Harmonic Laser"
-    }
+	"displayProperties": {
+		"description": "Laser damage has three power levels that oscillate while the trigger is held down.",
+		"name": "Harmonic Laser",
+		"icon": "/common/destiny2_content/icons/da09e7fe9b65de58b224f2c34009a6a2.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/da09e7fe9b65de58b224f2c34009a6a2.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/de982377c046bb08374f715786e2b1f0.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Intrinsic",
+	"uiItemDisplayStyle": "ui_display_style_intrinsic_plug",
+	"itemTypeAndTierDisplayName": "Common Intrinsic",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1469714392,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 3340296461,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Common",
+		"tierType": 2,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [
+		{
+			"requirementDisplayString": "",
+			"perkHash": 1351998384,
+			"perkVisibility": 0
+		},
+		{
+			"requirementDisplayString": "",
+			"perkHash": 1430763932,
+			"perkVisibility": 0
+		},
+		{
+			"requirementDisplayString": "",
+			"perkHash": 128516240,
+			"perkVisibility": 0
+		}
+	],
+	"summaryItemHash": 3520001075,
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		59,
+		2237038328,
+		610365472
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

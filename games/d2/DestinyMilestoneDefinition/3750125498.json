@@ -1,60 +1,60 @@
 {
-    "index": 11, 
-    "hash": 3750125498, 
-    "blacklisted": false, 
-    "isInGameMilestone": true, 
-    "showInExplorer": false, 
-    "quests": {
-        "2804868475": {
-            "displayProperties": {
-                "icon": "/common/destiny2_content/icons/3e612531f1efe931bc0945e583bdd4d2.png", 
-                "hasIcon": true, 
-                "description": "Speak to Master Rahool in the Tower.", 
-                "name": "Prime Example"
-            }, 
-            "trackingUnlockValueHash": 0, 
-            "questItemHash": 2804868475, 
-            "questRewards": {
-                "items": [
-                    {
-                        "itemHash": 3114385605, 
-                        "quantity": 0
-                    }, 
-                    {
-                        "itemHash": 0, 
-                        "quantity": 0
-                    }, 
-                    {
-                        "itemHash": 0, 
-                        "quantity": 0
-                    }, 
-                    {
-                        "itemHash": 0, 
-                        "quantity": 0
-                    }, 
-                    {
-                        "itemHash": 0, 
-                        "quantity": 0
-                    }, 
-                    {
-                        "itemHash": 0, 
-                        "quantity": 0
-                    }
-                ]
-            }
-        }
-    }, 
-    "redacted": false, 
-    "explorePrioritizesActivityImage": false, 
-    "showInMilestones": true, 
-    "milestoneType": 1, 
-    "hasPredictableDates": false, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/3e612531f1efe931bc0945e583bdd4d2.png", 
-        "hasIcon": true, 
-        "description": "Speak to Master Rahool in the Tower.", 
-        "name": "Prime Example"
-    }, 
-    "defaultOrder": 100, 
-    "recruitable": false
+	"displayProperties": {
+		"description": "Speak to Master Rahool in the Tower.",
+		"name": "Prime Example",
+		"icon": "/common/destiny2_content/icons/3e612531f1efe931bc0945e583bdd4d2.png",
+		"hasIcon": true
+	},
+	"milestoneType": 1,
+	"recruitable": false,
+	"showInExplorer": false,
+	"showInMilestones": true,
+	"explorePrioritizesActivityImage": false,
+	"hasPredictableDates": false,
+	"quests": {
+		"2804868475": {
+			"questItemHash": 2804868475,
+			"displayProperties": {
+				"description": "Speak to Master Rahool in the Tower.",
+				"name": "Prime Example",
+				"icon": "/common/destiny2_content/icons/3e612531f1efe931bc0945e583bdd4d2.png",
+				"hasIcon": true
+			},
+			"questRewards": {
+				"items": [
+					{
+						"itemHash": 3114385605,
+						"quantity": 0
+					},
+					{
+						"itemHash": 0,
+						"quantity": 0
+					},
+					{
+						"itemHash": 0,
+						"quantity": 0
+					},
+					{
+						"itemHash": 0,
+						"quantity": 0
+					},
+					{
+						"itemHash": 0,
+						"quantity": 0
+					},
+					{
+						"itemHash": 0,
+						"quantity": 0
+					}
+				]
+			},
+			"trackingUnlockValueHash": 0
+		}
+	},
+	"isInGameMilestone": true,
+	"defaultOrder": 100,
+	"hash": 3750125498,
+	"index": 10,
+	"redacted": false,
+	"blacklisted": false
 }

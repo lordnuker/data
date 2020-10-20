@@ -1,126 +1,126 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Scope", 
-    "itemType": 19, 
-    "investmentStats": [
-        {
-            "value": 6, 
-            "statTypeHash": 3291498656, 
-            "isConditionallyActive": false
-        }, 
-        {
-            "value": 6, 
-            "statTypeHash": 3555269338, 
-            "isConditionallyActive": false
-        }, 
-        {
-            "value": 13, 
-            "statTypeHash": 1240592695, 
-            "isConditionallyActive": false
-        }, 
-        {
-            "value": -10, 
-            "statTypeHash": 943549884, 
-            "isConditionallyActive": false
-        }
-    ], 
-    "redacted": false, 
-    "tooltipNotifications": [], 
-    "index": 2427, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "summaryItemHash": 3520001075, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 1469714392, 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "hash": 1313805249, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Scope", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/aec0c1d5d51350bd43ba4ebbf9af1c68.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/39b3fe817410f5e81ba06f3ca1f5baad.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/aec0c1d5d51350bd43ba4ebbf9af1c68.png", 
-        "hasIcon": true, 
-        "description": "Häkke marksman scope. Long zoom. \n  •  Greatly increases range\n  •  Decreases handling speed", 
-        "name": "LC Ranged"
-    }, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        2411768833, 
-        610365472, 
-        59
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "plug": {
-        "insertionMaterialRequirementHash": 0, 
-        "actionRewardSiteHash": 0, 
-        "enabledMaterialRequirementHash": 0, 
-        "previewItemOverrideHash": 0, 
-        "insertionRules": [], 
-        "enabledRules": [], 
-        "plugCategoryHash": 2619833294, 
-        "plugCategoryIdentifier": "scopes", 
-        "onActionRecreateSelf": false, 
-        "plugStyle": 0, 
-        "isDummyPlug": false, 
-        "actionRewardItemOverrideHash": 0, 
-        "uiPlugLabel": "", 
-        "alternatePlugStyle": 0, 
-        "alternateUiPlugLabel": "", 
-        "plugAvailability": 0
-    }, 
-    "blacklisted": false, 
-    "acquireUnlockHash": 0, 
-    "displaySource": "", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "action": {
-        "progressionRewards": [], 
-        "requiredCooldownHash": 0, 
-        "verbName": "Dismantle", 
-        "deleteOnAction": true, 
-        "requiredItems": [], 
-        "rewardItemHash": 0, 
-        "actionTypeLabel": "shard", 
-        "useOnAcquire": false, 
-        "isPositive": false, 
-        "requiredCooldownSeconds": 0, 
-        "rewardSheetHash": 0, 
-        "verbDescription": "", 
-        "rewardSiteHash": 0, 
-        "consumeEntireStack": false
-    }
+	"displayProperties": {
+		"description": "Häkke marksman scope. Long zoom. \n  •  Greatly increases range\n  •  Decreases handling speed",
+		"name": "LC Ranged",
+		"icon": "/common/destiny2_content/icons/aec0c1d5d51350bd43ba4ebbf9af1c68.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/aec0c1d5d51350bd43ba4ebbf9af1c68.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/39b3fe817410f5e81ba06f3ca1f5baad.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Scope",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Scope",
+	"displaySource": "",
+	"action": {
+		"verbName": "Dismantle",
+		"verbDescription": "",
+		"isPositive": false,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"actionTypeLabel": "shard",
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1469714392,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"plug": {
+		"insertionRules": [],
+		"plugCategoryIdentifier": "scopes",
+		"plugCategoryHash": 2619833294,
+		"onActionRecreateSelf": false,
+		"actionRewardSiteHash": 0,
+		"actionRewardItemOverrideHash": 0,
+		"insertionMaterialRequirementHash": 0,
+		"previewItemOverrideHash": 0,
+		"enabledMaterialRequirementHash": 0,
+		"enabledRules": [],
+		"uiPlugLabel": "",
+		"plugStyle": 0,
+		"plugAvailability": 0,
+		"alternateUiPlugLabel": "",
+		"alternatePlugStyle": 0,
+		"isDummyPlug": false
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [
+		{
+			"statTypeHash": 3291498656,
+			"value": 6,
+			"isConditionallyActive": false
+		},
+		{
+			"statTypeHash": 3555269338,
+			"value": 6,
+			"isConditionallyActive": false
+		},
+		{
+			"statTypeHash": 1240592695,
+			"value": 13,
+			"isConditionallyActive": false
+		},
+		{
+			"statTypeHash": 943549884,
+			"value": -10,
+			"isConditionallyActive": false
+		}
+	],
+	"perks": [],
+	"summaryItemHash": 3520001075,
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		2411768833,
+		610365472,
+		59
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"hash": 1313805249,
+	"index": 2463,
+	"redacted": false,
+	"blacklisted": false
 }

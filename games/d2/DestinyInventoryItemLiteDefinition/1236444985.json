@@ -1,90 +1,82 @@
 {
-    "itemTypeAndTierDisplayName": "Exotic Intrinsic", 
-    "itemType": 19, 
-    "tooltipNotifications": [], 
-    "quality": {
-        "infusionCategoryHash": 0, 
-        "infusionCategoryHashes": [], 
-        "infusionCategoryName": "0", 
-        "progressionLevelRequirementHash": 0, 
-        "qualityLevel": 0, 
-        "itemLevels": []
-    }, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "summaryItemHash": 715326750, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Exotic", 
-        "bucketTypeHash": 3313201758, 
-        "tierTypeHash": 2759499571, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 6, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Intrinsic", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        59, 
-        2237038328, 
-        610365472
-    ], 
-    "uiItemDisplayStyle": "ui_display_style_intrinsic_plug", 
-    "nonTransferrable": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "displaySource": "", 
-    "perks": [
-        {
-            "requirementDisplayString": "", 
-            "perkHash": 2524330445, 
-            "perkVisibility": 0
-        }, 
-        {
-            "requirementDisplayString": "", 
-            "perkHash": 2085780563, 
-            "perkVisibility": 0
-        }, 
-        {
-            "requirementDisplayString": "", 
-            "perkHash": 1890576197, 
-            "perkVisibility": 0
-        }
-    ], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/13fef0bc86d7c32c87b5d9adb10ae650.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/8b2b70f684066891283a3456c03905e8.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/13fef0bc86d7c32c87b5d9adb10ae650.png", 
-        "hasIcon": true, 
-        "description": "Summoning a barricade grants the following to nearby Aeon Cult allies:\nGrenade energy to Warlocks\nMelee energy to Titans\nDodge energy to Hunters\n\nOther allies receive a fraction of the shared energy.", 
-        "name": "Aeon Energy"
-    }
+	"displayProperties": {
+		"description": "Melee grants the following to nearby Aeon Cult allies:\nGrenade energy to Warlocks\nMelee energy to Titans\nDodge energy to Hunters\n\nOther allies receive a fraction of the shared energy.",
+		"name": "Aeon Energy",
+		"icon": "/common/destiny2_content/icons/13fef0bc86d7c32c87b5d9adb10ae650.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/13fef0bc86d7c32c87b5d9adb10ae650.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/8b2b70f684066891283a3456c03905e8.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Intrinsic",
+	"uiItemDisplayStyle": "ui_display_style_intrinsic_plug",
+	"itemTypeAndTierDisplayName": "Exotic Intrinsic",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 3313201758,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 2759499571,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Exotic",
+		"tierType": 6,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [
+		{
+			"requirementDisplayString": "",
+			"perkHash": 2524330445,
+			"perkVisibility": 0
+		},
+		{
+			"requirementDisplayString": "",
+			"perkHash": 2085780563,
+			"perkVisibility": 0
+		},
+		{
+			"requirementDisplayString": "",
+			"perkHash": 1890576197,
+			"perkVisibility": 0
+		}
+	],
+	"summaryItemHash": 715326750,
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		59,
+		2237038328,
+		610365472
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

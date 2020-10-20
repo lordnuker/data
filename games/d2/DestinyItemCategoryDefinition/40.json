@@ -1,26 +1,26 @@
 {
-    "index": 32, 
-    "groupCategoryOnly": false, 
-    "grantDestinyClass": 3, 
-    "blacklisted": false, 
-    "shortTitle": "Materials", 
-    "grantDestinyItemType": 0, 
-    "deprecated": false, 
-    "originBucketIdentifier": "consumable", 
-    "redacted": false, 
-    "grantDestinySubType": 0, 
-    "itemTypeRegex": "type_material.*", 
-    "parentCategoryHashes": [
-        52
-    ], 
-    "visible": false, 
-    "groupedCategoryHashes": [], 
-    "displayProperties": {
-        "hasIcon": false, 
-        "description": "Used to upgrade weapons and gear.", 
-        "name": "Materials"
-    }, 
-    "hash": 40, 
-    "isPlug": false, 
-    "grantDestinyBreakerType": 0
+	"displayProperties": {
+		"description": "Used to upgrade weapons and gear.",
+		"name": "Materials",
+		"hasIcon": false
+	},
+	"visible": false,
+	"deprecated": false,
+	"shortTitle": "Materials",
+	"itemTypeRegex": "type_material.*",
+	"grantDestinyBreakerType": 0,
+	"originBucketIdentifier": "consumable",
+	"grantDestinyItemType": 0,
+	"grantDestinySubType": 0,
+	"grantDestinyClass": 3,
+	"groupedCategoryHashes": [],
+	"isPlug": false,
+	"parentCategoryHashes": [
+		52
+	],
+	"groupCategoryOnly": false,
+	"hash": 40,
+	"index": 32,
+	"redacted": false,
+	"blacklisted": false
 }

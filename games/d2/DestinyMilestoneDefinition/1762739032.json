@@ -1,0 +1,86 @@
+{
+	"displayProperties": {
+		"description": "Defeat Terrors in the Haunted Forest.",
+		"name": "Haunted Forest Challenge",
+		"icon": "/common/destiny2_content/icons/DestinyMilestoneDefinition_fbcc7a56cc959eb747185e6bae81caa0.png",
+		"hasIcon": true
+	},
+	"image": "/img/destiny_content/pgcr/social_traveler.jpg",
+	"milestoneType": 3,
+	"recruitable": false,
+	"friendlyName": "MILESTONE_WEEKLY_FOTL_POWERFUL",
+	"showInExplorer": false,
+	"showInMilestones": true,
+	"explorePrioritizesActivityImage": false,
+	"hasPredictableDates": false,
+	"rewards": {
+		"326786556": {
+			"categoryHash": 326786556,
+			"categoryIdentifier": "ChallengeSourcedReward",
+			"displayProperties": {
+				"description": "",
+				"name": "Rewards",
+				"hasIcon": false
+			},
+			"rewardEntries": {
+				"326786556": {
+					"rewardEntryHash": 326786556,
+					"rewardEntryIdentifier": "ChallengeSourcedReward",
+					"items": [
+						{
+							"itemHash": 3114385607,
+							"quantity": 0
+						}
+					],
+					"displayProperties": {
+						"description": "Defeat Terrors in the Haunted Forest.",
+						"name": "",
+						"hasIcon": false
+					},
+					"order": 0,
+					"earnedUnlockHash": 0,
+					"redeemedUnlockHash": 0
+				}
+			},
+			"order": 0
+		}
+	},
+	"isInGameMilestone": false,
+	"activities": [
+		{
+			"activityHash": 1454880421,
+			"challenges": [
+				{
+					"challengeObjectiveHash": 3087812823,
+					"completeUnlockHash": 0
+				}
+			],
+			"activityGraphNodes": [
+				{
+					"activityGraphHash": 3858837760,
+					"activityGraphNodeHash": 1182856454
+				}
+			]
+		},
+		{
+			"activityHash": 707826522,
+			"challenges": [
+				{
+					"challengeObjectiveHash": 3087812823,
+					"completeUnlockHash": 0
+				}
+			],
+			"activityGraphNodes": [
+				{
+					"activityGraphHash": 3858837760,
+					"activityGraphNodeHash": 1182856454
+				}
+			]
+		}
+	],
+	"defaultOrder": 2000,
+	"hash": 1762739032,
+	"index": 59,
+	"redacted": false,
+	"blacklisted": false
+}

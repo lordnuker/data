@@ -1,26 +1,26 @@
 {
-    "index": 34, 
-    "groupCategoryOnly": false, 
-    "grantDestinyClass": 3, 
-    "blacklisted": false, 
-    "shortTitle": "Ships", 
-    "grantDestinyItemType": 21, 
-    "deprecated": false, 
-    "originBucketIdentifier": "ship", 
-    "redacted": false, 
-    "grantDestinySubType": 0, 
-    "itemTypeRegex": "type_ship", 
-    "parentCategoryHashes": [
-        52
-    ], 
-    "visible": false, 
-    "groupedCategoryHashes": [], 
-    "displayProperties": {
-        "hasIcon": false, 
-        "description": "Spacecrafts used to traverse between destinations.", 
-        "name": "Ships"
-    }, 
-    "hash": 42, 
-    "isPlug": false, 
-    "grantDestinyBreakerType": 0
+	"displayProperties": {
+		"description": "Spacecrafts used to traverse between destinations.",
+		"name": "Ships",
+		"hasIcon": false
+	},
+	"visible": false,
+	"deprecated": false,
+	"shortTitle": "Ships",
+	"itemTypeRegex": "type_ship",
+	"grantDestinyBreakerType": 0,
+	"originBucketIdentifier": "ship",
+	"grantDestinyItemType": 21,
+	"grantDestinySubType": 0,
+	"grantDestinyClass": 3,
+	"groupedCategoryHashes": [],
+	"isPlug": false,
+	"parentCategoryHashes": [
+		52
+	],
+	"groupCategoryOnly": false,
+	"hash": 42,
+	"index": 34,
+	"redacted": false,
+	"blacklisted": false
 }

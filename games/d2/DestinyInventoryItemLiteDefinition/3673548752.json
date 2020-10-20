@@ -1,32 +1,57 @@
 {
-    "allowActions": true, 
-    "itemType": 0, 
-    "equippable": false, 
-    "defaultDamageType": 0, 
-    "isWrapper": false, 
-    "classType": 0, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "specialItemType": 0, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": false, 
-        "bucketTypeHash": 3313201758, 
-        "tierTypeHash": 0, 
-        "recoveryBucketTypeHash": 215593132, 
-        "maxStackSize": 999, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 0
-    }, 
-    "nonTransferrable": false, 
-    "displayProperties": {
-        "icon": "/img/misc/missing_icon_d2.png", 
-        "hasIcon": false, 
-        "description": "Keep it secret.  Keep it safe.", 
-        "highResIcon": "/img/misc/missing_icon_d2.png", 
-        "name": "Classified"
-    }, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0
+	"displayProperties": {
+		"description": "Equip this weapon ornament to change the appearance of Heir Apparent. Once you get an ornament, it's unlocked for all characters on your account.",
+		"name": "Regal Deterrent",
+		"icon": "/common/destiny2_content/icons/4f2daf1931a95ecd323c686dd7a43890.jpg",
+		"highResIcon": "/common/destiny2_content/icons/a8480914249e16c61ba0e17ea01525a3.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"collectibleHash": 2737768942,
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Weapon Ornament",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Exotic Weapon Ornament",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 999,
+		"bucketTypeHash": 3313201758,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 2759499571,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Exotic",
+		"tierType": 6,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [
+		56,
+		52,
+		59,
+		3124752623,
+		610365472
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 21,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

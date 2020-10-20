@@ -1,61 +1,61 @@
 {
-    "index": 496, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 2, 
-        "intervalObjectives": [
-            {
-                "intervalScoreValue": 20, 
-                "intervalObjectiveHash": 3303596284
-            }, 
-            {
-                "intervalScoreValue": 30, 
-                "intervalObjectiveHash": 3303596286
-            }, 
-            {
-                "intervalScoreValue": 50, 
-                "intervalObjectiveHash": 3303596287
-            }
-        ], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [], 
-    "parentNodeHashes": [
-        3850852197
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/4389cf5224e39bffa00608f9f2c20055.png", 
-        "hasIcon": true, 
-        "description": "Complete bounties from Devrim Kay.", 
-        "name": "Bounty Hunter: EDZ"
-    }, 
-    "scope": 0, 
-    "hash": 2097519327
+	"displayProperties": {
+		"description": "Complete bounties from Devrim Kay.",
+		"name": "Bounty Hunter: EDZ",
+		"icon": "/common/destiny2_content/icons/4389cf5224e39bffa00608f9f2c20055.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [
+			{
+				"intervalObjectiveHash": 3303596284,
+				"intervalScoreValue": 20
+			},
+			{
+				"intervalObjectiveHash": 3303596286,
+				"intervalScoreValue": 30
+			},
+			{
+				"intervalObjectiveHash": 3303596287,
+				"intervalScoreValue": 50
+			}
+		],
+		"originalObjectiveArrayInsertionIndex": 2,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		3850852197
+	],
+	"hash": 2097519327,
+	"index": 507,
+	"redacted": false,
+	"blacklisted": false
 }

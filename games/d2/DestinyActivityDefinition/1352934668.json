@@ -1,98 +1,92 @@
 {
-    "activityModeHashes": [
-        547513715, 
-        2394616003, 
-        1164760493
-    ], 
-    "originalDisplayProperties": {
-        "icon": "/img/misc/missing_icon_d2.png", 
-        "hasIcon": false, 
-        "description": "Head to K1 Logistics and defeat the Nightmare of Kelnix Reborn to retrieve Warmind Bits.\n\nMatch Game: Fallen\n\nChampions: Barrier, Overload", 
-        "name": "K1 Logistics (Legendary)"
-    }, 
-    "pgcrImage": "/img/destiny_content/pgcr/k1_logistics.jpg", 
-    "placeHash": 3325508439, 
-    "activityTypeHash": 575572995, 
-    "redacted": false, 
-    "destinationHash": 290444260, 
-    "challenges": [], 
-    "directActivityModeHash": 547513715, 
-    "loadouts": [], 
-    "activityLightLevel": 0, 
-    "index": 252, 
-    "activityLevel": 1, 
-    "playlistItems": [], 
-    "insertionPoints": [], 
-    "isPlaylist": false, 
-    "completionUnlockHash": 0, 
-    "suppressOtherRewards": false, 
-    "rewards": [], 
-    "hash": 1352934668, 
-    "releaseIcon": "/img/misc/missing_icon_d2.png", 
-    "tier": -1, 
-    "isPvP": false, 
-    "modifiers": [
-        {
-            "activityModifierHash": 3935318377
-        }, 
-        {
-            "activityModifierHash": 572891537
-        }, 
-        {
-            "activityModifierHash": 1808733020
-        }, 
-        {
-            "activityModifierHash": 882588556
-        }, 
-        {
-            "activityModifierHash": 605585258
-        }, 
-        {
-            "activityModifierHash": 2055950944
-        }, 
-        {
-            "activityModifierHash": 2301442403
-        }, 
-        {
-            "activityModifierHash": 3859784314
-        }
-    ], 
-    "blacklisted": false, 
-    "optionalUnlockStrings": [], 
-    "activityModeTypes": [
-        46, 
-        18, 
-        7
-    ], 
-    "activityLocationMappings": [
-        {
-            "locationHash": 1393013595, 
-            "activityHash": 1352934668, 
-            "activationSource": "patrol"
-        }
-    ], 
-    "directActivityModeType": 46, 
-    "inheritFromFreeRoam": false, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/f2154b781b36b19760efcb23695c66fe.png", 
-        "hasIcon": true, 
-        "description": "Head to K1 Logistics and defeat the Nightmare of Kelnix Reborn to retrieve Warmind Bits.\n\nMatch Game: Fallen\n\nChampions: Barrier, Overload", 
-        "name": "K1 Logistics (Legendary)"
-    }, 
-    "releaseTime": 0, 
-    "activityGraphList": [
-        {
-            "activityGraphHash": 397386732
-        }, 
-        {
-            "activityGraphHash": 2831782236
-        }
-    ], 
-    "matchmaking": {
-        "minParty": 1, 
-        "requiresGuardianOath": false, 
-        "maxPlayers": 3, 
-        "maxParty": 3, 
-        "isMatchmade": false
-    }
+	"displayProperties": {
+		"description": "Head to K1 Logistics and defeat the Nightmare of Kelnix Reborn to retrieve Warmind Bits.\n\nMatch Game: Fallen\n\nChampions: Barrier, Overload",
+		"name": "K1 Logistics (Legendary)",
+		"icon": "/common/destiny2_content/icons/f2154b781b36b19760efcb23695c66fe.png",
+		"hasIcon": true
+	},
+	"originalDisplayProperties": {
+		"description": "Head to K1 Logistics and defeat the Nightmare of Kelnix Reborn to retrieve Warmind Bits.\n\nMatch Game: Fallen\n\nChampions: Barrier, Overload",
+		"name": "K1 Logistics (Legendary)",
+		"icon": "/img/misc/missing_icon_d2.png",
+		"hasIcon": false
+	},
+	"releaseIcon": "/img/misc/missing_icon_d2.png",
+	"releaseTime": 0,
+	"activityLevel": 1,
+	"completionUnlockHash": 0,
+	"activityLightLevel": 0,
+	"destinationHash": 290444260,
+	"placeHash": 3325508439,
+	"activityTypeHash": 575572995,
+	"tier": -1,
+	"pgcrImage": "/img/destiny_content/pgcr/k1_logistics.jpg",
+	"rewards": [],
+	"modifiers": [
+		{
+			"activityModifierHash": 3935318377
+		},
+		{
+			"activityModifierHash": 572891537
+		},
+		{
+			"activityModifierHash": 1808733020
+		},
+		{
+			"activityModifierHash": 882588556
+		},
+		{
+			"activityModifierHash": 605585258
+		},
+		{
+			"activityModifierHash": 2055950944
+		},
+		{
+			"activityModifierHash": 2301442403
+		},
+		{
+			"activityModifierHash": 3859784314
+		}
+	],
+	"isPlaylist": false,
+	"challenges": [],
+	"optionalUnlockStrings": [],
+	"inheritFromFreeRoam": false,
+	"suppressOtherRewards": false,
+	"playlistItems": [],
+	"activityGraphList": [
+		{
+			"activityGraphHash": 397386732
+		},
+		{
+			"activityGraphHash": 2831782236
+		}
+	],
+	"matchmaking": {
+		"isMatchmade": false,
+		"minParty": 1,
+		"maxParty": 3,
+		"maxPlayers": 3,
+		"requiresGuardianOath": false
+	},
+	"directActivityModeHash": 547513715,
+	"directActivityModeType": 46,
+	"loadouts": [],
+	"activityModeHashes": [
+		547513715,
+		2394616003,
+		1164760493
+	],
+	"activityModeTypes": [
+		46,
+		18,
+		7
+	],
+	"isPvP": false,
+	"insertionPoints": [],
+	"activityLocationMappings": [],
+	"hash": 1352934668,
+	"index": 248,
+	"redacted": false,
+	"blacklisted": false
 }

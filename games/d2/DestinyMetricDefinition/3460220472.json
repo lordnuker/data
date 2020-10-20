@@ -1,31 +1,31 @@
 {
-    "index": 5, 
-    "hash": 3460220472, 
-    "blacklisted": false, 
-    "presentationNodeType": 4, 
-    "trackingObjectiveHash": 3057631743, 
-    "traitHashes": [
-        1434215347, 
-        2356777566
-    ], 
-    "redacted": false, 
-    "traitIds": [], 
-    "parentNodeHashes": [
-        2875839731
-    ], 
-    "lowerValueIsBetter": false, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/e7eadf253fdf8e1a60edd7fb9ec1e4af.png", 
-                    "/common/destiny2_content/icons/9662e47f74160f8142210bceb0874443.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/e7eadf253fdf8e1a60edd7fb9ec1e4af.png", 
-        "hasIcon": true, 
-        "description": "The number of Final Blows this week.", 
-        "name": "Total Final Blows"
-    }
+	"displayProperties": {
+		"description": "Targets defeated this week.",
+		"name": "Total Final Blows",
+		"icon": "/common/destiny2_content/icons/e7eadf253fdf8e1a60edd7fb9ec1e4af.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/e7eadf253fdf8e1a60edd7fb9ec1e4af.png",
+					"/common/destiny2_content/icons/9662e47f74160f8142210bceb0874443.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"trackingObjectiveHash": 3057631743,
+	"lowerValueIsBetter": false,
+	"presentationNodeType": 4,
+	"traitIds": [],
+	"traitHashes": [
+		1434215347,
+		2356777566
+	],
+	"parentNodeHashes": [
+		2875839731
+	],
+	"hash": 3460220472,
+	"index": 15,
+	"redacted": false,
+	"blacklisted": false
 }

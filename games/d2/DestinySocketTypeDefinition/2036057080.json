@@ -1,35 +1,35 @@
 {
-    "index": 731, 
-    "hash": 2036057080, 
-    "blacklisted": false, 
-    "avoidDuplicatesOnInitialization": false, 
-    "insertAction": {
-        "actionSoundHash": 0, 
-        "isPositiveAction": false, 
-        "actionType": 0, 
-        "actionExecuteSeconds": 1
-    }, 
-    "plugWhitelist": [
-        {
-            "categoryIdentifier": "v480_season_pass_submachinegun0_skins", 
-            "categoryHash": 419074638
-        }, 
-        {
-            "categoryIdentifier": "exotic_all_skins", 
-            "categoryHash": 3940152116
-        }
-    ], 
-    "currencyScalars": [], 
-    "redacted": false, 
-    "visibility": 0, 
-    "isPreviewEnabled": false, 
-    "alwaysRandomizeSockets": false, 
-    "overridesUiAppearance": true, 
-    "displayProperties": {
-        "hasIcon": false, 
-        "description": "", 
-        "name": ""
-    }, 
-    "socketCategoryHash": 2048875504, 
-    "hideDuplicateReusablePlugs": true
+	"displayProperties": {
+		"description": "",
+		"name": "",
+		"hasIcon": false
+	},
+	"insertAction": {
+		"actionExecuteSeconds": 1,
+		"actionSoundHash": 0,
+		"isPositiveAction": false,
+		"actionType": 0
+	},
+	"plugWhitelist": [
+		{
+			"categoryHash": 419074638,
+			"categoryIdentifier": "v480_season_pass_submachinegun0_skins"
+		},
+		{
+			"categoryHash": 3940152116,
+			"categoryIdentifier": "exotic_all_skins"
+		}
+	],
+	"socketCategoryHash": 2048875504,
+	"visibility": 0,
+	"alwaysRandomizeSockets": false,
+	"isPreviewEnabled": false,
+	"hideDuplicateReusablePlugs": true,
+	"overridesUiAppearance": true,
+	"avoidDuplicatesOnInitialization": false,
+	"currencyScalars": [],
+	"hash": 2036057080,
+	"index": 731,
+	"redacted": false,
+	"blacklisted": false
 }

@@ -1,32 +1,32 @@
 {
-    "repeatLastStep": false, 
-    "rewardItems": [], 
-    "progressToNextStepScaling": 0, 
-    "currentResetCountUnlockValueHash": 0, 
-    "blacklisted": false, 
-    "index": 26, 
-    "redacted": false, 
-    "storageMappingIndex": 0, 
-    "visible": true, 
-    "steps": [
-        {
-            "displayEffectType": 0, 
-            "stepName": "", 
-            "progressTotal": 360000
-        }
-    ], 
-    "BungieNet.Engine.Contract.Destiny.World.Definitions.IDestinyDisplayDefinition.displayProperties": {
-        "hasIcon": false, 
-        "description": "Earn XP to advance progression. Once progress is complete, the destination will unlock.", 
-        "displayUnitsName": "", 
-        "name": "Mercury Unlock Progress"
-    }, 
-    "displayProperties": {
-        "hasIcon": false, 
-        "description": "Earn XP to advance progression. Once progress is complete, the destination will unlock.", 
-        "displayUnitsName": "", 
-        "name": "Mercury Unlock Progress"
-    }, 
-    "scope": 0, 
-    "hash": 1722328021
+	"displayProperties": {
+		"displayUnitsName": "",
+		"description": "Earn XP to advance progression. Once progress is complete, the destination will unlock.",
+		"name": "Mercury Unlock Progress",
+		"hasIcon": false
+	},
+	"BungieNet.Engine.Contract.Destiny.World.Definitions.IDestinyDisplayDefinition.displayProperties": {
+		"displayUnitsName": "",
+		"description": "Earn XP to advance progression. Once progress is complete, the destination will unlock.",
+		"name": "Mercury Unlock Progress",
+		"hasIcon": false
+	},
+	"scope": 0,
+	"repeatLastStep": false,
+	"steps": [
+		{
+			"stepName": "",
+			"displayEffectType": 0,
+			"progressTotal": 360000
+		}
+	],
+	"visible": true,
+	"progressToNextStepScaling": 0,
+	"storageMappingIndex": 0,
+	"currentResetCountUnlockValueHash": 0,
+	"rewardItems": [],
+	"hash": 1722328021,
+	"index": 26,
+	"redacted": false,
+	"blacklisted": false
 }

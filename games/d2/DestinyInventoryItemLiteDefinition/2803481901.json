@@ -1,80 +1,89 @@
 {
-    "itemTypeAndTierDisplayName": "Rare Helmet", 
-    "itemType": 2, 
-    "tooltipNotifications": [], 
-    "quality": {
-        "infusionCategoryHash": 3548569221, 
-        "infusionCategoryHashes": [
-            3548569221
-        ], 
-        "infusionCategoryName": "3548569221", 
-        "progressionLevelRequirementHash": 3664462623, 
-        "qualityLevel": 0, 
-        "itemLevels": []
-    }, 
-    "talentGrid": {
-        "talentGridHash": 521135891, 
-        "hudDamageType": 1, 
-        "itemDetailString": "Details"
-    }, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "summaryItemHash": 1007326520, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Rare", 
-        "bucketTypeHash": 3448274439, 
-        "tierTypeHash": 2127292149, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 4, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "equippable": true, 
-    "itemTypeDisplayName": "Helmet", 
-    "isWrapper": false, 
-    "classType": 0, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 26, 
-    "itemCategoryHashes": [
-        22, 
-        45, 
-        20
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": false, 
-    "equippingBlock": {
-        "displayStrings": [
-            ""
-        ], 
-        "equipmentSlotTypeHash": 3448274439, 
-        "ammoType": 0, 
-        "equippingSoundHash": 0, 
-        "hornSoundHash": 0, 
-        "attributes": 0, 
-        "uniqueLabelHash": 0
-    }, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "displaySource": "Random Perks: This item cannot be reacquired from Collections.", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/9433289af2074d7fcdc8915278cf804d.jpg", 
-        "hasIcon": true, 
-        "description": "Noble stand-ins for hope, when hope itself was long since gone.\" —Excerpt, \"History of the Prime Guard\"", 
-        "name": "RPC Valiant"
-    }
+	"displayProperties": {
+		"description": "Noble stand-ins for hope, when hope itself was long since gone.\" —Excerpt, \"History of the Prime Guard\"",
+		"name": "RPC Valiant",
+		"icon": "/common/destiny2_content/icons/9433289af2074d7fcdc8915278cf804d.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Helmet",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Rare Helmet",
+	"displaySource": "Random Perks: This item cannot be reacquired from Collections.",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 3448274439,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 2127292149,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Rare",
+		"tierType": 4,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"equippingBlock": {
+		"uniqueLabelHash": 0,
+		"equipmentSlotTypeHash": 3448274439,
+		"attributes": 0,
+		"equippingSoundHash": 0,
+		"hornSoundHash": 0,
+		"ammoType": 0,
+		"displayStrings": [
+			""
+		]
+	},
+	"quality": {
+		"itemLevels": [],
+		"qualityLevel": 0,
+		"infusionCategoryName": "3548569221",
+		"infusionCategoryHash": 3548569221,
+		"infusionCategoryHashes": [
+			3548569221
+		],
+		"progressionLevelRequirementHash": 3664462623,
+		"currentVersion": 0,
+		"versions": [
+			{
+				"powerCapHash": 2127292149
+			}
+		],
+		"displayVersionWatermarkIcons": [
+			"/common/destiny2_content/icons/0669efb55951e8bc9e99f3989eacc861.png"
+		]
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"talentGrid": {
+		"talentGridHash": 521135891,
+		"itemDetailString": "Details",
+		"hudDamageType": 1
+	},
+	"perks": [],
+	"summaryItemHash": 1007326520,
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [
+		22,
+		45,
+		20
+	],
+	"specialItemType": 0,
+	"itemType": 2,
+	"itemSubType": 26,
+	"classType": 0,
+	"breakerType": 0,
+	"equippable": true,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

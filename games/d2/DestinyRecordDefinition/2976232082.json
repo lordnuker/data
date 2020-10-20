@@ -1,64 +1,64 @@
 {
-    "index": 1943, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        3808087595
-    ], 
-    "parentNodeHashes": [
-        3827492377
-    ], 
-    "expirationInfo": {
-        "hasExpiration": true, 
-        "description": "Available only during the Dawning 2019."
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [
-        {
-            "itemHash": 1736897080, 
-            "quantity": 1
-        }
-    ], 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/39fac8d6882827c3023a3a302dd16b8d.png", 
-                    "/common/destiny2_content/icons/39fac8d6882827c3023a3a302dd16b8d.png", 
-                    "/common/destiny2_content/icons/8725b5a2d0ee0f7a7c17238b5a4db778.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/39fac8d6882827c3023a3a302dd16b8d.png", 
-        "hasIcon": true, 
-        "description": "Complete bounties from Eva Levante during the Dawning 2019.", 
-        "name": "Dawning's Bounty"
-    }, 
-    "scope": 0, 
-    "hash": 2976232082
+	"displayProperties": {
+		"description": "Complete bounties from Eva Levante during the Dawning 2019.",
+		"name": "Dawning's Bounty",
+		"icon": "/common/destiny2_content/icons/39fac8d6882827c3023a3a302dd16b8d.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/39fac8d6882827c3023a3a302dd16b8d.png",
+					"/common/destiny2_content/icons/39fac8d6882827c3023a3a302dd16b8d.png",
+					"/common/destiny2_content/icons/8725b5a2d0ee0f7a7c17238b5a4db778.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		3808087595
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": true,
+		"description": "Available only during the Dawning 2019."
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [
+		{
+			"itemHash": 1736897080,
+			"quantity": 1
+		}
+	],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		3827492377
+	],
+	"hash": 2976232082,
+	"index": 1955,
+	"redacted": false,
+	"blacklisted": false
 }

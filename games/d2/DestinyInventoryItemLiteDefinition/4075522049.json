@@ -1,80 +1,89 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Warlock Bond", 
-    "itemType": 2, 
-    "tooltipNotifications": [], 
-    "quality": {
-        "infusionCategoryHash": 2278270520, 
-        "infusionCategoryHashes": [
-            2278270520
-        ], 
-        "infusionCategoryName": "2278270520", 
-        "progressionLevelRequirementHash": 3768955166, 
-        "qualityLevel": 0, 
-        "itemLevels": []
-    }, 
-    "talentGrid": {
-        "talentGridHash": 521135891, 
-        "hudDamageType": 1, 
-        "itemDetailString": "Details"
-    }, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "summaryItemHash": 3407672161, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 1585787867, 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "equippable": true, 
-    "itemTypeDisplayName": "Warlock Bond", 
-    "isWrapper": false, 
-    "classType": 2, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 30, 
-    "itemCategoryHashes": [
-        21, 
-        49, 
-        20
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": false, 
-    "equippingBlock": {
-        "displayStrings": [
-            ""
-        ], 
-        "equipmentSlotTypeHash": 1585787867, 
-        "ammoType": 0, 
-        "equippingSoundHash": 0, 
-        "hornSoundHash": 0, 
-        "attributes": 0, 
-        "uniqueLabelHash": 0
-    }, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "displaySource": "Random Perks: This item cannot be reacquired from Collections.", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/49deb4e39202b42516b65315eb2029af.jpg", 
-        "hasIcon": true, 
-        "description": "\"Parties keep you young, Warlock.\" —Eva Levante\nEach piece of event armor increases the strength of your Good Moods during the 2019 Revelry. Additional pieces can be found in the Verdant Forest or via bounties from Eva Levante.", 
-        "name": "Inaugural Revelry Bond"
-    }
+	"displayProperties": {
+		"description": "\"Parties keep you young, Warlock.\" —Eva Levante\nEach piece of event armor increases the strength of your Good Moods during the 2019 Revelry. Additional pieces can be found in the Verdant Forest or via bounties from Eva Levante.",
+		"name": "Inaugural Revelry Bond",
+		"icon": "/common/destiny2_content/icons/49deb4e39202b42516b65315eb2029af.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Warlock Bond",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Warlock Bond",
+	"displaySource": "Random Perks: This item cannot be reacquired from Collections.",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1585787867,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"equippingBlock": {
+		"uniqueLabelHash": 0,
+		"equipmentSlotTypeHash": 1585787867,
+		"attributes": 0,
+		"equippingSoundHash": 0,
+		"hornSoundHash": 0,
+		"ammoType": 0,
+		"displayStrings": [
+			""
+		]
+	},
+	"quality": {
+		"itemLevels": [],
+		"qualityLevel": 0,
+		"infusionCategoryName": "2278270520",
+		"infusionCategoryHash": 2278270520,
+		"infusionCategoryHashes": [
+			2278270520
+		],
+		"progressionLevelRequirementHash": 3768955166,
+		"currentVersion": 0,
+		"versions": [
+			{
+				"powerCapHash": 1862490584
+			}
+		],
+		"displayVersionWatermarkIcons": [
+			""
+		]
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"talentGrid": {
+		"talentGridHash": 521135891,
+		"itemDetailString": "Details",
+		"hudDamageType": 1
+	},
+	"perks": [],
+	"summaryItemHash": 3407672161,
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [
+		21,
+		49,
+		20
+	],
+	"specialItemType": 0,
+	"itemType": 2,
+	"itemSubType": 30,
+	"classType": 2,
+	"breakerType": 0,
+	"equippable": true,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

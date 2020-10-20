@@ -1,41 +1,354 @@
 {
-    "index": 451, 
-    "unlockValueHash": 0, 
-    "resetOffsetMinutes": 0, 
-    "inhibitSelling": false, 
-    "factionHash": 0, 
-    "inhibitBuying": false, 
-    "resetIntervalMinutes": 0, 
-    "visible": false, 
-    "returnWithVendorRequest": false, 
-    "consolidateCategories": false, 
-    "BungieNet.Engine.Contract.Destiny.World.Definitions.IDestinyDisplayDefinition.displayProperties": {
-        "smallTransparentIcon": "/img/misc/missing_icon_d2.png", 
-        "largeIcon": "/img/misc/missing_icon_d2.png", 
-        "hasIcon": false, 
-        "originalIcon": "/img/misc/missing_icon_d2.png", 
-        "mapIcon": "/img/misc/missing_icon_d2.png", 
-        "highResIcon": "/img/misc/missing_icon_d2.png", 
-        "name": "Classified", 
-        "largeTransparentIcon": "/img/misc/missing_icon_d2.png", 
-        "icon": "/img/misc/missing_icon_d2.png", 
-        "description": "Keep it secret.  Keep it safe."
-    }, 
-    "displayProperties": {
-        "smallTransparentIcon": "/img/misc/missing_icon_d2.png", 
-        "largeIcon": "/img/misc/missing_icon_d2.png", 
-        "hasIcon": false, 
-        "originalIcon": "/img/misc/missing_icon_d2.png", 
-        "mapIcon": "/img/misc/missing_icon_d2.png", 
-        "highResIcon": "/img/misc/missing_icon_d2.png", 
-        "name": "Classified", 
-        "largeTransparentIcon": "/img/misc/missing_icon_d2.png", 
-        "icon": "/img/misc/missing_icon_d2.png", 
-        "description": "Keep it secret.  Keep it safe."
-    }, 
-    "hash": 676852051, 
-    "redacted": true, 
-    "displayItemHash": 0, 
-    "enabled": false, 
-    "blacklisted": false
+	"displayProperties": {
+		"subtitle": "",
+		"originalIcon": "/common/destiny2_content/icons/38701a7657d546526a9fb892f83805e3.png",
+		"requirementsDisplay": [],
+		"description": "Contains a full set of Guardian Games 2020 Hunter universal ornaments.\n\nBundle price reduced for each item you already own.",
+		"name": "Competitive Spirit Hunter Bundle",
+		"icon": "/common/destiny2_content/icons/38701a7657d546526a9fb892f83805e3.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/38701a7657d546526a9fb892f83805e3.png",
+					"/common/destiny2_content/icons/ac53a001fa910c09a7368927d0caad4b.png"
+				]
+			}
+		],
+		"highResIcon": "/common/destiny2_content/icons/eb808afff1787f77da78196060c1f831.jpg",
+		"hasIcon": true
+	},
+	"BungieNet.Engine.Contract.Destiny.World.Definitions.IDestinyDisplayDefinition.displayProperties": {
+		"subtitle": "",
+		"originalIcon": "/common/destiny2_content/icons/38701a7657d546526a9fb892f83805e3.png",
+		"requirementsDisplay": [],
+		"description": "Contains a full set of Guardian Games 2020 Hunter universal ornaments.\n\nBundle price reduced for each item you already own.",
+		"name": "Competitive Spirit Hunter Bundle",
+		"icon": "/common/destiny2_content/icons/38701a7657d546526a9fb892f83805e3.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/38701a7657d546526a9fb892f83805e3.png",
+					"/common/destiny2_content/icons/ac53a001fa910c09a7368927d0caad4b.png"
+				]
+			}
+		],
+		"highResIcon": "/common/destiny2_content/icons/eb808afff1787f77da78196060c1f831.jpg",
+		"hasIcon": true
+	},
+	"displayItemHash": 0,
+	"inhibitBuying": true,
+	"inhibitSelling": true,
+	"factionHash": 0,
+	"resetIntervalMinutes": 5,
+	"resetOffsetMinutes": 0,
+	"failureStrings": [],
+	"unlockRanges": [],
+	"enabled": false,
+	"visible": false,
+	"consolidateCategories": false,
+	"unlockValueHash": 0,
+	"actions": [],
+	"categories": [
+		{
+			"categoryIndex": 0,
+			"sortValue": 0,
+			"categoryHash": 1723666180,
+			"quantityAvailable": 0,
+			"showUnavailableItems": false,
+			"hideIfNoCurrency": false,
+			"hideFromRegularPurchase": false,
+			"buyStringOverride": "",
+			"disabledDescription": "",
+			"vendorItemIndexes": [],
+			"isPreview": false,
+			"isDisplayOnly": false,
+			"resetIntervalMinutesOverride": -1,
+			"resetOffsetMinutesOverride": -1
+		},
+		{
+			"categoryIndex": 1,
+			"sortValue": 0,
+			"categoryHash": 715509015,
+			"quantityAvailable": 0,
+			"showUnavailableItems": false,
+			"hideIfNoCurrency": false,
+			"hideFromRegularPurchase": false,
+			"buyStringOverride": "",
+			"disabledDescription": "",
+			"vendorItemIndexes": [
+				0,
+				1,
+				2,
+				3,
+				4
+			],
+			"isPreview": false,
+			"isDisplayOnly": false,
+			"resetIntervalMinutesOverride": -1,
+			"resetOffsetMinutesOverride": -1
+		}
+	],
+	"originalCategories": [
+		{
+			"categoryIndex": 0,
+			"sortValue": 0,
+			"categoryHash": 1723666180,
+			"quantityAvailable": 0,
+			"showUnavailableItems": false,
+			"hideIfNoCurrency": false,
+			"hideFromRegularPurchase": false,
+			"buyStringOverride": "",
+			"disabledDescription": "",
+			"vendorItemIndexes": [],
+			"isPreview": false,
+			"isDisplayOnly": false,
+			"resetIntervalMinutesOverride": -1,
+			"resetOffsetMinutesOverride": -1
+		},
+		{
+			"categoryIndex": 1,
+			"sortValue": 0,
+			"categoryHash": 715509015,
+			"quantityAvailable": 0,
+			"showUnavailableItems": false,
+			"hideIfNoCurrency": false,
+			"hideFromRegularPurchase": false,
+			"buyStringOverride": "",
+			"disabledDescription": "",
+			"vendorItemIndexes": [
+				0,
+				1,
+				2,
+				3,
+				4
+			],
+			"isPreview": false,
+			"isDisplayOnly": false,
+			"resetIntervalMinutesOverride": -1,
+			"resetOffsetMinutesOverride": -1
+		}
+	],
+	"displayCategories": [
+		{
+			"index": 0,
+			"identifier": "category_guaranteed_engrams",
+			"displayCategoryHash": 1723666180,
+			"displayProperties": {
+				"description": "",
+				"name": "Packaged Engrams",
+				"hasIcon": false
+			},
+			"displayInBanner": false,
+			"sortOrder": 0
+		},
+		{
+			"index": 1,
+			"identifier": "category_guaranteed_contents",
+			"displayCategoryHash": 715509015,
+			"displayProperties": {
+				"description": "",
+				"name": "Packaged Contents",
+				"hasIcon": false
+			},
+			"displayInBanner": false,
+			"sortOrder": 0
+		}
+	],
+	"interactions": [],
+	"inventoryFlyouts": [],
+	"itemList": [
+		{
+			"vendorItemIndex": 0,
+			"itemHash": 2922275939,
+			"quantity": 1,
+			"failureIndexes": [],
+			"priceOverrideEnabled": false,
+			"currencies": [],
+			"refundPolicy": 0,
+			"refundTimeLimit": 0,
+			"rewardAdjustorPointerHash": 0,
+			"creationLevels": [
+				{
+					"level": 0
+				}
+			],
+			"displayCategoryIndex": 1,
+			"seedOverride": 0,
+			"categoryIndex": 1,
+			"originalCategoryIndex": 1,
+			"weight": 0,
+			"minimumLevel": 0,
+			"maximumLevel": 0,
+			"licenseUnlockHash": 0,
+			"action": {
+				"executeSeconds": 0,
+				"isPositive": false
+			},
+			"displayCategory": "",
+			"inventoryBucketHash": 3313201758,
+			"visibilityScope": 0,
+			"purchasableScope": 0,
+			"exclusivity": -1,
+			"sortValue": 0,
+			"expirationTooltip": "",
+			"redirectToSaleIndexes": [],
+			"socketOverrides": []
+		},
+		{
+			"vendorItemIndex": 1,
+			"itemHash": 2797445293,
+			"quantity": 1,
+			"failureIndexes": [],
+			"priceOverrideEnabled": false,
+			"currencies": [],
+			"refundPolicy": 0,
+			"refundTimeLimit": 0,
+			"rewardAdjustorPointerHash": 0,
+			"creationLevels": [
+				{
+					"level": 0
+				}
+			],
+			"displayCategoryIndex": 1,
+			"seedOverride": 0,
+			"categoryIndex": 1,
+			"originalCategoryIndex": 1,
+			"weight": 0,
+			"minimumLevel": 0,
+			"maximumLevel": 0,
+			"licenseUnlockHash": 0,
+			"action": {
+				"executeSeconds": 0,
+				"isPositive": false
+			},
+			"displayCategory": "",
+			"inventoryBucketHash": 3313201758,
+			"visibilityScope": 0,
+			"purchasableScope": 0,
+			"exclusivity": -1,
+			"sortValue": 0,
+			"expirationTooltip": "",
+			"redirectToSaleIndexes": [],
+			"socketOverrides": []
+		},
+		{
+			"vendorItemIndex": 2,
+			"itemHash": 911356576,
+			"quantity": 1,
+			"failureIndexes": [],
+			"priceOverrideEnabled": false,
+			"currencies": [],
+			"refundPolicy": 0,
+			"refundTimeLimit": 0,
+			"rewardAdjustorPointerHash": 0,
+			"creationLevels": [
+				{
+					"level": 0
+				}
+			],
+			"displayCategoryIndex": 1,
+			"seedOverride": 0,
+			"categoryIndex": 1,
+			"originalCategoryIndex": 1,
+			"weight": 0,
+			"minimumLevel": 0,
+			"maximumLevel": 0,
+			"licenseUnlockHash": 0,
+			"action": {
+				"executeSeconds": 0,
+				"isPositive": false
+			},
+			"displayCategory": "",
+			"inventoryBucketHash": 3313201758,
+			"visibilityScope": 0,
+			"purchasableScope": 0,
+			"exclusivity": -1,
+			"sortValue": 0,
+			"expirationTooltip": "",
+			"redirectToSaleIndexes": [],
+			"socketOverrides": []
+		},
+		{
+			"vendorItemIndex": 3,
+			"itemHash": 685004314,
+			"quantity": 1,
+			"failureIndexes": [],
+			"priceOverrideEnabled": false,
+			"currencies": [],
+			"refundPolicy": 0,
+			"refundTimeLimit": 0,
+			"rewardAdjustorPointerHash": 0,
+			"creationLevels": [
+				{
+					"level": 0
+				}
+			],
+			"displayCategoryIndex": 1,
+			"seedOverride": 0,
+			"categoryIndex": 1,
+			"originalCategoryIndex": 1,
+			"weight": 0,
+			"minimumLevel": 0,
+			"maximumLevel": 0,
+			"licenseUnlockHash": 0,
+			"action": {
+				"executeSeconds": 0,
+				"isPositive": false
+			},
+			"displayCategory": "",
+			"inventoryBucketHash": 3313201758,
+			"visibilityScope": 0,
+			"purchasableScope": 0,
+			"exclusivity": -1,
+			"sortValue": 0,
+			"expirationTooltip": "",
+			"redirectToSaleIndexes": [],
+			"socketOverrides": []
+		},
+		{
+			"vendorItemIndex": 4,
+			"itemHash": 548288405,
+			"quantity": 1,
+			"failureIndexes": [],
+			"priceOverrideEnabled": false,
+			"currencies": [],
+			"refundPolicy": 0,
+			"refundTimeLimit": 0,
+			"rewardAdjustorPointerHash": 0,
+			"creationLevels": [
+				{
+					"level": 0
+				}
+			],
+			"displayCategoryIndex": 1,
+			"seedOverride": 0,
+			"categoryIndex": 1,
+			"originalCategoryIndex": 1,
+			"weight": 0,
+			"minimumLevel": 0,
+			"maximumLevel": 0,
+			"licenseUnlockHash": 0,
+			"action": {
+				"executeSeconds": 0,
+				"isPositive": false
+			},
+			"displayCategory": "",
+			"inventoryBucketHash": 3313201758,
+			"visibilityScope": 0,
+			"purchasableScope": 0,
+			"exclusivity": -1,
+			"sortValue": 0,
+			"expirationTooltip": "",
+			"redirectToSaleIndexes": [],
+			"socketOverrides": []
+		}
+	],
+	"services": [],
+	"acceptedItems": [],
+	"returnWithVendorRequest": false,
+	"ignoreSaleItemHashes": [],
+	"hash": 676852051,
+	"index": 442,
+	"redacted": false,
+	"blacklisted": false
 }

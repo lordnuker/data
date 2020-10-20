@@ -1,97 +1,97 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Quest Step", 
-    "nonTransferrable": true, 
-    "tooltipNotifications": [], 
-    "itemType": 12, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 1345459588, 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "setData": {
-        "trackingUnlockValueHash": 0, 
-        "setIsFeatured": false, 
-        "itemList": [
-            {
-                "itemHash": 4231576263, 
-                "trackingValue": 50
-            }, 
-            {
-                "itemHash": 1057038659, 
-                "trackingValue": 100
-            }, 
-            {
-                "itemHash": 1853888839, 
-                "trackingValue": 200
-            }, 
-            {
-                "itemHash": 1400205010, 
-                "trackingValue": 300
-            }, 
-            {
-                "itemHash": 2952544973, 
-                "trackingValue": 400
-            }, 
-            {
-                "itemHash": 896064234, 
-                "trackingValue": 500
-            }
-        ], 
-        "requireOrderedSetItemAdd": true, 
-        "questLineName": "Nightfall: The Ordeal", 
-        "abandonmentUnlockHash": 0, 
-        "setType": "quest_global"
-    }, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Quest Step", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": true, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        16
-    ], 
-    "uiItemDisplayStyle": "", 
-    "secondaryOverlay": "/img/misc/missing_icon_d2.png", 
-    "secondaryIcon": "/common/destiny2_content/icons/3142923bc72bcd5a769badc26bd8b508.jpg", 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "secondarySpecial": "/img/misc/missing_icon_d2.png", 
-    "displaySource": "", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/04bd8dee1dbd7e42bda39f969d9e2664.jpg", 
-                    "/common/destiny2_content/icons/dbf893704df0cb85d3e9b288b6c6c11e.png", 
-                    "/common/destiny2_content/icons/cdcbb1e51c4329ae465b03a43d45ac8c.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/04bd8dee1dbd7e42bda39f969d9e2664.jpg", 
-        "hasIcon": true, 
-        "description": "Talk to Banshee-44 in the Tower.", 
-        "name": "Finishing Touches"
-    }
+	"displayProperties": {
+		"description": "Talk to Banshee-44 in the Tower.",
+		"name": "Finishing Touches",
+		"icon": "/common/destiny2_content/icons/04bd8dee1dbd7e42bda39f969d9e2664.jpg",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/04bd8dee1dbd7e42bda39f969d9e2664.jpg",
+					"/common/destiny2_content/icons/dbf893704df0cb85d3e9b288b6c6c11e.png",
+					"/common/destiny2_content/icons/cdcbb1e51c4329ae465b03a43d45ac8c.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"secondaryIcon": "/common/destiny2_content/icons/3142923bc72bcd5a769badc26bd8b508.jpg",
+	"secondaryOverlay": "/img/misc/missing_icon_d2.png",
+	"secondarySpecial": "/img/misc/missing_icon_d2.png",
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Quest Step",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Quest Step",
+	"displaySource": "",
+	"setData": {
+		"itemList": [
+			{
+				"trackingValue": 50,
+				"itemHash": 4231576263
+			},
+			{
+				"trackingValue": 100,
+				"itemHash": 1057038659
+			},
+			{
+				"trackingValue": 200,
+				"itemHash": 1853888839
+			},
+			{
+				"trackingValue": 300,
+				"itemHash": 1400205010
+			},
+			{
+				"trackingValue": 400,
+				"itemHash": 2952544973
+			},
+			{
+				"trackingValue": 500,
+				"itemHash": 896064234
+			}
+		],
+		"trackingUnlockValueHash": 0,
+		"abandonmentUnlockHash": 0,
+		"requireOrderedSetItemAdd": true,
+		"setIsFeatured": false,
+		"setType": "quest_global",
+		"questLineName": "Nightfall: The Ordeal"
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1345459588,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": true,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		16
+	],
+	"specialItemType": 0,
+	"itemType": 12,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

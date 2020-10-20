@@ -1,69 +1,69 @@
 {
-    "index": 322, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 1, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": true, 
-        "titlesByGenderHash": {
-            "3111576190": "Harbinger", 
-            "2204441813": "Harbinger"
-        }, 
-        "titlesByGender": {
-            "Male": "Harbinger", 
-            "Female": "Harbinger"
-        }
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        731933435
-    ], 
-    "parentNodeHashes": [], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/e4bd7eb597cc57c87f359b6c6378433e.png", 
-                    "/common/destiny2_content/icons/7f5bc819c19ae5a0fb7be5bcababd44c.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/76e00303bd710044598862cb8a9b214e.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/e4bd7eb597cc57c87f359b6c6378433e.png", 
-        "hasIcon": true, 
-        "description": "Complete all Triumphs for Shadowkeep.", 
-        "name": "Shadowkeep"
-    }, 
-    "scope": 0, 
-    "hash": 3793754396
+	"displayProperties": {
+		"description": "Complete all Triumphs for Shadowkeep.",
+		"name": "Shadowkeep",
+		"icon": "/common/destiny2_content/icons/e4bd7eb597cc57c87f359b6c6378433e.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/e4bd7eb597cc57c87f359b6c6378433e.png",
+					"/common/destiny2_content/icons/7f5bc819c19ae5a0fb7be5bcababd44c.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/76e00303bd710044598862cb8a9b214e.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		731933435
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": true,
+		"titlesByGender": {
+			"Male": "Harbinger",
+			"Female": "Harbinger"
+		},
+		"titlesByGenderHash": {
+			"2204441813": "Harbinger",
+			"3111576190": "Harbinger"
+		}
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 1,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [],
+	"hash": 3793754396,
+	"index": 326,
+	"redacted": false,
+	"blacklisted": false
 }

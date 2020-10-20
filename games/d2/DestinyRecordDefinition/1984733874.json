@@ -1,62 +1,62 @@
 {
-    "index": 1785, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        4232595403
-    ], 
-    "parentNodeHashes": [
-        2341654316
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 100, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/650b3dd617c6873bd48617797c5a54c2.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/00b0e67411474497e3f6c26dd4a23bd2.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/650b3dd617c6873bd48617797c5a54c2.png", 
-        "hasIcon": true, 
-        "description": "Return to Eris Morn weekly to learn what further messages she has received from the Unknown Artifact.", 
-        "name": "Unveiling"
-    }, 
-    "scope": 0, 
-    "hash": 1984733874
+	"displayProperties": {
+		"description": "Return to Eris Morn weekly to learn what further messages she has received from the Unknown Artifact.",
+		"name": "Unveiling",
+		"icon": "/common/destiny2_content/icons/650b3dd617c6873bd48617797c5a54c2.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/650b3dd617c6873bd48617797c5a54c2.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/00b0e67411474497e3f6c26dd4a23bd2.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		4232595403
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 100,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		2341654316
+	],
+	"hash": 1984733874,
+	"index": 1797,
+	"redacted": false,
+	"blacklisted": false
 }

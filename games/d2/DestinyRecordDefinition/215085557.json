@@ -1,65 +1,65 @@
 {
-    "index": 1504, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 2, 
-        "intervalObjectives": [
-            {
-                "intervalScoreValue": 10, 
-                "intervalObjectiveHash": 4242241854
-            }, 
-            {
-                "intervalScoreValue": 15, 
-                "intervalObjectiveHash": 4242241852
-            }, 
-            {
-                "intervalScoreValue": 25, 
-                "intervalObjectiveHash": 4242241853
-            }, 
-            {
-                "intervalScoreValue": 25, 
-                "intervalObjectiveHash": 4242241850
-            }
-        ], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [], 
-    "parentNodeHashes": [
-        2783661087
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/a24eadbf986a1c51afbe0f57498539cb.png", 
-        "hasIcon": true, 
-        "description": "As an invader, defeat Guardians with Fists of Havoc, Hammer of Sol, Burning Maul, Sentinel Shield, Spectral Blades, Golden Gun, Arc Staff, Whirlwind Guard, Stormtrance, Nova Warp, or Daybreak.", 
-        "name": "When in Roam"
-    }, 
-    "scope": 0, 
-    "hash": 215085557
+	"displayProperties": {
+		"description": "As an invader, defeat Guardians with Fists of Havoc, Hammer of Sol, Burning Maul, Sentinel Shield, Spectral Blades, Golden Gun, Arc Staff, Whirlwind Guard, Stormtrance, Nova Warp, or Daybreak.",
+		"name": "When in Roam",
+		"icon": "/common/destiny2_content/icons/a24eadbf986a1c51afbe0f57498539cb.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [
+			{
+				"intervalObjectiveHash": 4242241854,
+				"intervalScoreValue": 10
+			},
+			{
+				"intervalObjectiveHash": 4242241852,
+				"intervalScoreValue": 15
+			},
+			{
+				"intervalObjectiveHash": 4242241853,
+				"intervalScoreValue": 25
+			},
+			{
+				"intervalObjectiveHash": 4242241850,
+				"intervalScoreValue": 25
+			}
+		],
+		"originalObjectiveArrayInsertionIndex": 2,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		2783661087
+	],
+	"hash": 215085557,
+	"index": 1516,
+	"redacted": false,
+	"blacklisted": false
 }

@@ -1,35 +1,35 @@
 {
-    "index": 225, 
-    "hash": 659938750, 
-    "blacklisted": false, 
-    "avoidDuplicatesOnInitialization": false, 
-    "insertAction": {
-        "actionSoundHash": 0, 
-        "isPositiveAction": false, 
-        "actionType": 0, 
-        "actionExecuteSeconds": 1
-    }, 
-    "plugWhitelist": [
-        {
-            "categoryIdentifier": "events.dawning.recipe", 
-            "categoryHash": 327911382
-        }, 
-        {
-            "categoryIdentifier": "events.dawning.no_recipe", 
-            "categoryHash": 753199014
-        }
-    ], 
-    "currencyScalars": [], 
-    "redacted": false, 
-    "visibility": 0, 
-    "isPreviewEnabled": false, 
-    "alwaysRandomizeSockets": false, 
-    "overridesUiAppearance": false, 
-    "displayProperties": {
-        "hasIcon": false, 
-        "description": "Once you've successfully baked a recipe, it will show up here for easy access.", 
-        "name": "Recipes"
-    }, 
-    "socketCategoryHash": 2059652296, 
-    "hideDuplicateReusablePlugs": false
+	"displayProperties": {
+		"description": "Once you've successfully baked a recipe, it will show up here for easy access.",
+		"name": "Recipes",
+		"hasIcon": false
+	},
+	"insertAction": {
+		"actionExecuteSeconds": 1,
+		"actionSoundHash": 0,
+		"isPositiveAction": false,
+		"actionType": 0
+	},
+	"plugWhitelist": [
+		{
+			"categoryHash": 327911382,
+			"categoryIdentifier": "events.dawning.recipe"
+		},
+		{
+			"categoryHash": 753199014,
+			"categoryIdentifier": "events.dawning.no_recipe"
+		}
+	],
+	"socketCategoryHash": 2059652296,
+	"visibility": 0,
+	"alwaysRandomizeSockets": false,
+	"isPreviewEnabled": false,
+	"hideDuplicateReusablePlugs": false,
+	"overridesUiAppearance": false,
+	"avoidDuplicatesOnInitialization": false,
+	"currencyScalars": [],
+	"hash": 659938750,
+	"index": 225,
+	"redacted": false,
+	"blacklisted": false
 }

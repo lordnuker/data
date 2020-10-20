@@ -1,50 +1,50 @@
 {
-    "index": 1467, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        2192457009
-    ], 
-    "parentNodeHashes": [
-        2883543112
-    ], 
-    "expirationInfo": {
-        "hasExpiration": true, 
-        "description": "Available only during Crimson Days"
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/24799c9c87cc53e0e4ac20efde29dbd8.png", 
-        "hasIcon": true, 
-        "description": "As a fireteam, defeat Guardians separated from their partner.\n\nMay be completed only within the Crimson Days playlist.", 
-        "name": "Divide and Conquer"
-    }, 
-    "scope": 0, 
-    "hash": 734525036
+	"displayProperties": {
+		"description": "As a fireteam, defeat Guardians separated from their partner.\n\nMay be completed only within the Crimson Days playlist.",
+		"name": "Divide and Conquer",
+		"icon": "/common/destiny2_content/icons/24799c9c87cc53e0e4ac20efde29dbd8.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		2192457009
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": true,
+		"description": "Available only during Crimson Days"
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		2883543112
+	],
+	"hash": 734525036,
+	"index": 1479,
+	"redacted": false,
+	"blacklisted": false
 }

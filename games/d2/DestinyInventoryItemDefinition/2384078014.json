@@ -1,158 +1,158 @@
 {
-    "itemTypeAndTierDisplayName": "", 
-    "itemType": 20, 
-    "investmentStats": [], 
-    "redacted": false, 
-    "tooltipNotifications": [], 
-    "index": 4830, 
-    "allowActions": true, 
-    "gearset": {
-        "trackingValueMax": 0, 
-        "itemList": [
-            3717471208
-        ]
-    }, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Common", 
-        "bucketTypeHash": 3621873013, 
-        "tierTypeHash": 3340296461, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 2, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "preview": {
-        "screenStyle": "screen_style_vendor", 
-        "derivedItemCategories": [
-            {
-                "items": [
-                    {
-                        "itemHash": 3717471208, 
-                        "vendorItemIndex": 0
-                    }, 
-                    {
-                        "itemHash": 3717471209, 
-                        "vendorItemIndex": 1
-                    }
-                ], 
-                "categoryDescription": "", 
-                "categoryIndex": 0
-            }, 
-            {
-                "items": [
-                    {
-                        "itemHash": 980898610, 
-                        "vendorItemIndex": 2
-                    }, 
-                    {
-                        "itemHash": 980898611, 
-                        "vendorItemIndex": 3
-                    }, 
-                    {
-                        "itemHash": 980898608, 
-                        "vendorItemIndex": 4
-                    }, 
-                    {
-                        "itemHash": 980898609, 
-                        "vendorItemIndex": 5
-                    }, 
-                    {
-                        "itemHash": 980898614, 
-                        "vendorItemIndex": 6
-                    }, 
-                    {
-                        "itemHash": 980898615, 
-                        "vendorItemIndex": 7
-                    }
-                ], 
-                "categoryDescription": "", 
-                "categoryIndex": 0
-            }, 
-            {
-                "items": [
-                    {
-                        "itemHash": 4213271811, 
-                        "vendorItemIndex": 8
-                    }, 
-                    {
-                        "itemHash": 4213271810, 
-                        "vendorItemIndex": 9
-                    }
-                ], 
-                "categoryDescription": "", 
-                "categoryIndex": 0
-            }, 
-            {
-                "items": [
-                    {
-                        "itemHash": 2298896094, 
-                        "vendorItemIndex": 10
-                    }, 
-                    {
-                        "itemHash": 2298896095, 
-                        "vendorItemIndex": 11
-                    }, 
-                    {
-                        "itemHash": 2298896092, 
-                        "vendorItemIndex": 12
-                    }, 
-                    {
-                        "itemHash": 2298896093, 
-                        "vendorItemIndex": 13
-                    }, 
-                    {
-                        "itemHash": 2298896090, 
-                        "vendorItemIndex": 14
-                    }, 
-                    {
-                        "itemHash": 2298896091, 
-                        "vendorItemIndex": 15
-                    }
-                ], 
-                "categoryDescription": "", 
-                "categoryIndex": 0
-            }
-        ], 
-        "previewVendorHash": 3530090303, 
-        "previewActionString": "Preview"
-    }, 
-    "hash": 2384078014, 
-    "equippable": false, 
-    "itemTypeDisplayName": "", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        3109687656
-    ], 
-    "uiItemDisplayStyle": "ui_display_style_set_container", 
-    "nonTransferrable": true, 
-    "tooltipStyle": "vendor_action", 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "blacklisted": false, 
-    "displaySource": "", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/910c56721a24a485f7569cd8a2a54486.jpg", 
-        "hasIcon": true, 
-        "description": "Ghost Shells and Sparrows available only during the Solstice of Heroes.", 
-        "name": "Ghost Shells and Sparrows"
-    }
+	"displayProperties": {
+		"description": "Ghost Shells and Sparrows available only during the Solstice of Heroes.",
+		"name": "Ghost Shells and Sparrows",
+		"icon": "/common/destiny2_content/icons/910c56721a24a485f7569cd8a2a54486.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "",
+	"uiItemDisplayStyle": "ui_display_style_set_container",
+	"itemTypeAndTierDisplayName": "",
+	"displaySource": "",
+	"tooltipStyle": "vendor_action",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 3621873013,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 3340296461,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Common",
+		"tierType": 2,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"preview": {
+		"screenStyle": "screen_style_vendor",
+		"previewVendorHash": 3530090303,
+		"previewActionString": "Preview",
+		"derivedItemCategories": [
+			{
+				"categoryDescription": "",
+				"items": [
+					{
+						"itemHash": 3717471208,
+						"vendorItemIndex": 0
+					},
+					{
+						"itemHash": 3717471209,
+						"vendorItemIndex": 1
+					}
+				],
+				"categoryIndex": 0
+			},
+			{
+				"categoryDescription": "",
+				"items": [
+					{
+						"itemHash": 980898610,
+						"vendorItemIndex": 2
+					},
+					{
+						"itemHash": 980898611,
+						"vendorItemIndex": 3
+					},
+					{
+						"itemHash": 980898608,
+						"vendorItemIndex": 4
+					},
+					{
+						"itemHash": 980898609,
+						"vendorItemIndex": 5
+					},
+					{
+						"itemHash": 980898614,
+						"vendorItemIndex": 6
+					},
+					{
+						"itemHash": 980898615,
+						"vendorItemIndex": 7
+					}
+				],
+				"categoryIndex": 0
+			},
+			{
+				"categoryDescription": "",
+				"items": [
+					{
+						"itemHash": 4213271811,
+						"vendorItemIndex": 8
+					},
+					{
+						"itemHash": 4213271810,
+						"vendorItemIndex": 9
+					}
+				],
+				"categoryIndex": 0
+			},
+			{
+				"categoryDescription": "",
+				"items": [
+					{
+						"itemHash": 2298896094,
+						"vendorItemIndex": 10
+					},
+					{
+						"itemHash": 2298896095,
+						"vendorItemIndex": 11
+					},
+					{
+						"itemHash": 2298896092,
+						"vendorItemIndex": 12
+					},
+					{
+						"itemHash": 2298896093,
+						"vendorItemIndex": 13
+					},
+					{
+						"itemHash": 2298896090,
+						"vendorItemIndex": 14
+					},
+					{
+						"itemHash": 2298896091,
+						"vendorItemIndex": 15
+					}
+				],
+				"categoryIndex": 0
+			}
+		]
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"gearset": {
+		"trackingValueMax": 0,
+		"itemList": [
+			3717471208
+		]
+	},
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		3109687656
+	],
+	"specialItemType": 0,
+	"itemType": 20,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"hash": 2384078014,
+	"index": 4866,
+	"redacted": false,
+	"blacklisted": false
 }

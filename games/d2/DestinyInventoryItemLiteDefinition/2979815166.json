@@ -1,0 +1,75 @@
+{
+	"displayProperties": {
+		"description": "This mod's secondary perk is active when at least one other Arc mod is socketed into this armor.",
+		"name": "Reactive Pulse",
+		"icon": "/common/destiny2_content/icons/7e6c05e5d22544345b7d8a58f7957c68.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/7e6c05e5d22544345b7d8a58f7957c68.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/c920562e90fa0c3af36496edc5961a68.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Arrival Armor Mod",
+	"uiItemDisplayStyle": "ui_display_style_energy_mod",
+	"itemTypeAndTierDisplayName": "Common Arrival Armor Mod",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 2422292810,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 3340296461,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Common",
+		"tierType": 2,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [
+		{
+			"requirementDisplayString": "",
+			"perkHash": 3009866558,
+			"perkVisibility": 1
+		},
+		{
+			"requirementDisplayString": "",
+			"perkHash": 270858236,
+			"perkVisibility": 1
+		}
+	],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		59,
+		4104513227
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
+}

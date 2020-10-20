@@ -1,57 +1,57 @@
 {
-    "repeatLastStep": false, 
-    "rewardItems": [], 
-    "progressToNextStepScaling": 0, 
-    "currentResetCountUnlockValueHash": 0, 
-    "blacklisted": false, 
-    "index": 9, 
-    "redacted": false, 
-    "storageMappingIndex": 0, 
-    "visible": true, 
-    "steps": [
-        {
-            "displayEffectType": 0, 
-            "stepName": "", 
-            "progressTotal": 0
-        }, 
-        {
-            "displayEffectType": 0, 
-            "stepName": "", 
-            "progressTotal": 100000
-        }, 
-        {
-            "displayEffectType": 0, 
-            "stepName": "", 
-            "progressTotal": 125000
-        }, 
-        {
-            "displayEffectType": 0, 
-            "stepName": "", 
-            "progressTotal": 125000
-        }, 
-        {
-            "displayEffectType": 0, 
-            "stepName": "", 
-            "progressTotal": 125000
-        }, 
-        {
-            "displayEffectType": 0, 
-            "stepName": "", 
-            "progressTotal": 125000
-        }
-    ], 
-    "BungieNet.Engine.Contract.Destiny.World.Definitions.IDestinyDisplayDefinition.displayProperties": {
-        "hasIcon": false, 
-        "description": "The clan's level this season.\n\nAs the clan levels up, new perks will become available on your Clan Banner.", 
-        "displayUnitsName": "Clan XP", 
-        "name": "Clan Level"
-    }, 
-    "displayProperties": {
-        "hasIcon": false, 
-        "description": "The clan's level this season.\n\nAs the clan levels up, new perks will become available on your Clan Banner.", 
-        "displayUnitsName": "Clan XP", 
-        "name": "Clan Level"
-    }, 
-    "scope": 2, 
-    "hash": 584850370
+	"displayProperties": {
+		"displayUnitsName": "Clan XP",
+		"description": "The clan's level this season.\n\nAs the clan levels up, new perks will become available on your Clan Banner.",
+		"name": "Clan Level",
+		"hasIcon": false
+	},
+	"BungieNet.Engine.Contract.Destiny.World.Definitions.IDestinyDisplayDefinition.displayProperties": {
+		"displayUnitsName": "Clan XP",
+		"description": "The clan's level this season.\n\nAs the clan levels up, new perks will become available on your Clan Banner.",
+		"name": "Clan Level",
+		"hasIcon": false
+	},
+	"scope": 2,
+	"repeatLastStep": false,
+	"steps": [
+		{
+			"stepName": "",
+			"displayEffectType": 0,
+			"progressTotal": 0
+		},
+		{
+			"stepName": "",
+			"displayEffectType": 0,
+			"progressTotal": 100000
+		},
+		{
+			"stepName": "",
+			"displayEffectType": 0,
+			"progressTotal": 125000
+		},
+		{
+			"stepName": "",
+			"displayEffectType": 0,
+			"progressTotal": 125000
+		},
+		{
+			"stepName": "",
+			"displayEffectType": 0,
+			"progressTotal": 125000
+		},
+		{
+			"stepName": "",
+			"displayEffectType": 0,
+			"progressTotal": 125000
+		}
+	],
+	"visible": true,
+	"progressToNextStepScaling": 0,
+	"storageMappingIndex": 0,
+	"currentResetCountUnlockValueHash": 0,
+	"rewardItems": [],
+	"hash": 584850370,
+	"index": 9,
+	"redacted": false,
+	"blacklisted": false
 }

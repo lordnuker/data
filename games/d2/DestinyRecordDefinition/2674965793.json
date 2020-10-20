@@ -1,54 +1,54 @@
 {
-    "index": 1499, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        1227683730, 
-        1227683731, 
-        1227683728, 
-        1227683729, 
-        1227683734
-    ], 
-    "parentNodeHashes": [
-        1333331795
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 100, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/a24eadbf986a1c51afbe0f57498539cb.png", 
-        "hasIcon": true, 
-        "description": "As a Warlock, win matches, defeat combatants, deposit Motes, and defeat opposing Titans and Hunters.", 
-        "name": "Warlock Mastery"
-    }, 
-    "scope": 0, 
-    "hash": 2674965793
+	"displayProperties": {
+		"description": "As a Warlock, win matches, defeat combatants, deposit Motes, and defeat opposing Titans and Hunters.",
+		"name": "Warlock Mastery",
+		"icon": "/common/destiny2_content/icons/a24eadbf986a1c51afbe0f57498539cb.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		1227683730,
+		1227683731,
+		1227683728,
+		1227683729,
+		1227683734
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 100,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		1333331795
+	],
+	"hash": 2674965793,
+	"index": 1511,
+	"redacted": false,
+	"blacklisted": false
 }

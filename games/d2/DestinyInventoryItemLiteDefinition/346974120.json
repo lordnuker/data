@@ -1,79 +1,81 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Rare Bounty", 
-    "itemType": 0, 
-    "tooltipNotifications": [], 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 1345459588, 
-        "stackUniqueLabel": "v410.bounties.armory.special.marathon_kills", 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "Expired. Unless completed, this bounty will be removed when you return to orbit or load into a new activity.", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "Expires in .", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": "Expired. Bounty will be removed upon leaving orbit."
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Rare Bounty", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "displaySource": "\"The power of the Light is expressed in so many ways. Proficiency in all of them is key.\" —Ikora Rey", 
-    "value": {
-        "itemValue": [
-            {
-                "itemHash": 2127149322, 
-                "quantity": 0
-            }, 
-            {
-                "itemHash": 3159615086, 
-                "quantity": 2500
-            }, 
-            {
-                "itemHash": 0, 
-                "quantity": 0
-            }, 
-            {
-                "itemHash": 0, 
-                "quantity": 0
-            }, 
-            {
-                "itemHash": 0, 
-                "quantity": 0
-            }, 
-            {
-                "itemHash": 0, 
-                "quantity": 0
-            }
-        ], 
-        "valueDescription": ""
-    }, 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/0fecab374eb0e82f41f48dab97437369.jpg", 
-        "hasIcon": true, 
-        "description": "Defeat enemies with Arc, Solar, and Void energy while participating in the ignition of a lost forge.", 
-        "name": "Energy Proficiency"
-    }
+	"displayProperties": {
+		"description": "Defeat enemies with Arc, Solar, and Void energy while participating in the ignition of a lost forge.",
+		"name": "Energy Proficiency",
+		"icon": "/common/destiny2_content/icons/0fecab374eb0e82f41f48dab97437369.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Rare Bounty",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Rare Bounty",
+	"displaySource": "\"The power of the Light is expressed in so many ways. Proficiency in all of them is key.\" —Ikora Rey",
+	"inventory": {
+		"stackUniqueLabel": "v410.bounties.armory.special.marathon_kills",
+		"maxStackSize": 1,
+		"bucketTypeHash": 1345459588,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "Expires in .",
+		"expiredInActivityMessage": "Expired. Unless completed, this bounty will be removed when you return to orbit or load into a new activity.",
+		"expiredInOrbitMessage": "Expired. Bounty will be removed upon leaving orbit.",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"value": {
+		"itemValue": [
+			{
+				"itemHash": 2127149322,
+				"quantity": 0
+			},
+			{
+				"itemHash": 3159615086,
+				"quantity": 2500
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			}
+		],
+		"valueDescription": ""
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		1784235469
+	],
+	"specialItemType": 0,
+	"itemType": 26,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

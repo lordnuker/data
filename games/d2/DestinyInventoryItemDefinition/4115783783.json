@@ -1,0 +1,233 @@
+{
+	"displayProperties": {
+		"description": "Equip this shader to change the color of your gear.",
+		"name": "Envious Touch",
+		"icon": "/common/destiny2_content/icons/812ff40341bf01767f2e2ce48bb6edcd.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"collectibleHash": 1302152801,
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Shader",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Shader",
+	"displaySource": "",
+	"action": {
+		"verbName": "Dismantle",
+		"verbDescription": "",
+		"isPositive": false,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"maxStackSize": 1000,
+		"bucketTypeHash": 2973005342,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"translationBlock": {
+		"weaponPatternHash": 0,
+		"defaultDyes": [
+			{
+				"channelHash": 662199250,
+				"dyeHash": 1347093896
+			},
+			{
+				"channelHash": 218592586,
+				"dyeHash": 4110472404
+			},
+			{
+				"channelHash": 1367384683,
+				"dyeHash": 513851149
+			},
+			{
+				"channelHash": 1667433279,
+				"dyeHash": 2648228173
+			},
+			{
+				"channelHash": 1667433278,
+				"dyeHash": 2648228172
+			},
+			{
+				"channelHash": 1667433277,
+				"dyeHash": 2648228175
+			},
+			{
+				"channelHash": 3073305669,
+				"dyeHash": 2635345891
+			},
+			{
+				"channelHash": 3073305668,
+				"dyeHash": 2635345890
+			},
+			{
+				"channelHash": 3073305671,
+				"dyeHash": 2635345889
+			},
+			{
+				"channelHash": 1971582085,
+				"dyeHash": 508935403
+			},
+			{
+				"channelHash": 1971582084,
+				"dyeHash": 508935402
+			},
+			{
+				"channelHash": 1971582087,
+				"dyeHash": 508935401
+			},
+			{
+				"channelHash": 373026848,
+				"dyeHash": 2993979922
+			},
+			{
+				"channelHash": 373026849,
+				"dyeHash": 2993979923
+			},
+			{
+				"channelHash": 373026850,
+				"dyeHash": 2993979920
+			}
+		],
+		"lockedDyes": [],
+		"customDyes": [
+			{
+				"channelHash": 662199250,
+				"dyeHash": 1347093896
+			},
+			{
+				"channelHash": 218592586,
+				"dyeHash": 4110472404
+			},
+			{
+				"channelHash": 1367384683,
+				"dyeHash": 513851149
+			},
+			{
+				"channelHash": 1667433279,
+				"dyeHash": 2648228173
+			},
+			{
+				"channelHash": 1667433278,
+				"dyeHash": 2648228172
+			},
+			{
+				"channelHash": 1667433277,
+				"dyeHash": 2648228175
+			},
+			{
+				"channelHash": 3073305669,
+				"dyeHash": 2635345891
+			},
+			{
+				"channelHash": 3073305668,
+				"dyeHash": 2635345890
+			},
+			{
+				"channelHash": 3073305671,
+				"dyeHash": 2635345889
+			},
+			{
+				"channelHash": 1971582085,
+				"dyeHash": 508935403
+			},
+			{
+				"channelHash": 1971582084,
+				"dyeHash": 508935402
+			},
+			{
+				"channelHash": 1971582087,
+				"dyeHash": 508935401
+			},
+			{
+				"channelHash": 373026848,
+				"dyeHash": 2993979922
+			},
+			{
+				"channelHash": 373026849,
+				"dyeHash": 2993979923
+			},
+			{
+				"channelHash": 373026850,
+				"dyeHash": 2993979920
+			}
+		],
+		"arrangements": [],
+		"hasGeometry": false
+	},
+	"preview": {
+		"screenStyle": "screen_style_sockets",
+		"previewVendorHash": 0,
+		"previewActionString": "Preview"
+	},
+	"plug": {
+		"insertionRules": [
+			{
+				"failureMessage": "Requires Level 10"
+			}
+		],
+		"plugCategoryIdentifier": "shader",
+		"plugCategoryHash": 2973005342,
+		"onActionRecreateSelf": false,
+		"actionRewardSiteHash": 0,
+		"actionRewardItemOverrideHash": 0,
+		"insertionMaterialRequirementHash": 690387059,
+		"previewItemOverrideHash": 0,
+		"enabledMaterialRequirementHash": 0,
+		"enabledRules": [],
+		"uiPlugLabel": "",
+		"plugStyle": 0,
+		"plugAvailability": 0,
+		"alternateUiPlugLabel": "",
+		"alternatePlugStyle": 0,
+		"isDummyPlug": false
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [
+		41,
+		52
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 20,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"traitIds": [
+		"item_type.shader"
+	],
+	"hash": 4115783783,
+	"index": 11879,
+	"redacted": false,
+	"blacklisted": false
+}

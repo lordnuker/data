@@ -1,16 +1,31 @@
 {
-    "index": 3445, 
-    "hash": 3553415309, 
-    "blacklisted": false, 
-    "presentationNodeType": 0, 
-    "redacted": true, 
-    "displayProperties": {
-        "icon": "/img/misc/missing_icon_d2.png", 
-        "hasIcon": false, 
-        "description": "Keep it secret.  Keep it safe.", 
-        "highResIcon": "/img/misc/missing_icon_d2.png", 
-        "name": "Classified"
-    }, 
-    "scope": 0, 
-    "itemHash": 0
+	"displayProperties": {
+		"description": "Equip this shader to change the color of your gear.",
+		"name": "Rivalry Whitesand",
+		"icon": "/common/destiny2_content/icons/92992e4ebeb57c89a764f48989b45436.jpg",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"sourceString": "Source: Eververse",
+	"sourceHash": 860688654,
+	"itemHash": 2171727443,
+	"acquisitionInfo": {
+		"acquireMaterialRequirementHash": 1921496923,
+		"runOnlyAcquisitionRewardSite": false
+	},
+	"stateInfo": {
+		"requirements": {
+			"entitlementUnavailableMessage": ""
+		}
+	},
+	"presentationNodeType": 1,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		2063273188
+	],
+	"hash": 3553415309,
+	"index": 3775,
+	"redacted": false,
+	"blacklisted": false
 }

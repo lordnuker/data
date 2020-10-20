@@ -1,51 +1,60 @@
 {
-    "itemTypeAndTierDisplayName": "Exotic Quest Step", 
-    "itemType": 12, 
-    "tooltipNotifications": [], 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Exotic", 
-        "bucketTypeHash": 1345459588, 
-        "tierTypeHash": 2759499571, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 6, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Quest Step", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": true, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        16
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "displaySource": "\"This is it, Guardian—the furthest you've gone down sorrow's road. There ain't no turnin' back. If the Hive are upgrading their arsenal, we need to know where and how, so we can stop it… and learn from it. Don't worry. This ritual won't make you a bad guy… It'll just feel like it.\" —The Drifter", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/11f1b15a30f3eee664416064f2788f77.jpg", 
-        "hasIcon": true, 
-        "description": "The Hive weapon master is creating new Weapons of Sorrow. You need to stop it.\nGather powerful objects to sully your Light and complete the ritual.\n\n- Collect Etched Crystals from Lost Sector wanted escapees.\n- Earn multiple \"Best served cold\" and \"Blood for blood\" medals in the crucible.\n- Defeat Hive with precision damage to collect larvae.\n- Sacrifice Hive bosses summoned in witches' rituals.", 
-        "name": "Sullied Light"
-    }
+	"displayProperties": {
+		"description": "The Hive weapon master is creating new Weapons of Sorrow. You need to stop it.\nGather powerful objects to sully your Light and complete the ritual.\n\n- Collect Etched Crystals from Lost Sector wanted escapees.\n- Earn multiple \"Best served cold\" and \"Blood for blood\" medals in the crucible.\n- Defeat Hive with precision damage to collect larvae.\n- Sacrifice Hive bosses summoned in witches' rituals.",
+		"name": "Sullied Light",
+		"icon": "/common/destiny2_content/icons/11f1b15a30f3eee664416064f2788f77.jpg",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/11f1b15a30f3eee664416064f2788f77.jpg",
+					"/common/destiny2_content/icons/04605bf897241b9c5add1b5aefc7ae0c.png",
+					"/common/destiny2_content/icons/541c5087a9fab05efb5c0b6b88804769.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Quest Step",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Exotic Quest Step",
+	"displaySource": "\"This is it, Guardian—the furthest you've gone down sorrow's road. There ain't no turnin' back. If the Hive are upgrading their arsenal, we need to know where and how, so we can stop it… and learn from it. Don't worry. This ritual won't make you a bad guy… It'll just feel like it.\" —The Drifter",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1345459588,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 2759499571,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Exotic",
+		"tierType": 6,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": true,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		16
+	],
+	"specialItemType": 0,
+	"itemType": 12,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

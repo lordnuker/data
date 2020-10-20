@@ -1,54 +1,54 @@
 {
-    "itemTypeAndTierDisplayName": "Uncommon Redeemable", 
-    "itemType": 9, 
-    "tooltipNotifications": [], 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Uncommon", 
-        "bucketTypeHash": 1469714392, 
-        "stackUniqueLabel": "trials.tokens.reputation.minor0", 
-        "tierTypeHash": 2395677314, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 9999, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 3, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Redeemable", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        2088636411, 
-        35, 
-        52
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "displaySource": "", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/e96c9bf3413650244a053b27220ffdbc.jpg", 
-        "hasIcon": true, 
-        "description": "Tokens earned in the Trials of Osiris. Return them to Saint-14 for rewards.\n\nThese tokens will expire at the end of the current Trials of Osiris event.", 
-        "name": "Trials Token"
-    }
+	"displayProperties": {
+		"description": "Tokens earned in the Trials of Osiris. Return them to Saint-14 for rewards.\n\nThese tokens will expire at the end of the current Trials of Osiris event.",
+		"name": "Trials Token",
+		"icon": "/common/destiny2_content/icons/88da93841fdfd9a0babc3a7e5efe5ffd.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Redeemable",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Uncommon Redeemable",
+	"displaySource": "",
+	"inventory": {
+		"stackUniqueLabel": "trials.tokens.reputation.minor0",
+		"maxStackSize": 9999,
+		"bucketTypeHash": 1469714392,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 2395677314,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Uncommon",
+		"tierType": 3,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		2088636411,
+		35,
+		52
+	],
+	"specialItemType": 0,
+	"itemType": 9,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

@@ -1,63 +1,63 @@
 {
-    "index": 791, 
-    "traitHashes": [], 
-    "loreHash": 203318801, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "traitIds": [], 
-    "objectiveHashes": [
-        882105615
-    ], 
-    "parentNodeHashes": [
-        1420597821
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 2, 
-        "ScoreValue": 50, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/4df20ace5764dfcf870238ca267466dc.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/3db3a6822b302abd69dbf27934ce7054.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/4df20ace5764dfcf870238ca267466dc.png", 
-        "hasIcon": true, 
-        "description": "", 
-        "name": "Pressure"
-    }, 
-    "scope": 0, 
-    "hash": 2121305070
+	"displayProperties": {
+		"description": "",
+		"name": "Pressure",
+		"icon": "/common/destiny2_content/icons/4df20ace5764dfcf870238ca267466dc.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/4df20ace5764dfcf870238ca267466dc.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/3db3a6822b302abd69dbf27934ce7054.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"scope": 0,
+	"loreHash": 203318801,
+	"objectiveHashes": [
+		882105615
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 50,
+		"shouldFireToast": true,
+		"toastStyle": 2
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		1420597821
+	],
+	"hash": 2121305070,
+	"index": 802,
+	"redacted": false,
+	"blacklisted": false
 }

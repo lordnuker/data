@@ -1,65 +1,65 @@
 {
-    "index": 629, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [
-            {
-                "intervalScoreValue": 50, 
-                "intervalObjectiveHash": 3542555360
-            }, 
-            {
-                "intervalScoreValue": 50, 
-                "intervalObjectiveHash": 3542555362
-            }, 
-            {
-                "intervalScoreValue": 50, 
-                "intervalObjectiveHash": 3542555363
-            }, 
-            {
-                "intervalScoreValue": 50, 
-                "intervalObjectiveHash": 3542555364
-            }
-        ], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [], 
-    "parentNodeHashes": [
-        1696842764
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/aeee7a2521bc77dfe0c051551597ec7f.png", 
-        "hasIcon": true, 
-        "description": "Defeat medium Blockers in Gambit.", 
-        "name": "Taken Executioner"
-    }, 
-    "scope": 0, 
-    "hash": 78340251
+	"displayProperties": {
+		"description": "Defeat medium Blockers in Gambit.",
+		"name": "Taken Executioner",
+		"icon": "/common/destiny2_content/icons/aeee7a2521bc77dfe0c051551597ec7f.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [
+			{
+				"intervalObjectiveHash": 3542555360,
+				"intervalScoreValue": 50
+			},
+			{
+				"intervalObjectiveHash": 3542555362,
+				"intervalScoreValue": 50
+			},
+			{
+				"intervalObjectiveHash": 3542555363,
+				"intervalScoreValue": 50
+			},
+			{
+				"intervalObjectiveHash": 3542555364,
+				"intervalScoreValue": 50
+			}
+		],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		1696842764
+	],
+	"hash": 78340251,
+	"index": 640,
+	"redacted": false,
+	"blacklisted": false
 }

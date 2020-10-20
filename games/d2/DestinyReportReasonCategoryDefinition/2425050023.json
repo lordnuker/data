@@ -1,37 +1,37 @@
 {
-    "index": 3, 
-    "hash": 2425050023, 
-    "blacklisted": false, 
-    "reasons": {
-        "3087590961": {
-            "displayProperties": {
-                "hasIcon": false, 
-                "description": "", 
-                "name": "Other"
-            }, 
-            "reasonHash": 3087590961
-        }, 
-        "1310746887": {
-            "displayProperties": {
-                "hasIcon": false, 
-                "description": "", 
-                "name": "AFK"
-            }, 
-            "reasonHash": 1310746887
-        }, 
-        "2122936176": {
-            "displayProperties": {
-                "hasIcon": false, 
-                "description": "", 
-                "name": "Using Bots"
-            }, 
-            "reasonHash": 2122936176
-        }
-    }, 
-    "redacted": false, 
-    "displayProperties": {
-        "hasIcon": false, 
-        "description": "Inactivity includes being intentionally absent or inactive during gameplay.\n\nExamples: AFK, Using bots", 
-        "name": "Inactivity"
-    }
+	"displayProperties": {
+		"description": "Inactivity includes being intentionally absent or inactive during gameplay.\n\nExamples: AFK, Using bots",
+		"name": "Inactivity",
+		"hasIcon": false
+	},
+	"reasons": {
+		"1310746887": {
+			"reasonHash": 1310746887,
+			"displayProperties": {
+				"description": "",
+				"name": "AFK",
+				"hasIcon": false
+			}
+		},
+		"2122936176": {
+			"reasonHash": 2122936176,
+			"displayProperties": {
+				"description": "",
+				"name": "Using Bots",
+				"hasIcon": false
+			}
+		},
+		"3087590961": {
+			"reasonHash": 3087590961,
+			"displayProperties": {
+				"description": "",
+				"name": "Other",
+				"hasIcon": false
+			}
+		}
+	},
+	"hash": 2425050023,
+	"index": 3,
+	"redacted": false,
+	"blacklisted": false
 }

@@ -1,77 +1,128 @@
 {
-    "index": 822, 
-    "traitHashes": [], 
-    "nodeType": 4, 
-    "blacklisted": false, 
-    "originalIcon": "/common/destiny2_content/icons/869f3e571c609340cc28c312faaa17d9.png", 
-    "presentationNodeType": 1, 
-    "redacted": false, 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "parentNodeHashes": [
-        1074663644
-    ], 
-    "displayStyle": 0, 
-    "rootViewIcon": "/common/destiny2_content/icons/869f3e571c609340cc28c312faaa17d9.png", 
-    "screenStyle": 0, 
-    "traitIds": [], 
-    "disableChildSubscreenNavigation": false, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/869f3e571c609340cc28c312faaa17d9.png", 
-                    "/common/destiny2_content/icons/31b16517d42f001dd4e530a7b955a04c.png", 
-                    "/common/destiny2_content/icons/d132175fdef14af8cf674356446393f6.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/869f3e571c609340cc28c312faaa17d9.png", 
-        "hasIcon": true, 
-        "description": "Crucible Metrics", 
-        "name": "Crucible"
-    }, 
-    "scope": 0, 
-    "children": {
-        "metrics": [
-            {
-                "metricHash": 811894228
-            }, 
-            {
-                "metricHash": 268448617
-            }, 
-            {
-                "metricHash": 2872213304
-            }, 
-            {
-                "metricHash": 2935221077
-            }, 
-            {
-                "metricHash": 1031068787
-            }, 
-            {
-                "metricHash": 2941499201
-            }, 
-            {
-                "metricHash": 1249684581
-            }, 
-            {
-                "metricHash": 871184140
-            }, 
-            {
-                "metricHash": 303387541
-            }, 
-            {
-                "metricHash": 1766068284
-            }, 
-            {
-                "metricHash": 4044111774
-            }
-        ], 
-        "collectibles": [], 
-        "presentationNodes": [], 
-        "records": []
-    }, 
-    "hash": 565440981
+	"displayProperties": {
+		"description": "Crucible Metrics",
+		"name": "Crucible",
+		"icon": "/common/destiny2_content/icons/869f3e571c609340cc28c312faaa17d9.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/869f3e571c609340cc28c312faaa17d9.png",
+					"/common/destiny2_content/icons/31b16517d42f001dd4e530a7b955a04c.png",
+					"/common/destiny2_content/icons/d132175fdef14af8cf674356446393f6.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"originalIcon": "/common/destiny2_content/icons/869f3e571c609340cc28c312faaa17d9.png",
+	"rootViewIcon": "/common/destiny2_content/icons/869f3e571c609340cc28c312faaa17d9.png",
+	"nodeType": 4,
+	"scope": 0,
+	"children": {
+		"presentationNodes": [],
+		"collectibles": [],
+		"records": [],
+		"metrics": [
+			{
+				"metricHash": 811894228
+			},
+			{
+				"metricHash": 3157801630
+			},
+			{
+				"metricHash": 1289569072
+			},
+			{
+				"metricHash": 3626149776
+			},
+			{
+				"metricHash": 455493708
+			},
+			{
+				"metricHash": 2573000632
+			},
+			{
+				"metricHash": 3212106215
+			},
+			{
+				"metricHash": 2799217987
+			},
+			{
+				"metricHash": 3504314305
+			},
+			{
+				"metricHash": 690772341
+			},
+			{
+				"metricHash": 1122573866
+			},
+			{
+				"metricHash": 1569168043
+			},
+			{
+				"metricHash": 2590760275
+			},
+			{
+				"metricHash": 902410069
+			},
+			{
+				"metricHash": 1196938828
+			},
+			{
+				"metricHash": 3264536674
+			},
+			{
+				"metricHash": 2346526808
+			},
+			{
+				"metricHash": 4074575609
+			},
+			{
+				"metricHash": 268448617
+			},
+			{
+				"metricHash": 2872213304
+			},
+			{
+				"metricHash": 2935221077
+			},
+			{
+				"metricHash": 1031068787
+			},
+			{
+				"metricHash": 2941499201
+			},
+			{
+				"metricHash": 1249684581
+			},
+			{
+				"metricHash": 871184140
+			},
+			{
+				"metricHash": 303387541
+			},
+			{
+				"metricHash": 1766068284
+			},
+			{
+				"metricHash": 4044111774
+			}
+		]
+	},
+	"displayStyle": 0,
+	"screenStyle": 0,
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"disableChildSubscreenNavigation": false,
+	"presentationNodeType": 1,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		1074663644
+	],
+	"hash": 565440981,
+	"index": 903,
+	"redacted": false,
+	"blacklisted": false
 }

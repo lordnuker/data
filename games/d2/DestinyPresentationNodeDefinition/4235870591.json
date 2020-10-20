@@ -1,48 +1,48 @@
 {
-    "index": 256, 
-    "traitHashes": [], 
-    "nodeType": 2, 
-    "blacklisted": false, 
-    "presentationNodeType": 1, 
-    "redacted": false, 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "objectiveHash": 456414537, 
-    "parentNodeHashes": [
-        2665375817
-    ], 
-    "displayStyle": 0, 
-    "screenStyle": 0, 
-    "traitIds": [], 
-    "disableChildSubscreenNavigation": false, 
-    "displayProperties": {
-        "hasIcon": false, 
-        "description": "", 
-        "name": "Shelter in Place Suit"
-    }, 
-    "scope": 0, 
-    "children": {
-        "metrics": [], 
-        "collectibles": [
-            {
-                "collectibleHash": 2329927341
-            }, 
-            {
-                "collectibleHash": 1901322090
-            }, 
-            {
-                "collectibleHash": 4090417478
-            }, 
-            {
-                "collectibleHash": 1369703368
-            }, 
-            {
-                "collectibleHash": 1097276657
-            }
-        ], 
-        "presentationNodes": [], 
-        "records": []
-    }, 
-    "hash": 4235870591
+	"displayProperties": {
+		"description": "",
+		"name": "Shelter in Place Suit",
+		"hasIcon": false
+	},
+	"nodeType": 2,
+	"scope": 0,
+	"objectiveHash": 456414537,
+	"children": {
+		"presentationNodes": [],
+		"collectibles": [
+			{
+				"collectibleHash": 2329927341
+			},
+			{
+				"collectibleHash": 1901322090
+			},
+			{
+				"collectibleHash": 4090417478
+			},
+			{
+				"collectibleHash": 1369703368
+			},
+			{
+				"collectibleHash": 1097276657
+			}
+		],
+		"records": [],
+		"metrics": []
+	},
+	"displayStyle": 0,
+	"screenStyle": 0,
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"disableChildSubscreenNavigation": false,
+	"presentationNodeType": 1,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		2665375817
+	],
+	"hash": 4235870591,
+	"index": 276,
+	"redacted": false,
+	"blacklisted": false
 }

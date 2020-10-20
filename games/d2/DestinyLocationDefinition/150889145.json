@@ -1,53 +1,53 @@
 {
-    "index": 283, 
-    "hash": 150889145, 
-    "blacklisted": false, 
-    "redacted": false, 
-    "vendorHash": 0, 
-    "locationReleases": [
-        {
-            "worldPosition": [
-                268, 
-                -347, 
-                -36, 
-                0
-            ], 
-            "spawnPoint": 782826392, 
-            "activityPathBundle": 0, 
-            "activityBubbleName": 3899539020, 
-            "destinationHash": 308080871, 
-            "activityGraphNodeHash": 0, 
-            "activityPathDestination": 2527054255, 
-            "activityGraphHash": 339930669, 
-            "displayProperties": {
-                "hasIcon": false, 
-                "description": "Fast travel to Glacial Drift.", 
-                "name": "Glacial Drift"
-            }, 
-            "navPointType": 0, 
-            "activityHash": 0
-        }, 
-        {
-            "worldPosition": [
-                268, 
-                -347, 
-                -36, 
-                0
-            ], 
-            "spawnPoint": 782826392, 
-            "activityPathBundle": 0, 
-            "activityBubbleName": 3899539020, 
-            "destinationHash": 308080871, 
-            "activityGraphNodeHash": 0, 
-            "activityPathDestination": 2527054255, 
-            "activityGraphHash": 339930669, 
-            "displayProperties": {
-                "hasIcon": false, 
-                "description": "Travel to Glacial Drift", 
-                "name": "Glacial Drift"
-            }, 
-            "navPointType": 0, 
-            "activityHash": 0
-        }
-    ]
+	"vendorHash": 0,
+	"locationReleases": [
+		{
+			"displayProperties": {
+				"description": "Fast travel to Glacial Drift.",
+				"name": "Glacial Drift",
+				"hasIcon": false
+			},
+			"spawnPoint": 782826392,
+			"destinationHash": 308080871,
+			"activityHash": 0,
+			"activityGraphHash": 339930669,
+			"activityGraphNodeHash": 0,
+			"activityBubbleName": 3899539020,
+			"activityPathBundle": 0,
+			"activityPathDestination": 2527054255,
+			"navPointType": 0,
+			"worldPosition": [
+				268,
+				-347,
+				-36,
+				0
+			]
+		},
+		{
+			"displayProperties": {
+				"description": "Travel to Glacial Drift",
+				"name": "Glacial Drift",
+				"hasIcon": false
+			},
+			"spawnPoint": 782826392,
+			"destinationHash": 308080871,
+			"activityHash": 0,
+			"activityGraphHash": 339930669,
+			"activityGraphNodeHash": 0,
+			"activityBubbleName": 3899539020,
+			"activityPathBundle": 0,
+			"activityPathDestination": 2527054255,
+			"navPointType": 0,
+			"worldPosition": [
+				268,
+				-347,
+				-36,
+				0
+			]
+		}
+	],
+	"hash": 150889145,
+	"index": 283,
+	"redacted": false,
+	"blacklisted": false
 }

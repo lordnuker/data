@@ -1,65 +1,65 @@
 {
-    "index": 1780, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [
-            {
-                "intervalScoreValue": 100, 
-                "intervalObjectiveHash": 2886701836
-            }, 
-            {
-                "intervalScoreValue": 100, 
-                "intervalObjectiveHash": 2886701837
-            }, 
-            {
-                "intervalScoreValue": 100, 
-                "intervalObjectiveHash": 2886701838
-            }, 
-            {
-                "intervalScoreValue": 150, 
-                "intervalObjectiveHash": 2886701839
-            }
-        ], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 95000, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [], 
-    "parentNodeHashes": [
-        4017869588
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/58bf5b93ae8cfefc55852fe664179757.png", 
-        "hasIcon": true, 
-        "description": "Defeat Nightmares at the Altars of Sorrow.", 
-        "name": "Altars of Sorrow: Nightmares"
-    }, 
-    "scope": 0, 
-    "hash": 1166560879
+	"displayProperties": {
+		"description": "Defeat Nightmares at the Altars of Sorrow.",
+		"name": "Altars of Sorrow: Nightmares",
+		"icon": "/common/destiny2_content/icons/58bf5b93ae8cfefc55852fe664179757.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 95000,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [
+			{
+				"intervalObjectiveHash": 2886701836,
+				"intervalScoreValue": 100
+			},
+			{
+				"intervalObjectiveHash": 2886701837,
+				"intervalScoreValue": 100
+			},
+			{
+				"intervalObjectiveHash": 2886701838,
+				"intervalScoreValue": 100
+			},
+			{
+				"intervalObjectiveHash": 2886701839,
+				"intervalScoreValue": 150
+			}
+		],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		4017869588
+	],
+	"hash": 1166560879,
+	"index": 1792,
+	"redacted": false,
+	"blacklisted": false
 }

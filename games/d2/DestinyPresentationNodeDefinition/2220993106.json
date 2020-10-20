@@ -1,42 +1,42 @@
 {
-    "index": 545, 
-    "traitHashes": [], 
-    "nodeType": 1, 
-    "blacklisted": false, 
-    "presentationNodeType": 1, 
-    "redacted": false, 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "objectiveHash": 1186861832, 
-    "parentNodeHashes": [
-        2381001021
-    ], 
-    "displayStyle": 0, 
-    "screenStyle": 0, 
-    "traitIds": [], 
-    "disableChildSubscreenNavigation": false, 
-    "displayProperties": {
-        "hasIcon": false, 
-        "description": "", 
-        "name": "Trials of Osiris"
-    }, 
-    "scope": 0, 
-    "children": {
-        "metrics": [], 
-        "collectibles": [
-            {
-                "collectibleHash": 2584253501
-            }, 
-            {
-                "collectibleHash": 1944222242
-            }, 
-            {
-                "collectibleHash": 864251146
-            }
-        ], 
-        "presentationNodes": [], 
-        "records": []
-    }, 
-    "hash": 2220993106
+	"displayProperties": {
+		"description": "",
+		"name": "Trials of Osiris",
+		"hasIcon": false
+	},
+	"nodeType": 1,
+	"scope": 0,
+	"objectiveHash": 1186861832,
+	"children": {
+		"presentationNodes": [],
+		"collectibles": [
+			{
+				"collectibleHash": 2584253501
+			},
+			{
+				"collectibleHash": 1944222242
+			},
+			{
+				"collectibleHash": 864251146
+			}
+		],
+		"records": [],
+		"metrics": []
+	},
+	"displayStyle": 0,
+	"screenStyle": 0,
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"disableChildSubscreenNavigation": false,
+	"presentationNodeType": 1,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		2381001021
+	],
+	"hash": 2220993106,
+	"index": 598,
+	"redacted": false,
+	"blacklisted": false
 }

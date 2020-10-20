@@ -1,59 +1,59 @@
 {
-    "itemTypeAndTierDisplayName": "Exotic Emote", 
-    "itemType": 19, 
-    "tooltipNotifications": [], 
-    "talentGrid": {
-        "talentGridHash": 521135891, 
-        "hudDamageType": 1, 
-        "itemDetailString": "Preview"
-    }, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Exotic", 
-        "bucketTypeHash": 2401704334, 
-        "stackUniqueLabel": "v404.plugs.emotes.sweeper_reprise0", 
-        "tierTypeHash": 2759499571, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 6, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 162, 
-        "green": 175, 
-        "colorHash": 0, 
-        "red": 23, 
-        "alpha": 255
-    }, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Emote", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        44, 
-        59
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "displaySource": "", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/0279290313fa8dc35e8b953a4930c343.jpg", 
-        "hasIcon": true, 
-        "description": "Have you seen my broom?", 
-        "highResIcon": "/common/destiny2_content/icons/423c751cf3cac8ad0e0d049cffff0e8c.jpg", 
-        "name": "Sweeping (Temporal)"
-    }
+	"displayProperties": {
+		"description": "Have you seen my broom?",
+		"name": "Sweeping (Temporal)",
+		"icon": "/common/destiny2_content/icons/0279290313fa8dc35e8b953a4930c343.jpg",
+		"highResIcon": "/common/destiny2_content/icons/423c751cf3cac8ad0e0d049cffff0e8c.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 23,
+		"green": 175,
+		"blue": 162,
+		"alpha": 255
+	},
+	"itemTypeDisplayName": "Emote",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Exotic Emote",
+	"displaySource": "",
+	"inventory": {
+		"stackUniqueLabel": "v404.plugs.emotes.sweeper_reprise0",
+		"maxStackSize": 1,
+		"bucketTypeHash": 2401704334,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 2759499571,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Exotic",
+		"tierType": 6,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"talentGrid": {
+		"talentGridHash": 521135891,
+		"itemDetailString": "Preview",
+		"hudDamageType": 1
+	},
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		44,
+		59
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

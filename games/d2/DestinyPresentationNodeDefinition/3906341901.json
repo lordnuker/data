@@ -1,63 +1,69 @@
 {
-    "index": 826, 
-    "traitHashes": [], 
-    "nodeType": 4, 
-    "blacklisted": false, 
-    "originalIcon": "/common/destiny2_content/icons/867ab5f21b88184d8c724bcbfdb67bbb.png", 
-    "presentationNodeType": 1, 
-    "redacted": false, 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "parentNodeHashes": [], 
-    "displayStyle": 0, 
-    "rootViewIcon": "/common/destiny2_content/icons/867ab5f21b88184d8c724bcbfdb67bbb.png", 
-    "screenStyle": 0, 
-    "traitIds": [], 
-    "disableChildSubscreenNavigation": false, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/867ab5f21b88184d8c724bcbfdb67bbb.png", 
-                    "/common/destiny2_content/icons/18665aa9baacde619ee45cd0556afa13.png", 
-                    "/common/destiny2_content/icons/47f0738ea2c73762aee519f6ec170901.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/867ab5f21b88184d8c724bcbfdb67bbb.png", 
-        "hasIcon": true, 
-        "description": "Destination Metrics", 
-        "name": "Destination"
-    }, 
-    "scope": 0, 
-    "children": {
-        "metrics": [
-            {
-                "metricHash": 1451729471
-            }, 
-            {
-                "metricHash": 310888283
-            }, 
-            {
-                "metricHash": 2540745635
-            }, 
-            {
-                "metricHash": 740213466
-            }, 
-            {
-                "metricHash": 26751835
-            }, 
-            {
-                "metricHash": 432928867
-            }, 
-            {
-                "metricHash": 1351929486
-            }
-        ], 
-        "collectibles": [], 
-        "presentationNodes": [], 
-        "records": []
-    }, 
-    "hash": 3906341901
+	"displayProperties": {
+		"description": "Destination Metrics",
+		"name": "Destination",
+		"icon": "/common/destiny2_content/icons/867ab5f21b88184d8c724bcbfdb67bbb.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/867ab5f21b88184d8c724bcbfdb67bbb.png",
+					"/common/destiny2_content/icons/18665aa9baacde619ee45cd0556afa13.png",
+					"/common/destiny2_content/icons/47f0738ea2c73762aee519f6ec170901.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"originalIcon": "/common/destiny2_content/icons/867ab5f21b88184d8c724bcbfdb67bbb.png",
+	"rootViewIcon": "/common/destiny2_content/icons/867ab5f21b88184d8c724bcbfdb67bbb.png",
+	"nodeType": 4,
+	"scope": 0,
+	"children": {
+		"presentationNodes": [],
+		"collectibles": [],
+		"records": [],
+		"metrics": [
+			{
+				"metricHash": 1451729471
+			},
+			{
+				"metricHash": 310888283
+			},
+			{
+				"metricHash": 3741172422
+			},
+			{
+				"metricHash": 2540745635
+			},
+			{
+				"metricHash": 740213466
+			},
+			{
+				"metricHash": 26751835
+			},
+			{
+				"metricHash": 9217563
+			},
+			{
+				"metricHash": 432928867
+			},
+			{
+				"metricHash": 1351929486
+			}
+		]
+	},
+	"displayStyle": 0,
+	"screenStyle": 0,
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"disableChildSubscreenNavigation": false,
+	"presentationNodeType": 1,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [],
+	"hash": 3906341901,
+	"index": 907,
+	"redacted": false,
+	"blacklisted": false
 }

@@ -1,45 +1,48 @@
 {
-    "index": 714, 
-    "traitHashes": [], 
-    "nodeType": 1, 
-    "blacklisted": false, 
-    "originalIcon": "/common/destiny2_content/icons/7bdc7c2fc2a7f6989f232d7408ad8ec5.png", 
-    "presentationNodeType": 1, 
-    "redacted": false, 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "objectiveHash": 2648089204, 
-    "parentNodeHashes": [
-        478684947
-    ], 
-    "displayStyle": 0, 
-    "rootViewIcon": "/common/destiny2_content/icons/7bdc7c2fc2a7f6989f232d7408ad8ec5.png", 
-    "screenStyle": 0, 
-    "traitIds": [], 
-    "disableChildSubscreenNavigation": false, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/7bdc7c2fc2a7f6989f232d7408ad8ec5.png", 
-        "hasIcon": true, 
-        "description": "", 
-        "name": "Activities"
-    }, 
-    "scope": 0, 
-    "children": {
-        "metrics": [], 
-        "collectibles": [], 
-        "presentationNodes": [
-            {
-                "presentationNodeHash": 2802172173
-            }, 
-            {
-                "presentationNodeHash": 959627408
-            }, 
-            {
-                "presentationNodeHash": 2998268400
-            }
-        ], 
-        "records": []
-    }, 
-    "hash": 449514974
+	"displayProperties": {
+		"description": "",
+		"name": "Activities",
+		"icon": "/common/destiny2_content/icons/7bdc7c2fc2a7f6989f232d7408ad8ec5.png",
+		"hasIcon": true
+	},
+	"originalIcon": "/common/destiny2_content/icons/7bdc7c2fc2a7f6989f232d7408ad8ec5.png",
+	"rootViewIcon": "/common/destiny2_content/icons/7bdc7c2fc2a7f6989f232d7408ad8ec5.png",
+	"nodeType": 1,
+	"scope": 0,
+	"objectiveHash": 2648089204,
+	"children": {
+		"presentationNodes": [
+			{
+				"presentationNodeHash": 2802172173
+			},
+			{
+				"presentationNodeHash": 959627408
+			},
+			{
+				"presentationNodeHash": 2998268400
+			},
+			{
+				"presentationNodeHash": 1852271144
+			}
+		],
+		"collectibles": [],
+		"records": [],
+		"metrics": []
+	},
+	"displayStyle": 0,
+	"screenStyle": 0,
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"disableChildSubscreenNavigation": false,
+	"presentationNodeType": 1,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		478684947
+	],
+	"hash": 449514974,
+	"index": 792,
+	"redacted": false,
+	"blacklisted": false
 }

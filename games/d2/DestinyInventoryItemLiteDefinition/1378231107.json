@@ -1,73 +1,73 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Transmat Effect", 
-    "itemType": 19, 
-    "tooltipNotifications": [], 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 3313201758, 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 999, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Transmat Effect", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        59, 
-        208981632, 
-        177260082
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": false, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "collectibleHash": 457763179, 
-    "displaySource": "", 
-    "perks": [
-        {
-            "requirementDisplayString": "", 
-            "perkHash": 1355900512, 
-            "perkVisibility": 0
-        }
-    ], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "hasIcon": true, 
-        "description": "Modifications for your ship's transmat systems, so you'll always arrive in style.", 
-        "highResIcon": "/common/destiny2_content/icons/542d4be462f7fa21dca48b9b19df4e74.jpg", 
-        "name": "Vex Gate Arrival", 
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/89a6f182e188c67711f44be420612dcb.jpg"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/11a8b7185b425472ba097dc7c50a676a.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/89a6f182e188c67711f44be420612dcb.jpg"
-    }
+	"displayProperties": {
+		"description": "Modifications for your ship's transmat systems, so you'll always arrive in style.",
+		"name": "Vex Gate Arrival",
+		"icon": "/common/destiny2_content/icons/89a6f182e188c67711f44be420612dcb.jpg",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/89a6f182e188c67711f44be420612dcb.jpg"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/11a8b7185b425472ba097dc7c50a676a.png"
+				]
+			}
+		],
+		"highResIcon": "/common/destiny2_content/icons/542d4be462f7fa21dca48b9b19df4e74.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"collectibleHash": 457763179,
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Transmat Effect",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Transmat Effect",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 999,
+		"bucketTypeHash": 3313201758,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [
+		{
+			"requirementDisplayString": "",
+			"perkHash": 1355900512,
+			"perkVisibility": 0
+		}
+	],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [
+		59,
+		208981632,
+		177260082
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

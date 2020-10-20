@@ -1,67 +1,67 @@
 {
-    "itemTypeAndTierDisplayName": "Rare Treasure Map", 
-    "itemType": 9, 
-    "tooltipNotifications": [], 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Rare", 
-        "bucketTypeHash": 1469714392, 
-        "tierTypeHash": 2127292149, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 4, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "setData": {
-        "trackingUnlockValueHash": 0, 
-        "setIsFeatured": false, 
-        "itemList": [
-            {
-                "itemHash": 786290414, 
-                "trackingValue": 0
-            }
-        ], 
-        "requireOrderedSetItemAdd": false, 
-        "questLineName": "", 
-        "abandonmentUnlockHash": 0, 
-        "setType": ""
-    }, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Treasure Map", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        2253669532, 
-        35, 
-        52
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "displaySource": "Treasure Map", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/380abd89da68ba3d6a2c0010056a48b1.jpg", 
-        "hasIcon": true, 
-        "description": "\"This place is full of old containers. Don't bother raiding them all—I already did. They're all filled with shoes. Mountains of Golden Age footwear, and not a thing in my size.\" —Cayde-6", 
-        "name": "EDZ Treasure Map"
-    }
+	"displayProperties": {
+		"description": "\"This place is full of old containers. Don't bother raiding them all—I already did. They're all filled with shoes. Mountains of Golden Age footwear, and not a thing in my size.\" —Cayde-6",
+		"name": "EDZ Treasure Map",
+		"icon": "/common/destiny2_content/icons/380abd89da68ba3d6a2c0010056a48b1.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Treasure Map",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Rare Treasure Map",
+	"displaySource": "Treasure Map",
+	"setData": {
+		"itemList": [
+			{
+				"trackingValue": 0,
+				"itemHash": 786290414
+			}
+		],
+		"trackingUnlockValueHash": 0,
+		"abandonmentUnlockHash": 0,
+		"requireOrderedSetItemAdd": false,
+		"setIsFeatured": false,
+		"setType": "",
+		"questLineName": ""
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1469714392,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 2127292149,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Rare",
+		"tierType": 4,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		2253669532,
+		35,
+		52
+	],
+	"specialItemType": 0,
+	"itemType": 9,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

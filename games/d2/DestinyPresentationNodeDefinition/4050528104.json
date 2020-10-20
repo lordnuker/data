@@ -1,46 +1,46 @@
 {
-    "index": 781, 
-    "traitHashes": [], 
-    "nodeType": 1, 
-    "blacklisted": false, 
-    "originalIcon": "/common/destiny2_content/icons/d99231b25cc3deb0454f874c0b273231.png", 
-    "presentationNodeType": 1, 
-    "redacted": false, 
-    "requirements": {
-        "entitlementUnavailableMessage": "Requires Collector +10"
-    }, 
-    "parentNodeHashes": [
-        2781316280
-    ], 
-    "displayStyle": 0, 
-    "rootViewIcon": "/common/destiny2_content/icons/d99231b25cc3deb0454f874c0b273231.png", 
-    "screenStyle": 0, 
-    "traitIds": [], 
-    "disableChildSubscreenNavigation": false, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/d99231b25cc3deb0454f874c0b273231.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/c8eaa3c7e33aaad4c2d6d7865c10109d.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/d99231b25cc3deb0454f874c0b273231.png", 
-        "hasIcon": true, 
-        "description": "Gain Kinetic and Energy ammo whenever you bank.", 
-        "name": "Cashback"
-    }, 
-    "scope": 1, 
-    "children": {
-        "metrics": [], 
-        "collectibles": [], 
-        "presentationNodes": [], 
-        "records": []
-    }, 
-    "hash": 4050528104
+	"displayProperties": {
+		"description": "Gain Kinetic and Energy ammo whenever you bank.",
+		"name": "Cashback",
+		"icon": "/common/destiny2_content/icons/d99231b25cc3deb0454f874c0b273231.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/d99231b25cc3deb0454f874c0b273231.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/c8eaa3c7e33aaad4c2d6d7865c10109d.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"originalIcon": "/common/destiny2_content/icons/d99231b25cc3deb0454f874c0b273231.png",
+	"rootViewIcon": "/common/destiny2_content/icons/d99231b25cc3deb0454f874c0b273231.png",
+	"nodeType": 1,
+	"scope": 1,
+	"children": {
+		"presentationNodes": [],
+		"collectibles": [],
+		"records": [],
+		"metrics": []
+	},
+	"displayStyle": 0,
+	"screenStyle": 0,
+	"requirements": {
+		"entitlementUnavailableMessage": "Requires Collector +10"
+	},
+	"disableChildSubscreenNavigation": false,
+	"presentationNodeType": 1,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		2781316280
+	],
+	"hash": 4050528104,
+	"index": 861,
+	"redacted": false,
+	"blacklisted": false
 }

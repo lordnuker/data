@@ -1,0 +1,71 @@
+{
+	"displayProperties": {
+		"description": "Defeat the Kell Echo.",
+		"name": "Prophecy Dungeon",
+		"icon": "/common/destiny2_content/icons/DestinyMilestoneDefinition_7b2e832d6fa3513b3c3e55f69aaeee40.png",
+		"hasIcon": true
+	},
+	"image": "/img/destiny_content/pgcr/dungeon_prophecy.jpg",
+	"milestoneType": 3,
+	"recruitable": false,
+	"friendlyName": "MILESTONE_WEEKLY_PROPHECY_DUNGEON",
+	"showInExplorer": false,
+	"showInMilestones": true,
+	"explorePrioritizesActivityImage": false,
+	"hasPredictableDates": false,
+	"rewards": {
+		"326786556": {
+			"categoryHash": 326786556,
+			"categoryIdentifier": "ChallengeSourcedReward",
+			"displayProperties": {
+				"description": "",
+				"name": "Rewards",
+				"hasIcon": false
+			},
+			"rewardEntries": {
+				"326786556": {
+					"rewardEntryHash": 326786556,
+					"rewardEntryIdentifier": "ChallengeSourcedReward",
+					"items": [
+						{
+							"itemHash": 73143230,
+							"quantity": 0
+						}
+					],
+					"displayProperties": {
+						"description": "Defeat the Kell Echo.",
+						"name": "Weekly Completion Challenge",
+						"hasIcon": false
+					},
+					"order": 0,
+					"earnedUnlockHash": 0,
+					"redeemedUnlockHash": 0
+				}
+			},
+			"order": 0
+		}
+	},
+	"isInGameMilestone": false,
+	"activities": [
+		{
+			"activityHash": 4148187374,
+			"challenges": [
+				{
+					"challengeObjectiveHash": 975466048,
+					"completeUnlockHash": 0
+				}
+			],
+			"activityGraphNodes": [
+				{
+					"activityGraphHash": 3858837760,
+					"activityGraphNodeHash": 1553550479
+				}
+			]
+		}
+	],
+	"defaultOrder": 2000,
+	"hash": 3675083505,
+	"index": 58,
+	"redacted": false,
+	"blacklisted": false
+}

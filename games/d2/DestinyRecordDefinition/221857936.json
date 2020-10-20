@@ -1,52 +1,52 @@
 {
-    "index": 302, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 1, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        212304523, 
-        3301780284, 
-        3301780285
-    ], 
-    "parentNodeHashes": [
-        259629437
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 100, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/44c851a53be2f7666ae847e6d3917374.png", 
-        "hasIcon": true, 
-        "description": "Defeat enemies using Graviton Lance and its Cosmology capability.", 
-        "name": "Graviton Lance Catalyst"
-    }, 
-    "scope": 0, 
-    "hash": 221857936
+	"displayProperties": {
+		"description": "Defeat enemies using Graviton Lance and its Cosmology capability.",
+		"name": "Graviton Lance Catalyst",
+		"icon": "/common/destiny2_content/icons/44c851a53be2f7666ae847e6d3917374.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		212304523,
+		3301780284,
+		3301780285
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 100,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 1,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		259629437
+	],
+	"hash": 221857936,
+	"index": 304,
+	"redacted": false,
+	"blacklisted": false
 }

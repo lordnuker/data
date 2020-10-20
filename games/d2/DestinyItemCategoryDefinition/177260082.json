@@ -1,27 +1,27 @@
 {
-    "index": 81, 
-    "groupCategoryOnly": true, 
-    "grantDestinyClass": 3, 
-    "blacklisted": false, 
-    "shortTitle": "Ship Mods", 
-    "grantDestinyItemType": 0, 
-    "deprecated": false, 
-    "redacted": false, 
-    "grantDestinySubType": 0, 
-    "itemTypeRegex": "type_ship_mod.*", 
-    "parentCategoryHashes": [
-        59
-    ], 
-    "visible": false, 
-    "groupedCategoryHashes": [
-        208981632
-    ], 
-    "displayProperties": {
-        "hasIcon": false, 
-        "description": "These are mods that can only be applied to your ship.", 
-        "name": "Ship Mods"
-    }, 
-    "hash": 177260082, 
-    "isPlug": false, 
-    "grantDestinyBreakerType": 0
+	"displayProperties": {
+		"description": "These are mods that can only be applied to your ship.",
+		"name": "Ship Mods",
+		"hasIcon": false
+	},
+	"visible": false,
+	"deprecated": false,
+	"shortTitle": "Ship Mods",
+	"itemTypeRegex": "type_ship_mod.*",
+	"grantDestinyBreakerType": 0,
+	"grantDestinyItemType": 0,
+	"grantDestinySubType": 0,
+	"grantDestinyClass": 3,
+	"groupedCategoryHashes": [
+		208981632
+	],
+	"isPlug": false,
+	"parentCategoryHashes": [
+		59
+	],
+	"groupCategoryOnly": true,
+	"hash": 177260082,
+	"index": 81,
+	"redacted": false,
+	"blacklisted": false
 }

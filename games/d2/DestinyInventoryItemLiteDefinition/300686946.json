@@ -1,80 +1,80 @@
 {
-    "itemTypeAndTierDisplayName": "Exotic Quest Step", 
-    "nonTransferrable": true, 
-    "tooltipNotifications": [], 
-    "itemType": 12, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Exotic", 
-        "bucketTypeHash": 1345459588, 
-        "tierTypeHash": 2759499571, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 6, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "setData": {
-        "trackingUnlockValueHash": 0, 
-        "setIsFeatured": false, 
-        "itemList": [
-            {
-                "itemHash": 884082918, 
-                "trackingValue": 1
-            }, 
-            {
-                "itemHash": 300686946, 
-                "trackingValue": 2
-            }, 
-            {
-                "itemHash": 462487772, 
-                "trackingValue": 3
-            }, 
-            {
-                "itemHash": 1705310438, 
-                "trackingValue": 4
-            }
-        ], 
-        "requireOrderedSetItemAdd": true, 
-        "questLineName": "Truth Behind the Stories", 
-        "abandonmentUnlockHash": 0, 
-        "setType": "quest_global"
-    }, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Quest Step", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": true, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        16
-    ], 
-    "uiItemDisplayStyle": "", 
-    "secondaryOverlay": "/common/destiny2_content/icons/785e5a64153cabd5637d68dcccb7fea6.png", 
-    "secondaryIcon": "/common/destiny2_content/icons/bd99270d3276b2bae9be15ef06a0d8b3.png", 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "secondarySpecial": "/img/misc/missing_icon_d2.png", 
-    "displaySource": "", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/77c360ce93706d40adb5ca4900b6582d.jpg", 
-        "hasIcon": true, 
-        "description": "The note that Petra translated for you is addressed to a \"daughter of Light,\" and it indicates that there is a stolen Rocket Launcher hidden somewhere in the labyrinthine Prison of Elders. To identify its location, the note indicates that you'll need a map that has been squirreled away somewhere in the Ascendant Plane.\n\nComplete one of Petra's weekly Ascendant challenge bounties in the Dreaming City.", 
-        "name": "Hidden Between Realities"
-    }
+	"displayProperties": {
+		"description": "The note that Petra translated for you is addressed to a \"daughter of Light,\" and it indicates that there is a stolen Rocket Launcher hidden somewhere in the labyrinthine Prison of Elders. To identify its location, the note indicates that you'll need a map that has been squirreled away somewhere in the Ascendant Plane.\n\nComplete one of Petra's weekly Ascendant challenge bounties in the Dreaming City.",
+		"name": "Hidden Between Realities",
+		"icon": "/common/destiny2_content/icons/77c360ce93706d40adb5ca4900b6582d.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"secondaryIcon": "/common/destiny2_content/icons/bd99270d3276b2bae9be15ef06a0d8b3.png",
+	"secondaryOverlay": "/common/destiny2_content/icons/785e5a64153cabd5637d68dcccb7fea6.png",
+	"secondarySpecial": "/img/misc/missing_icon_d2.png",
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Quest Step",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Exotic Quest Step",
+	"displaySource": "",
+	"setData": {
+		"itemList": [
+			{
+				"trackingValue": 1,
+				"itemHash": 884082918
+			},
+			{
+				"trackingValue": 2,
+				"itemHash": 300686946
+			},
+			{
+				"trackingValue": 3,
+				"itemHash": 462487772
+			},
+			{
+				"trackingValue": 4,
+				"itemHash": 1705310438
+			}
+		],
+		"trackingUnlockValueHash": 0,
+		"abandonmentUnlockHash": 0,
+		"requireOrderedSetItemAdd": true,
+		"setIsFeatured": false,
+		"setType": "quest_global",
+		"questLineName": "Truth Behind the Stories"
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1345459588,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 2759499571,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Exotic",
+		"tierType": 6,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": true,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		16
+	],
+	"specialItemType": 0,
+	"itemType": 12,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

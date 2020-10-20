@@ -1,138 +1,147 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Package", 
-    "itemType": 25, 
-    "investmentStats": [], 
-    "redacted": false, 
-    "sack": {
-        "openOnAcquire": true, 
-        "resolvedItemCountUnlockValueHash": 0, 
-        "openAction": "Decrypt", 
-        "rollStateUnlockValueHash": 0, 
-        "selectItemCount": 0, 
-        "seedUnlockValueHash": 0, 
-        "rewardItemListHash": 0, 
-        "resolvedBitVectorUnlockValueHash": 0, 
-        "detailAction": ""
-    }, 
-    "tooltipNotifications": [], 
-    "quality": {
-        "infusionCategoryHash": 0, 
-        "infusionCategoryHashes": [], 
-        "infusionCategoryName": "0", 
-        "progressionLevelRequirementHash": 0, 
-        "qualityLevel": 0, 
-        "itemLevels": []
-    }, 
-    "index": 8067, 
-    "stats": {
-        "hasDisplayableStats": false, 
-        "primaryBaseStatHash": 0, 
-        "disablePrimaryStatDisplay": false, 
-        "stats": {}
-    }, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 375726501, 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "preview": {
-        "screenStyle": "screen_style_vendor", 
-        "derivedItemCategories": [
-            {
-                "items": [
-                    {
-                        "itemHash": 476782113, 
-                        "vendorItemIndex": 0
-                    }
-                ], 
-                "categoryDescription": "", 
-                "categoryIndex": 0
-            }, 
-            {
-                "items": [
-                    {
-                        "itemHash": 2926662832, 
-                        "vendorItemIndex": 1
-                    }, 
-                    {
-                        "itemHash": 2926662835, 
-                        "vendorItemIndex": 2
-                    }, 
-                    {
-                        "itemHash": 2926662838, 
-                        "vendorItemIndex": 3
-                    }, 
-                    {
-                        "itemHash": 2926662841, 
-                        "vendorItemIndex": 4
-                    }, 
-                    {
-                        "itemHash": 2657932156, 
-                        "vendorItemIndex": 5
-                    }, 
-                    {
-                        "itemHash": 2657932159, 
-                        "vendorItemIndex": 6
-                    }
-                ], 
-                "categoryDescription": "", 
-                "categoryIndex": 0
-            }
-        ], 
-        "previewVendorHash": 1999993038, 
-        "previewActionString": "Preview"
-    }, 
-    "hash": 1764949156, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Package", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": true, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        268598612
-    ], 
-    "uiItemDisplayStyle": "ui_display_style_engram", 
-    "nonTransferrable": true, 
-    "tooltipStyle": "package", 
-    "allowActions": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "blacklisted": false, 
-    "displaySource": "", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "hasIcon": true, 
-        "description": "A bundle for Guardians who missed out on everything the first year of Destiny 2 had to offer.\n\nContains 1 Best of Year One Engram and 1 random shader.", 
-        "highResIcon": "/common/destiny2_content/icons/d070277a4e1a6a13204308ca27b1031c.jpg", 
-        "name": "The First Year", 
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/03fe03790ec6cd4a7399d6cde226f189.png", 
-                    "/common/destiny2_content/icons/e6aa6a5c9bc29dc811cd2d97a8baf8a6.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/03fe03790ec6cd4a7399d6cde226f189.png"
-    }
+	"displayProperties": {
+		"description": "A bundle for Guardians who missed out on everything the first year of Destiny 2 had to offer.\n\nContains 1 Best of Year One Engram and 1 random shader.",
+		"name": "The First Year",
+		"icon": "/common/destiny2_content/icons/03fe03790ec6cd4a7399d6cde226f189.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/03fe03790ec6cd4a7399d6cde226f189.png",
+					"/common/destiny2_content/icons/e6aa6a5c9bc29dc811cd2d97a8baf8a6.png"
+				]
+			}
+		],
+		"highResIcon": "/common/destiny2_content/icons/d070277a4e1a6a13204308ca27b1031c.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Package",
+	"uiItemDisplayStyle": "ui_display_style_engram",
+	"itemTypeAndTierDisplayName": "Legendary Package",
+	"displaySource": "",
+	"tooltipStyle": "package",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 375726501,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"stats": {
+		"disablePrimaryStatDisplay": false,
+		"stats": {},
+		"hasDisplayableStats": false,
+		"primaryBaseStatHash": 0
+	},
+	"preview": {
+		"screenStyle": "screen_style_vendor",
+		"previewVendorHash": 1999993038,
+		"previewActionString": "Preview",
+		"derivedItemCategories": [
+			{
+				"categoryDescription": "",
+				"items": [
+					{
+						"itemHash": 476782113,
+						"vendorItemIndex": 0
+					}
+				],
+				"categoryIndex": 0
+			},
+			{
+				"categoryDescription": "",
+				"items": [
+					{
+						"itemHash": 2926662832,
+						"vendorItemIndex": 1
+					},
+					{
+						"itemHash": 2926662835,
+						"vendorItemIndex": 2
+					},
+					{
+						"itemHash": 2926662838,
+						"vendorItemIndex": 3
+					},
+					{
+						"itemHash": 2926662841,
+						"vendorItemIndex": 4
+					},
+					{
+						"itemHash": 2657932156,
+						"vendorItemIndex": 5
+					},
+					{
+						"itemHash": 2657932159,
+						"vendorItemIndex": 6
+					}
+				],
+				"categoryIndex": 0
+			}
+		]
+	},
+	"quality": {
+		"itemLevels": [],
+		"qualityLevel": 0,
+		"infusionCategoryName": "0",
+		"infusionCategoryHash": 0,
+		"infusionCategoryHashes": [],
+		"progressionLevelRequirementHash": 0,
+		"currentVersion": 0,
+		"versions": [
+			{
+				"powerCapHash": 723350001
+			}
+		],
+		"displayVersionWatermarkIcons": [
+			""
+		]
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"sack": {
+		"detailAction": "",
+		"openAction": "Decrypt",
+		"seedUnlockValueHash": 0,
+		"resolvedBitVectorUnlockValueHash": 0,
+		"resolvedItemCountUnlockValueHash": 0,
+		"selectItemCount": 0,
+		"rollStateUnlockValueHash": 0,
+		"rewardItemListHash": 0,
+		"openOnAcquire": true
+	},
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": true,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		268598612
+	],
+	"specialItemType": 0,
+	"itemType": 25,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"hash": 1764949156,
+	"index": 8103,
+	"redacted": false,
+	"blacklisted": false
 }

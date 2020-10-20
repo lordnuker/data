@@ -1,126 +1,143 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Package", 
-    "itemType": 25, 
-    "investmentStats": [], 
-    "redacted": false, 
-    "sack": {
-        "openOnAcquire": false, 
-        "resolvedItemCountUnlockValueHash": 0, 
-        "openAction": "Open", 
-        "rollStateUnlockValueHash": 0, 
-        "selectItemCount": 0, 
-        "seedUnlockValueHash": 0, 
-        "rewardItemListHash": 0, 
-        "resolvedBitVectorUnlockValueHash": 0, 
-        "detailAction": "Preview"
-    }, 
-    "tooltipNotifications": [], 
-    "index": 11869, 
-    "stats": {
-        "hasDisplayableStats": false, 
-        "primaryBaseStatHash": 0, 
-        "disablePrimaryStatDisplay": false, 
-        "stats": {}
-    }, 
-    "gearset": {
-        "trackingValueMax": 0, 
-        "itemList": [
-            1768177879, 
-            3422717473, 
-            4205222524, 
-            2754217990, 
-            3576712697
-        ]
-    }, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 1469714392, 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "preview": {
-        "screenStyle": "screen_style_vendor", 
-        "derivedItemCategories": [
-            {
-                "items": [
-                    {
-                        "itemHash": 2049642418, 
-                        "vendorItemIndex": 0
-                    }, 
-                    {
-                        "itemHash": 3037839606, 
-                        "vendorItemIndex": 1
-                    }, 
-                    {
-                        "itemHash": 2791924127, 
-                        "vendorItemIndex": 2
-                    }, 
-                    {
-                        "itemHash": 1378137827, 
-                        "vendorItemIndex": 3
-                    }, 
-                    {
-                        "itemHash": 2875338188, 
-                        "vendorItemIndex": 4
-                    }
-                ], 
-                "categoryDescription": "", 
-                "categoryIndex": 0
-            }
-        ], 
-        "previewVendorHash": 1929780458, 
-        "previewActionString": "Preview"
-    }, 
-    "hash": 1929780458, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Package", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        268598612
-    ], 
-    "uiItemDisplayStyle": "ui_display_style_box", 
-    "nonTransferrable": true, 
-    "tooltipStyle": "package", 
-    "allowActions": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "blacklisted": false, 
-    "displaySource": "", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "hasIcon": true, 
-        "description": "Contains a full set of Vanguard Dare Hunter universal ornaments.\n\nBundle price reduced for each item you already own.", 
-        "highResIcon": "/common/destiny2_content/icons/e973cfbaa7d632a0eb163d378857cc73.jpg", 
-        "name": "Vanguard Dare Hunter Bundle", 
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/4d3a5cf077bc1afbabfcaeb13fb5becd.png", 
-                    "/common/destiny2_content/icons/5eb6f9a9ad6b19d2be6a25785dd63229.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/4d3a5cf077bc1afbabfcaeb13fb5becd.png"
-    }
+	"displayProperties": {
+		"description": "Contains a full set of Vanguard Dare Hunter universal ornaments.\n\nBundle price reduced for each item you already own.",
+		"name": "Vanguard Dare Hunter Bundle",
+		"icon": "/common/destiny2_content/icons/4d3a5cf077bc1afbabfcaeb13fb5becd.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/4d3a5cf077bc1afbabfcaeb13fb5becd.png",
+					"/common/destiny2_content/icons/5eb6f9a9ad6b19d2be6a25785dd63229.png"
+				]
+			}
+		],
+		"highResIcon": "/common/destiny2_content/icons/e973cfbaa7d632a0eb163d378857cc73.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Package",
+	"uiItemDisplayStyle": "ui_display_style_box",
+	"itemTypeAndTierDisplayName": "Legendary Package",
+	"displaySource": "",
+	"tooltipStyle": "package",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1469714392,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"stats": {
+		"disablePrimaryStatDisplay": false,
+		"stats": {},
+		"hasDisplayableStats": false,
+		"primaryBaseStatHash": 0
+	},
+	"preview": {
+		"screenStyle": "screen_style_vendor",
+		"previewVendorHash": 1929780458,
+		"previewActionString": "Preview",
+		"derivedItemCategories": [
+			{
+				"categoryDescription": "",
+				"items": [
+					{
+						"itemHash": 2049642418,
+						"vendorItemIndex": 0
+					},
+					{
+						"itemHash": 3037839606,
+						"vendorItemIndex": 1
+					},
+					{
+						"itemHash": 2791924127,
+						"vendorItemIndex": 2
+					},
+					{
+						"itemHash": 1378137827,
+						"vendorItemIndex": 3
+					},
+					{
+						"itemHash": 2875338188,
+						"vendorItemIndex": 4
+					}
+				],
+				"categoryIndex": 0
+			}
+		]
+	},
+	"quality": {
+		"itemLevels": [],
+		"qualityLevel": 0,
+		"infusionCategoryName": "0",
+		"infusionCategoryHash": 0,
+		"infusionCategoryHashes": [],
+		"progressionLevelRequirementHash": 0,
+		"currentVersion": 0,
+		"versions": [
+			{
+				"powerCapHash": 723350001
+			}
+		],
+		"displayVersionWatermarkIcons": [
+			""
+		]
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"gearset": {
+		"trackingValueMax": 0,
+		"itemList": [
+			1768177879,
+			3422717473,
+			4205222524,
+			2754217990,
+			3576712697
+		]
+	},
+	"sack": {
+		"detailAction": "Preview",
+		"openAction": "Open",
+		"seedUnlockValueHash": 0,
+		"resolvedBitVectorUnlockValueHash": 0,
+		"resolvedItemCountUnlockValueHash": 0,
+		"selectItemCount": 0,
+		"rollStateUnlockValueHash": 0,
+		"rewardItemListHash": 0,
+		"openOnAcquire": false
+	},
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		268598612
+	],
+	"specialItemType": 0,
+	"itemType": 25,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"hash": 1929780458,
+	"index": 11766,
+	"redacted": false,
+	"blacklisted": false
 }

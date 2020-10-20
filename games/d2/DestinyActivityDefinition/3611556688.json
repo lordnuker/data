@@ -1,126 +1,126 @@
 {
-    "activityModeHashes": [
-        2319502047, 
-        1164760493
-    ], 
-    "originalDisplayProperties": {
-        "icon": "/img/misc/missing_icon_d2.png", 
-        "hasIcon": false, 
-        "description": "Stop the Cabal from rewriting history and laying claim to the future.", 
-        "name": "The Sundial"
-    }, 
-    "pgcrImage": "/img/destiny_content/pgcr/arena_sundial.jpg", 
-    "placeHash": 1259908504, 
-    "activityTypeHash": 2319502047, 
-    "redacted": false, 
-    "destinationHash": 1993421442, 
-    "challenges": [
-        {
-            "dummyRewards": [
-                {
-                    "itemHash": 0, 
-                    "quantity": 0
-                }, 
-                {
-                    "itemHash": 3114385606, 
-                    "quantity": 0
-                }
-            ], 
-            "rewardSiteHash": 0, 
-            "objectiveHash": 0, 
-            "inhibitRewardsUnlockHash": 0
-        }
-    ], 
-    "releaseTime": 0, 
-    "directActivityModeHash": 2319502047, 
-    "loadouts": [], 
-    "activityLightLevel": 950, 
-    "index": 15, 
-    "activityLevel": 50, 
-    "playlistItems": [], 
-    "insertionPoints": [], 
-    "isPlaylist": false, 
-    "completionUnlockHash": 0, 
-    "suppressOtherRewards": false, 
-    "rewards": [], 
-    "hash": 3611556688, 
-    "releaseIcon": "/img/misc/missing_icon_d2.png", 
-    "tier": -1, 
-    "isPvP": false, 
-    "modifiers": [
-        {
-            "activityModifierHash": 2146811863
-        }, 
-        {
-            "activityModifierHash": 1914961422
-        }, 
-        {
-            "activityModifierHash": 3935318377
-        }, 
-        {
-            "activityModifierHash": 939324719
-        }, 
-        {
-            "activityModifierHash": 3859784314
-        }, 
-        {
-            "activityModifierHash": 2301442403
-        }, 
-        {
-            "activityModifierHash": 3933343183
-        }, 
-        {
-            "activityModifierHash": 605585258
-        }, 
-        {
-            "activityModifierHash": 2687456355
-        }, 
-        {
-            "activityModifierHash": 3109821861
-        }, 
-        {
-            "activityModifierHash": 1519693894
-        }, 
-        {
-            "activityModifierHash": 291589344
-        }, 
-        {
-            "activityModifierHash": 2481935902
-        }, 
-        {
-            "activityModifierHash": 2481935902
-        }, 
-        {
-            "activityModifierHash": 2481935902
-        }, 
-        {
-            "activityModifierHash": 945795273
-        }
-    ], 
-    "blacklisted": false, 
-    "optionalUnlockStrings": [], 
-    "activityModeTypes": [
-        83, 
-        7
-    ], 
-    "activityLocationMappings": [], 
-    "directActivityModeType": 83, 
-    "inheritFromFreeRoam": false, 
-    "displayProperties": {
-        "hasIcon": false, 
-        "description": "Stop the Cabal from rewriting history and laying claim to the future.", 
-        "name": "The Sundial: Legend"
-    }, 
-    "matchmaking": {
-        "minParty": 1, 
-        "requiresGuardianOath": false, 
-        "maxPlayers": 6, 
-        "maxParty": 6, 
-        "isMatchmade": false
-    }, 
-    "selectionScreenDisplayProperties": {
-        "hasIcon": false, 
-        "description": "Become legend. A strong fireteam is recommended to overcome this challenge.\n\nMatchmaking: OFF", 
-        "name": "Legend"
-    }
+	"displayProperties": {
+		"description": "Stop the Cabal from rewriting history and laying claim to the future.",
+		"name": "The Sundial: Legend",
+		"hasIcon": false
+	},
+	"originalDisplayProperties": {
+		"description": "Stop the Cabal from rewriting history and laying claim to the future.",
+		"name": "The Sundial",
+		"icon": "/img/misc/missing_icon_d2.png",
+		"hasIcon": false
+	},
+	"selectionScreenDisplayProperties": {
+		"description": "Become legend. A strong fireteam is recommended to overcome this challenge.\n\nMatchmaking: OFF",
+		"name": "Legend",
+		"hasIcon": false
+	},
+	"releaseIcon": "/img/misc/missing_icon_d2.png",
+	"releaseTime": 0,
+	"activityLevel": 50,
+	"completionUnlockHash": 0,
+	"activityLightLevel": 950,
+	"destinationHash": 1993421442,
+	"placeHash": 1259908504,
+	"activityTypeHash": 2319502047,
+	"tier": -1,
+	"pgcrImage": "/img/destiny_content/pgcr/arena_sundial.jpg",
+	"rewards": [],
+	"modifiers": [
+		{
+			"activityModifierHash": 2146811863
+		},
+		{
+			"activityModifierHash": 1914961422
+		},
+		{
+			"activityModifierHash": 3935318377
+		},
+		{
+			"activityModifierHash": 939324719
+		},
+		{
+			"activityModifierHash": 3859784314
+		},
+		{
+			"activityModifierHash": 2301442403
+		},
+		{
+			"activityModifierHash": 3933343183
+		},
+		{
+			"activityModifierHash": 605585258
+		},
+		{
+			"activityModifierHash": 2687456355
+		},
+		{
+			"activityModifierHash": 3109821861
+		},
+		{
+			"activityModifierHash": 1519693894
+		},
+		{
+			"activityModifierHash": 291589344
+		},
+		{
+			"activityModifierHash": 2481935902
+		},
+		{
+			"activityModifierHash": 2481935902
+		},
+		{
+			"activityModifierHash": 2481935902
+		},
+		{
+			"activityModifierHash": 945795273
+		}
+	],
+	"isPlaylist": false,
+	"challenges": [
+		{
+			"rewardSiteHash": 0,
+			"inhibitRewardsUnlockHash": 0,
+			"objectiveHash": 0,
+			"dummyRewards": [
+				{
+					"itemHash": 0,
+					"quantity": 0
+				},
+				{
+					"itemHash": 3114385606,
+					"quantity": 0
+				}
+			]
+		}
+	],
+	"optionalUnlockStrings": [],
+	"inheritFromFreeRoam": false,
+	"suppressOtherRewards": false,
+	"playlistItems": [],
+	"matchmaking": {
+		"isMatchmade": false,
+		"minParty": 1,
+		"maxParty": 6,
+		"maxPlayers": 6,
+		"requiresGuardianOath": false
+	},
+	"directActivityModeHash": 2319502047,
+	"directActivityModeType": 83,
+	"loadouts": [],
+	"activityModeHashes": [
+		2319502047,
+		1164760493
+	],
+	"activityModeTypes": [
+		83,
+		7
+	],
+	"isPvP": false,
+	"insertionPoints": [],
+	"activityLocationMappings": [],
+	"hash": 3611556688,
+	"index": 15,
+	"redacted": false,
+	"blacklisted": false
 }

@@ -1,32 +1,71 @@
 {
-    "allowActions": true, 
-    "itemType": 0, 
-    "equippable": true, 
-    "defaultDamageType": 0, 
-    "isWrapper": false, 
-    "classType": 0, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "specialItemType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": false, 
-        "bucketTypeHash": 4274335291, 
-        "tierTypeHash": 0, 
-        "recoveryBucketTypeHash": 215593132, 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 0
-    }, 
-    "nonTransferrable": true, 
-    "displayProperties": {
-        "icon": "/img/misc/missing_icon_d2.png", 
-        "hasIcon": false, 
-        "description": "Keep it secret.  Keep it safe.", 
-        "highResIcon": "/img/misc/missing_icon_d2.png", 
-        "name": "Classified"
-    }, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0
+	"displayProperties": {
+		"description": "",
+		"name": "Rivals Three",
+		"icon": "/common/destiny2_content/icons/3c6dc6a10ee9e694f25348479db2d28d.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"collectibleHash": 4085938160,
+	"secondaryIcon": "/common/destiny2_content/icons/f5a60053f8824e37ea5d28483e33f81b.jpg",
+	"secondaryOverlay": "/common/destiny2_content/icons/9de4d9e9ab0b9f47f1798a6341d96f49.png",
+	"secondarySpecial": "/common/destiny2_content/icons/edeee5f4b8cca69ef86c8a5d0240ce84.jpg",
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 1,
+		"green": 1,
+		"blue": 6,
+		"alpha": 255
+	},
+	"itemTypeDisplayName": "Emblem",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Emblem",
+	"displaySource": "",
+	"inventory": {
+		"stackUniqueLabel": "v480.emblems.gameplay.legendary.emblem7",
+		"maxStackSize": 1,
+		"bucketTypeHash": 4274335291,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"equippingBlock": {
+		"uniqueLabelHash": 0,
+		"equipmentSlotTypeHash": 4274335291,
+		"attributes": 0,
+		"equippingSoundHash": 0,
+		"hornSoundHash": 0,
+		"ammoType": 0,
+		"displayStrings": []
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"talentGrid": {
+		"talentGridHash": 521135891,
+		"itemDetailString": "Details",
+		"hudDamageType": 1
+	},
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		19,
+		52
+	],
+	"specialItemType": 0,
+	"itemType": 14,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": true,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

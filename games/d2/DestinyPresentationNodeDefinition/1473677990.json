@@ -1,67 +1,67 @@
 {
-    "index": 637, 
-    "traitHashes": [], 
-    "nodeType": 3, 
-    "blacklisted": false, 
-    "originalIcon": "/common/destiny2_content/icons/809d3144bb424ec55bf6cadbb05abc5e.png", 
-    "presentationNodeType": 1, 
-    "redacted": false, 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "parentNodeHashes": [
-        1652422747
-    ], 
-    "children": {
-        "metrics": [], 
-        "collectibles": [], 
-        "presentationNodes": [], 
-        "records": [
-            {
-                "recordHash": 221623575
-            }, 
-            {
-                "recordHash": 745948949
-            }, 
-            {
-                "recordHash": 3717583795
-            }, 
-            {
-                "recordHash": 1560412314
-            }, 
-            {
-                "recordHash": 2438674493
-            }, 
-            {
-                "recordHash": 3929418444
-            }
-        ]
-    }, 
-    "rootViewIcon": "/img/destiny_content/also_triumphs/seals/seal_conqueror.png", 
-    "screenStyle": 2, 
-    "traitIds": [], 
-    "displayStyle": 2, 
-    "disableChildSubscreenNavigation": false, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/809d3144bb424ec55bf6cadbb05abc5e.png", 
-                    "/common/destiny2_content/icons/1b4542f50cc850192cd504c53790fc9a.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/41c0b8c608add98e2f449ba3dfdec745.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/DestinyPresentationNodeDefinition_ee5cabbb0a99aafc6b35e334e5f06272.png", 
-        "hasIcon": true, 
-        "description": "Complete all Season of the Worthy Grandmaster Triumphs.", 
-        "name": "Conqueror"
-    }, 
-    "scope": 0, 
-    "completionRecordHash": 1983630873, 
-    "hash": 1473677990
+	"displayProperties": {
+		"description": "Complete all Season of the Worthy Grandmaster Triumphs.",
+		"name": "Conqueror",
+		"icon": "/common/destiny2_content/icons/DestinyPresentationNodeDefinition_ee5cabbb0a99aafc6b35e334e5f06272.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/809d3144bb424ec55bf6cadbb05abc5e.png",
+					"/common/destiny2_content/icons/1b4542f50cc850192cd504c53790fc9a.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/41c0b8c608add98e2f449ba3dfdec745.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"originalIcon": "/common/destiny2_content/icons/809d3144bb424ec55bf6cadbb05abc5e.png",
+	"rootViewIcon": "/img/destiny_content/also_triumphs/seals/seal_conqueror.png",
+	"nodeType": 3,
+	"scope": 0,
+	"completionRecordHash": 1983630873,
+	"children": {
+		"presentationNodes": [],
+		"collectibles": [],
+		"records": [
+			{
+				"recordHash": 221623575
+			},
+			{
+				"recordHash": 745948949
+			},
+			{
+				"recordHash": 3717583795
+			},
+			{
+				"recordHash": 1560412314
+			},
+			{
+				"recordHash": 2438674493
+			},
+			{
+				"recordHash": 3929418444
+			}
+		],
+		"metrics": []
+	},
+	"displayStyle": 2,
+	"screenStyle": 2,
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"disableChildSubscreenNavigation": false,
+	"presentationNodeType": 1,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		1652422747
+	],
+	"hash": 1473677990,
+	"index": 711,
+	"redacted": false,
+	"blacklisted": false
 }

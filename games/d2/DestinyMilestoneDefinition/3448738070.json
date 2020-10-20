@@ -1,94 +1,62 @@
 {
-    "activities": [
-        {
-            "challenges": [
-                {
-                    "challengeObjectiveHash": 1734176373, 
-                    "completeUnlockHash": 0
-                }
-            ], 
-            "activityGraphNodes": [
-                {
-                    "activityGraphNodeHash": 3204913413, 
-                    "activityGraphHash": 2377695222
-                }, 
-                {
-                    "activityGraphNodeHash": 3204913413, 
-                    "activityGraphHash": 3631350504
-                }
-            ], 
-            "activityHash": 3577607128
-        }, 
-        {
-            "challenges": [
-                {
-                    "challengeObjectiveHash": 1734176373, 
-                    "completeUnlockHash": 0
-                }
-            ], 
-            "activityGraphNodes": [
-                {
-                    "activityGraphNodeHash": 2192593854, 
-                    "activityGraphHash": 2377695222
-                }, 
-                {
-                    "activityGraphNodeHash": 2192593854, 
-                    "activityGraphHash": 3631350504
-                }
-            ], 
-            "activityHash": 1183187383
-        }
-    ], 
-    "rewards": {
-        "326786556": {
-            "displayProperties": {
-                "hasIcon": false, 
-                "description": "", 
-                "name": "Rewards"
-            }, 
-            "rewardEntries": {
-                "326786556": {
-                    "redeemedUnlockHash": 0, 
-                    "items": [
-                        {
-                            "itemHash": 3114385606, 
-                            "quantity": 0
-                        }
-                    ], 
-                    "rewardEntryHash": 326786556, 
-                    "displayProperties": {
-                        "hasIcon": false, 
-                        "description": "Complete Gambit matches.", 
-                        "name": "Weekly Gambit Challenge"
-                    }, 
-                    "earnedUnlockHash": 0, 
-                    "rewardEntryIdentifier": "ChallengeSourcedReward", 
-                    "order": 0
-                }
-            }, 
-            "categoryIdentifier": "ChallengeSourcedReward", 
-            "categoryHash": 326786556, 
-            "order": 0
-        }
-    }, 
-    "hash": 3448738070, 
-    "blacklisted": false, 
-    "isInGameMilestone": false, 
-    "index": 35, 
-    "showInExplorer": false, 
-    "image": "/img/destiny_content/pgcr/social_traveler.jpg", 
-    "redacted": false, 
-    "explorePrioritizesActivityImage": false, 
-    "showInMilestones": true, 
-    "friendlyName": "MILESTONE_WEEKLY_GAMBIT", 
-    "milestoneType": 3, 
-    "hasPredictableDates": true, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/DestinyMilestoneDefinition_debe93f5f173102a6a572a318160ffd0.png", 
-        "hasIcon": true, 
-        "description": "Complete Gambit matches.", 
-        "name": "Weekly Gambit Challenge"
-    }, 
-    "defaultOrder": 5000, 
-    "recruitable": false
+	"displayProperties": {
+		"description": "Complete Gambit matches.",
+		"name": "Weekly Gambit Challenge",
+		"icon": "/common/destiny2_content/icons/DestinyMilestoneDefinition_debe93f5f173102a6a572a318160ffd0.png",
+		"hasIcon": true
+	},
+	"image": "/img/destiny_content/pgcr/social_traveler.jpg",
+	"milestoneType": 3,
+	"recruitable": false,
+	"friendlyName": "MILESTONE_WEEKLY_GAMBIT",
+	"showInExplorer": false,
+	"showInMilestones": true,
+	"explorePrioritizesActivityImage": false,
+	"hasPredictableDates": true,
+	"isInGameMilestone": false,
+	"activities": [
+		{
+			"activityHash": 3577607128,
+			"challenges": [
+				{
+					"challengeObjectiveHash": 1734176373,
+					"completeUnlockHash": 0
+				}
+			],
+			"activityGraphNodes": [
+				{
+					"activityGraphHash": 2377695222,
+					"activityGraphNodeHash": 3204913413
+				},
+				{
+					"activityGraphHash": 3631350504,
+					"activityGraphNodeHash": 3204913413
+				}
+			]
+		},
+		{
+			"activityHash": 1183187383,
+			"challenges": [
+				{
+					"challengeObjectiveHash": 1734176373,
+					"completeUnlockHash": 0
+				}
+			],
+			"activityGraphNodes": [
+				{
+					"activityGraphHash": 2377695222,
+					"activityGraphNodeHash": 2192593854
+				},
+				{
+					"activityGraphHash": 3631350504,
+					"activityGraphNodeHash": 2192593854
+				}
+			]
+		}
+	],
+	"defaultOrder": 5000,
+	"hash": 3448738070,
+	"index": 48,
+	"redacted": false,
+	"blacklisted": false
 }

@@ -1,68 +1,68 @@
 {
-    "itemTypeAndTierDisplayName": "", 
-    "itemType": 20, 
-    "investmentStats": [], 
-    "redacted": false, 
-    "tooltipNotifications": [], 
-    "index": 100, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Exotic", 
-        "bucketTypeHash": 3621873013, 
-        "tierTypeHash": 2759499571, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 6, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 142, 
-        "green": 12, 
-        "colorHash": 0, 
-        "red": 94, 
-        "alpha": 255
-    }, 
-    "hash": 771478467, 
-    "equippable": false, 
-    "itemTypeDisplayName": "", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        3109687656
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "blacklisted": false, 
-    "displaySource": "", 
-    "summary": {
-        "sortPriority": 400
-    }, 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/2bd6547fa8f170d8868c8ab24b9fe84a.jpg", 
-                    "/common/destiny2_content/icons/ca23fcdc2e191bb003d297f36bc88883.png", 
-                    "/common/destiny2_content/icons/e3c42aa8d5c9644c3ef9f28d18ccd168.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/2bd6547fa8f170d8868c8ab24b9fe84a.jpg", 
-        "hasIcon": true, 
-        "description": "", 
-        "name": "Ascendant Shards (Common)"
-    }
+	"displayProperties": {
+		"description": "",
+		"name": "Ascendant Shards (Common)",
+		"icon": "/common/destiny2_content/icons/2bd6547fa8f170d8868c8ab24b9fe84a.jpg",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/2bd6547fa8f170d8868c8ab24b9fe84a.jpg",
+					"/common/destiny2_content/icons/ca23fcdc2e191bb003d297f36bc88883.png",
+					"/common/destiny2_content/icons/e3c42aa8d5c9644c3ef9f28d18ccd168.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 94,
+		"green": 12,
+		"blue": 142,
+		"alpha": 255
+	},
+	"itemTypeDisplayName": "",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 3621873013,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 2759499571,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Exotic",
+		"tierType": 6,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"summary": {
+		"sortPriority": 400
+	},
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		3109687656
+	],
+	"specialItemType": 0,
+	"itemType": 20,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"hash": 771478467,
+	"index": 100,
+	"redacted": false,
+	"blacklisted": false
 }

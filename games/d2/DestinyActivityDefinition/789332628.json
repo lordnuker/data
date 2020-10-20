@@ -1,71 +1,71 @@
 {
-    "activityModeHashes": [
-        3497767639, 
-        1164760493
-    ], 
-    "originalDisplayProperties": {
-        "icon": "/img/misc/missing_icon_d2.png", 
-        "hasIcon": false, 
-        "description": "Recover the supplies that the Fallen have taken.", 
-        "name": "Thief of Thieves"
-    }, 
-    "pgcrImage": "/img/destiny_content/pgcr/patrol_titan.jpg", 
-    "placeHash": 386951460, 
-    "activityTypeHash": 3497767639, 
-    "redacted": false, 
-    "destinationHash": 2388758973, 
-    "challenges": [], 
-    "directActivityModeHash": 3497767639, 
-    "activityLightLevel": 750, 
-    "index": 992, 
-    "activityLevel": 6, 
-    "playlistItems": [], 
-    "insertionPoints": [], 
-    "isPlaylist": false, 
-    "completionUnlockHash": 0, 
-    "suppressOtherRewards": false, 
-    "rewards": [
-        {
-            "rewardItems": [
-                {
-                    "itemHash": 1215073230, 
-                    "quantity": 1
-                }
-            ]
-        }
-    ], 
-    "hash": 789332628, 
-    "releaseIcon": "/img/misc/missing_icon_d2.png", 
-    "tier": 0, 
-    "isPvP": false, 
-    "modifiers": [], 
-    "blacklisted": false, 
-    "optionalUnlockStrings": [], 
-    "activityModeTypes": [
-        6, 
-        7
-    ], 
-    "activityLocationMappings": [
-        {
-            "locationHash": 789332628, 
-            "activityHash": 789332628, 
-            "activationSource": "patrol"
-        }
-    ], 
-    "directActivityModeType": 6, 
-    "inheritFromFreeRoam": false, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/c60303e278aa5fc566a04e98c3d8024c.png", 
-        "hasIcon": true, 
-        "description": "Recover the supplies that the Fallen have taken.", 
-        "name": "Thief of Thieves"
-    }, 
-    "releaseTime": 0, 
-    "matchmaking": {
-        "minParty": 1, 
-        "requiresGuardianOath": false, 
-        "maxPlayers": 3, 
-        "maxParty": 3, 
-        "isMatchmade": false
-    }
+	"displayProperties": {
+		"description": "Recover the supplies that the Fallen have taken.",
+		"name": "Thief of Thieves",
+		"icon": "/common/destiny2_content/icons/c60303e278aa5fc566a04e98c3d8024c.png",
+		"hasIcon": true
+	},
+	"originalDisplayProperties": {
+		"description": "Recover the supplies that the Fallen have taken.",
+		"name": "Thief of Thieves",
+		"icon": "/img/misc/missing_icon_d2.png",
+		"hasIcon": false
+	},
+	"releaseIcon": "/img/misc/missing_icon_d2.png",
+	"releaseTime": 0,
+	"activityLevel": 6,
+	"completionUnlockHash": 0,
+	"activityLightLevel": 750,
+	"destinationHash": 2388758973,
+	"placeHash": 386951460,
+	"activityTypeHash": 3497767639,
+	"tier": 0,
+	"pgcrImage": "/img/destiny_content/pgcr/patrol_titan.jpg",
+	"rewards": [
+		{
+			"rewardItems": [
+				{
+					"itemHash": 1215073230,
+					"quantity": 1
+				}
+			]
+		}
+	],
+	"modifiers": [],
+	"isPlaylist": false,
+	"challenges": [],
+	"optionalUnlockStrings": [],
+	"inheritFromFreeRoam": false,
+	"suppressOtherRewards": false,
+	"playlistItems": [],
+	"matchmaking": {
+		"isMatchmade": false,
+		"minParty": 1,
+		"maxParty": 3,
+		"maxPlayers": 3,
+		"requiresGuardianOath": false
+	},
+	"directActivityModeHash": 3497767639,
+	"directActivityModeType": 6,
+	"activityModeHashes": [
+		3497767639,
+		1164760493
+	],
+	"activityModeTypes": [
+		6,
+		7
+	],
+	"isPvP": false,
+	"insertionPoints": [],
+	"activityLocationMappings": [
+		{
+			"locationHash": 789332628,
+			"activationSource": "patrol",
+			"activityHash": 789332628
+		}
+	],
+	"hash": 789332628,
+	"index": 1001,
+	"redacted": false,
+	"blacklisted": false
 }

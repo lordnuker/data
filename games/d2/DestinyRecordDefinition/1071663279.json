@@ -1,51 +1,51 @@
 {
-    "index": 682, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        321779788
-    ], 
-    "parentNodeHashes": [
-        3481101973, 
-        4235544934
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 150, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/dd4c221d0c0ede4e568850cf0e73edc7.png", 
-        "hasIcon": true, 
-        "description": "As an invader, defeat four opposing Guardians in a single invasion.", 
-        "name": "Army of One"
-    }, 
-    "scope": 0, 
-    "hash": 1071663279
+	"displayProperties": {
+		"description": "As an invader, defeat four opposing Guardians in a single invasion.",
+		"name": "Army of One",
+		"icon": "/common/destiny2_content/icons/dd4c221d0c0ede4e568850cf0e73edc7.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		321779788
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 150,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		3481101973,
+		4235544934
+	],
+	"hash": 1071663279,
+	"index": 693,
+	"redacted": false,
+	"blacklisted": false
 }

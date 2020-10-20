@@ -1,61 +1,61 @@
 {
-    "index": 1507, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        4115054335, 
-        4115054334, 
-        4115054333, 
-        4115054332, 
-        4115054331, 
-        4115054330
-    ], 
-    "parentNodeHashes": [
-        991908404, 
-        3618458455
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 100, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [
-        {
-            "itemHash": 2868525741, 
-            "quantity": 1
-        }
-    ], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/a08e986205f79f7aa535ba45b16dd042.png", 
-        "hasIcon": true, 
-        "description": "While you have the Invader Aura in Gambit Prime, win matches, defeat opposing Guardians with your Super, defeat opposing Guardians with Sniper or Linear Fusion Rifles, defeat opposing Guardians with Fusion Rifles or Shotguns, defeat opposing Guardians with any other weapon, and drain Motes while near the enemy bank.", 
-        "name": "Triumphant Invader"
-    }, 
-    "scope": 0, 
-    "hash": 3191146526
+	"displayProperties": {
+		"description": "While you have the Invader Aura in Gambit Prime, win matches, defeat opposing Guardians with your Super, defeat opposing Guardians with Sniper or Linear Fusion Rifles, defeat opposing Guardians with Fusion Rifles or Shotguns, defeat opposing Guardians with any other weapon, and drain Motes while near the enemy bank.",
+		"name": "Triumphant Invader",
+		"icon": "/common/destiny2_content/icons/a08e986205f79f7aa535ba45b16dd042.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		4115054335,
+		4115054334,
+		4115054333,
+		4115054332,
+		4115054331,
+		4115054330
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 100,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [
+		{
+			"itemHash": 2868525741,
+			"quantity": 1
+		}
+	],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		991908404,
+		3618458455
+	],
+	"hash": 3191146526,
+	"index": 1519,
+	"redacted": false,
+	"blacklisted": false
 }

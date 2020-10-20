@@ -1,24 +1,24 @@
 {
-    "index": 45, 
-    "groupCategoryOnly": false, 
-    "grantDestinyClass": 3, 
-    "blacklisted": false, 
-    "shortTitle": "Quest", 
-    "grantDestinyItemType": 15, 
-    "deprecated": false, 
-    "originBucketIdentifier": "(hidden)|(temporary)", 
-    "redacted": false, 
-    "grantDestinySubType": 0, 
-    "itemTypeRegex": "(.*quest.*)|(questline_item_type)", 
-    "parentCategoryHashes": [], 
-    "visible": true, 
-    "groupedCategoryHashes": [], 
-    "displayProperties": {
-        "hasIcon": false, 
-        "description": "Quests that can be completed in Destiny.", 
-        "name": "Quest"
-    }, 
-    "hash": 53, 
-    "isPlug": false, 
-    "grantDestinyBreakerType": 0
+	"displayProperties": {
+		"description": "Quests that can be completed in Destiny.",
+		"name": "Quest",
+		"hasIcon": false
+	},
+	"visible": true,
+	"deprecated": false,
+	"shortTitle": "Quest",
+	"itemTypeRegex": "(.*quest.*)|(questline_item_type)",
+	"grantDestinyBreakerType": 0,
+	"originBucketIdentifier": "(hidden)|(temporary)",
+	"grantDestinyItemType": 15,
+	"grantDestinySubType": 0,
+	"grantDestinyClass": 3,
+	"groupedCategoryHashes": [],
+	"isPlug": false,
+	"parentCategoryHashes": [],
+	"groupCategoryOnly": false,
+	"hash": 53,
+	"index": 45,
+	"redacted": false,
+	"blacklisted": false
 }

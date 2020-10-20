@@ -1,115 +1,115 @@
 {
-    "index": 624, 
-    "traitHashes": [], 
-    "nodeType": 3, 
-    "blacklisted": false, 
-    "originalIcon": "/common/destiny2_content/icons/885677894bf02b920ad48bfc60e1bbe2.png", 
-    "presentationNodeType": 1, 
-    "redacted": false, 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "parentNodeHashes": [
-        1652422747
-    ], 
-    "children": {
-        "metrics": [], 
-        "collectibles": [], 
-        "presentationNodes": [], 
-        "records": [
-            {
-                "recordHash": 3488769908
-            }, 
-            {
-                "recordHash": 2676320666
-            }, 
-            {
-                "recordHash": 4269157841
-            }, 
-            {
-                "recordHash": 4174911913
-            }, 
-            {
-                "recordHash": 3686586344
-            }, 
-            {
-                "recordHash": 3015917345
-            }, 
-            {
-                "recordHash": 3015917346
-            }, 
-            {
-                "recordHash": 3015917347
-            }, 
-            {
-                "recordHash": 1683000545
-            }, 
-            {
-                "recordHash": 2137287373
-            }, 
-            {
-                "recordHash": 1632551190
-            }, 
-            {
-                "recordHash": 3630489247
-            }, 
-            {
-                "recordHash": 633055621
-            }, 
-            {
-                "recordHash": 3408598133
-            }, 
-            {
-                "recordHash": 3632308741
-            }, 
-            {
-                "recordHash": 3727584102
-            }, 
-            {
-                "recordHash": 1417930213
-            }, 
-            {
-                "recordHash": 376008854
-            }, 
-            {
-                "recordHash": 641038864
-            }, 
-            {
-                "recordHash": 3517489196
-            }, 
-            {
-                "recordHash": 3308633273
-            }, 
-            {
-                "recordHash": 3122478469
-            }
-        ]
-    }, 
-    "rootViewIcon": "/img/destiny_content/also_triumphs/seals/seal_destinations.png", 
-    "screenStyle": 2, 
-    "traitIds": [], 
-    "displayStyle": 2, 
-    "disableChildSubscreenNavigation": false, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/885677894bf02b920ad48bfc60e1bbe2.png", 
-                    "/common/destiny2_content/icons/ac7fd21db23fdc5d6be7faaebbf0b54d.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/24bc6a66e254ff0ce51d14eed8d06073.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/DestinyPresentationNodeDefinition_df1420c482f7575ab14447ab01f4cec0.png", 
-        "hasIcon": true, 
-        "description": "Complete all Destination Triumphs.", 
-        "name": "Destinations"
-    }, 
-    "scope": 0, 
-    "completionRecordHash": 2757681677, 
-    "hash": 2588182977
+	"displayProperties": {
+		"description": "Complete all Destination Triumphs.",
+		"name": "Destinations",
+		"icon": "/common/destiny2_content/icons/DestinyPresentationNodeDefinition_df1420c482f7575ab14447ab01f4cec0.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/885677894bf02b920ad48bfc60e1bbe2.png",
+					"/common/destiny2_content/icons/ac7fd21db23fdc5d6be7faaebbf0b54d.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/24bc6a66e254ff0ce51d14eed8d06073.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"originalIcon": "/common/destiny2_content/icons/885677894bf02b920ad48bfc60e1bbe2.png",
+	"rootViewIcon": "/img/destiny_content/also_triumphs/seals/seal_destinations.png",
+	"nodeType": 3,
+	"scope": 0,
+	"completionRecordHash": 2757681677,
+	"children": {
+		"presentationNodes": [],
+		"collectibles": [],
+		"records": [
+			{
+				"recordHash": 3488769908
+			},
+			{
+				"recordHash": 2676320666
+			},
+			{
+				"recordHash": 4269157841
+			},
+			{
+				"recordHash": 4174911913
+			},
+			{
+				"recordHash": 3686586344
+			},
+			{
+				"recordHash": 3015917345
+			},
+			{
+				"recordHash": 3015917346
+			},
+			{
+				"recordHash": 3015917347
+			},
+			{
+				"recordHash": 1683000545
+			},
+			{
+				"recordHash": 2137287373
+			},
+			{
+				"recordHash": 1632551190
+			},
+			{
+				"recordHash": 3630489247
+			},
+			{
+				"recordHash": 633055621
+			},
+			{
+				"recordHash": 3408598133
+			},
+			{
+				"recordHash": 3632308741
+			},
+			{
+				"recordHash": 3727584102
+			},
+			{
+				"recordHash": 1417930213
+			},
+			{
+				"recordHash": 376008854
+			},
+			{
+				"recordHash": 641038864
+			},
+			{
+				"recordHash": 3517489196
+			},
+			{
+				"recordHash": 3308633273
+			},
+			{
+				"recordHash": 3122478469
+			}
+		],
+		"metrics": []
+	},
+	"displayStyle": 2,
+	"screenStyle": 2,
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"disableChildSubscreenNavigation": false,
+	"presentationNodeType": 1,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		1652422747
+	],
+	"hash": 2588182977,
+	"index": 698,
+	"redacted": false,
+	"blacklisted": false
 }

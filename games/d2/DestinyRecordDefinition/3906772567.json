@@ -1,61 +1,61 @@
 {
-    "index": 858, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 2, 
-        "intervalObjectives": [
-            {
-                "intervalScoreValue": 10, 
-                "intervalObjectiveHash": 3487215396
-            }, 
-            {
-                "intervalScoreValue": 15, 
-                "intervalObjectiveHash": 3487215398
-            }, 
-            {
-                "intervalScoreValue": 25, 
-                "intervalObjectiveHash": 3487215399
-            }
-        ], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [], 
-    "parentNodeHashes": [
-        1673575812
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/35f0ec59bb17b563d61602831383ef06.png", 
-        "hasIcon": true, 
-        "description": "Complete Crucible bounties.", 
-        "name": "Mercenary"
-    }, 
-    "scope": 0, 
-    "hash": 3906772567
+	"displayProperties": {
+		"description": "Complete Crucible bounties.",
+		"name": "Mercenary",
+		"icon": "/common/destiny2_content/icons/35f0ec59bb17b563d61602831383ef06.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [
+			{
+				"intervalObjectiveHash": 3487215396,
+				"intervalScoreValue": 10
+			},
+			{
+				"intervalObjectiveHash": 3487215398,
+				"intervalScoreValue": 15
+			},
+			{
+				"intervalObjectiveHash": 3487215399,
+				"intervalScoreValue": 25
+			}
+		],
+		"originalObjectiveArrayInsertionIndex": 2,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		1673575812
+	],
+	"hash": 3906772567,
+	"index": 869,
+	"redacted": false,
+	"blacklisted": false
 }

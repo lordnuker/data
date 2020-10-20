@@ -1,0 +1,71 @@
+{
+	"displayProperties": {
+		"description": "Defeat Zulmak, Instrument of Torment.",
+		"name": "Pit of Heresy",
+		"icon": "/common/destiny2_content/icons/DestinyMilestoneDefinition_7b2e832d6fa3513b3c3e55f69aaeee40.png",
+		"hasIcon": true
+	},
+	"image": "/img/destiny_content/pgcr/dungeon_pit_of_heresy.jpg",
+	"milestoneType": 3,
+	"recruitable": false,
+	"friendlyName": "MILESTONE_WEEKLY_PIT_OF_HERESY_DUNGEON",
+	"showInExplorer": false,
+	"showInMilestones": true,
+	"explorePrioritizesActivityImage": false,
+	"hasPredictableDates": false,
+	"rewards": {
+		"326786556": {
+			"categoryHash": 326786556,
+			"categoryIdentifier": "ChallengeSourcedReward",
+			"displayProperties": {
+				"description": "",
+				"name": "Rewards",
+				"hasIcon": false
+			},
+			"rewardEntries": {
+				"326786556": {
+					"rewardEntryHash": 326786556,
+					"rewardEntryIdentifier": "ChallengeSourcedReward",
+					"items": [
+						{
+							"itemHash": 73143230,
+							"quantity": 0
+						}
+					],
+					"displayProperties": {
+						"description": "Defeat Zulmak, Instrument of Torment.",
+						"name": "Weekly Completion Challenge",
+						"hasIcon": false
+					},
+					"order": 0,
+					"earnedUnlockHash": 0,
+					"redeemedUnlockHash": 0
+				}
+			},
+			"order": 0
+		}
+	},
+	"isInGameMilestone": false,
+	"activities": [
+		{
+			"activityHash": 1375089621,
+			"challenges": [
+				{
+					"challengeObjectiveHash": 3197271591,
+					"completeUnlockHash": 0
+				}
+			],
+			"activityGraphNodes": [
+				{
+					"activityGraphHash": 2831782236,
+					"activityGraphNodeHash": 1147858346
+				}
+			]
+		}
+	],
+	"defaultOrder": 2000,
+	"hash": 2770934901,
+	"index": 57,
+	"redacted": false,
+	"blacklisted": false
+}

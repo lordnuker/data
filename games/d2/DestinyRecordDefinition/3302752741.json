@@ -1,55 +1,50 @@
 {
-    "index": 2024, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        1259427182
-    ], 
-    "parentNodeHashes": [
-        2998268400
-    ], 
-    "expirationInfo": {
-        "hasExpiration": true, 
-        "description": "Available only during Season 10"
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 50, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [
-        {
-            "itemHash": 535079318, 
-            "quantity": 100
-        }
-    ], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/6e2145e694205c0cc0789af4204a1c03.png", 
-        "hasIcon": true, 
-        "description": "Clear a Seraph Bunker while wearing a full set of Seventh Seraph armor.", 
-        "name": "Multi-threaded Clear"
-    }, 
-    "scope": 0, 
-    "hash": 3302752741
+	"displayProperties": {
+		"description": "Clear a Seraph Bunker while wearing a full set of Seventh Seraph armor.",
+		"name": "Multi-threaded Clear",
+		"icon": "/common/destiny2_content/icons/6e2145e694205c0cc0789af4204a1c03.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		1259427182
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 50,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": true,
+		"description": "Available only during Season 10"
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		2998268400
+	],
+	"hash": 3302752741,
+	"index": 2036,
+	"redacted": false,
+	"blacklisted": false
 }

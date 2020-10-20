@@ -1,63 +1,63 @@
 {
-    "index": 1575, 
-    "traitHashes": [], 
-    "loreHash": 2990265278, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "traitIds": [], 
-    "objectiveHashes": [
-        283553662
-    ], 
-    "parentNodeHashes": [
-        289742222
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 2, 
-        "ScoreValue": 50, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/f7df8c4438656c5ae23da926f94c2645.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/23e85c6064feba667f4bf436b6f80b1f.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/f7df8c4438656c5ae23da926f94c2645.png", 
-        "hasIcon": true, 
-        "description": "", 
-        "name": "Revelations and Invitations"
-    }, 
-    "scope": 0, 
-    "hash": 1185926965
+	"displayProperties": {
+		"description": "",
+		"name": "Revelations and Invitations",
+		"icon": "/common/destiny2_content/icons/f7df8c4438656c5ae23da926f94c2645.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/f7df8c4438656c5ae23da926f94c2645.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/23e85c6064feba667f4bf436b6f80b1f.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"scope": 0,
+	"loreHash": 2990265278,
+	"objectiveHashes": [
+		283553662
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 50,
+		"shouldFireToast": true,
+		"toastStyle": 2
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		289742222
+	],
+	"hash": 1185926965,
+	"index": 1587,
+	"redacted": false,
+	"blacklisted": false
 }

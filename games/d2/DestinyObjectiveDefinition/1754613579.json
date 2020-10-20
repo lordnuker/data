@@ -1,28 +1,33 @@
 {
-    "index": 2001, 
-    "showValueOnComplete": false, 
-    "minimumVisibilityThreshold": 0, 
-    "unlockValueHash": 0, 
-    "blacklisted": false, 
-    "isDisplayOnlyObjective": false, 
-    "allowValueChangeWhenCompleted": false, 
-    "completionValue": 0, 
-    "isCountingDownward": false, 
-    "redacted": true, 
-    "progressDescription": "Classified", 
-    "locationHash": 0, 
-    "inProgressValueStyle": 0, 
-    "allowNegativeValue": false, 
-    "displayProperties": {
-        "icon": "/img/misc/missing_icon_d2.png", 
-        "hasIcon": false, 
-        "description": "Keep it secret.  Keep it safe.", 
-        "highResIcon": "/img/misc/missing_icon_d2.png", 
-        "name": "Classified"
-    }, 
-    "scope": 0, 
-    "valueStyle": 0, 
-    "completedValueStyle": 0, 
-    "hash": 1754613579, 
-    "allowOvercompletion": false
+	"displayProperties": {
+		"description": "",
+		"name": "",
+		"hasIcon": false
+	},
+	"unlockValueHash": 0,
+	"completionValue": 700,
+	"scope": 3,
+	"locationHash": 0,
+	"allowNegativeValue": false,
+	"allowValueChangeWhenCompleted": false,
+	"isCountingDownward": false,
+	"valueStyle": 0,
+	"progressDescription": "Enemies defeated",
+	"perks": {
+		"perkHash": 0,
+		"style": 0
+	},
+	"stats": {
+		"style": 0
+	},
+	"minimumVisibilityThreshold": -2147483648,
+	"allowOvercompletion": false,
+	"showValueOnComplete": false,
+	"isDisplayOnlyObjective": false,
+	"completedValueStyle": 8,
+	"inProgressValueStyle": 3,
+	"hash": 1754613579,
+	"index": 2051,
+	"redacted": false,
+	"blacklisted": false
 }

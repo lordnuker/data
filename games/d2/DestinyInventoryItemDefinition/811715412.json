@@ -1,420 +1,429 @@
 {
-    "itemTypeAndTierDisplayName": "Exotic Engram", 
-    "itemType": 8, 
-    "investmentStats": [
-        {
-            "value": 0, 
-            "statTypeHash": 1935470627, 
-            "isConditionallyActive": false
-        }
-    ], 
-    "redacted": false, 
-    "sack": {
-        "openOnAcquire": false, 
-        "resolvedItemCountUnlockValueHash": 0, 
-        "openAction": "Decrypt", 
-        "rollStateUnlockValueHash": 0, 
-        "selectItemCount": 0, 
-        "vendorSackType": "engram.cryptarch", 
-        "seedUnlockValueHash": 0, 
-        "rewardItemListHash": 0, 
-        "resolvedBitVectorUnlockValueHash": 0, 
-        "detailAction": ""
-    }, 
-    "tooltipNotifications": [], 
-    "quality": {
-        "infusionCategoryHash": 0, 
-        "infusionCategoryHashes": [], 
-        "infusionCategoryName": "0", 
-        "progressionLevelRequirementHash": 0, 
-        "qualityLevel": 0, 
-        "itemLevels": []
-    }, 
-    "index": 4587, 
-    "stats": {
-        "hasDisplayableStats": false, 
-        "primaryBaseStatHash": 1935470627, 
-        "disablePrimaryStatDisplay": false, 
-        "stats": {
-            "1935470627": {
-                "statHash": 1935470627, 
-                "minimum": 0, 
-                "maximum": 0, 
-                "value": 0
-            }
-        }
-    }, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Exotic", 
-        "bucketTypeHash": 375726501, 
-        "tierTypeHash": 2759499571, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 6, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 125, 
-        "green": 5, 
-        "colorHash": 0, 
-        "red": 82, 
-        "alpha": 89
-    }, 
-    "preview": {
-        "screenStyle": "screen_style_vendor", 
-        "derivedItemCategories": [
-            {
-                "items": [
-                    {
-                        "itemHash": 475652357, 
-                        "vendorItemIndex": 0
-                    }, 
-                    {
-                        "itemHash": 1734144409, 
-                        "vendorItemIndex": 1
-                    }, 
-                    {
-                        "itemHash": 2766109872, 
-                        "vendorItemIndex": 2
-                    }, 
-                    {
-                        "itemHash": 903984858, 
-                        "vendorItemIndex": 3
-                    }, 
-                    {
-                        "itemHash": 2766109874, 
-                        "vendorItemIndex": 4
-                    }, 
-                    {
-                        "itemHash": 1321354572, 
-                        "vendorItemIndex": 5
-                    }, 
-                    {
-                        "itemHash": 1321354573, 
-                        "vendorItemIndex": 6
-                    }, 
-                    {
-                        "itemHash": 896224899, 
-                        "vendorItemIndex": 7
-                    }, 
-                    {
-                        "itemHash": 193869522, 
-                        "vendorItemIndex": 8
-                    }, 
-                    {
-                        "itemHash": 193869523, 
-                        "vendorItemIndex": 9
-                    }, 
-                    {
-                        "itemHash": 193869520, 
-                        "vendorItemIndex": 10
-                    }, 
-                    {
-                        "itemHash": 2563444729, 
-                        "vendorItemIndex": 11
-                    }, 
-                    {
-                        "itemHash": 241462141, 
-                        "vendorItemIndex": 12
-                    }, 
-                    {
-                        "itemHash": 241462142, 
-                        "vendorItemIndex": 13
-                    }, 
-                    {
-                        "itemHash": 1591207519, 
-                        "vendorItemIndex": 14
-                    }, 
-                    {
-                        "itemHash": 1591207518, 
-                        "vendorItemIndex": 15
-                    }, 
-                    {
-                        "itemHash": 1192890598, 
-                        "vendorItemIndex": 16
-                    }, 
-                    {
-                        "itemHash": 3216110440, 
-                        "vendorItemIndex": 17
-                    }, 
-                    {
-                        "itemHash": 3883866764, 
-                        "vendorItemIndex": 18
-                    }, 
-                    {
-                        "itemHash": 3539357318, 
-                        "vendorItemIndex": 19
-                    }, 
-                    {
-                        "itemHash": 3539357319, 
-                        "vendorItemIndex": 20
-                    }, 
-                    {
-                        "itemHash": 1160559849, 
-                        "vendorItemIndex": 21
-                    }, 
-                    {
-                        "itemHash": 3787517196, 
-                        "vendorItemIndex": 22
-                    }, 
-                    {
-                        "itemHash": 3844826440, 
-                        "vendorItemIndex": 23
-                    }, 
-                    {
-                        "itemHash": 3844826443, 
-                        "vendorItemIndex": 24
-                    }, 
-                    {
-                        "itemHash": 2082483156, 
-                        "vendorItemIndex": 25
-                    }, 
-                    {
-                        "itemHash": 370930766, 
-                        "vendorItemIndex": 26
-                    }, 
-                    {
-                        "itemHash": 1030017949, 
-                        "vendorItemIndex": 27
-                    }, 
-                    {
-                        "itemHash": 3381022969, 
-                        "vendorItemIndex": 28
-                    }, 
-                    {
-                        "itemHash": 3381022970, 
-                        "vendorItemIndex": 29
-                    }, 
-                    {
-                        "itemHash": 3381022971, 
-                        "vendorItemIndex": 30
-                    }, 
-                    {
-                        "itemHash": 138282166, 
-                        "vendorItemIndex": 31
-                    }, 
-                    {
-                        "itemHash": 4136768282, 
-                        "vendorItemIndex": 32
-                    }, 
-                    {
-                        "itemHash": 3942036043, 
-                        "vendorItemIndex": 33
-                    }, 
-                    {
-                        "itemHash": 1163283805, 
-                        "vendorItemIndex": 34
-                    }, 
-                    {
-                        "itemHash": 1053737370, 
-                        "vendorItemIndex": 35
-                    }, 
-                    {
-                        "itemHash": 2773056939, 
-                        "vendorItemIndex": 36
-                    }, 
-                    {
-                        "itemHash": 1654461647, 
-                        "vendorItemIndex": 37
-                    }, 
-                    {
-                        "itemHash": 2384488862, 
-                        "vendorItemIndex": 38
-                    }, 
-                    {
-                        "itemHash": 106575079, 
-                        "vendorItemIndex": 39
-                    }, 
-                    {
-                        "itemHash": 136355432, 
-                        "vendorItemIndex": 40
-                    }, 
-                    {
-                        "itemHash": 2950045886, 
-                        "vendorItemIndex": 41
-                    }, 
-                    {
-                        "itemHash": 1725917554, 
-                        "vendorItemIndex": 42
-                    }, 
-                    {
-                        "itemHash": 3627185503, 
-                        "vendorItemIndex": 43
-                    }, 
-                    {
-                        "itemHash": 2177524718, 
-                        "vendorItemIndex": 44
-                    }, 
-                    {
-                        "itemHash": 978537162, 
-                        "vendorItemIndex": 45
-                    }, 
-                    {
-                        "itemHash": 1688602431, 
-                        "vendorItemIndex": 46
-                    }, 
-                    {
-                        "itemHash": 609852545, 
-                        "vendorItemIndex": 47
-                    }, 
-                    {
-                        "itemHash": 1734844650, 
-                        "vendorItemIndex": 48
-                    }, 
-                    {
-                        "itemHash": 3874247549, 
-                        "vendorItemIndex": 49
-                    }, 
-                    {
-                        "itemHash": 2808156426, 
-                        "vendorItemIndex": 50
-                    }, 
-                    {
-                        "itemHash": 3070555693, 
-                        "vendorItemIndex": 51
-                    }, 
-                    {
-                        "itemHash": 3288917178, 
-                        "vendorItemIndex": 52
-                    }, 
-                    {
-                        "itemHash": 1096253259, 
-                        "vendorItemIndex": 53
-                    }, 
-                    {
-                        "itemHash": 3628991659, 
-                        "vendorItemIndex": 54
-                    }, 
-                    {
-                        "itemHash": 3628991658, 
-                        "vendorItemIndex": 55
-                    }, 
-                    {
-                        "itemHash": 4255268456, 
-                        "vendorItemIndex": 56
-                    }, 
-                    {
-                        "itemHash": 3089417789, 
-                        "vendorItemIndex": 57
-                    }, 
-                    {
-                        "itemHash": 2907129557, 
-                        "vendorItemIndex": 58
-                    }, 
-                    {
-                        "itemHash": 4190156464, 
-                        "vendorItemIndex": 59
-                    }, 
-                    {
-                        "itemHash": 3549153978, 
-                        "vendorItemIndex": 60
-                    }, 
-                    {
-                        "itemHash": 3549153979, 
-                        "vendorItemIndex": 61
-                    }, 
-                    {
-                        "itemHash": 3580904581, 
-                        "vendorItemIndex": 62
-                    }, 
-                    {
-                        "itemHash": 3141979346, 
-                        "vendorItemIndex": 63
-                    }, 
-                    {
-                        "itemHash": 1508896098, 
-                        "vendorItemIndex": 64
-                    }, 
-                    {
-                        "itemHash": 4124984448, 
-                        "vendorItemIndex": 65
-                    }, 
-                    {
-                        "itemHash": 19024058, 
-                        "vendorItemIndex": 66
-                    }, 
-                    {
-                        "itemHash": 3899270607, 
-                        "vendorItemIndex": 67
-                    }, 
-                    {
-                        "itemHash": 3437746471, 
-                        "vendorItemIndex": 68
-                    }, 
-                    {
-                        "itemHash": 2208405142, 
-                        "vendorItemIndex": 69
-                    }, 
-                    {
-                        "itemHash": 3844694310, 
-                        "vendorItemIndex": 70
-                    }, 
-                    {
-                        "itemHash": 2286143274, 
-                        "vendorItemIndex": 71
-                    }, 
-                    {
-                        "itemHash": 2856683562, 
-                        "vendorItemIndex": 72
-                    }
-                ], 
-                "categoryDescription": "", 
-                "categoryIndex": 0
-            }
-        ], 
-        "previewVendorHash": 811715412, 
-        "previewActionString": "Preview"
-    }, 
-    "hash": 811715412, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Engram", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "action": {
-        "progressionRewards": [], 
-        "requiredCooldownHash": 0, 
-        "verbName": "Discard", 
-        "deleteOnAction": true, 
-        "requiredItems": [], 
-        "rewardItemHash": 0, 
-        "actionTypeLabel": "shard", 
-        "useOnAcquire": false, 
-        "isPositive": false, 
-        "requiredCooldownSeconds": 0, 
-        "rewardSheetHash": 0, 
-        "verbDescription": "", 
-        "rewardSiteHash": 0, 
-        "consumeEntireStack": false
-    }, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        34
-    ], 
-    "uiItemDisplayStyle": "ui_display_style_engram", 
-    "nonTransferrable": true, 
-    "tooltipStyle": "package", 
-    "allowActions": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "blacklisted": false, 
-    "acquireUnlockHash": 0, 
-    "displaySource": "", 
-    "traitIds": [
-        "item_type.engram"
-    ], 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png", 
-        "hasIcon": true, 
-        "description": "An engram with remarkable encoding markers. A Cryptarch would be thrilled to decode this to reveal its true nature.", 
-        "name": "Exotic Engram"
-    }
+	"displayProperties": {
+		"description": "An engram with remarkable encoding markers. A Cryptarch would be thrilled to decode this to reveal its true nature.",
+		"name": "Exotic Engram",
+		"icon": "/common/destiny2_content/icons/ee21b5bc72f9e48366c9addff163a187.png",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 82,
+		"green": 5,
+		"blue": 125,
+		"alpha": 89
+	},
+	"itemTypeDisplayName": "Engram",
+	"uiItemDisplayStyle": "ui_display_style_engram",
+	"itemTypeAndTierDisplayName": "Exotic Engram",
+	"displaySource": "",
+	"tooltipStyle": "package",
+	"action": {
+		"verbName": "Discard",
+		"verbDescription": "",
+		"isPositive": false,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"actionTypeLabel": "shard",
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 375726501,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 2759499571,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Exotic",
+		"tierType": 6,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"stats": {
+		"disablePrimaryStatDisplay": false,
+		"stats": {
+			"1935470627": {
+				"statHash": 1935470627,
+				"value": 0,
+				"minimum": 0,
+				"maximum": 0
+			}
+		},
+		"hasDisplayableStats": false,
+		"primaryBaseStatHash": 1935470627
+	},
+	"preview": {
+		"screenStyle": "screen_style_vendor",
+		"previewVendorHash": 811715412,
+		"previewActionString": "Preview",
+		"derivedItemCategories": [
+			{
+				"categoryDescription": "",
+				"items": [
+					{
+						"itemHash": 475652357,
+						"vendorItemIndex": 0
+					},
+					{
+						"itemHash": 1734144409,
+						"vendorItemIndex": 1
+					},
+					{
+						"itemHash": 2766109872,
+						"vendorItemIndex": 2
+					},
+					{
+						"itemHash": 903984858,
+						"vendorItemIndex": 3
+					},
+					{
+						"itemHash": 2766109874,
+						"vendorItemIndex": 4
+					},
+					{
+						"itemHash": 1321354572,
+						"vendorItemIndex": 5
+					},
+					{
+						"itemHash": 1321354573,
+						"vendorItemIndex": 6
+					},
+					{
+						"itemHash": 896224899,
+						"vendorItemIndex": 7
+					},
+					{
+						"itemHash": 193869522,
+						"vendorItemIndex": 8
+					},
+					{
+						"itemHash": 193869523,
+						"vendorItemIndex": 9
+					},
+					{
+						"itemHash": 193869520,
+						"vendorItemIndex": 10
+					},
+					{
+						"itemHash": 2563444729,
+						"vendorItemIndex": 11
+					},
+					{
+						"itemHash": 241462141,
+						"vendorItemIndex": 12
+					},
+					{
+						"itemHash": 241462142,
+						"vendorItemIndex": 13
+					},
+					{
+						"itemHash": 1591207519,
+						"vendorItemIndex": 14
+					},
+					{
+						"itemHash": 1591207518,
+						"vendorItemIndex": 15
+					},
+					{
+						"itemHash": 1192890598,
+						"vendorItemIndex": 16
+					},
+					{
+						"itemHash": 3216110440,
+						"vendorItemIndex": 17
+					},
+					{
+						"itemHash": 3883866764,
+						"vendorItemIndex": 18
+					},
+					{
+						"itemHash": 3539357318,
+						"vendorItemIndex": 19
+					},
+					{
+						"itemHash": 3539357319,
+						"vendorItemIndex": 20
+					},
+					{
+						"itemHash": 1160559849,
+						"vendorItemIndex": 21
+					},
+					{
+						"itemHash": 3787517196,
+						"vendorItemIndex": 22
+					},
+					{
+						"itemHash": 3844826440,
+						"vendorItemIndex": 23
+					},
+					{
+						"itemHash": 3844826443,
+						"vendorItemIndex": 24
+					},
+					{
+						"itemHash": 2082483156,
+						"vendorItemIndex": 25
+					},
+					{
+						"itemHash": 370930766,
+						"vendorItemIndex": 26
+					},
+					{
+						"itemHash": 1030017949,
+						"vendorItemIndex": 27
+					},
+					{
+						"itemHash": 3381022969,
+						"vendorItemIndex": 28
+					},
+					{
+						"itemHash": 3381022970,
+						"vendorItemIndex": 29
+					},
+					{
+						"itemHash": 3381022971,
+						"vendorItemIndex": 30
+					},
+					{
+						"itemHash": 138282166,
+						"vendorItemIndex": 31
+					},
+					{
+						"itemHash": 4136768282,
+						"vendorItemIndex": 32
+					},
+					{
+						"itemHash": 3942036043,
+						"vendorItemIndex": 33
+					},
+					{
+						"itemHash": 1163283805,
+						"vendorItemIndex": 34
+					},
+					{
+						"itemHash": 1053737370,
+						"vendorItemIndex": 35
+					},
+					{
+						"itemHash": 2773056939,
+						"vendorItemIndex": 36
+					},
+					{
+						"itemHash": 1654461647,
+						"vendorItemIndex": 37
+					},
+					{
+						"itemHash": 2384488862,
+						"vendorItemIndex": 38
+					},
+					{
+						"itemHash": 106575079,
+						"vendorItemIndex": 39
+					},
+					{
+						"itemHash": 136355432,
+						"vendorItemIndex": 40
+					},
+					{
+						"itemHash": 2950045886,
+						"vendorItemIndex": 41
+					},
+					{
+						"itemHash": 1725917554,
+						"vendorItemIndex": 42
+					},
+					{
+						"itemHash": 3627185503,
+						"vendorItemIndex": 43
+					},
+					{
+						"itemHash": 2177524718,
+						"vendorItemIndex": 44
+					},
+					{
+						"itemHash": 978537162,
+						"vendorItemIndex": 45
+					},
+					{
+						"itemHash": 1688602431,
+						"vendorItemIndex": 46
+					},
+					{
+						"itemHash": 609852545,
+						"vendorItemIndex": 47
+					},
+					{
+						"itemHash": 1734844650,
+						"vendorItemIndex": 48
+					},
+					{
+						"itemHash": 3874247549,
+						"vendorItemIndex": 49
+					},
+					{
+						"itemHash": 2808156426,
+						"vendorItemIndex": 50
+					},
+					{
+						"itemHash": 3070555693,
+						"vendorItemIndex": 51
+					},
+					{
+						"itemHash": 3288917178,
+						"vendorItemIndex": 52
+					},
+					{
+						"itemHash": 1096253259,
+						"vendorItemIndex": 53
+					},
+					{
+						"itemHash": 3628991659,
+						"vendorItemIndex": 54
+					},
+					{
+						"itemHash": 3628991658,
+						"vendorItemIndex": 55
+					},
+					{
+						"itemHash": 4255268456,
+						"vendorItemIndex": 56
+					},
+					{
+						"itemHash": 3089417789,
+						"vendorItemIndex": 57
+					},
+					{
+						"itemHash": 2907129557,
+						"vendorItemIndex": 58
+					},
+					{
+						"itemHash": 4190156464,
+						"vendorItemIndex": 59
+					},
+					{
+						"itemHash": 3549153978,
+						"vendorItemIndex": 60
+					},
+					{
+						"itemHash": 3549153979,
+						"vendorItemIndex": 61
+					},
+					{
+						"itemHash": 3580904581,
+						"vendorItemIndex": 62
+					},
+					{
+						"itemHash": 3141979346,
+						"vendorItemIndex": 63
+					},
+					{
+						"itemHash": 1508896098,
+						"vendorItemIndex": 64
+					},
+					{
+						"itemHash": 4124984448,
+						"vendorItemIndex": 65
+					},
+					{
+						"itemHash": 19024058,
+						"vendorItemIndex": 66
+					},
+					{
+						"itemHash": 3899270607,
+						"vendorItemIndex": 67
+					},
+					{
+						"itemHash": 3437746471,
+						"vendorItemIndex": 68
+					},
+					{
+						"itemHash": 2208405142,
+						"vendorItemIndex": 69
+					},
+					{
+						"itemHash": 3844694310,
+						"vendorItemIndex": 70
+					},
+					{
+						"itemHash": 2286143274,
+						"vendorItemIndex": 71
+					},
+					{
+						"itemHash": 2856683562,
+						"vendorItemIndex": 72
+					}
+				],
+				"categoryIndex": 0
+			}
+		]
+	},
+	"quality": {
+		"itemLevels": [],
+		"qualityLevel": 0,
+		"infusionCategoryName": "0",
+		"infusionCategoryHash": 0,
+		"infusionCategoryHashes": [],
+		"progressionLevelRequirementHash": 0,
+		"currentVersion": 0,
+		"versions": [
+			{
+				"powerCapHash": 723350001
+			}
+		],
+		"displayVersionWatermarkIcons": [
+			""
+		]
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"sack": {
+		"detailAction": "",
+		"openAction": "Decrypt",
+		"seedUnlockValueHash": 0,
+		"resolvedBitVectorUnlockValueHash": 0,
+		"resolvedItemCountUnlockValueHash": 0,
+		"selectItemCount": 0,
+		"rollStateUnlockValueHash": 0,
+		"rewardItemListHash": 0,
+		"vendorSackType": "engram.cryptarch",
+		"openOnAcquire": false
+	},
+	"investmentStats": [
+		{
+			"statTypeHash": 1935470627,
+			"value": 0,
+			"isConditionallyActive": false
+		}
+	],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		34
+	],
+	"specialItemType": 0,
+	"itemType": 8,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"traitIds": [
+		"item_type.engram"
+	],
+	"hash": 811715412,
+	"index": 4623,
+	"redacted": false,
+	"blacklisted": false
 }

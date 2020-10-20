@@ -1,61 +1,61 @@
 {
-    "index": 248, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 1, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        7345249
-    ], 
-    "parentNodeHashes": [], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 3, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/e4bd7eb597cc57c87f359b6c6378433e.png", 
-                    "/common/destiny2_content/icons/7f5bc819c19ae5a0fb7be5bcababd44c.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/76e00303bd710044598862cb8a9b214e.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/e4bd7eb597cc57c87f359b6c6378433e.png", 
-        "hasIcon": true, 
-        "description": "Trophies from the Moon.", 
-        "name": "Lunar Rover"
-    }, 
-    "scope": 0, 
-    "hash": 2691823351
+	"displayProperties": {
+		"description": "Trophies from the Moon.",
+		"name": "Lunar Rover",
+		"icon": "/common/destiny2_content/icons/e4bd7eb597cc57c87f359b6c6378433e.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/e4bd7eb597cc57c87f359b6c6378433e.png",
+					"/common/destiny2_content/icons/7f5bc819c19ae5a0fb7be5bcababd44c.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/76e00303bd710044598862cb8a9b214e.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		7345249
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 3
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 1,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [],
+	"hash": 2691823351,
+	"index": 248,
+	"redacted": false,
+	"blacklisted": false
 }

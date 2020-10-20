@@ -1,85 +1,85 @@
 {
-    "itemTypeAndTierDisplayName": "Exotic Quest", 
-    "itemType": 15, 
-    "tooltipNotifications": [], 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Exotic", 
-        "bucketTypeHash": 2422292810, 
-        "tierTypeHash": 2759499571, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 6, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 2, 
-        "green": 2, 
-        "colorHash": 0, 
-        "red": 2, 
-        "alpha": 255
-    }, 
-    "setData": {
-        "trackingUnlockValueHash": 0, 
-        "setIsFeatured": false, 
-        "itemList": [
-            {
-                "itemHash": 2441562029, 
-                "trackingValue": -1583618456
-            }, 
-            {
-                "itemHash": 1974894065, 
-                "trackingValue": 790208398
-            }, 
-            {
-                "itemHash": 1309445830, 
-                "trackingValue": 1914311813
-            }, 
-            {
-                "itemHash": 1974894064, 
-                "trackingValue": 790208399
-            }, 
-            {
-                "itemHash": 159003722, 
-                "trackingValue": -1033593767
-            }, 
-            {
-                "itemHash": 1974894067, 
-                "trackingValue": 790208396
-            }
-        ], 
-        "requireOrderedSetItemAdd": true, 
-        "questLineName": "", 
-        "abandonmentUnlockHash": 0, 
-        "setType": "quest_global"
-    }, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Quest", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        53
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "displaySource": "", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/d9c71aaf3dda2f320e6a05b847a0ae21.png", 
-        "hasIcon": true, 
-        "description": "", 
-        "name": "Sight, Shoot, Repeat"
-    }
+	"displayProperties": {
+		"description": "",
+		"name": "Sight, Shoot, Repeat",
+		"icon": "/common/destiny2_content/icons/d9c71aaf3dda2f320e6a05b847a0ae21.png",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 2,
+		"green": 2,
+		"blue": 2,
+		"alpha": 255
+	},
+	"itemTypeDisplayName": "Quest",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Exotic Quest",
+	"displaySource": "",
+	"setData": {
+		"itemList": [
+			{
+				"trackingValue": -1583618456,
+				"itemHash": 2441562029
+			},
+			{
+				"trackingValue": 790208398,
+				"itemHash": 1974894065
+			},
+			{
+				"trackingValue": 1914311813,
+				"itemHash": 1309445830
+			},
+			{
+				"trackingValue": 790208399,
+				"itemHash": 1974894064
+			},
+			{
+				"trackingValue": -1033593767,
+				"itemHash": 159003722
+			},
+			{
+				"trackingValue": 790208396,
+				"itemHash": 1974894067
+			}
+		],
+		"trackingUnlockValueHash": 0,
+		"abandonmentUnlockHash": 0,
+		"requireOrderedSetItemAdd": true,
+		"setIsFeatured": false,
+		"setType": "quest_global",
+		"questLineName": ""
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 2422292810,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 2759499571,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Exotic",
+		"tierType": 6,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		53
+	],
+	"specialItemType": 0,
+	"itemType": 15,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

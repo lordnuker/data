@@ -1,59 +1,59 @@
 {
-    "index": 179, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 1, 
-        "intervalObjectives": [
-            {
-                "intervalScoreValue": 40, 
-                "intervalObjectiveHash": 1586786607
-            }, 
-            {
-                "intervalScoreValue": 60, 
-                "intervalObjectiveHash": 3015477209
-            }
-        ], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 1, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        3015477209
-    ], 
-    "parentNodeHashes": [
-        3850852197
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/cc60c3c2ac4e86927f9d4302a15d30bf.png", 
-        "hasIcon": true, 
-        "description": "Complete Heroic public events in the EDZ.", 
-        "name": "Heroic Public Events"
-    }, 
-    "scope": 0, 
-    "hash": 3833240759
+	"displayProperties": {
+		"description": "Complete Heroic public events in the EDZ.",
+		"name": "Heroic Public Events",
+		"icon": "/common/destiny2_content/icons/cc60c3c2ac4e86927f9d4302a15d30bf.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		3015477209
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [
+			{
+				"intervalObjectiveHash": 1586786607,
+				"intervalScoreValue": 40
+			},
+			{
+				"intervalObjectiveHash": 3015477209,
+				"intervalScoreValue": 60
+			}
+		],
+		"originalObjectiveArrayInsertionIndex": 1,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 1,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		3850852197
+	],
+	"hash": 3833240759,
+	"index": 179,
+	"redacted": false,
+	"blacklisted": false
 }

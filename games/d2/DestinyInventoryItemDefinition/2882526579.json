@@ -1,97 +1,97 @@
 {
-    "itemTypeAndTierDisplayName": "Exotic Quest", 
-    "nonTransferrable": true, 
-    "investmentStats": [], 
-    "redacted": false, 
-    "tooltipNotifications": [], 
-    "itemType": 15, 
-    "index": 12685, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Exotic", 
-        "bucketTypeHash": 2422292810, 
-        "tierTypeHash": 2759499571, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 6, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "setData": {
-        "trackingUnlockValueHash": 0, 
-        "setIsFeatured": false, 
-        "itemList": [
-            {
-                "itemHash": 2767578271, 
-                "trackingValue": 1718617341
-            }, 
-            {
-                "itemHash": 2767578270, 
-                "trackingValue": 1718617340
-            }, 
-            {
-                "itemHash": 2767578269, 
-                "trackingValue": 1718617343
-            }, 
-            {
-                "itemHash": 2767578268, 
-                "trackingValue": 1718617342
-            }, 
-            {
-                "itemHash": 1838074630, 
-                "trackingValue": -1761148836
-            }, 
-            {
-                "itemHash": 2767578267, 
-                "trackingValue": 1718617337
-            }
-        ], 
-        "requireOrderedSetItemAdd": true, 
-        "questLineName": "", 
-        "abandonmentUnlockHash": 0, 
-        "setType": "quest_global"
-    }, 
-    "hash": 2882526579, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Quest", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        53
-    ], 
-    "uiItemDisplayStyle": "", 
-    "secondaryOverlay": "/common/destiny2_content/icons/e10338777d1d8633e073846e613a1c1f.png", 
-    "secondaryIcon": "/common/destiny2_content/icons/977dc92a08f3b9e8c2d0eb8e31378e27.png", 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "secondarySpecial": "/img/misc/missing_icon_d2.png", 
-    "blacklisted": false, 
-    "displaySource": "", 
-    "traitIds": [
-        "inventory_filtering.quest", 
-        "quest.exotic"
-    ], 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/d98fb36b1b7115d9604ac8d62d047d6b.jpg", 
-        "hasIcon": true, 
-        "description": "", 
-        "name": "Nascent Dawn 5/5"
-    }
+	"displayProperties": {
+		"description": "",
+		"name": "Nascent Dawn 5/5",
+		"icon": "/common/destiny2_content/icons/d98fb36b1b7115d9604ac8d62d047d6b.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"secondaryIcon": "/common/destiny2_content/icons/977dc92a08f3b9e8c2d0eb8e31378e27.png",
+	"secondaryOverlay": "/common/destiny2_content/icons/e10338777d1d8633e073846e613a1c1f.png",
+	"secondarySpecial": "/img/misc/missing_icon_d2.png",
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Quest",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Exotic Quest",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 2422292810,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 2759499571,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Exotic",
+		"tierType": 6,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"setData": {
+		"itemList": [
+			{
+				"trackingValue": 1718617341,
+				"itemHash": 2767578271
+			},
+			{
+				"trackingValue": 1718617340,
+				"itemHash": 2767578270
+			},
+			{
+				"trackingValue": 1718617343,
+				"itemHash": 2767578269
+			},
+			{
+				"trackingValue": 1718617342,
+				"itemHash": 2767578268
+			},
+			{
+				"trackingValue": -1761148836,
+				"itemHash": 1838074630
+			},
+			{
+				"trackingValue": 1718617337,
+				"itemHash": 2767578267
+			}
+		],
+		"trackingUnlockValueHash": 0,
+		"abandonmentUnlockHash": 0,
+		"requireOrderedSetItemAdd": true,
+		"setIsFeatured": false,
+		"setType": "quest_global",
+		"questLineName": ""
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		53
+	],
+	"specialItemType": 0,
+	"itemType": 15,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"traitIds": [
+		"inventory_filtering.quest",
+		"quest.exotic"
+	],
+	"hash": 2882526579,
+	"index": 13279,
+	"redacted": false,
+	"blacklisted": false
 }

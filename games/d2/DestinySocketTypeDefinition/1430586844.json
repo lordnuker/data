@@ -1,35 +1,35 @@
 {
-    "index": 652, 
-    "hash": 1430586844, 
-    "blacklisted": false, 
-    "avoidDuplicatesOnInitialization": false, 
-    "insertAction": {
-        "actionSoundHash": 0, 
-        "isPositiveAction": false, 
-        "actionType": 0, 
-        "actionExecuteSeconds": 1
-    }, 
-    "plugWhitelist": [
-        {
-            "categoryIdentifier": "enhancements.season_opulence", 
-            "categoryHash": 2712224971
-        }, 
-        {
-            "categoryIdentifier": "enhancements.season_maverick", 
-            "categoryHash": 1081029832
-        }
-    ], 
-    "currencyScalars": [], 
-    "redacted": false, 
-    "visibility": 0, 
-    "isPreviewEnabled": false, 
-    "alwaysRandomizeSockets": false, 
-    "overridesUiAppearance": false, 
-    "displayProperties": {
-        "hasIcon": false, 
-        "description": "", 
-        "name": ""
-    }, 
-    "socketCategoryHash": 590099826, 
-    "hideDuplicateReusablePlugs": true
+	"displayProperties": {
+		"description": "",
+		"name": "",
+		"hasIcon": false
+	},
+	"insertAction": {
+		"actionExecuteSeconds": 1,
+		"actionSoundHash": 0,
+		"isPositiveAction": false,
+		"actionType": 0
+	},
+	"plugWhitelist": [
+		{
+			"categoryHash": 2712224971,
+			"categoryIdentifier": "enhancements.season_opulence"
+		},
+		{
+			"categoryHash": 1081029832,
+			"categoryIdentifier": "enhancements.season_maverick"
+		}
+	],
+	"socketCategoryHash": 590099826,
+	"visibility": 0,
+	"alwaysRandomizeSockets": false,
+	"isPreviewEnabled": false,
+	"hideDuplicateReusablePlugs": true,
+	"overridesUiAppearance": false,
+	"avoidDuplicatesOnInitialization": false,
+	"currencyScalars": [],
+	"hash": 1430586844,
+	"index": 652,
+	"redacted": false,
+	"blacklisted": false
 }

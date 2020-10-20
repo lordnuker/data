@@ -1,31 +1,31 @@
 {
-    "index": 560, 
-    "hash": 3396161649, 
-    "blacklisted": false, 
-    "avoidDuplicatesOnInitialization": false, 
-    "insertAction": {
-        "actionSoundHash": 0, 
-        "isPositiveAction": false, 
-        "actionType": 0, 
-        "actionExecuteSeconds": 3
-    }, 
-    "plugWhitelist": [
-        {
-            "categoryIdentifier": "enigma.vessel.recycle", 
-            "categoryHash": 3057295571
-        }
-    ], 
-    "currencyScalars": [], 
-    "redacted": false, 
-    "visibility": 3, 
-    "isPreviewEnabled": false, 
-    "alwaysRandomizeSockets": false, 
-    "overridesUiAppearance": false, 
-    "displayProperties": {
-        "hasIcon": false, 
-        "description": "", 
-        "name": ""
-    }, 
-    "socketCategoryHash": 2918845596, 
-    "hideDuplicateReusablePlugs": false
+	"displayProperties": {
+		"description": "",
+		"name": "",
+		"hasIcon": false
+	},
+	"insertAction": {
+		"actionExecuteSeconds": 3,
+		"actionSoundHash": 0,
+		"isPositiveAction": false,
+		"actionType": 0
+	},
+	"plugWhitelist": [
+		{
+			"categoryHash": 3057295571,
+			"categoryIdentifier": "enigma.vessel.recycle"
+		}
+	],
+	"socketCategoryHash": 2918845596,
+	"visibility": 3,
+	"alwaysRandomizeSockets": false,
+	"isPreviewEnabled": false,
+	"hideDuplicateReusablePlugs": false,
+	"overridesUiAppearance": false,
+	"avoidDuplicatesOnInitialization": false,
+	"currencyScalars": [],
+	"hash": 3396161649,
+	"index": 560,
+	"redacted": false,
+	"blacklisted": false
 }

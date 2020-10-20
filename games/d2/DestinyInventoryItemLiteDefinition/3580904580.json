@@ -1,96 +1,105 @@
 {
-    "itemTypeAndTierDisplayName": "Exotic Shotgun", 
-    "damageTypeHashes": [
-        2303181850
-    ], 
-    "itemType": 3, 
-    "tooltipNotifications": [], 
-    "defaultDamageTypeHash": 2303181850, 
-    "quality": {
-        "infusionCategoryHash": 2865487836, 
-        "infusionCategoryHashes": [
-            2865487836
-        ], 
-        "infusionCategoryName": "2865487836", 
-        "progressionLevelRequirementHash": 492032699, 
-        "qualityLevel": 0, 
-        "itemLevels": []
-    }, 
-    "talentGrid": {
-        "talentGridHash": 521135891, 
-        "hudDamageType": 2, 
-        "itemDetailString": "Details"
-    }, 
-    "allowActions": true, 
-    "defaultDamageType": 2, 
-    "summaryItemHash": 2673424576, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Exotic", 
-        "bucketTypeHash": 953998645, 
-        "tierTypeHash": 2759499571, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 6, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "loreHash": 3580904580, 
-    "equippable": true, 
-    "itemTypeDisplayName": "Shotgun", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 7, 
-    "itemCategoryHashes": [
-        4, 
-        1, 
-        11
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": false, 
-    "equippingBlock": {
-        "displayStrings": [
-            ""
-        ], 
-        "equipmentSlotTypeHash": 953998645, 
-        "ammoType": 3, 
-        "equippingSoundHash": 0, 
-        "hornSoundHash": 0, 
-        "attributes": 0, 
-        "uniqueLabelHash": 4017842899, 
-        "uniqueLabel": "exotic_weapon"
-    }, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "collectibleHash": 199171389, 
-    "displaySource": "", 
-    "damageTypes": [
-        2
-    ], 
-    "perks": [
-        {
-            "requirementDisplayString": "", 
-            "perkHash": 2965563642, 
-            "perkVisibility": 0
-        }
-    ], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/1ed0827344c3855218be3bca8afb12af.jpg", 
-        "hasIcon": true, 
-        "description": "\"In the Cabal legend, a hero seeks to possess the sun. He succeeds. Then, he becomes Emperor. The Cabal… are not a subtle people.\" —Tyra Karn", 
-        "name": "Legend of Acrius"
-    }
+	"displayProperties": {
+		"description": "\"In the Cabal legend, a hero seeks to possess the sun. He succeeds. Then, he becomes Emperor. The Cabal… are not a subtle people.\" —Tyra Karn",
+		"name": "Legend of Acrius",
+		"icon": "/common/destiny2_content/icons/1ed0827344c3855218be3bca8afb12af.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"collectibleHash": 199171389,
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Shotgun",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Exotic Shotgun",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 953998645,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 2759499571,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Exotic",
+		"tierType": 6,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"equippingBlock": {
+		"uniqueLabel": "exotic_weapon",
+		"uniqueLabelHash": 4017842899,
+		"equipmentSlotTypeHash": 953998645,
+		"attributes": 0,
+		"equippingSoundHash": 0,
+		"hornSoundHash": 0,
+		"ammoType": 3,
+		"displayStrings": [
+			""
+		]
+	},
+	"quality": {
+		"itemLevels": [],
+		"qualityLevel": 0,
+		"infusionCategoryName": "2865487836",
+		"infusionCategoryHash": 2865487836,
+		"infusionCategoryHashes": [
+			2865487836
+		],
+		"progressionLevelRequirementHash": 492032699,
+		"currentVersion": 0,
+		"versions": [
+			{
+				"powerCapHash": 2759499571
+			}
+		],
+		"displayVersionWatermarkIcons": [
+			"/common/destiny2_content/icons/0dac2f181f0245cfc64494eccb7db9f7.png"
+		]
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"talentGrid": {
+		"talentGridHash": 521135891,
+		"itemDetailString": "Details",
+		"hudDamageType": 2
+	},
+	"perks": [
+		{
+			"requirementDisplayString": "",
+			"perkHash": 2965563642,
+			"perkVisibility": 0
+		}
+	],
+	"loreHash": 3580904580,
+	"summaryItemHash": 2673424576,
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [
+		4,
+		1,
+		11
+	],
+	"specialItemType": 0,
+	"itemType": 3,
+	"itemSubType": 7,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": true,
+	"damageTypeHashes": [
+		2303181850
+	],
+	"damageTypes": [
+		2
+	],
+	"defaultDamageType": 2,
+	"defaultDamageTypeHash": 2303181850,
+	"isWrapper": false
 }

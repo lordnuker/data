@@ -1,75 +1,75 @@
 {
-    "index": 653, 
-    "hash": 1669235414, 
-    "blacklisted": false, 
-    "avoidDuplicatesOnInitialization": false, 
-    "insertAction": {
-        "actionSoundHash": 0, 
-        "isPositiveAction": false, 
-        "actionType": 0, 
-        "actionExecuteSeconds": 1
-    }, 
-    "plugWhitelist": [
-        {
-            "categoryIdentifier": "armor_skins_empty", 
-            "categoryHash": 3356843615
-        }, 
-        {
-            "categoryIdentifier": "armor_skins_hunter_arms", 
-            "categoryHash": 4060972748
-        }, 
-        {
-            "categoryIdentifier": "v300_armor_skins_hunter_vanguard_arms0", 
-            "categoryHash": 2233776131
-        }, 
-        {
-            "categoryIdentifier": "v300_armor_skins_hunter_crucible_arms0", 
-            "categoryHash": 2622950634
-        }, 
-        {
-            "categoryIdentifier": "v300_armor_skins_hunter_iron_banner_arms0", 
-            "categoryHash": 2234756112
-        }, 
-        {
-            "categoryIdentifier": "v310_armor_skins_hunter_raid_arms0", 
-            "categoryHash": 3558667098
-        }, 
-        {
-            "categoryIdentifier": "v320_armor_skins_hunter_raid_arms0", 
-            "categoryHash": 2428652891
-        }, 
-        {
-            "categoryIdentifier": "v300_armor_skins_hunter_dead_orbit_arms0", 
-            "categoryHash": 2259726502
-        }, 
-        {
-            "categoryIdentifier": "v300_armor_skins_hunter_future_war_cult_arms0", 
-            "categoryHash": 1074816138
-        }, 
-        {
-            "categoryIdentifier": "v300_armor_skins_hunter_new_monarchy_arms0", 
-            "categoryHash": 910610427
-        }, 
-        {
-            "categoryIdentifier": "v300_armor_skins_hunter_trials_arms0", 
-            "categoryHash": 3815310902
-        }, 
-        {
-            "categoryIdentifier": "v300_armor_skins_hunter_trials_arms1", 
-            "categoryHash": 3815310903
-        }
-    ], 
-    "currencyScalars": [], 
-    "redacted": false, 
-    "visibility": 0, 
-    "isPreviewEnabled": false, 
-    "alwaysRandomizeSockets": false, 
-    "overridesUiAppearance": true, 
-    "displayProperties": {
-        "hasIcon": false, 
-        "description": "", 
-        "name": ""
-    }, 
-    "socketCategoryHash": 1926152773, 
-    "hideDuplicateReusablePlugs": true
+	"displayProperties": {
+		"description": "",
+		"name": "",
+		"hasIcon": false
+	},
+	"insertAction": {
+		"actionExecuteSeconds": 1,
+		"actionSoundHash": 0,
+		"isPositiveAction": false,
+		"actionType": 0
+	},
+	"plugWhitelist": [
+		{
+			"categoryHash": 3356843615,
+			"categoryIdentifier": "armor_skins_empty"
+		},
+		{
+			"categoryHash": 4060972748,
+			"categoryIdentifier": "armor_skins_hunter_arms"
+		},
+		{
+			"categoryHash": 2233776131,
+			"categoryIdentifier": "v300_armor_skins_hunter_vanguard_arms0"
+		},
+		{
+			"categoryHash": 2622950634,
+			"categoryIdentifier": "v300_armor_skins_hunter_crucible_arms0"
+		},
+		{
+			"categoryHash": 2234756112,
+			"categoryIdentifier": "v300_armor_skins_hunter_iron_banner_arms0"
+		},
+		{
+			"categoryHash": 3558667098,
+			"categoryIdentifier": "v310_armor_skins_hunter_raid_arms0"
+		},
+		{
+			"categoryHash": 2428652891,
+			"categoryIdentifier": "v320_armor_skins_hunter_raid_arms0"
+		},
+		{
+			"categoryHash": 2259726502,
+			"categoryIdentifier": "v300_armor_skins_hunter_dead_orbit_arms0"
+		},
+		{
+			"categoryHash": 1074816138,
+			"categoryIdentifier": "v300_armor_skins_hunter_future_war_cult_arms0"
+		},
+		{
+			"categoryHash": 910610427,
+			"categoryIdentifier": "v300_armor_skins_hunter_new_monarchy_arms0"
+		},
+		{
+			"categoryHash": 3815310902,
+			"categoryIdentifier": "v300_armor_skins_hunter_trials_arms0"
+		},
+		{
+			"categoryHash": 3815310903,
+			"categoryIdentifier": "v300_armor_skins_hunter_trials_arms1"
+		}
+	],
+	"socketCategoryHash": 1926152773,
+	"visibility": 0,
+	"alwaysRandomizeSockets": false,
+	"isPreviewEnabled": false,
+	"hideDuplicateReusablePlugs": true,
+	"overridesUiAppearance": true,
+	"avoidDuplicatesOnInitialization": false,
+	"currencyScalars": [],
+	"hash": 1669235414,
+	"index": 653,
+	"redacted": false,
+	"blacklisted": false
 }

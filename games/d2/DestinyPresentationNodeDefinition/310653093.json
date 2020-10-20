@@ -1,48 +1,48 @@
 {
-    "index": 160, 
-    "traitHashes": [], 
-    "nodeType": 2, 
-    "blacklisted": false, 
-    "presentationNodeType": 1, 
-    "redacted": false, 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "objectiveHash": 1031337815, 
-    "parentNodeHashes": [
-        916514555
-    ], 
-    "displayStyle": 0, 
-    "screenStyle": 0, 
-    "traitIds": [], 
-    "disableChildSubscreenNavigation": false, 
-    "displayProperties": {
-        "hasIcon": false, 
-        "description": "", 
-        "name": "Trials Prestige Ornament"
-    }, 
-    "scope": 0, 
-    "children": {
-        "metrics": [], 
-        "collectibles": [
-            {
-                "collectibleHash": 2744425603
-            }, 
-            {
-                "collectibleHash": 3291643280
-            }, 
-            {
-                "collectibleHash": 3302787752
-            }, 
-            {
-                "collectibleHash": 870188686
-            }, 
-            {
-                "collectibleHash": 2257677623
-            }
-        ], 
-        "presentationNodes": [], 
-        "records": []
-    }, 
-    "hash": 310653093
+	"displayProperties": {
+		"description": "",
+		"name": "Trials Prestige Ornament",
+		"hasIcon": false
+	},
+	"nodeType": 2,
+	"scope": 0,
+	"objectiveHash": 1031337815,
+	"children": {
+		"presentationNodes": [],
+		"collectibles": [
+			{
+				"collectibleHash": 2744425603
+			},
+			{
+				"collectibleHash": 3291643280
+			},
+			{
+				"collectibleHash": 3302787752
+			},
+			{
+				"collectibleHash": 870188686
+			},
+			{
+				"collectibleHash": 2257677623
+			}
+		],
+		"records": [],
+		"metrics": []
+	},
+	"displayStyle": 0,
+	"screenStyle": 0,
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"disableChildSubscreenNavigation": false,
+	"presentationNodeType": 1,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		916514555
+	],
+	"hash": 310653093,
+	"index": 170,
+	"redacted": false,
+	"blacklisted": false
 }

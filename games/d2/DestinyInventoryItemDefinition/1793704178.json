@@ -1,91 +1,91 @@
 {
-    "itemTypeAndTierDisplayName": "", 
-    "itemType": 0, 
-    "investmentStats": [], 
-    "redacted": false, 
-    "tooltipNotifications": [], 
-    "index": 7979, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Common", 
-        "bucketTypeHash": 1469714392, 
-        "tierTypeHash": 3340296461, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 2, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "hash": 1793704178, 
-    "equippable": false, 
-    "itemTypeDisplayName": "", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": false, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "plug": {
-        "insertionMaterialRequirementHash": 3147689959, 
-        "actionRewardSiteHash": 0, 
-        "enabledMaterialRequirementHash": 0, 
-        "previewItemOverrideHash": 0, 
-        "insertionRules": [
-            {
-                "failureMessage": ""
-            }, 
-            {
-                "failureMessage": "Requires Quest Progress"
-            }
-        ], 
-        "enabledRules": [], 
-        "plugCategoryHash": 2045070417, 
-        "plugCategoryIdentifier": "penumbra.runes.chalice_locked_slot", 
-        "onActionRecreateSelf": false, 
-        "plugStyle": 0, 
-        "isDummyPlug": false, 
-        "actionRewardItemOverrideHash": 0, 
-        "uiPlugLabel": "locked_rune_slot", 
-        "alternatePlugStyle": 0, 
-        "alternateUiPlugLabel": "", 
-        "plugAvailability": 0
-    }, 
-    "blacklisted": false, 
-    "displaySource": "", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/5b0da51db142c2ac3d16cbdfba13f546.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/26c2e9bed1300abeec79da47b843d95c.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/5b0da51db142c2ac3d16cbdfba13f546.png", 
-        "hasIcon": true, 
-        "description": "Unlock this rune slot to control the archetype of weapon or armor that drops from the final chest in the Menagerie.", 
-        "name": "Unlock Gear Archetype slot"
-    }
+	"displayProperties": {
+		"description": "Unlock this rune slot to control the archetype of weapon or armor that drops from the final chest in the Menagerie.",
+		"name": "Unlock Gear Archetype slot",
+		"icon": "/common/destiny2_content/icons/5b0da51db142c2ac3d16cbdfba13f546.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/5b0da51db142c2ac3d16cbdfba13f546.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/26c2e9bed1300abeec79da47b843d95c.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1469714392,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 3340296461,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Common",
+		"tierType": 2,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"plug": {
+		"insertionRules": [
+			{
+				"failureMessage": ""
+			},
+			{
+				"failureMessage": "Requires Quest Progress"
+			}
+		],
+		"plugCategoryIdentifier": "penumbra.runes.chalice_locked_slot",
+		"plugCategoryHash": 2045070417,
+		"onActionRecreateSelf": false,
+		"actionRewardSiteHash": 0,
+		"actionRewardItemOverrideHash": 0,
+		"insertionMaterialRequirementHash": 3147689959,
+		"previewItemOverrideHash": 0,
+		"enabledMaterialRequirementHash": 0,
+		"enabledRules": [],
+		"uiPlugLabel": "locked_rune_slot",
+		"plugStyle": 0,
+		"plugAvailability": 0,
+		"alternateUiPlugLabel": "",
+		"alternatePlugStyle": 0,
+		"isDummyPlug": false
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": false,
+	"itemCategoryHashes": [],
+	"specialItemType": 0,
+	"itemType": 0,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"hash": 1793704178,
+	"index": 8015,
+	"redacted": false,
+	"blacklisted": false
 }

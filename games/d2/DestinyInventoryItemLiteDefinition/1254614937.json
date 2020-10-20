@@ -1,0 +1,150 @@
+{
+	"displayProperties": {
+		"description": "Speak with the Drifter in the Annex of the Tower.",
+		"name": "Speak with the Drifter",
+		"icon": "/common/destiny2_content/icons/065fb7d42dcea9c8df00d2e0737f0061.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [
+		{
+			"displayString": "Expires at the end of Season of Arrivals",
+			"displayStyle": ""
+		}
+	],
+	"secondaryIcon": "/common/destiny2_content/icons/15019dda029a1e4a7d6399eb7486854c.jpg",
+	"secondaryOverlay": "/img/misc/missing_icon_d2.png",
+	"secondarySpecial": "/img/misc/missing_icon_d2.png",
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Quest Step",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Quest Step",
+	"displaySource": "\"You got questions, come see me. And I bet you got a lot of questions.\" —The Drifter",
+	"setData": {
+		"itemList": [
+			{
+				"trackingValue": 100,
+				"itemHash": 1254614937
+			},
+			{
+				"trackingValue": 1000,
+				"itemHash": 1254614936
+			},
+			{
+				"trackingValue": 2000,
+				"itemHash": 1254614939
+			},
+			{
+				"trackingValue": 3000,
+				"itemHash": 1254614938
+			},
+			{
+				"trackingValue": 4000,
+				"itemHash": 1254614941
+			},
+			{
+				"trackingValue": 5000,
+				"itemHash": 1254614940
+			},
+			{
+				"trackingValue": 6000,
+				"itemHash": 1254614943
+			},
+			{
+				"trackingValue": 7000,
+				"itemHash": 1254614942
+			},
+			{
+				"trackingValue": 8000,
+				"itemHash": 1254614929
+			},
+			{
+				"trackingValue": 9000,
+				"itemHash": 1254614928
+			},
+			{
+				"trackingValue": 10000,
+				"itemHash": 1353815160
+			},
+			{
+				"trackingValue": 11000,
+				"itemHash": 1353815161
+			},
+			{
+				"trackingValue": 12000,
+				"itemHash": 1353815162
+			}
+		],
+		"trackingUnlockValueHash": 0,
+		"abandonmentUnlockHash": 0,
+		"requireOrderedSetItemAdd": true,
+		"setIsFeatured": false,
+		"setType": "quest_global",
+		"questLineName": "In the Face of Darkness"
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1345459588,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"value": {
+		"itemValue": [
+			{
+				"itemHash": 211938782,
+				"quantity": 1
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			}
+		],
+		"valueDescription": ""
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": true,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		16
+	],
+	"specialItemType": 0,
+	"itemType": 12,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
+}

@@ -1,36 +1,143 @@
 {
-    "index": 11874, 
-    "allowActions": true, 
-    "itemType": 0, 
-    "equippable": false, 
-    "defaultDamageType": 0, 
-    "isWrapper": false, 
-    "classType": 0, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "blacklisted": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "specialItemType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": false, 
-        "bucketTypeHash": 1469714392, 
-        "tierTypeHash": 0, 
-        "recoveryBucketTypeHash": 215593132, 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 0
-    }, 
-    "nonTransferrable": true, 
-    "displayProperties": {
-        "icon": "/img/misc/missing_icon_d2.png", 
-        "hasIcon": false, 
-        "description": "Keep it secret.  Keep it safe.", 
-        "highResIcon": "/img/misc/missing_icon_d2.png", 
-        "name": "Classified"
-    }, 
-    "hash": 841494790, 
-    "redacted": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0
+	"displayProperties": {
+		"description": "Contains a full set of Guardian Games 2020 Warlock universal ornaments.\n\nBundle price reduced for each item you already own.",
+		"name": "Competitive Spirit Warlock Bundle",
+		"icon": "/common/destiny2_content/icons/7b27e268c2bce10bfc207a8d8b5ca74a.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/7b27e268c2bce10bfc207a8d8b5ca74a.png",
+					"/common/destiny2_content/icons/0fe356405d0f7c466e8e9275f54717f7.png"
+				]
+			}
+		],
+		"highResIcon": "/common/destiny2_content/icons/bbae495aec3017838bd4f646f8860d8e.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Package",
+	"uiItemDisplayStyle": "ui_display_style_box",
+	"itemTypeAndTierDisplayName": "Legendary Package",
+	"displaySource": "",
+	"tooltipStyle": "package",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1469714392,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"stats": {
+		"disablePrimaryStatDisplay": false,
+		"stats": {},
+		"hasDisplayableStats": false,
+		"primaryBaseStatHash": 0
+	},
+	"preview": {
+		"screenStyle": "screen_style_vendor",
+		"previewVendorHash": 841494790,
+		"previewActionString": "Preview",
+		"derivedItemCategories": [
+			{
+				"categoryDescription": "",
+				"items": [
+					{
+						"itemHash": 3120368538,
+						"vendorItemIndex": 0
+					},
+					{
+						"itemHash": 1517831918,
+						"vendorItemIndex": 1
+					},
+					{
+						"itemHash": 2260280759,
+						"vendorItemIndex": 2
+					},
+					{
+						"itemHash": 544720811,
+						"vendorItemIndex": 3
+					},
+					{
+						"itemHash": 547804116,
+						"vendorItemIndex": 4
+					}
+				],
+				"categoryIndex": 0
+			}
+		]
+	},
+	"quality": {
+		"itemLevels": [],
+		"qualityLevel": 0,
+		"infusionCategoryName": "0",
+		"infusionCategoryHash": 0,
+		"infusionCategoryHashes": [],
+		"progressionLevelRequirementHash": 0,
+		"currentVersion": 0,
+		"versions": [
+			{
+				"powerCapHash": 723350001
+			}
+		],
+		"displayVersionWatermarkIcons": [
+			""
+		]
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"gearset": {
+		"trackingValueMax": 0,
+		"itemList": [
+			723898670,
+			2959586114,
+			2649616275,
+			2777299623,
+			3231434280
+		]
+	},
+	"sack": {
+		"detailAction": "Preview",
+		"openAction": "Open",
+		"seedUnlockValueHash": 0,
+		"resolvedBitVectorUnlockValueHash": 0,
+		"resolvedItemCountUnlockValueHash": 0,
+		"selectItemCount": 0,
+		"rollStateUnlockValueHash": 0,
+		"rewardItemListHash": 0,
+		"openOnAcquire": false
+	},
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		268598612
+	],
+	"specialItemType": 0,
+	"itemType": 25,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"hash": 841494790,
+	"index": 11771,
+	"redacted": false,
+	"blacklisted": false
 }

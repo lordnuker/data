@@ -1,37 +1,37 @@
 {
-    "index": 5, 
-    "hash": 2813366390, 
-    "blacklisted": false, 
-    "reasons": {
-        "3795025700": {
-            "displayProperties": {
-                "hasIcon": false, 
-                "description": "", 
-                "name": "Kicked from fireteam"
-            }, 
-            "reasonHash": 3795025700
-        }, 
-        "3087590961": {
-            "displayProperties": {
-                "hasIcon": false, 
-                "description": "", 
-                "name": "Other"
-            }, 
-            "reasonHash": 3087590961
-        }, 
-        "4003403301": {
-            "displayProperties": {
-                "hasIcon": false, 
-                "description": "", 
-                "name": "Sabotage"
-            }, 
-            "reasonHash": 4003403301
-        }
-    }, 
-    "redacted": false, 
-    "displayProperties": {
-        "hasIcon": false, 
-        "description": "Griefing intentionally irritates other players, often using the game in unintended ways to do so.\n\nExamples: Sabotage, Kicked from fireteam", 
-        "name": "Griefing"
-    }
+	"displayProperties": {
+		"description": "Griefing intentionally irritates other players, often using the game in unintended ways to do so.\n\nExamples: Sabotage, Kicked from fireteam",
+		"name": "Griefing",
+		"hasIcon": false
+	},
+	"reasons": {
+		"3087590961": {
+			"reasonHash": 3087590961,
+			"displayProperties": {
+				"description": "",
+				"name": "Other",
+				"hasIcon": false
+			}
+		},
+		"3795025700": {
+			"reasonHash": 3795025700,
+			"displayProperties": {
+				"description": "",
+				"name": "Kicked from fireteam",
+				"hasIcon": false
+			}
+		},
+		"4003403301": {
+			"reasonHash": 4003403301,
+			"displayProperties": {
+				"description": "",
+				"name": "Sabotage",
+				"hasIcon": false
+			}
+		}
+	},
+	"hash": 2813366390,
+	"index": 5,
+	"redacted": false,
+	"blacklisted": false
 }

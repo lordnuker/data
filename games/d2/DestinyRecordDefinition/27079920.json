@@ -1,62 +1,62 @@
 {
-    "index": 1797, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        2573943837
-    ], 
-    "parentNodeHashes": [
-        628625882
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 100, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/46ed85af1a48df4f50390323d944b376.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/949687d19cddc34d1d2364c145ebc345.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/46ed85af1a48df4f50390323d944b376.png", 
-        "hasIcon": true, 
-        "description": "Finish Vex Offensive bounties to complete this lore book.", 
-        "name": "Last Days on Kraken Mare"
-    }, 
-    "scope": 0, 
-    "hash": 27079920
+	"displayProperties": {
+		"description": "Finish Vex Offensive bounties to complete this lore book.",
+		"name": "Last Days on Kraken Mare",
+		"icon": "/common/destiny2_content/icons/46ed85af1a48df4f50390323d944b376.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/46ed85af1a48df4f50390323d944b376.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/949687d19cddc34d1d2364c145ebc345.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		2573943837
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 100,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		628625882
+	],
+	"hash": 27079920,
+	"index": 1809,
+	"redacted": false,
+	"blacklisted": false
 }

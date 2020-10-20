@@ -1,71 +1,71 @@
 {
-    "activityModeHashes": [
-        3497767639, 
-        1164760493
-    ], 
-    "originalDisplayProperties": {
-        "icon": "/img/misc/missing_icon_d2.png", 
-        "hasIcon": false, 
-        "description": "Some bones live on after death.", 
-        "name": "The Other Side"
-    }, 
-    "pgcrImage": "/img/theme/destiny/bgs/pgcrs/placeholder.jpg", 
-    "placeHash": 330251492, 
-    "activityTypeHash": 1686739444, 
-    "redacted": false, 
-    "destinationHash": 3093898507, 
-    "challenges": [], 
-    "directActivityModeHash": 3497767639, 
-    "loadouts": [], 
-    "activityLightLevel": 750, 
-    "index": 144, 
-    "activityLevel": 35, 
-    "playlistItems": [], 
-    "insertionPoints": [], 
-    "isPlaylist": false, 
-    "completionUnlockHash": 0, 
-    "suppressOtherRewards": false, 
-    "rewards": [], 
-    "hash": 3536651661, 
-    "releaseIcon": "/img/misc/missing_icon_d2.png", 
-    "tier": -1, 
-    "isPvP": false, 
-    "modifiers": [], 
-    "blacklisted": false, 
-    "optionalUnlockStrings": [], 
-    "activityModeTypes": [
-        6, 
-        7
-    ], 
-    "activityLocationMappings": [
-        {
-            "locationHash": 1658046894, 
-            "activityHash": 3536651661, 
-            "itemHash": 1350461161, 
-            "activationSource": "quest"
-        }, 
-        {
-            "locationHash": 1658046894, 
-            "activityHash": 3536651661, 
-            "objectiveHash": 2291732720, 
-            "itemHash": 1350461161, 
-            "activationSource": "quest"
-        }
-    ], 
-    "directActivityModeType": 6, 
-    "inheritFromFreeRoam": false, 
-    "displayProperties": {
-        "icon": "/img/misc/missing_icon_d2.png", 
-        "hasIcon": false, 
-        "description": "Some bones live on after death.", 
-        "name": "The Other Side"
-    }, 
-    "releaseTime": 0, 
-    "matchmaking": {
-        "minParty": 1, 
-        "requiresGuardianOath": false, 
-        "maxPlayers": 3, 
-        "maxParty": 3, 
-        "isMatchmade": false
-    }
+	"displayProperties": {
+		"description": "Some bones live on after death.",
+		"name": "The Other Side",
+		"icon": "/img/misc/missing_icon_d2.png",
+		"hasIcon": false
+	},
+	"originalDisplayProperties": {
+		"description": "Some bones live on after death.",
+		"name": "The Other Side",
+		"icon": "/img/misc/missing_icon_d2.png",
+		"hasIcon": false
+	},
+	"releaseIcon": "/img/misc/missing_icon_d2.png",
+	"releaseTime": 0,
+	"activityLevel": 35,
+	"completionUnlockHash": 0,
+	"activityLightLevel": 750,
+	"destinationHash": 3093898507,
+	"placeHash": 330251492,
+	"activityTypeHash": 1686739444,
+	"tier": -1,
+	"pgcrImage": "/img/theme/destiny/bgs/pgcrs/placeholder.jpg",
+	"rewards": [],
+	"modifiers": [],
+	"isPlaylist": false,
+	"challenges": [],
+	"optionalUnlockStrings": [],
+	"inheritFromFreeRoam": false,
+	"suppressOtherRewards": false,
+	"playlistItems": [],
+	"matchmaking": {
+		"isMatchmade": false,
+		"minParty": 1,
+		"maxParty": 3,
+		"maxPlayers": 3,
+		"requiresGuardianOath": false
+	},
+	"directActivityModeHash": 3497767639,
+	"directActivityModeType": 6,
+	"loadouts": [],
+	"activityModeHashes": [
+		3497767639,
+		1164760493
+	],
+	"activityModeTypes": [
+		6,
+		7
+	],
+	"isPvP": false,
+	"insertionPoints": [],
+	"activityLocationMappings": [
+		{
+			"locationHash": 1658046894,
+			"activationSource": "quest",
+			"itemHash": 1350461161,
+			"activityHash": 3536651661
+		},
+		{
+			"locationHash": 1658046894,
+			"activationSource": "quest",
+			"itemHash": 1350461161,
+			"objectiveHash": 2291732720,
+			"activityHash": 3536651661
+		}
+	],
+	"hash": 3536651661,
+	"index": 144,
+	"redacted": false,
+	"blacklisted": false
 }

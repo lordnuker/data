@@ -1,33 +1,34 @@
 {
-    "sourceHash": 897576623, 
-    "sourceString": "Source: Complete Crucible matches and earn rank-up packages from Lord Shaxx.", 
-    "blacklisted": false, 
-    "acquisitionInfo": {
-        "runOnlyAcquisitionRewardSite": false
-    }, 
-    "index": 4398, 
-    "presentationNodeType": 2, 
-    "traitHashes": [], 
-    "redacted": false, 
-    "stateInfo": {
-        "requirements": {
-            "entitlementUnavailableMessage": ""
-        }
-    }, 
-    "parentNodeHashes": [
-        1802049362, 
-        543101070, 
-        1860141931, 
-        3263747939
-    ], 
-    "traitIds": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/848176acba2ececb3b06f222bccee406.jpg", 
-        "hasIcon": true, 
-        "description": "The second swing is no less deadly.", 
-        "name": "Redrix's Broadsword"
-    }, 
-    "scope": 0, 
-    "itemHash": 1161276682, 
-    "hash": 1111219481
+	"displayProperties": {
+		"description": "The second swing is no less deadly.",
+		"name": "Redrix's Broadsword",
+		"icon": "/common/destiny2_content/icons/848176acba2ececb3b06f222bccee406.jpg",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"sourceString": "Source: Complete this weapon's associated Crucible quest.",
+	"sourceHash": 2821852478,
+	"itemHash": 1161276682,
+	"acquisitionInfo": {
+		"acquireMaterialRequirementHash": 983547049,
+		"runOnlyAcquisitionRewardSite": false
+	},
+	"stateInfo": {
+		"requirements": {
+			"entitlementUnavailableMessage": ""
+		}
+	},
+	"presentationNodeType": 2,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		1802049362,
+		543101070,
+		1860141931,
+		3263747939
+	],
+	"hash": 1111219481,
+	"index": 4782,
+	"redacted": false,
+	"blacklisted": false
 }

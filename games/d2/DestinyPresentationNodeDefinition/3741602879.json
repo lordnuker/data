@@ -1,48 +1,48 @@
 {
-    "index": 56, 
-    "traitHashes": [], 
-    "nodeType": 2, 
-    "blacklisted": false, 
-    "presentationNodeType": 1, 
-    "redacted": false, 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "objectiveHash": 2738782985, 
-    "parentNodeHashes": [
-        3720660098
-    ], 
-    "displayStyle": 0, 
-    "screenStyle": 0, 
-    "traitIds": [], 
-    "disableChildSubscreenNavigation": false, 
-    "displayProperties": {
-        "hasIcon": false, 
-        "description": "", 
-        "name": "Mythos Hack Suit"
-    }, 
-    "scope": 1, 
-    "children": {
-        "metrics": [], 
-        "collectibles": [
-            {
-                "collectibleHash": 353831661
-            }, 
-            {
-                "collectibleHash": 4220193450
-            }, 
-            {
-                "collectibleHash": 3366446726
-            }, 
-            {
-                "collectibleHash": 3646998024
-            }, 
-            {
-                "collectibleHash": 331832369
-            }
-        ], 
-        "presentationNodes": [], 
-        "records": []
-    }, 
-    "hash": 3741602879
+	"displayProperties": {
+		"description": "",
+		"name": "Mythos Hack Suit",
+		"hasIcon": false
+	},
+	"nodeType": 2,
+	"scope": 1,
+	"objectiveHash": 2738782985,
+	"children": {
+		"presentationNodes": [],
+		"collectibles": [
+			{
+				"collectibleHash": 353831661
+			},
+			{
+				"collectibleHash": 4220193450
+			},
+			{
+				"collectibleHash": 3366446726
+			},
+			{
+				"collectibleHash": 3646998024
+			},
+			{
+				"collectibleHash": 331832369
+			}
+		],
+		"records": [],
+		"metrics": []
+	},
+	"displayStyle": 0,
+	"screenStyle": 0,
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"disableChildSubscreenNavigation": false,
+	"presentationNodeType": 1,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		3720660098
+	],
+	"hash": 3741602879,
+	"index": 60,
+	"redacted": false,
+	"blacklisted": false
 }

@@ -1,44 +1,44 @@
 {
-    "index": 465, 
-    "hash": 3953148451, 
-    "blacklisted": false, 
-    "redacted": false, 
-    "vendorHash": 3411552308, 
-    "locationReleases": [
-        {
-            "worldPosition": [
-                -118, 
-                -625, 
-                0, 
-                0
-            ], 
-            "smallTransparentIcon": "/common/destiny2_content/icons/229ee48e8bc2942d4a828feea69a55f1.png", 
-            "mapIcon": "/common/destiny2_content/icons/416cdb540136a65d31f206dbb9243c81.png", 
-            "spawnPoint": 0, 
-            "activityPathBundle": 2284627401, 
-            "activityBubbleName": 240420607, 
-            "destinationHash": 290444260, 
-            "activityGraphNodeHash": 0, 
-            "activityPathDestination": 677774031, 
-            "activityGraphHash": 2831782236, 
-            "displayProperties": {
-                "iconSequences": [
-                    {
-                        "frames": [
-                            "/common/destiny2_content/icons/229ee48e8bc2942d4a828feea69a55f1.png", 
-                            "/common/destiny2_content/icons/416cdb540136a65d31f206dbb9243c81.png", 
-                            "/common/destiny2_content/icons/f446b0a7d6346fd08641656890821063.png"
-                        ]
-                    }
-                ], 
-                "icon": "/common/destiny2_content/icons/229ee48e8bc2942d4a828feea69a55f1.png", 
-                "hasIcon": true, 
-                "description": "Bound with Blood", 
-                "name": "Lectern of Enchantment"
-            }, 
-            "largeTransparentIcon": "/common/destiny2_content/icons/f446b0a7d6346fd08641656890821063.png", 
-            "navPointType": 0, 
-            "activityHash": 2503939905
-        }
-    ]
+	"vendorHash": 3411552308,
+	"locationReleases": [
+		{
+			"displayProperties": {
+				"description": "Bound with Blood",
+				"name": "Lectern of Enchantment",
+				"icon": "/common/destiny2_content/icons/229ee48e8bc2942d4a828feea69a55f1.png",
+				"iconSequences": [
+					{
+						"frames": [
+							"/common/destiny2_content/icons/229ee48e8bc2942d4a828feea69a55f1.png",
+							"/common/destiny2_content/icons/416cdb540136a65d31f206dbb9243c81.png",
+							"/common/destiny2_content/icons/f446b0a7d6346fd08641656890821063.png"
+						]
+					}
+				],
+				"hasIcon": true
+			},
+			"smallTransparentIcon": "/common/destiny2_content/icons/229ee48e8bc2942d4a828feea69a55f1.png",
+			"mapIcon": "/common/destiny2_content/icons/416cdb540136a65d31f206dbb9243c81.png",
+			"largeTransparentIcon": "/common/destiny2_content/icons/f446b0a7d6346fd08641656890821063.png",
+			"spawnPoint": 0,
+			"destinationHash": 290444260,
+			"activityHash": 2503939905,
+			"activityGraphHash": 2831782236,
+			"activityGraphNodeHash": 0,
+			"activityBubbleName": 240420607,
+			"activityPathBundle": 2284627401,
+			"activityPathDestination": 677774031,
+			"navPointType": 0,
+			"worldPosition": [
+				-118,
+				-625,
+				0,
+				0
+			]
+		}
+	],
+	"hash": 3953148451,
+	"index": 465,
+	"redacted": false,
+	"blacklisted": false
 }

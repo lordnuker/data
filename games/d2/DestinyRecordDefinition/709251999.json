@@ -1,61 +1,61 @@
 {
-    "index": 459, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 2, 
-        "intervalObjectives": [
-            {
-                "intervalScoreValue": 20, 
-                "intervalObjectiveHash": 791584188
-            }, 
-            {
-                "intervalScoreValue": 30, 
-                "intervalObjectiveHash": 791584190
-            }, 
-            {
-                "intervalScoreValue": 50, 
-                "intervalObjectiveHash": 791584191
-            }
-        ], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [], 
-    "parentNodeHashes": [
-        2904849017
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/4389cf5224e39bffa00608f9f2c20055.png", 
-        "hasIcon": true, 
-        "description": "Complete bounties from Brother Vance.", 
-        "name": "Bounty Hunter: Mercury"
-    }, 
-    "scope": 0, 
-    "hash": 709251999
+	"displayProperties": {
+		"description": "Complete bounties from Brother Vance.",
+		"name": "Bounty Hunter: Mercury",
+		"icon": "/common/destiny2_content/icons/4389cf5224e39bffa00608f9f2c20055.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [
+			{
+				"intervalObjectiveHash": 791584188,
+				"intervalScoreValue": 20
+			},
+			{
+				"intervalObjectiveHash": 791584190,
+				"intervalScoreValue": 30
+			},
+			{
+				"intervalObjectiveHash": 791584191,
+				"intervalScoreValue": 50
+			}
+		],
+		"originalObjectiveArrayInsertionIndex": 2,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		2904849017
+	],
+	"hash": 709251999,
+	"index": 470,
+	"redacted": false,
+	"blacklisted": false
 }

@@ -1,61 +1,61 @@
 {
-    "index": 598, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 1, 
-        "intervalObjectives": [
-            {
-                "intervalScoreValue": 20, 
-                "intervalObjectiveHash": 3677234264
-            }, 
-            {
-                "intervalScoreValue": 30, 
-                "intervalObjectiveHash": 3677234266
-            }, 
-            {
-                "intervalScoreValue": 30, 
-                "intervalObjectiveHash": 3677234267
-            }
-        ], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [], 
-    "parentNodeHashes": [
-        3644665243
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/a435fd374af62d03f54ae0535b5b9172.png", 
-        "hasIcon": true, 
-        "description": "Defeat enemies with Scorn Pikes.", 
-        "name": "Road Hog"
-    }, 
-    "scope": 0, 
-    "hash": 3460299299
+	"displayProperties": {
+		"description": "Defeat enemies with Scorn Pikes.",
+		"name": "Road Hog",
+		"icon": "/common/destiny2_content/icons/a435fd374af62d03f54ae0535b5b9172.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [
+			{
+				"intervalObjectiveHash": 3677234264,
+				"intervalScoreValue": 20
+			},
+			{
+				"intervalObjectiveHash": 3677234266,
+				"intervalScoreValue": 30
+			},
+			{
+				"intervalObjectiveHash": 3677234267,
+				"intervalScoreValue": 30
+			}
+		],
+		"originalObjectiveArrayInsertionIndex": 1,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		3644665243
+	],
+	"hash": 3460299299,
+	"index": 609,
+	"redacted": false,
+	"blacklisted": false
 }

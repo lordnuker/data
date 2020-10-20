@@ -1,56 +1,56 @@
 {
-    "index": 1236, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        689720532, 
-        689720533, 
-        689720534, 
-        689720535, 
-        689720528, 
-        689720529
-    ], 
-    "parentNodeHashes": [
-        1162218545, 
-        1500485992
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 200, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/fc5791eb2406bf5e6b361f3d16596693.png", 
-        "hasIcon": true, 
-        "description": "Complete all raid encounters with a fireteam made entirely of Solar subclasses.", 
-        "name": "Sunburn"
-    }, 
-    "scope": 0, 
-    "hash": 2398356743
+	"displayProperties": {
+		"description": "Complete all raid encounters with a fireteam made entirely of Solar subclasses.",
+		"name": "Sunburn",
+		"icon": "/common/destiny2_content/icons/fc5791eb2406bf5e6b361f3d16596693.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		689720532,
+		689720533,
+		689720534,
+		689720535,
+		689720528,
+		689720529
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 200,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		1162218545,
+		1500485992
+	],
+	"hash": 2398356743,
+	"index": 1248,
+	"redacted": false,
+	"blacklisted": false
 }

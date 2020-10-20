@@ -1,16 +1,44 @@
 {
-    "index": 3631, 
-    "hash": 4238621566, 
-    "blacklisted": false, 
-    "presentationNodeType": 0, 
-    "redacted": true, 
-    "displayProperties": {
-        "icon": "/img/misc/missing_icon_d2.png", 
-        "hasIcon": false, 
-        "description": "Keep it secret.  Keep it safe.", 
-        "highResIcon": "/img/misc/missing_icon_d2.png", 
-        "name": "Classified"
-    }, 
-    "scope": 0, 
-    "itemHash": 0
+	"displayProperties": {
+		"description": "Modifications for your ship's transmat systems, so you'll always arrive in style.",
+		"name": "Cyber Class Entrance",
+		"icon": "/common/destiny2_content/icons/19c7f0e6a357acb06a2307f5defe8395.jpg",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/19c7f0e6a357acb06a2307f5defe8395.jpg"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/79d6f83b465d5d1bb6f07f58412c97d1.png"
+				]
+			}
+		],
+		"highResIcon": "/common/destiny2_content/icons/7c23352b80f4ee234800ff4ab51c2bbc.jpg",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"sourceString": "Source: Eververse",
+	"sourceHash": 860688654,
+	"itemHash": 3393212812,
+	"acquisitionInfo": {
+		"acquireMaterialRequirementHash": 2413613994,
+		"runOnlyAcquisitionRewardSite": false
+	},
+	"stateInfo": {
+		"requirements": {
+			"entitlementUnavailableMessage": ""
+		}
+	},
+	"presentationNodeType": 1,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		4171924499
+	],
+	"hash": 4238621566,
+	"index": 3974,
+	"redacted": false,
+	"blacklisted": false
 }

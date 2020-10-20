@@ -1,60 +1,60 @@
 {
-    "index": 25, 
-    "hash": 291994631, 
-    "blacklisted": false, 
-    "isInGameMilestone": true, 
-    "showInExplorer": false, 
-    "quests": {
-        "2245391312": {
-            "displayProperties": {
-                "icon": "/common/destiny2_content/icons/590714a59033b03379eb170a49f0a49d.png", 
-                "hasIcon": true, 
-                "description": "Speak to Tess in the Tower.", 
-                "name": "Spring Comes to Eververse"
-            }, 
-            "trackingUnlockValueHash": 0, 
-            "questItemHash": 2245391312, 
-            "questRewards": {
-                "items": [
-                    {
-                        "itemHash": 2587922978, 
-                        "quantity": 1
-                    }, 
-                    {
-                        "itemHash": 0, 
-                        "quantity": 0
-                    }, 
-                    {
-                        "itemHash": 0, 
-                        "quantity": 0
-                    }, 
-                    {
-                        "itemHash": 0, 
-                        "quantity": 0
-                    }, 
-                    {
-                        "itemHash": 0, 
-                        "quantity": 0
-                    }, 
-                    {
-                        "itemHash": 0, 
-                        "quantity": 0
-                    }
-                ]
-            }
-        }
-    }, 
-    "redacted": false, 
-    "explorePrioritizesActivityImage": false, 
-    "showInMilestones": true, 
-    "milestoneType": 5, 
-    "hasPredictableDates": false, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/590714a59033b03379eb170a49f0a49d.png", 
-        "hasIcon": true, 
-        "description": "Speak to Tess in the Tower.", 
-        "name": "Spring Comes to Eververse"
-    }, 
-    "defaultOrder": 300, 
-    "recruitable": false
+	"displayProperties": {
+		"description": "Speak to Tess in the Tower.",
+		"name": "Spring Comes to Eververse",
+		"icon": "/common/destiny2_content/icons/590714a59033b03379eb170a49f0a49d.png",
+		"hasIcon": true
+	},
+	"milestoneType": 5,
+	"recruitable": false,
+	"showInExplorer": false,
+	"showInMilestones": true,
+	"explorePrioritizesActivityImage": false,
+	"hasPredictableDates": false,
+	"quests": {
+		"2245391312": {
+			"questItemHash": 2245391312,
+			"displayProperties": {
+				"description": "Speak to Tess in the Tower.",
+				"name": "Spring Comes to Eververse",
+				"icon": "/common/destiny2_content/icons/590714a59033b03379eb170a49f0a49d.png",
+				"hasIcon": true
+			},
+			"questRewards": {
+				"items": [
+					{
+						"itemHash": 2587922978,
+						"quantity": 1
+					},
+					{
+						"itemHash": 0,
+						"quantity": 0
+					},
+					{
+						"itemHash": 0,
+						"quantity": 0
+					},
+					{
+						"itemHash": 0,
+						"quantity": 0
+					},
+					{
+						"itemHash": 0,
+						"quantity": 0
+					},
+					{
+						"itemHash": 0,
+						"quantity": 0
+					}
+				]
+			},
+			"trackingUnlockValueHash": 0
+		}
+	},
+	"isInGameMilestone": true,
+	"defaultOrder": 300,
+	"hash": 291994631,
+	"index": 24,
+	"redacted": false,
+	"blacklisted": false
 }

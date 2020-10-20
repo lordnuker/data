@@ -1,0 +1,133 @@
+{
+	"displayProperties": {
+		"description": "Contains 5 Season of Arrivals Ghost projections.\n\nBundle price reduced for each item you already own.",
+		"name": "Season of Arrivals Projections Bundle",
+		"icon": "/common/destiny2_content/icons/046a760c0e55a2a5da998dde2a936655.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/046a760c0e55a2a5da998dde2a936655.png",
+					"/common/destiny2_content/icons/65a4f647965a4005c20fdc0b3ac452f5.png"
+				]
+			}
+		],
+		"highResIcon": "/common/destiny2_content/icons/3812a5f63ef660337eeafe950c2148b2.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Package",
+	"uiItemDisplayStyle": "ui_display_style_box",
+	"itemTypeAndTierDisplayName": "Legendary Package",
+	"displaySource": "",
+	"tooltipStyle": "package",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1469714392,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"stats": {
+		"disablePrimaryStatDisplay": false,
+		"stats": {},
+		"hasDisplayableStats": false,
+		"primaryBaseStatHash": 0
+	},
+	"preview": {
+		"screenStyle": "screen_style_vendor",
+		"previewVendorHash": 2756973133,
+		"previewActionString": "Preview",
+		"derivedItemCategories": [
+			{
+				"categoryDescription": "",
+				"items": [
+					{
+						"itemHash": 2062815065,
+						"vendorItemIndex": 0
+					},
+					{
+						"itemHash": 2062815064,
+						"vendorItemIndex": 1
+					},
+					{
+						"itemHash": 2062815067,
+						"vendorItemIndex": 2
+					},
+					{
+						"itemHash": 2062815066,
+						"vendorItemIndex": 3
+					},
+					{
+						"itemHash": 2062815069,
+						"vendorItemIndex": 4
+					}
+				],
+				"categoryIndex": 0
+			}
+		]
+	},
+	"quality": {
+		"itemLevels": [],
+		"qualityLevel": 0,
+		"infusionCategoryName": "0",
+		"infusionCategoryHash": 0,
+		"infusionCategoryHashes": [],
+		"progressionLevelRequirementHash": 0,
+		"currentVersion": 0,
+		"versions": [
+			{
+				"powerCapHash": 723350001
+			}
+		],
+		"displayVersionWatermarkIcons": [
+			""
+		]
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"sack": {
+		"detailAction": "Preview",
+		"openAction": "Open",
+		"seedUnlockValueHash": 0,
+		"resolvedBitVectorUnlockValueHash": 0,
+		"resolvedItemCountUnlockValueHash": 0,
+		"selectItemCount": 0,
+		"rollStateUnlockValueHash": 0,
+		"rewardItemListHash": 0,
+		"openOnAcquire": false
+	},
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		268598612
+	],
+	"specialItemType": 0,
+	"itemType": 25,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"hash": 2756973133,
+	"index": 12358,
+	"redacted": false,
+	"blacklisted": false
+}

@@ -1,59 +1,59 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Titan Finisher", 
-    "itemType": 29, 
-    "tooltipNotifications": [], 
-    "talentGrid": {
-        "talentGridHash": 521135891, 
-        "hudDamageType": 1, 
-        "itemDetailString": "Preview"
-    }, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 3683254069, 
-        "stackUniqueLabel": "v470.finishers.silver.seasonal.legendary.titan_solar0", 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Titan Finisher", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        1112488720
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "collectibleHash": 2602024863, 
-    "displaySource": "", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/30fdc95538b524b65e1e9a8e5aaa9e37.jpg", 
-        "hasIcon": true, 
-        "description": "Press  to finish critically wounded combatants.", 
-        "highResIcon": "/common/destiny2_content/icons/20ab6c06db9479b6a43bacabc5609e02.jpg", 
-        "name": "Nail on the Head"
-    }
+	"displayProperties": {
+		"description": ": Finish critically wounded combatants.",
+		"name": "Nail on the Head",
+		"icon": "/common/destiny2_content/icons/30fdc95538b524b65e1e9a8e5aaa9e37.jpg",
+		"highResIcon": "/common/destiny2_content/icons/20ab6c06db9479b6a43bacabc5609e02.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"collectibleHash": 2602024863,
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Titan Finisher",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Titan Finisher",
+	"displaySource": "",
+	"inventory": {
+		"stackUniqueLabel": "v470.finishers.silver.seasonal.legendary.titan_solar0",
+		"maxStackSize": 1,
+		"bucketTypeHash": 3683254069,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"talentGrid": {
+		"talentGridHash": 521135891,
+		"itemDetailString": "Preview",
+		"hudDamageType": 1
+	},
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		1112488720
+	],
+	"specialItemType": 0,
+	"itemType": 29,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

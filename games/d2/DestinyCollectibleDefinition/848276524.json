@@ -1,44 +1,44 @@
 {
-    "sourceHash": 860688654, 
-    "sourceString": "Source: Eververse", 
-    "blacklisted": false, 
-    "acquisitionInfo": {
-        "runOnlyAcquisitionRewardSite": false, 
-        "acquireMaterialRequirementHash": 2413613994
-    }, 
-    "index": 3616, 
-    "presentationNodeType": 1, 
-    "traitHashes": [], 
-    "redacted": false, 
-    "stateInfo": {
-        "requirements": {
-            "entitlementUnavailableMessage": ""
-        }
-    }, 
-    "parentNodeHashes": [
-        2662026552
-    ], 
-    "traitIds": [], 
-    "displayProperties": {
-        "hasIcon": true, 
-        "description": "Modifications for your ship's transmat systems, so you'll always arrive in style.", 
-        "highResIcon": "/common/destiny2_content/icons/f12bda9150b6bd566b4e6552ef3cb2ee.jpg", 
-        "name": "Shattered Shrieker", 
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/f774d6252cdaf170fea5b82273f3c2ef.jpg"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/13c69b1735b66754a440f90aa659ecf3.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/f774d6252cdaf170fea5b82273f3c2ef.jpg"
-    }, 
-    "scope": 0, 
-    "itemHash": 3951356825, 
-    "hash": 848276524
+	"displayProperties": {
+		"description": "Modifications for your ship's transmat systems, so you'll always arrive in style.",
+		"name": "Shattered Shrieker",
+		"icon": "/common/destiny2_content/icons/f774d6252cdaf170fea5b82273f3c2ef.jpg",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/f774d6252cdaf170fea5b82273f3c2ef.jpg"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/13c69b1735b66754a440f90aa659ecf3.png"
+				]
+			}
+		],
+		"highResIcon": "/common/destiny2_content/icons/b7e015a18cd43b4e823ccc94dc6d8f7e.jpg",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"sourceString": "Source: Eververse",
+	"sourceHash": 860688654,
+	"itemHash": 3951356825,
+	"acquisitionInfo": {
+		"acquireMaterialRequirementHash": 2413613994,
+		"runOnlyAcquisitionRewardSite": false
+	},
+	"stateInfo": {
+		"requirements": {
+			"entitlementUnavailableMessage": ""
+		}
+	},
+	"presentationNodeType": 1,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		2662026552
+	],
+	"hash": 848276524,
+	"index": 3959,
+	"redacted": false,
+	"blacklisted": false
 }

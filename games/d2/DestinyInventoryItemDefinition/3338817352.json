@@ -1,126 +1,143 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Package", 
-    "itemType": 25, 
-    "investmentStats": [], 
-    "redacted": false, 
-    "sack": {
-        "openOnAcquire": false, 
-        "resolvedItemCountUnlockValueHash": 0, 
-        "openAction": "Open", 
-        "rollStateUnlockValueHash": 0, 
-        "selectItemCount": 0, 
-        "seedUnlockValueHash": 0, 
-        "rewardItemListHash": 0, 
-        "resolvedBitVectorUnlockValueHash": 0, 
-        "detailAction": "Preview"
-    }, 
-    "tooltipNotifications": [], 
-    "index": 11282, 
-    "stats": {
-        "hasDisplayableStats": false, 
-        "primaryBaseStatHash": 0, 
-        "disablePrimaryStatDisplay": false, 
-        "stats": {}
-    }, 
-    "gearset": {
-        "trackingValueMax": 0, 
-        "itemList": [
-            2717158440, 
-            3850655136, 
-            2777913565, 
-            4059030097, 
-            3352566658
-        ]
-    }, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 1469714392, 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "preview": {
-        "screenStyle": "screen_style_vendor", 
-        "derivedItemCategories": [
-            {
-                "items": [
-                    {
-                        "itemHash": 1370974707, 
-                        "vendorItemIndex": 0
-                    }, 
-                    {
-                        "itemHash": 4211475741, 
-                        "vendorItemIndex": 1
-                    }, 
-                    {
-                        "itemHash": 1378496336, 
-                        "vendorItemIndex": 2
-                    }, 
-                    {
-                        "itemHash": 1365413546, 
-                        "vendorItemIndex": 3
-                    }, 
-                    {
-                        "itemHash": 1105928645, 
-                        "vendorItemIndex": 4
-                    }
-                ], 
-                "categoryDescription": "", 
-                "categoryIndex": 0
-            }
-        ], 
-        "previewVendorHash": 3338817352, 
-        "previewActionString": "Preview"
-    }, 
-    "hash": 3338817352, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Package", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        268598612
-    ], 
-    "uiItemDisplayStyle": "ui_display_style_box", 
-    "nonTransferrable": true, 
-    "tooltipStyle": "package", 
-    "allowActions": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "blacklisted": false, 
-    "displaySource": "", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "hasIcon": true, 
-        "description": "Contains a full set of Dawning 2017 Hunter universal ornaments.\n\nBundle price reduced for each item you already own.", 
-        "highResIcon": "/common/destiny2_content/icons/da116b1c3a56e9859d42690c9d02a59f.jpg", 
-        "name": "Winterhart Hunter Bundle", 
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/7b5a4438e3a14233354dd8acc16ee7bb.png", 
-                    "/common/destiny2_content/icons/26b9a590ab045ac27b949d1cbeff5f89.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/7b5a4438e3a14233354dd8acc16ee7bb.png"
-    }
+	"displayProperties": {
+		"description": "Contains a full set of Dawning 2017 Hunter universal ornaments.\n\nBundle price reduced for each item you already own.",
+		"name": "Winterhart Hunter Bundle",
+		"icon": "/common/destiny2_content/icons/7b5a4438e3a14233354dd8acc16ee7bb.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/7b5a4438e3a14233354dd8acc16ee7bb.png",
+					"/common/destiny2_content/icons/26b9a590ab045ac27b949d1cbeff5f89.png"
+				]
+			}
+		],
+		"highResIcon": "/common/destiny2_content/icons/da116b1c3a56e9859d42690c9d02a59f.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Package",
+	"uiItemDisplayStyle": "ui_display_style_box",
+	"itemTypeAndTierDisplayName": "Legendary Package",
+	"displaySource": "",
+	"tooltipStyle": "package",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1469714392,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"stats": {
+		"disablePrimaryStatDisplay": false,
+		"stats": {},
+		"hasDisplayableStats": false,
+		"primaryBaseStatHash": 0
+	},
+	"preview": {
+		"screenStyle": "screen_style_vendor",
+		"previewVendorHash": 3338817352,
+		"previewActionString": "Preview",
+		"derivedItemCategories": [
+			{
+				"categoryDescription": "",
+				"items": [
+					{
+						"itemHash": 1370974707,
+						"vendorItemIndex": 0
+					},
+					{
+						"itemHash": 4211475741,
+						"vendorItemIndex": 1
+					},
+					{
+						"itemHash": 1378496336,
+						"vendorItemIndex": 2
+					},
+					{
+						"itemHash": 1365413546,
+						"vendorItemIndex": 3
+					},
+					{
+						"itemHash": 1105928645,
+						"vendorItemIndex": 4
+					}
+				],
+				"categoryIndex": 0
+			}
+		]
+	},
+	"quality": {
+		"itemLevels": [],
+		"qualityLevel": 0,
+		"infusionCategoryName": "0",
+		"infusionCategoryHash": 0,
+		"infusionCategoryHashes": [],
+		"progressionLevelRequirementHash": 0,
+		"currentVersion": 0,
+		"versions": [
+			{
+				"powerCapHash": 723350001
+			}
+		],
+		"displayVersionWatermarkIcons": [
+			""
+		]
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"gearset": {
+		"trackingValueMax": 0,
+		"itemList": [
+			2717158440,
+			3850655136,
+			2777913565,
+			4059030097,
+			3352566658
+		]
+	},
+	"sack": {
+		"detailAction": "Preview",
+		"openAction": "Open",
+		"seedUnlockValueHash": 0,
+		"resolvedBitVectorUnlockValueHash": 0,
+		"resolvedItemCountUnlockValueHash": 0,
+		"selectItemCount": 0,
+		"rollStateUnlockValueHash": 0,
+		"rewardItemListHash": 0,
+		"openOnAcquire": false
+	},
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		268598612
+	],
+	"specialItemType": 0,
+	"itemType": 25,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"hash": 3338817352,
+	"index": 11288,
+	"redacted": false,
+	"blacklisted": false
 }

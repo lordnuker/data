@@ -1,41 +1,41 @@
 {
-    "index": 424, 
-    "hash": 530214667, 
-    "blacklisted": false, 
-    "avoidDuplicatesOnInitialization": false, 
-    "insertAction": {
-        "actionSoundHash": 0, 
-        "isPositiveAction": false, 
-        "actionType": 2, 
-        "actionExecuteSeconds": 1
-    }, 
-    "plugWhitelist": [
-        {
-            "reinitializationPossiblePlugHashes": [
-                924149234
-            ], 
-            "categoryIdentifier": "v300_new_grenade_launcher0_masterwork", 
-            "categoryHash": 657092405
-        }, 
-        {
-            "reinitializationPossiblePlugHashes": [
-                924149234
-            ], 
-            "categoryIdentifier": "exotic_weapon_masterwork_upgrade", 
-            "categoryHash": 1932084301
-        }
-    ], 
-    "currencyScalars": [], 
-    "redacted": false, 
-    "visibility": 0, 
-    "isPreviewEnabled": false, 
-    "alwaysRandomizeSockets": false, 
-    "overridesUiAppearance": false, 
-    "displayProperties": {
-        "hasIcon": false, 
-        "description": "", 
-        "name": ""
-    }, 
-    "socketCategoryHash": 2685412949, 
-    "hideDuplicateReusablePlugs": false
+	"displayProperties": {
+		"description": "",
+		"name": "",
+		"hasIcon": false
+	},
+	"insertAction": {
+		"actionExecuteSeconds": 1,
+		"actionSoundHash": 0,
+		"isPositiveAction": false,
+		"actionType": 2
+	},
+	"plugWhitelist": [
+		{
+			"categoryHash": 657092405,
+			"categoryIdentifier": "v300_new_grenade_launcher0_masterwork",
+			"reinitializationPossiblePlugHashes": [
+				924149234
+			]
+		},
+		{
+			"categoryHash": 1932084301,
+			"categoryIdentifier": "exotic_weapon_masterwork_upgrade",
+			"reinitializationPossiblePlugHashes": [
+				924149234
+			]
+		}
+	],
+	"socketCategoryHash": 2685412949,
+	"visibility": 0,
+	"alwaysRandomizeSockets": false,
+	"isPreviewEnabled": false,
+	"hideDuplicateReusablePlugs": false,
+	"overridesUiAppearance": false,
+	"avoidDuplicatesOnInitialization": false,
+	"currencyScalars": [],
+	"hash": 530214667,
+	"index": 424,
+	"redacted": false,
+	"blacklisted": false
 }

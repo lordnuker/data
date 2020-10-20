@@ -1,93 +1,93 @@
 {
-    "itemTypeAndTierDisplayName": "Quest", 
-    "nonTransferrable": true, 
-    "investmentStats": [], 
-    "redacted": false, 
-    "tooltipNotifications": [], 
-    "itemType": 15, 
-    "index": 12606, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "bucketTypeHash": 2422292810, 
-        "tierTypeHash": 0, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 0, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "setData": {
-        "trackingUnlockValueHash": 0, 
-        "setIsFeatured": true, 
-        "itemList": [
-            {
-                "itemHash": 1913940603, 
-                "trackingValue": 1152276081
-            }, 
-            {
-                "itemHash": 3018123692, 
-                "trackingValue": -675751898
-            }, 
-            {
-                "itemHash": 2157694759, 
-                "trackingValue": 1244913109
-            }
-        ], 
-        "requireOrderedSetItemAdd": true, 
-        "questLineName": "", 
-        "abandonmentUnlockHash": 0, 
-        "setType": "quest_global"
-    }, 
-    "hash": 2690615087, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Quest", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        53
-    ], 
-    "uiItemDisplayStyle": "", 
-    "secondaryOverlay": "/img/misc/missing_icon_d2.png", 
-    "secondaryIcon": "/common/destiny2_content/icons/39fac8d6882827c3023a3a302dd16b8d.png", 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "secondarySpecial": "/img/misc/missing_icon_d2.png", 
-    "blacklisted": false, 
-    "displaySource": "", 
-    "traitIds": [
-        "inventory_filtering.quest", 
-        "quest.seasonal"
-    ], 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/39fac8d6882827c3023a3a302dd16b8d.png", 
-                    "/common/destiny2_content/icons/39fac8d6882827c3023a3a302dd16b8d.png", 
-                    "/common/destiny2_content/icons/8725b5a2d0ee0f7a7c17238b5a4db778.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/39fac8d6882827c3023a3a302dd16b8d.png", 
-        "hasIcon": true, 
-        "description": "", 
-        "name": "Strike Up Peace"
-    }
+	"displayProperties": {
+		"description": "",
+		"name": "Strike Up Peace",
+		"icon": "/common/destiny2_content/icons/39fac8d6882827c3023a3a302dd16b8d.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/39fac8d6882827c3023a3a302dd16b8d.png",
+					"/common/destiny2_content/icons/39fac8d6882827c3023a3a302dd16b8d.png",
+					"/common/destiny2_content/icons/8725b5a2d0ee0f7a7c17238b5a4db778.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"secondaryIcon": "/common/destiny2_content/icons/39fac8d6882827c3023a3a302dd16b8d.png",
+	"secondaryOverlay": "/img/misc/missing_icon_d2.png",
+	"secondarySpecial": "/img/misc/missing_icon_d2.png",
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Quest",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Quest",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 2422292810,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 0,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierType": 0,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"setData": {
+		"itemList": [
+			{
+				"trackingValue": 1152276081,
+				"itemHash": 1913940603
+			},
+			{
+				"trackingValue": -675751898,
+				"itemHash": 3018123692
+			},
+			{
+				"trackingValue": 1244913109,
+				"itemHash": 2157694759
+			}
+		],
+		"trackingUnlockValueHash": 0,
+		"abandonmentUnlockHash": 0,
+		"requireOrderedSetItemAdd": true,
+		"setIsFeatured": true,
+		"setType": "quest_global",
+		"questLineName": ""
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		53
+	],
+	"specialItemType": 0,
+	"itemType": 15,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"traitIds": [
+		"inventory_filtering.quest",
+		"quest.seasonal"
+	],
+	"hash": 2690615087,
+	"index": 13200,
+	"redacted": false,
+	"blacklisted": false
 }

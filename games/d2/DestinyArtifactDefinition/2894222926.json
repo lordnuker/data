@@ -1,175 +1,175 @@
 {
-    "index": 0, 
-    "tiers": [
-        {
-            "displayTitle": "Tier 1", 
-            "minimumUnlockPointsUsedRequirement": 0, 
-            "tierHash": 3144670121, 
-            "items": [
-                {
-                    "itemHash": 2504808124, 
-                    "activeUnlockHash": 0
-                }, 
-                {
-                    "itemHash": 2504808127, 
-                    "activeUnlockHash": 0
-                }, 
-                {
-                    "itemHash": 2504808126, 
-                    "activeUnlockHash": 0
-                }, 
-                {
-                    "itemHash": 2504808121, 
-                    "activeUnlockHash": 0
-                }, 
-                {
-                    "itemHash": 2504808120, 
-                    "activeUnlockHash": 0
-                }
-            ]
-        }, 
-        {
-            "displayTitle": "Tier 2", 
-            "minimumUnlockPointsUsedRequirement": 1, 
-            "tierHash": 3144670122, 
-            "items": [
-                {
-                    "itemHash": 739803547, 
-                    "activeUnlockHash": 0
-                }, 
-                {
-                    "itemHash": 739803544, 
-                    "activeUnlockHash": 0
-                }, 
-                {
-                    "itemHash": 739803545, 
-                    "activeUnlockHash": 0
-                }, 
-                {
-                    "itemHash": 739803550, 
-                    "activeUnlockHash": 0
-                }, 
-                {
-                    "itemHash": 739803551, 
-                    "activeUnlockHash": 0
-                }
-            ]
-        }, 
-        {
-            "displayTitle": "Tier 3", 
-            "minimumUnlockPointsUsedRequirement": 4, 
-            "tierHash": 3144670123, 
-            "items": [
-                {
-                    "itemHash": 1974622780, 
-                    "activeUnlockHash": 0
-                }, 
-                {
-                    "itemHash": 1974622783, 
-                    "activeUnlockHash": 0
-                }, 
-                {
-                    "itemHash": 1974622782, 
-                    "activeUnlockHash": 0
-                }, 
-                {
-                    "itemHash": 1974622777, 
-                    "activeUnlockHash": 0
-                }, 
-                {
-                    "itemHash": 1974622776, 
-                    "activeUnlockHash": 0
-                }
-            ]
-        }, 
-        {
-            "displayTitle": "Tier 4", 
-            "minimumUnlockPointsUsedRequirement": 7, 
-            "tierHash": 3144670124, 
-            "items": [
-                {
-                    "itemHash": 820036193, 
-                    "activeUnlockHash": 0
-                }, 
-                {
-                    "itemHash": 820036194, 
-                    "activeUnlockHash": 0
-                }, 
-                {
-                    "itemHash": 820036195, 
-                    "activeUnlockHash": 0
-                }, 
-                {
-                    "itemHash": 820036196, 
-                    "activeUnlockHash": 0
-                }, 
-                {
-                    "itemHash": 820036197, 
-                    "activeUnlockHash": 0
-                }
-            ]
-        }, 
-        {
-            "displayTitle": "Tier 5", 
-            "minimumUnlockPointsUsedRequirement": 10, 
-            "tierHash": 3144670125, 
-            "items": [
-                {
-                    "itemHash": 3235387874, 
-                    "activeUnlockHash": 0
-                }, 
-                {
-                    "itemHash": 3235387873, 
-                    "activeUnlockHash": 0
-                }, 
-                {
-                    "itemHash": 3235387872, 
-                    "activeUnlockHash": 0
-                }, 
-                {
-                    "itemHash": 3235387879, 
-                    "activeUnlockHash": 0
-                }, 
-                {
-                    "itemHash": 3235387878, 
-                    "activeUnlockHash": 0
-                }
-            ]
-        }
-    ], 
-    "hash": 2894222926, 
-    "blacklisted": false, 
-    "redacted": false, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/377397c09cc7c6847bea194260b9547c.jpg", 
-        "hasIcon": true, 
-        "description": "A ritual blade inlaid with digitized enigma.", 
-        "name": "Warmind Khanjali"
-    }, 
-    "translationBlock": {
-        "customDyes": [], 
-        "hasGeometry": true, 
-        "lockedDyes": [], 
-        "weaponPatternHash": 4023194814, 
-        "defaultDyes": [
-            {
-                "dyeHash": 3033193026, 
-                "channelHash": 373026848
-            }, 
-            {
-                "dyeHash": 3033193027, 
-                "channelHash": 373026849
-            }, 
-            {
-                "dyeHash": 3033193024, 
-                "channelHash": 373026850
-            }
-        ], 
-        "arrangements": [
-            {
-                "classHash": 0, 
-                "artArrangementHash": 3347359508
-            }
-        ]
-    }
+	"displayProperties": {
+		"description": "Malleable and hungering. Speak not of what it becomes.",
+		"name": "Seed of Silver Wings",
+		"icon": "/common/destiny2_content/icons/065fb7d42dcea9c8df00d2e0737f0061.jpg",
+		"hasIcon": true
+	},
+	"translationBlock": {
+		"weaponPatternHash": 4023194814,
+		"defaultDyes": [
+			{
+				"channelHash": 373026848,
+				"dyeHash": 167760775
+			},
+			{
+				"channelHash": 373026849,
+				"dyeHash": 167760774
+			},
+			{
+				"channelHash": 373026850,
+				"dyeHash": 167760773
+			}
+		],
+		"lockedDyes": [],
+		"customDyes": [],
+		"arrangements": [
+			{
+				"classHash": 0,
+				"artArrangementHash": 883484189
+			}
+		],
+		"hasGeometry": true
+	},
+	"tiers": [
+		{
+			"tierHash": 3144670121,
+			"displayTitle": "Tier 1",
+			"items": [
+				{
+					"itemHash": 715026181,
+					"activeUnlockHash": 0
+				},
+				{
+					"itemHash": 715026182,
+					"activeUnlockHash": 0
+				},
+				{
+					"itemHash": 715026183,
+					"activeUnlockHash": 0
+				},
+				{
+					"itemHash": 715026176,
+					"activeUnlockHash": 0
+				},
+				{
+					"itemHash": 715026177,
+					"activeUnlockHash": 0
+				}
+			],
+			"minimumUnlockPointsUsedRequirement": 0
+		},
+		{
+			"tierHash": 3144670122,
+			"displayTitle": "Tier 2",
+			"items": [
+				{
+					"itemHash": 3213968582,
+					"activeUnlockHash": 0
+				},
+				{
+					"itemHash": 3213968581,
+					"activeUnlockHash": 0
+				},
+				{
+					"itemHash": 3213968580,
+					"activeUnlockHash": 0
+				},
+				{
+					"itemHash": 3213968579,
+					"activeUnlockHash": 0
+				},
+				{
+					"itemHash": 3213968578,
+					"activeUnlockHash": 0
+				}
+			],
+			"minimumUnlockPointsUsedRequirement": 1
+		},
+		{
+			"tierHash": 3144670123,
+			"displayTitle": "Tier 3",
+			"items": [
+				{
+					"itemHash": 3465659109,
+					"activeUnlockHash": 0
+				},
+				{
+					"itemHash": 3465659110,
+					"activeUnlockHash": 0
+				},
+				{
+					"itemHash": 3465659111,
+					"activeUnlockHash": 0
+				},
+				{
+					"itemHash": 3465659104,
+					"activeUnlockHash": 0
+				},
+				{
+					"itemHash": 3465659105,
+					"activeUnlockHash": 0
+				}
+			],
+			"minimumUnlockPointsUsedRequirement": 4
+		},
+		{
+			"tierHash": 3144670124,
+			"displayTitle": "Tier 4",
+			"items": [
+				{
+					"itemHash": 3175764264,
+					"activeUnlockHash": 0
+				},
+				{
+					"itemHash": 3175764267,
+					"activeUnlockHash": 0
+				},
+				{
+					"itemHash": 3175764266,
+					"activeUnlockHash": 0
+				},
+				{
+					"itemHash": 3175764269,
+					"activeUnlockHash": 0
+				},
+				{
+					"itemHash": 3175764268,
+					"activeUnlockHash": 0
+				}
+			],
+			"minimumUnlockPointsUsedRequirement": 7
+		},
+		{
+			"tierHash": 3144670125,
+			"displayTitle": "Tier 5",
+			"items": [
+				{
+					"itemHash": 4186620519,
+					"activeUnlockHash": 0
+				},
+				{
+					"itemHash": 4186620516,
+					"activeUnlockHash": 0
+				},
+				{
+					"itemHash": 4186620517,
+					"activeUnlockHash": 0
+				},
+				{
+					"itemHash": 4186620514,
+					"activeUnlockHash": 0
+				},
+				{
+					"itemHash": 4186620515,
+					"activeUnlockHash": 0
+				}
+			],
+			"minimumUnlockPointsUsedRequirement": 10
+		}
+	],
+	"hash": 2894222926,
+	"index": 0,
+	"redacted": false,
+	"blacklisted": false
 }

@@ -1,26 +1,26 @@
 {
-    "index": 88, 
-    "groupCategoryOnly": false, 
-    "grantDestinyClass": 3, 
-    "blacklisted": false, 
-    "shortTitle": "Reputation Tokens", 
-    "grantDestinyItemType": 0, 
-    "deprecated": false, 
-    "redacted": false, 
-    "grantDestinySubType": 0, 
-    "itemTypeRegex": "type_faction_token", 
-    "parentCategoryHashes": [
-        35, 
-        52
-    ], 
-    "visible": false, 
-    "groupedCategoryHashes": [], 
-    "displayProperties": {
-        "hasIcon": false, 
-        "description": "These are items that you turn in for reputation at Vendors.", 
-        "name": "Reputation Tokens"
-    }, 
-    "hash": 2088636411, 
-    "isPlug": false, 
-    "grantDestinyBreakerType": 0
+	"displayProperties": {
+		"description": "These are items that you turn in for reputation at Vendors.",
+		"name": "Reputation Tokens",
+		"hasIcon": false
+	},
+	"visible": false,
+	"deprecated": false,
+	"shortTitle": "Reputation Tokens",
+	"itemTypeRegex": "type_faction_token",
+	"grantDestinyBreakerType": 0,
+	"grantDestinyItemType": 0,
+	"grantDestinySubType": 0,
+	"grantDestinyClass": 3,
+	"groupedCategoryHashes": [],
+	"isPlug": false,
+	"parentCategoryHashes": [
+		35,
+		52
+	],
+	"groupCategoryOnly": false,
+	"hash": 2088636411,
+	"index": 88,
+	"redacted": false,
+	"blacklisted": false
 }

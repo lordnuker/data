@@ -1,65 +1,65 @@
 {
-    "index": 1490, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 1, 
-        "intervalObjectives": [
-            {
-                "intervalScoreValue": 20, 
-                "intervalObjectiveHash": 2056166196
-            }, 
-            {
-                "intervalScoreValue": 30, 
-                "intervalObjectiveHash": 2056166198
-            }, 
-            {
-                "intervalScoreValue": 30, 
-                "intervalObjectiveHash": 2056166199
-            }, 
-            {
-                "intervalScoreValue": 30, 
-                "intervalObjectiveHash": 2056166192
-            }
-        ], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [], 
-    "parentNodeHashes": [
-        1696842764
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 0, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/aeee7a2521bc77dfe0c051551597ec7f.png", 
-        "hasIcon": true, 
-        "description": "Defeat Giant Blockers in Gambit Prime.", 
-        "name": "Giantkiller"
-    }, 
-    "scope": 0, 
-    "hash": 2970941799
+	"displayProperties": {
+		"description": "Defeat Giant Blockers in Gambit Prime.",
+		"name": "Giantkiller",
+		"icon": "/common/destiny2_content/icons/aeee7a2521bc77dfe0c051551597ec7f.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [
+			{
+				"intervalObjectiveHash": 2056166196,
+				"intervalScoreValue": 20
+			},
+			{
+				"intervalObjectiveHash": 2056166198,
+				"intervalScoreValue": 30
+			},
+			{
+				"intervalObjectiveHash": 2056166199,
+				"intervalScoreValue": 30
+			},
+			{
+				"intervalObjectiveHash": 2056166192,
+				"intervalScoreValue": 30
+			}
+		],
+		"originalObjectiveArrayInsertionIndex": 1,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		1696842764
+	],
+	"hash": 2970941799,
+	"index": 1502,
+	"redacted": false,
+	"blacklisted": false
 }

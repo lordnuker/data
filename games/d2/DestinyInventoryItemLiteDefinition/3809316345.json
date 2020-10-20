@@ -1,66 +1,66 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Launcher Barrel", 
-    "itemType": 19, 
-    "tooltipNotifications": [], 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "summaryItemHash": 3520001075, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 1469714392, 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Launcher Barrel", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        2076918099, 
-        610365472, 
-        59
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "displaySource": "", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/b1e34eabc2ad012b6258436e80705b49.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/ec03e3343674ae05dedca9e5d1866b80.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/b1e34eabc2ad012b6258436e80705b49.png", 
-        "hasIcon": true, 
-        "description": "This weapon is weighted for vertical recoil.\n  •  Greatly controls recoil\n  •  Increases stability\n  •  Increases handling speed", 
-        "name": "Countermass"
-    }
+	"displayProperties": {
+		"description": "This weapon is weighted for vertical recoil.\n  •  Greatly controls recoil\n  •  Increases stability\n  •  Increases handling speed",
+		"name": "Countermass",
+		"icon": "/common/destiny2_content/icons/b1e34eabc2ad012b6258436e80705b49.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/b1e34eabc2ad012b6258436e80705b49.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/ec03e3343674ae05dedca9e5d1866b80.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Launcher Barrel",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Launcher Barrel",
+	"displaySource": "",
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1469714392,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [],
+	"summaryItemHash": 3520001075,
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		2076918099,
+		610365472,
+		59
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

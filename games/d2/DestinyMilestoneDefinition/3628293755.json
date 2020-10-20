@@ -1,71 +1,71 @@
 {
-    "activities": [
-        {
-            "challenges": [
-                {
-                    "challengeObjectiveHash": 4218777758, 
-                    "completeUnlockHash": 0
-                }
-            ], 
-            "activityGraphNodes": [
-                {
-                    "activityGraphNodeHash": 2280364809, 
-                    "activityGraphHash": 111706917
-                }
-            ], 
-            "activityHash": 1166905690
-        }
-    ], 
-    "rewards": {
-        "326786556": {
-            "displayProperties": {
-                "hasIcon": false, 
-                "description": "", 
-                "name": "Rewards"
-            }, 
-            "rewardEntries": {
-                "326786556": {
-                    "redeemedUnlockHash": 0, 
-                    "items": [
-                        {
-                            "itemHash": 3114385607, 
-                            "quantity": 0
-                        }
-                    ], 
-                    "rewardEntryHash": 326786556, 
-                    "displayProperties": {
-                        "hasIcon": false, 
-                        "description": "Trials Reward (2/3)\n\nWin 5 matches on a ticket to receive a powerful reward.", 
-                        "name": "Trials Weekly (2/3)"
-                    }, 
-                    "earnedUnlockHash": 0, 
-                    "rewardEntryIdentifier": "ChallengeSourcedReward", 
-                    "order": 0
-                }
-            }, 
-            "categoryIdentifier": "ChallengeSourcedReward", 
-            "categoryHash": 326786556, 
-            "order": 0
-        }
-    }, 
-    "hash": 3628293755, 
-    "blacklisted": false, 
-    "isInGameMilestone": false, 
-    "index": 43, 
-    "showInExplorer": false, 
-    "image": "/img/destiny_content/pgcr/social_traveler.jpg", 
-    "redacted": false, 
-    "explorePrioritizesActivityImage": false, 
-    "showInMilestones": true, 
-    "friendlyName": "MILESTONE_WEEKLY_TRIALS_WINS_5", 
-    "milestoneType": 3, 
-    "hasPredictableDates": false, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/DestinyMilestoneDefinition_42c55bbbfc5395f21659a899e3eca488.png", 
-        "hasIcon": true, 
-        "description": "Win 5 matches on a ticket to receive a powerful reward.", 
-        "name": "Weekly Trials Reward (2/3)"
-    }, 
-    "defaultOrder": 2000, 
-    "recruitable": false
+	"displayProperties": {
+		"description": "Win 5 matches on a ticket to receive a powerful reward.",
+		"name": "Weekly Trials Reward (2/3)",
+		"icon": "/common/destiny2_content/icons/DestinyMilestoneDefinition_42c55bbbfc5395f21659a899e3eca488.png",
+		"hasIcon": true
+	},
+	"image": "/img/destiny_content/pgcr/social_traveler.jpg",
+	"milestoneType": 3,
+	"recruitable": false,
+	"friendlyName": "MILESTONE_WEEKLY_TRIALS_WINS_5",
+	"showInExplorer": false,
+	"showInMilestones": true,
+	"explorePrioritizesActivityImage": false,
+	"hasPredictableDates": false,
+	"rewards": {
+		"326786556": {
+			"categoryHash": 326786556,
+			"categoryIdentifier": "ChallengeSourcedReward",
+			"displayProperties": {
+				"description": "",
+				"name": "Rewards",
+				"hasIcon": false
+			},
+			"rewardEntries": {
+				"326786556": {
+					"rewardEntryHash": 326786556,
+					"rewardEntryIdentifier": "ChallengeSourcedReward",
+					"items": [
+						{
+							"itemHash": 3114385607,
+							"quantity": 0
+						}
+					],
+					"displayProperties": {
+						"description": "Trials Reward (2/3)\n\nWin 5 matches on a ticket to receive a powerful reward.",
+						"name": "Trials Weekly (2/3)",
+						"hasIcon": false
+					},
+					"order": 0,
+					"earnedUnlockHash": 0,
+					"redeemedUnlockHash": 0
+				}
+			},
+			"order": 0
+		}
+	},
+	"isInGameMilestone": false,
+	"activities": [
+		{
+			"activityHash": 1166905690,
+			"challenges": [
+				{
+					"challengeObjectiveHash": 4218777758,
+					"completeUnlockHash": 0
+				}
+			],
+			"activityGraphNodes": [
+				{
+					"activityGraphHash": 111706917,
+					"activityGraphNodeHash": 2280364809
+				}
+			]
+		}
+	],
+	"defaultOrder": 2000,
+	"hash": 3628293755,
+	"index": 55,
+	"redacted": false,
+	"blacklisted": false
 }

@@ -1,53 +1,53 @@
 {
-    "index": 55, 
-    "hash": 3337096914, 
-    "blacklisted": false, 
-    "redacted": false, 
-    "vendorHash": 0, 
-    "locationReleases": [
-        {
-            "worldPosition": [
-                -319, 
-                -80, 
-                13, 
-                0
-            ], 
-            "spawnPoint": 2518132455, 
-            "activityPathBundle": 0, 
-            "activityBubbleName": 3854937584, 
-            "destinationHash": 1199524104, 
-            "activityGraphNodeHash": 0, 
-            "activityPathDestination": 697502628, 
-            "activityGraphHash": 109588432, 
-            "displayProperties": {
-                "hasIcon": false, 
-                "description": "Fast travel to Winding Cove.", 
-                "name": "Winding Cove"
-            }, 
-            "navPointType": 0, 
-            "activityHash": 0
-        }, 
-        {
-            "worldPosition": [
-                -319, 
-                -80, 
-                13, 
-                0
-            ], 
-            "spawnPoint": 2518132455, 
-            "activityPathBundle": 0, 
-            "activityBubbleName": 3854937584, 
-            "destinationHash": 1199524104, 
-            "activityGraphNodeHash": 0, 
-            "activityPathDestination": 697502628, 
-            "activityGraphHash": 109588432, 
-            "displayProperties": {
-                "hasIcon": false, 
-                "description": "Travel to Winding Cove.", 
-                "name": "Winding Cove"
-            }, 
-            "navPointType": 0, 
-            "activityHash": 0
-        }
-    ]
+	"vendorHash": 0,
+	"locationReleases": [
+		{
+			"displayProperties": {
+				"description": "Fast travel to Winding Cove.",
+				"name": "Winding Cove",
+				"hasIcon": false
+			},
+			"spawnPoint": 2518132455,
+			"destinationHash": 1199524104,
+			"activityHash": 0,
+			"activityGraphHash": 109588432,
+			"activityGraphNodeHash": 0,
+			"activityBubbleName": 3854937584,
+			"activityPathBundle": 0,
+			"activityPathDestination": 697502628,
+			"navPointType": 0,
+			"worldPosition": [
+				-319,
+				-80,
+				13,
+				0
+			]
+		},
+		{
+			"displayProperties": {
+				"description": "Travel to Winding Cove.",
+				"name": "Winding Cove",
+				"hasIcon": false
+			},
+			"spawnPoint": 2518132455,
+			"destinationHash": 1199524104,
+			"activityHash": 0,
+			"activityGraphHash": 109588432,
+			"activityGraphNodeHash": 0,
+			"activityBubbleName": 3854937584,
+			"activityPathBundle": 0,
+			"activityPathDestination": 697502628,
+			"navPointType": 0,
+			"worldPosition": [
+				-319,
+				-80,
+				13,
+				0
+			]
+		}
+	],
+	"hash": 3337096914,
+	"index": 55,
+	"redacted": false,
+	"blacklisted": false
 }

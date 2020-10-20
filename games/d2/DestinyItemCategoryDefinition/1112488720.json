@@ -1,23 +1,23 @@
 {
-    "index": 133, 
-    "groupCategoryOnly": false, 
-    "grantDestinyClass": 3, 
-    "blacklisted": false, 
-    "shortTitle": "###ItemCategories.CATEGORY_FINISHER-SHORT_TITLE###", 
-    "grantDestinyItemType": 29, 
-    "deprecated": false, 
-    "redacted": false, 
-    "grantDestinySubType": 0, 
-    "itemTypeRegex": "type_finisher.*", 
-    "parentCategoryHashes": [], 
-    "visible": false, 
-    "groupedCategoryHashes": [], 
-    "displayProperties": {
-        "hasIcon": false, 
-        "description": "###ItemCategories.CATEGORY_FINISHER-DESCRIPTION###", 
-        "name": "###ItemCategories.CATEGORY_FINISHER-TITLE###"
-    }, 
-    "hash": 1112488720, 
-    "isPlug": false, 
-    "grantDestinyBreakerType": 0
+	"displayProperties": {
+		"description": "Rush a weakened enemy to activate a devastating final blow..",
+		"name": "Finishers",
+		"hasIcon": false
+	},
+	"visible": false,
+	"deprecated": false,
+	"shortTitle": "Finishers",
+	"itemTypeRegex": "type_finisher.*",
+	"grantDestinyBreakerType": 0,
+	"grantDestinyItemType": 29,
+	"grantDestinySubType": 0,
+	"grantDestinyClass": 3,
+	"groupedCategoryHashes": [],
+	"isPlug": false,
+	"parentCategoryHashes": [],
+	"groupCategoryOnly": false,
+	"hash": 1112488720,
+	"index": 124,
+	"redacted": false,
+	"blacklisted": false
 }

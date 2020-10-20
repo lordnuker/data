@@ -1,122 +1,122 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Blade", 
-    "itemType": 19, 
-    "investmentStats": [
-        {
-            "value": 35, 
-            "statTypeHash": 3871231066, 
-            "isConditionallyActive": false
-        }, 
-        {
-            "value": 35, 
-            "statTypeHash": 925767036, 
-            "isConditionallyActive": false
-        }, 
-        {
-            "value": -5, 
-            "statTypeHash": 4043523819, 
-            "isConditionallyActive": false
-        }
-    ], 
-    "redacted": false, 
-    "tooltipNotifications": [], 
-    "index": 2222, 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "summaryItemHash": 3520001075, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 1469714392, 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "hash": 1261178282, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Blade", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/195157f00f406f7203052418ae0ff5d0.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/d1e77a7dd3a11a75489ca01b33a159e1.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/195157f00f406f7203052418ae0ff5d0.png", 
-        "hasIcon": true, 
-        "description": "Greatly increased sword ammo at the cost of damage.", 
-        "name": "Enduring Blade"
-    }, 
-    "itemSubType": 18, 
-    "itemCategoryHashes": [
-        54, 
-        1709863189, 
-        610365472, 
-        59
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "plug": {
-        "insertionMaterialRequirementHash": 0, 
-        "actionRewardSiteHash": 0, 
-        "enabledMaterialRequirementHash": 0, 
-        "previewItemOverrideHash": 0, 
-        "insertionRules": [], 
-        "enabledRules": [], 
-        "plugCategoryHash": 1041766312, 
-        "plugCategoryIdentifier": "blades", 
-        "onActionRecreateSelf": false, 
-        "plugStyle": 0, 
-        "isDummyPlug": false, 
-        "actionRewardItemOverrideHash": 0, 
-        "uiPlugLabel": "", 
-        "alternatePlugStyle": 0, 
-        "alternateUiPlugLabel": "", 
-        "plugAvailability": 0
-    }, 
-    "blacklisted": false, 
-    "acquireUnlockHash": 0, 
-    "displaySource": "", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "action": {
-        "progressionRewards": [], 
-        "requiredCooldownHash": 0, 
-        "verbName": "Dismantle", 
-        "deleteOnAction": true, 
-        "requiredItems": [], 
-        "rewardItemHash": 0, 
-        "actionTypeLabel": "shard", 
-        "useOnAcquire": false, 
-        "isPositive": false, 
-        "requiredCooldownSeconds": 0, 
-        "rewardSheetHash": 0, 
-        "verbDescription": "", 
-        "rewardSiteHash": 0, 
-        "consumeEntireStack": false
-    }
+	"displayProperties": {
+		"description": "Greatly increased sword ammo at the cost of damage.",
+		"name": "Enduring Blade",
+		"icon": "/common/destiny2_content/icons/195157f00f406f7203052418ae0ff5d0.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/195157f00f406f7203052418ae0ff5d0.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/d1e77a7dd3a11a75489ca01b33a159e1.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Blade",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Blade",
+	"displaySource": "",
+	"action": {
+		"verbName": "Dismantle",
+		"verbDescription": "",
+		"isPositive": false,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"actionTypeLabel": "shard",
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1469714392,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"plug": {
+		"insertionRules": [],
+		"plugCategoryIdentifier": "blades",
+		"plugCategoryHash": 1041766312,
+		"onActionRecreateSelf": false,
+		"actionRewardSiteHash": 0,
+		"actionRewardItemOverrideHash": 0,
+		"insertionMaterialRequirementHash": 0,
+		"previewItemOverrideHash": 0,
+		"enabledMaterialRequirementHash": 0,
+		"enabledRules": [],
+		"uiPlugLabel": "",
+		"plugStyle": 0,
+		"plugAvailability": 0,
+		"alternateUiPlugLabel": "",
+		"alternatePlugStyle": 0,
+		"isDummyPlug": false
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [
+		{
+			"statTypeHash": 3871231066,
+			"value": 35,
+			"isConditionallyActive": false
+		},
+		{
+			"statTypeHash": 925767036,
+			"value": 35,
+			"isConditionallyActive": false
+		},
+		{
+			"statTypeHash": 4043523819,
+			"value": -5,
+			"isConditionallyActive": false
+		}
+	],
+	"perks": [],
+	"summaryItemHash": 3520001075,
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		54,
+		1709863189,
+		610365472,
+		59
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 18,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"hash": 1261178282,
+	"index": 2258,
+	"redacted": false,
+	"blacklisted": false
 }

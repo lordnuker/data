@@ -1,63 +1,63 @@
 {
-    "index": 51, 
-    "traitHashes": [], 
-    "loreHash": 3053246534, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 0, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "traitIds": [], 
-    "objectiveHashes": [
-        510047297
-    ], 
-    "parentNodeHashes": [
-        2026987060
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 2, 
-        "ScoreValue": 50, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/ff9bd066c84e51f91fcffabb7f5818f2.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/642d1b67e90cc9c86242d88cef70b004.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/ff9bd066c84e51f91fcffabb7f5818f2.png", 
-        "hasIcon": true, 
-        "description": "", 
-        "name": "Will you smile?"
-    }, 
-    "scope": 0, 
-    "hash": 3584636903
+	"displayProperties": {
+		"description": "",
+		"name": "Will you smile?",
+		"icon": "/common/destiny2_content/icons/ff9bd066c84e51f91fcffabb7f5818f2.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/ff9bd066c84e51f91fcffabb7f5818f2.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/642d1b67e90cc9c86242d88cef70b004.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"scope": 0,
+	"loreHash": 3053246534,
+	"objectiveHashes": [
+		510047297
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 50,
+		"shouldFireToast": true,
+		"toastStyle": 2
+	},
+	"stateInfo": {
+		"featuredPriority": 0,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		2026987060
+	],
+	"hash": 3584636903,
+	"index": 51,
+	"redacted": false,
+	"blacklisted": false
 }

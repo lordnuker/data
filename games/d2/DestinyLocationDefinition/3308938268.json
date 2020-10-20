@@ -1,44 +1,44 @@
 {
-    "index": 305, 
-    "hash": 3308938268, 
-    "blacklisted": false, 
-    "redacted": false, 
-    "vendorHash": 876629835, 
-    "locationReleases": [
-        {
-            "worldPosition": [
-                -130, 
-                69, 
-                0, 
-                0
-            ], 
-            "smallTransparentIcon": "/common/destiny2_content/icons/26a3c580befaa0426a02f68dc3cadbf2.png", 
-            "mapIcon": "/common/destiny2_content/icons/25cb99cbbe842bd7e9102e9efa3cb0a9.png", 
-            "spawnPoint": 0, 
-            "activityPathBundle": 0, 
-            "activityBubbleName": 0, 
-            "destinationHash": 333456177, 
-            "activityGraphNodeHash": 0, 
-            "activityPathDestination": 0, 
-            "activityGraphHash": 3858837760, 
-            "displayProperties": {
-                "iconSequences": [
-                    {
-                        "frames": [
-                            "/common/destiny2_content/icons/26a3c580befaa0426a02f68dc3cadbf2.png", 
-                            "/common/destiny2_content/icons/25cb99cbbe842bd7e9102e9efa3cb0a9.png", 
-                            "/common/destiny2_content/icons/1ce9f709222be8e12d2f35a06c81f9de.png"
-                        ]
-                    }
-                ], 
-                "icon": "/common/destiny2_content/icons/26a3c580befaa0426a02f68dc3cadbf2.png", 
-                "hasIcon": true, 
-                "description": "VEIST", 
-                "name": "Viper 99-40"
-            }, 
-            "largeTransparentIcon": "/common/destiny2_content/icons/1ce9f709222be8e12d2f35a06c81f9de.png", 
-            "navPointType": 0, 
-            "activityHash": 3903562779
-        }
-    ]
+	"vendorHash": 876629835,
+	"locationReleases": [
+		{
+			"displayProperties": {
+				"description": "VEIST",
+				"name": "Viper 99-40",
+				"icon": "/common/destiny2_content/icons/26a3c580befaa0426a02f68dc3cadbf2.png",
+				"iconSequences": [
+					{
+						"frames": [
+							"/common/destiny2_content/icons/26a3c580befaa0426a02f68dc3cadbf2.png",
+							"/common/destiny2_content/icons/25cb99cbbe842bd7e9102e9efa3cb0a9.png",
+							"/common/destiny2_content/icons/1ce9f709222be8e12d2f35a06c81f9de.png"
+						]
+					}
+				],
+				"hasIcon": true
+			},
+			"smallTransparentIcon": "/common/destiny2_content/icons/26a3c580befaa0426a02f68dc3cadbf2.png",
+			"mapIcon": "/common/destiny2_content/icons/25cb99cbbe842bd7e9102e9efa3cb0a9.png",
+			"largeTransparentIcon": "/common/destiny2_content/icons/1ce9f709222be8e12d2f35a06c81f9de.png",
+			"spawnPoint": 0,
+			"destinationHash": 333456177,
+			"activityHash": 3903562779,
+			"activityGraphHash": 3858837760,
+			"activityGraphNodeHash": 0,
+			"activityBubbleName": 0,
+			"activityPathBundle": 0,
+			"activityPathDestination": 0,
+			"navPointType": 0,
+			"worldPosition": [
+				-130,
+				69,
+				0,
+				0
+			]
+		}
+	],
+	"hash": 3308938268,
+	"index": 305,
+	"redacted": false,
+	"blacklisted": false
 }

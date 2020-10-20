@@ -1,25 +1,25 @@
 {
-    "index": 60, 
-    "activityModeCategory": 2, 
-    "isTeamBased": true, 
-    "tier": 0, 
-    "blacklisted": false, 
-    "pgcrImage": "/img/theme/destiny/bgs/stats/banner_crucible_1.jpg", 
-    "redacted": false, 
-    "order": 5000, 
-    "parentHashes": [
-        1164760504
-    ], 
-    "modeType": 80, 
-    "isAggregateMode": false, 
-    "supportsFeedFiltering": false, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/DestinyActivityModeDefinition_fb3e9149c43f7a2e8f8b66cbea7845fe.png", 
-        "hasIcon": true, 
-        "description": "Stats aggregated across all Elimination Crucible modes.", 
-        "name": "Elimination"
-    }, 
-    "hash": 4078439804, 
-    "friendlyName": "elimination", 
-    "display": true
+	"displayProperties": {
+		"description": "Stats aggregated across all Elimination Crucible modes.",
+		"name": "Elimination",
+		"icon": "/common/destiny2_content/icons/DestinyActivityModeDefinition_fb3e9149c43f7a2e8f8b66cbea7845fe.png",
+		"hasIcon": true
+	},
+	"pgcrImage": "/img/theme/destiny/bgs/stats/banner_crucible_1.jpg",
+	"modeType": 80,
+	"activityModeCategory": 2,
+	"isTeamBased": true,
+	"tier": 0,
+	"isAggregateMode": false,
+	"parentHashes": [
+		1164760504
+	],
+	"friendlyName": "elimination",
+	"supportsFeedFiltering": false,
+	"display": true,
+	"order": 5000,
+	"hash": 4078439804,
+	"index": 60,
+	"redacted": false,
+	"blacklisted": false
 }

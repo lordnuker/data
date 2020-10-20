@@ -1,62 +1,62 @@
 {
-    "itemTypeAndTierDisplayName": "Basic Currency", 
-    "itemType": 1, 
-    "tooltipNotifications": [], 
-    "allowActions": true, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": false, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Basic", 
-        "bucketTypeHash": 2689798309, 
-        "stackUniqueLabel": "materials_currencies_strange_dust", 
-        "tierTypeHash": 3772930460, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 999999, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 1, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Currency", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "acquireUnlockHash": 0, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        18, 
-        52
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "displaySource": "Obtained from dismantling Legendary and Exotic quality items.", 
-    "perks": [], 
-    "specialItemType": 0, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/1ff4a008cb851794ccb588e4eb3918a1.png", 
-                    "/common/destiny2_content/icons/b3e829460a53354a92d8f893c44db3b7.png", 
-                    "/common/destiny2_content/icons/d2f5779416e7b1a438b6815c825393be.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/1ff4a008cb851794ccb588e4eb3918a1.png", 
-        "hasIcon": true, 
-        "description": "Remnants of powerful items. Used to improve gear or trade for other items.", 
-        "name": "Legendary Shards"
-    }
+	"displayProperties": {
+		"description": "Remnants of powerful items. Used to improve gear or trade for other items.",
+		"name": "Legendary Shards",
+		"icon": "/common/destiny2_content/icons/1ff4a008cb851794ccb588e4eb3918a1.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/1ff4a008cb851794ccb588e4eb3918a1.png",
+					"/common/destiny2_content/icons/b3e829460a53354a92d8f893c44db3b7.png",
+					"/common/destiny2_content/icons/d2f5779416e7b1a438b6815c825393be.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Currency",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Basic Currency",
+	"displaySource": "Obtained from dismantling Legendary and Exotic quality items.",
+	"inventory": {
+		"stackUniqueLabel": "materials_currencies_strange_dust",
+		"maxStackSize": 999999,
+		"bucketTypeHash": 2689798309,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 3772930460,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Basic",
+		"tierType": 1,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		18,
+		52
+	],
+	"specialItemType": 0,
+	"itemType": 1,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
 }

@@ -1,0 +1,159 @@
+{
+	"displayProperties": {
+		"description": "Bring Twisted Energy to the Prismatic Recaster to rank it up.",
+		"name": "Refining the Recaster",
+		"icon": "/common/destiny2_content/icons/471e595ba1847992194adbc0bb0cb07d.jpg",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/471e595ba1847992194adbc0bb0cb07d.jpg",
+					"/common/destiny2_content/icons/d79a545fa10e7f614a3a062e1d91fea3.png",
+					"/common/destiny2_content/icons/01a453712965cab0480bbfb8ad098494.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [
+		{
+			"displayString": "Expires at the end of Season of Arrivals",
+			"displayStyle": ""
+		}
+	],
+	"secondaryIcon": "/common/destiny2_content/icons/72b03512010f9dc6478aa108c4bdc8fe.jpg",
+	"secondaryOverlay": "/img/misc/missing_icon_d2.png",
+	"secondarySpecial": "/img/misc/missing_icon_d2.png",
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Quest Step",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Quest Step",
+	"displaySource": "\"The Pyramid energy is gettin' the elements all twisted up. But hey, twisted suits me just fine.\" —The Drifter",
+	"setData": {
+		"itemList": [
+			{
+				"trackingValue": 100,
+				"itemHash": 1254614937
+			},
+			{
+				"trackingValue": 1000,
+				"itemHash": 1254614936
+			},
+			{
+				"trackingValue": 2000,
+				"itemHash": 1254614939
+			},
+			{
+				"trackingValue": 3000,
+				"itemHash": 1254614938
+			},
+			{
+				"trackingValue": 4000,
+				"itemHash": 1254614941
+			},
+			{
+				"trackingValue": 5000,
+				"itemHash": 1254614940
+			},
+			{
+				"trackingValue": 6000,
+				"itemHash": 1254614943
+			},
+			{
+				"trackingValue": 7000,
+				"itemHash": 1254614942
+			},
+			{
+				"trackingValue": 8000,
+				"itemHash": 1254614929
+			},
+			{
+				"trackingValue": 9000,
+				"itemHash": 1254614928
+			},
+			{
+				"trackingValue": 10000,
+				"itemHash": 1353815160
+			},
+			{
+				"trackingValue": 11000,
+				"itemHash": 1353815161
+			},
+			{
+				"trackingValue": 12000,
+				"itemHash": 1353815162
+			}
+		],
+		"trackingUnlockValueHash": 0,
+		"abandonmentUnlockHash": 0,
+		"requireOrderedSetItemAdd": true,
+		"setIsFeatured": false,
+		"setType": "quest_global",
+		"questLineName": "In the Face of Darkness"
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 1345459588,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"value": {
+		"itemValue": [
+			{
+				"itemHash": 211938782,
+				"quantity": 1
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			},
+			{
+				"itemHash": 0,
+				"quantity": 0
+			}
+		],
+		"valueDescription": ""
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": true,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		16
+	],
+	"specialItemType": 0,
+	"itemType": 12,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false
+}

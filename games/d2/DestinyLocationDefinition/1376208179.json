@@ -1,44 +1,44 @@
 {
-    "index": 100, 
-    "hash": 1376208179, 
-    "blacklisted": false, 
-    "redacted": false, 
-    "vendorHash": 3347378076, 
-    "locationReleases": [
-        {
-            "worldPosition": [
-                0, 
-                0, 
-                0, 
-                0
-            ], 
-            "smallTransparentIcon": "/common/destiny2_content/icons/1898372fb3bf124cc21e0d1f1ed44219.png", 
-            "mapIcon": "/common/destiny2_content/icons/e881d5dac18fb21d17fceacab1952bbd.png", 
-            "spawnPoint": 0, 
-            "activityPathBundle": 598429546, 
-            "activityBubbleName": 2948602617, 
-            "destinationHash": 4188263703, 
-            "activityGraphNodeHash": 3334962802, 
-            "activityPathDestination": 3745785849, 
-            "activityGraphHash": 109588432, 
-            "displayProperties": {
-                "iconSequences": [
-                    {
-                        "frames": [
-                            "/common/destiny2_content/icons/1898372fb3bf124cc21e0d1f1ed44219.png", 
-                            "/common/destiny2_content/icons/e881d5dac18fb21d17fceacab1952bbd.png", 
-                            "/common/destiny2_content/icons/65323da04974fd54561635cb8e3f6664.png"
-                        ]
-                    }
-                ], 
-                "icon": "/common/destiny2_content/icons/1898372fb3bf124cc21e0d1f1ed44219.png", 
-                "hasIcon": true, 
-                "description": "Clan Steward", 
-                "name": "Suraya Hawthorne"
-            }, 
-            "largeTransparentIcon": "/common/destiny2_content/icons/65323da04974fd54561635cb8e3f6664.png", 
-            "navPointType": 0, 
-            "activityHash": 0
-        }
-    ]
+	"vendorHash": 3347378076,
+	"locationReleases": [
+		{
+			"displayProperties": {
+				"description": "Clan Steward",
+				"name": "Suraya Hawthorne",
+				"icon": "/common/destiny2_content/icons/1898372fb3bf124cc21e0d1f1ed44219.png",
+				"iconSequences": [
+					{
+						"frames": [
+							"/common/destiny2_content/icons/1898372fb3bf124cc21e0d1f1ed44219.png",
+							"/common/destiny2_content/icons/e881d5dac18fb21d17fceacab1952bbd.png",
+							"/common/destiny2_content/icons/65323da04974fd54561635cb8e3f6664.png"
+						]
+					}
+				],
+				"hasIcon": true
+			},
+			"smallTransparentIcon": "/common/destiny2_content/icons/1898372fb3bf124cc21e0d1f1ed44219.png",
+			"mapIcon": "/common/destiny2_content/icons/e881d5dac18fb21d17fceacab1952bbd.png",
+			"largeTransparentIcon": "/common/destiny2_content/icons/65323da04974fd54561635cb8e3f6664.png",
+			"spawnPoint": 0,
+			"destinationHash": 4188263703,
+			"activityHash": 0,
+			"activityGraphHash": 109588432,
+			"activityGraphNodeHash": 3334962802,
+			"activityBubbleName": 2948602617,
+			"activityPathBundle": 598429546,
+			"activityPathDestination": 3745785849,
+			"navPointType": 0,
+			"worldPosition": [
+				0,
+				0,
+				0,
+				0
+			]
+		}
+	],
+	"hash": 1376208179,
+	"index": 100,
+	"redacted": false,
+	"blacklisted": false
 }

@@ -1,51 +1,51 @@
 {
-    "index": 676, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        132976162
-    ], 
-    "parentNodeHashes": [
-        3481101973, 
-        3579198338
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 100, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/84f41ea3b9d293a93fef726f21203420.png", 
-        "hasIcon": true, 
-        "description": "As a fireteam, win a Gambit match where a single player deposits 75 Motes, never losing any.", 
-        "name": "Protect the Runner"
-    }, 
-    "scope": 0, 
-    "hash": 2734663473
+	"displayProperties": {
+		"description": "As a fireteam, win a Gambit match where a single player deposits 75 Motes, never losing any.",
+		"name": "Protect the Runner",
+		"icon": "/common/destiny2_content/icons/84f41ea3b9d293a93fef726f21203420.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		132976162
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 100,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		3481101973,
+		3579198338
+	],
+	"hash": 2734663473,
+	"index": 687,
+	"redacted": false,
+	"blacklisted": false
 }

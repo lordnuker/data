@@ -1,34 +1,34 @@
 {
-    "sourceHash": 745186842, 
-    "sourceString": "Source: Complete this reward's associated Crucible quest.", 
-    "blacklisted": false, 
-    "acquisitionInfo": {
-        "runOnlyAcquisitionRewardSite": false, 
-        "acquireMaterialRequirementHash": 1921496923
-    }, 
-    "index": 3297, 
-    "presentationNodeType": 1, 
-    "traitHashes": [], 
-    "redacted": false, 
-    "stateInfo": {
-        "requirements": {
-            "entitlementUnavailableMessage": ""
-        }
-    }, 
-    "parentNodeHashes": [
-        605410965, 
-        3566355363, 
-        587677888, 
-        1657213183
-    ], 
-    "traitIds": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/571dc62d9773ee198de8265c6e4a32e4.jpg", 
-        "hasIcon": true, 
-        "description": "Equip this shader to change the color of your gear.", 
-        "name": "Crucible Prestige"
-    }, 
-    "scope": 0, 
-    "itemHash": 3603801350, 
-    "hash": 1689430745
+	"displayProperties": {
+		"description": "Equip this shader to change the color of your gear.",
+		"name": "Crucible Prestige",
+		"icon": "/common/destiny2_content/icons/571dc62d9773ee198de8265c6e4a32e4.jpg",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"sourceString": "Source: Complete this reward's associated Crucible quest.",
+	"sourceHash": 745186842,
+	"itemHash": 3603801350,
+	"acquisitionInfo": {
+		"acquireMaterialRequirementHash": 1921496923,
+		"runOnlyAcquisitionRewardSite": false
+	},
+	"stateInfo": {
+		"requirements": {
+			"entitlementUnavailableMessage": ""
+		}
+	},
+	"presentationNodeType": 1,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		605410965,
+		3566355363,
+		587677888,
+		1657213183
+	],
+	"hash": 1689430745,
+	"index": 3624,
+	"redacted": false,
+	"blacklisted": false
 }

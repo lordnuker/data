@@ -1,55 +1,55 @@
 {
-    "index": 1639, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        2268397118
-    ], 
-    "parentNodeHashes": [
-        3892601654
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 100, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [
-        {
-            "itemHash": 374658390, 
-            "quantity": 1
-        }
-    ], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/3dcc3ef4a5498ab326190ed94e14be70.png", 
-        "hasIcon": true, 
-        "description": "Earn points by completing encounters in the raid \"Crown of Sorrow\" using Calus-themed armor and weapons earned from the Menagerie or any Leviathan raid.\n\nWearing multiple pieces (especially Exotics) grants the most efficient progress.", 
-        "name": "Crown of Sorrow"
-    }, 
-    "scope": 0, 
-    "hash": 31686901
+	"displayProperties": {
+		"description": "Earn points by completing encounters in the raid \"Crown of Sorrow\" using Calus-themed armor and weapons earned from the Menagerie or any Leviathan raid.\n\nWearing multiple pieces (especially Exotics) grants the most efficient progress.",
+		"name": "Crown of Sorrow",
+		"icon": "/common/destiny2_content/icons/3dcc3ef4a5498ab326190ed94e14be70.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		2268397118
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 100,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [
+		{
+			"itemHash": 374658390,
+			"quantity": 1
+		}
+	],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		3892601654
+	],
+	"hash": 31686901,
+	"index": 1651,
+	"redacted": false,
+	"blacklisted": false
 }

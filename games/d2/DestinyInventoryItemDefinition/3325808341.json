@@ -1,133 +1,133 @@
 {
-    "itemTypeAndTierDisplayName": "Legendary Hunter Emote", 
-    "translationBlock": {
-        "customDyes": [], 
-        "hasGeometry": true, 
-        "lockedDyes": [], 
-        "weaponPatternHash": 0, 
-        "defaultDyes": [], 
-        "arrangements": [
-            {
-                "classHash": 0, 
-                "artArrangementHash": 2023946554
-            }
-        ]
-    }, 
-    "itemType": 19, 
-    "investmentStats": [], 
-    "redacted": false, 
-    "tooltipNotifications": [], 
-    "talentGrid": {
-        "talentGridHash": 521135891, 
-        "hudDamageType": 1, 
-        "itemDetailString": "Preview"
-    }, 
-    "index": 7301, 
-    "stats": {
-        "hasDisplayableStats": false, 
-        "primaryBaseStatHash": 0, 
-        "disablePrimaryStatDisplay": false, 
-        "stats": {}
-    }, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Legendary", 
-        "bucketTypeHash": 2401704334, 
-        "stackUniqueLabel": "v420.plugs.emotes.hunter.arc_idle0", 
-        "tierTypeHash": 4008398120, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 215593132, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 5, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 162, 
-        "green": 175, 
-        "colorHash": 0, 
-        "red": 23, 
-        "alpha": 255
-    }, 
-    "hash": 3325808341, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Hunter Emote", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/4ba9b3061fdb512078f949b78c9c9816.jpg", 
-        "hasIcon": true, 
-        "description": "\"It may look like fun—and trust me, it is—but don't drop that thing. You might hurt yourself.\" —Cayde-6", 
-        "highResIcon": "/common/destiny2_content/icons/38978d5dcfafaa47a2cc8d1749d3730b.jpg", 
-        "name": "Arcstrider's Patience"
-    }, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        44, 
-        59
-    ], 
-    "uiItemDisplayStyle": "", 
-    "nonTransferrable": true, 
-    "allowActions": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "plug": {
-        "insertionMaterialRequirementHash": 0, 
-        "actionRewardSiteHash": 0, 
-        "enabledMaterialRequirementHash": 0, 
-        "previewItemOverrideHash": 0, 
-        "insertionRules": [
-            {
-                "failureMessage": "You do not own this emote"
-            }, 
-            {
-                "failureMessage": "For Hunters only"
-            }
-        ], 
-        "enabledRules": [
-            {
-                "failureMessage": "You do not own this emote"
-            }, 
-            {
-                "failureMessage": "For Hunters only"
-            }
-        ], 
-        "plugCategoryHash": 3054419239, 
-        "plugCategoryIdentifier": "emote", 
-        "onActionRecreateSelf": true, 
-        "plugStyle": 0, 
-        "isDummyPlug": false, 
-        "actionRewardItemOverrideHash": 0, 
-        "uiPlugLabel": "", 
-        "alternatePlugStyle": 0, 
-        "alternateUiPlugLabel": "", 
-        "plugAvailability": 0
-    }, 
-    "blacklisted": false, 
-    "acquireUnlockHash": 0, 
-    "displaySource": "", 
-    "traitIds": [
-        "item_type.emote"
-    ], 
-    "perks": [], 
-    "specialItemType": 0, 
-    "action": {
-        "progressionRewards": [], 
-        "requiredCooldownHash": 0, 
-        "verbName": "Unlock", 
-        "deleteOnAction": true, 
-        "requiredItems": [], 
-        "rewardItemHash": 0, 
-        "useOnAcquire": false, 
-        "isPositive": true, 
-        "requiredCooldownSeconds": 0, 
-        "rewardSheetHash": 0, 
-        "verbDescription": "", 
-        "rewardSiteHash": 0, 
-        "consumeEntireStack": false
-    }
+	"displayProperties": {
+		"description": "\"It may look like fun—and trust me, it is—but don't drop that thing. You might hurt yourself.\" —Cayde-6",
+		"name": "Arcstrider's Patience",
+		"icon": "/common/destiny2_content/icons/4ba9b3061fdb512078f949b78c9c9816.jpg",
+		"highResIcon": "/common/destiny2_content/icons/38978d5dcfafaa47a2cc8d1749d3730b.jpg",
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 23,
+		"green": 175,
+		"blue": 162,
+		"alpha": 255
+	},
+	"itemTypeDisplayName": "Hunter Emote",
+	"uiItemDisplayStyle": "",
+	"itemTypeAndTierDisplayName": "Legendary Hunter Emote",
+	"displaySource": "",
+	"action": {
+		"verbName": "Unlock",
+		"verbDescription": "",
+		"isPositive": true,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": true,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"stackUniqueLabel": "v420.plugs.emotes.hunter.arc_idle0",
+		"maxStackSize": 1,
+		"bucketTypeHash": 2401704334,
+		"recoveryBucketTypeHash": 215593132,
+		"tierTypeHash": 4008398120,
+		"isInstanceItem": true,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Legendary",
+		"tierType": 5,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"stats": {
+		"disablePrimaryStatDisplay": false,
+		"stats": {},
+		"hasDisplayableStats": false,
+		"primaryBaseStatHash": 0
+	},
+	"translationBlock": {
+		"weaponPatternHash": 0,
+		"defaultDyes": [],
+		"lockedDyes": [],
+		"customDyes": [],
+		"arrangements": [
+			{
+				"classHash": 0,
+				"artArrangementHash": 2023946554
+			}
+		],
+		"hasGeometry": true
+	},
+	"plug": {
+		"insertionRules": [
+			{
+				"failureMessage": "You do not own this emote"
+			},
+			{
+				"failureMessage": "For Hunters only"
+			}
+		],
+		"plugCategoryIdentifier": "emote",
+		"plugCategoryHash": 3054419239,
+		"onActionRecreateSelf": true,
+		"actionRewardSiteHash": 0,
+		"actionRewardItemOverrideHash": 0,
+		"insertionMaterialRequirementHash": 0,
+		"previewItemOverrideHash": 0,
+		"enabledMaterialRequirementHash": 0,
+		"enabledRules": [
+			{
+				"failureMessage": "You do not own this emote"
+			},
+			{
+				"failureMessage": "For Hunters only"
+			}
+		],
+		"uiPlugLabel": "",
+		"plugStyle": 0,
+		"plugAvailability": 0,
+		"alternateUiPlugLabel": "",
+		"alternatePlugStyle": 0,
+		"isDummyPlug": false
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"talentGrid": {
+		"talentGridHash": 521135891,
+		"itemDetailString": "Preview",
+		"hudDamageType": 1
+	},
+	"investmentStats": [],
+	"perks": [],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		44,
+		59
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"traitIds": [
+		"item_type.emote"
+	],
+	"hash": 3325808341,
+	"index": 7337,
+	"redacted": false,
+	"blacklisted": false
 }

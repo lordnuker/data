@@ -1,54 +1,54 @@
 {
-    "index": 999, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        1779989530, 
-        1779989531, 
-        1779989528, 
-        1779989529, 
-        1779989534
-    ], 
-    "parentNodeHashes": [
-        845187784
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 50, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/af30d04d96057d14a6dd54f74b98fcf1.png", 
-        "hasIcon": true, 
-        "description": "In Control: Win matches, capture and defend zones, destroy enemies while holding zone advantage or a power play, and defeat opponents attempting to capture your team's zones.", 
-        "name": "Control"
-    }, 
-    "scope": 0, 
-    "hash": 4156353017
+	"displayProperties": {
+		"description": "In Control: Win matches, capture and defend zones, destroy enemies while holding zone advantage or a power play, and defeat opponents attempting to capture your team's zones.",
+		"name": "Control",
+		"icon": "/common/destiny2_content/icons/af30d04d96057d14a6dd54f74b98fcf1.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		1779989530,
+		1779989531,
+		1779989528,
+		1779989529,
+		1779989534
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 50,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		845187784
+	],
+	"hash": 4156353017,
+	"index": 1011,
+	"redacted": false,
+	"blacklisted": false
 }

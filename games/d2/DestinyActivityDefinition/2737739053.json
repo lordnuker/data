@@ -1,71 +1,71 @@
 {
-    "activityModeHashes": [
-        3497767639, 
-        1164760493
-    ], 
-    "originalDisplayProperties": {
-        "icon": "/img/misc/missing_icon_d2.png", 
-        "hasIcon": false, 
-        "description": "Failsafe has a plan to retrieve Vex data. But she'll need Ghost's help.", 
-        "name": "Deep Conversation"
-    }, 
-    "pgcrImage": "/img/destiny_content/pgcr/patrol_nessus.jpg", 
-    "placeHash": 3526908984, 
-    "activityTypeHash": 3497767639, 
-    "redacted": false, 
-    "destinationHash": 126924919, 
-    "challenges": [], 
-    "directActivityModeHash": 3497767639, 
-    "activityLightLevel": 750, 
-    "index": 1060, 
-    "activityLevel": 9, 
-    "playlistItems": [], 
-    "insertionPoints": [], 
-    "isPlaylist": false, 
-    "completionUnlockHash": 0, 
-    "suppressOtherRewards": false, 
-    "rewards": [
-        {
-            "rewardItems": [
-                {
-                    "itemHash": 3746952128, 
-                    "quantity": 1
-                }
-            ]
-        }
-    ], 
-    "hash": 2737739053, 
-    "releaseIcon": "/img/misc/missing_icon_d2.png", 
-    "tier": 0, 
-    "isPvP": false, 
-    "modifiers": [], 
-    "blacklisted": false, 
-    "optionalUnlockStrings": [], 
-    "activityModeTypes": [
-        6, 
-        7
-    ], 
-    "activityLocationMappings": [
-        {
-            "locationHash": 2737739053, 
-            "activityHash": 2737739053, 
-            "activationSource": "patrol"
-        }
-    ], 
-    "directActivityModeType": 6, 
-    "inheritFromFreeRoam": false, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/c60303e278aa5fc566a04e98c3d8024c.png", 
-        "hasIcon": true, 
-        "description": "Failsafe has a plan to retrieve Vex data. But she'll need Ghost's help.", 
-        "name": "Deep Conversation"
-    }, 
-    "releaseTime": 0, 
-    "matchmaking": {
-        "minParty": 1, 
-        "requiresGuardianOath": false, 
-        "maxPlayers": 3, 
-        "maxParty": 3, 
-        "isMatchmade": false
-    }
+	"displayProperties": {
+		"description": "Failsafe has a plan to retrieve Vex data. But she'll need Ghost's help.",
+		"name": "Deep Conversation",
+		"icon": "/common/destiny2_content/icons/c60303e278aa5fc566a04e98c3d8024c.png",
+		"hasIcon": true
+	},
+	"originalDisplayProperties": {
+		"description": "Failsafe has a plan to retrieve Vex data. But she'll need Ghost's help.",
+		"name": "Deep Conversation",
+		"icon": "/img/misc/missing_icon_d2.png",
+		"hasIcon": false
+	},
+	"releaseIcon": "/img/misc/missing_icon_d2.png",
+	"releaseTime": 0,
+	"activityLevel": 9,
+	"completionUnlockHash": 0,
+	"activityLightLevel": 750,
+	"destinationHash": 126924919,
+	"placeHash": 3526908984,
+	"activityTypeHash": 3497767639,
+	"tier": 0,
+	"pgcrImage": "/img/destiny_content/pgcr/patrol_nessus.jpg",
+	"rewards": [
+		{
+			"rewardItems": [
+				{
+					"itemHash": 3746952128,
+					"quantity": 1
+				}
+			]
+		}
+	],
+	"modifiers": [],
+	"isPlaylist": false,
+	"challenges": [],
+	"optionalUnlockStrings": [],
+	"inheritFromFreeRoam": false,
+	"suppressOtherRewards": false,
+	"playlistItems": [],
+	"matchmaking": {
+		"isMatchmade": false,
+		"minParty": 1,
+		"maxParty": 3,
+		"maxPlayers": 3,
+		"requiresGuardianOath": false
+	},
+	"directActivityModeHash": 3497767639,
+	"directActivityModeType": 6,
+	"activityModeHashes": [
+		3497767639,
+		1164760493
+	],
+	"activityModeTypes": [
+		6,
+		7
+	],
+	"isPvP": false,
+	"insertionPoints": [],
+	"activityLocationMappings": [
+		{
+			"locationHash": 2737739053,
+			"activationSource": "patrol",
+			"activityHash": 2737739053
+		}
+	],
+	"hash": 2737739053,
+	"index": 1069,
+	"redacted": false,
+	"blacklisted": false
 }

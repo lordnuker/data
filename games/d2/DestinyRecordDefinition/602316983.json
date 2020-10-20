@@ -1,53 +1,53 @@
 {
-    "index": 1263, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        4034869636, 
-        4034869637, 
-        4034869638, 
-        4034869639
-    ], 
-    "parentNodeHashes": [
-        1256609117
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 150, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/0f13fc2a7eb07c0b7cac49a4265981a3.png", 
-        "hasIcon": true, 
-        "description": "Eliminate wanted escapees in Destiny 2 strikes.", 
-        "name": "WANTED: Destiny 2 Strikes"
-    }, 
-    "scope": 0, 
-    "hash": 602316983
+	"displayProperties": {
+		"description": "Eliminate wanted escapees in Destiny 2 strikes.",
+		"name": "WANTED: Destiny 2 Strikes",
+		"icon": "/common/destiny2_content/icons/0f13fc2a7eb07c0b7cac49a4265981a3.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		4034869636,
+		4034869637,
+		4034869638,
+		4034869639
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 150,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		1256609117
+	],
+	"hash": 602316983,
+	"index": 1275,
+	"redacted": false,
+	"blacklisted": false
 }

@@ -1,181 +1,136 @@
 {
-    "itemTypeAndTierDisplayName": "Common Intrinsic", 
-    "itemType": 19, 
-    "investmentStats": [
-        {
-            "value": 10, 
-            "statTypeHash": 2996146975, 
-            "isConditionallyActive": false
-        }, 
-        {
-            "value": 10, 
-            "statTypeHash": 392767087, 
-            "isConditionallyActive": false
-        }, 
-        {
-            "value": 5, 
-            "statTypeHash": 144602215, 
-            "isConditionallyActive": false
-        }, 
-        {
-            "value": 5, 
-            "statTypeHash": 4244567218, 
-            "isConditionallyActive": false
-        }, 
-        {
-            "value": 5, 
-            "statTypeHash": 1735777505, 
-            "isConditionallyActive": false
-        }
-    ], 
-    "redacted": false, 
-    "tooltipNotifications": [], 
-    "quality": {
-        "infusionCategoryHash": 0, 
-        "infusionCategoryHashes": [], 
-        "infusionCategoryName": "0", 
-        "progressionLevelRequirementHash": 0, 
-        "qualityLevel": 0, 
-        "itemLevels": []
-    }, 
-    "index": 1095, 
-    "stats": {
-        "hasDisplayableStats": false, 
-        "primaryBaseStatHash": 2996146975, 
-        "disablePrimaryStatDisplay": false, 
-        "stats": {
-            "2996146975": {
-                "statHash": 2996146975, 
-                "minimum": 0, 
-                "maximum": 0, 
-                "value": 10
-            }, 
-            "144602215": {
-                "statHash": 144602215, 
-                "minimum": 0, 
-                "maximum": 0, 
-                "value": 5
-            }, 
-            "1735777505": {
-                "statHash": 1735777505, 
-                "minimum": 0, 
-                "maximum": 0, 
-                "value": 5
-            }, 
-            "392767087": {
-                "statHash": 392767087, 
-                "minimum": 0, 
-                "maximum": 0, 
-                "value": 10
-            }, 
-            "4244567218": {
-                "statHash": 4244567218, 
-                "minimum": 0, 
-                "maximum": 0, 
-                "value": 5
-            }
-        }
-    }, 
-    "defaultDamageType": 0, 
-    "inventory": {
-        "isInstanceItem": true, 
-        "suppressExpirationWhenObjectivesComplete": true, 
-        "tierTypeName": "Common", 
-        "bucketTypeHash": 3313201758, 
-        "tierTypeHash": 3340296461, 
-        "expiredInActivityMessage": "", 
-        "recoveryBucketTypeHash": 0, 
-        "expirationTooltip": "", 
-        "maxStackSize": 1, 
-        "nonTransferrableOriginal": false, 
-        "tierType": 2, 
-        "expiredInOrbitMessage": ""
-    }, 
-    "backgroundColor": {
-        "blue": 0, 
-        "green": 0, 
-        "colorHash": 0, 
-        "red": 0, 
-        "alpha": 0
-    }, 
-    "hash": 1248391073, 
-    "equippable": false, 
-    "itemTypeDisplayName": "Intrinsic", 
-    "isWrapper": false, 
-    "classType": 3, 
-    "doesPostmasterPullHaveSideEffects": false, 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/cb887230998d14cdb0eef1d3b3e9b8f7.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/d57f3252102c64befac91ae6ebce22a1.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/cb887230998d14cdb0eef1d3b3e9b8f7.png", 
-        "hasIcon": true, 
-        "description": "Improved mobility.", 
-        "name": "Mobile Titan Armor"
-    }, 
-    "itemSubType": 0, 
-    "itemCategoryHashes": [
-        2237038328, 
-        610365472, 
-        59
-    ], 
-    "uiItemDisplayStyle": "ui_display_style_intrinsic_plug", 
-    "nonTransferrable": true, 
-    "allowActions": true, 
-    "acquireRewardSiteHash": 0, 
-    "breakerType": 0, 
-    "plug": {
-        "insertionMaterialRequirementHash": 0, 
-        "actionRewardSiteHash": 0, 
-        "enabledMaterialRequirementHash": 0, 
-        "previewItemOverrideHash": 0, 
-        "insertionRules": [], 
-        "enabledRules": [], 
-        "plugCategoryHash": 1744546145, 
-        "plugCategoryIdentifier": "intrinsics", 
-        "onActionRecreateSelf": false, 
-        "plugStyle": 0, 
-        "isDummyPlug": false, 
-        "actionRewardItemOverrideHash": 0, 
-        "uiPlugLabel": "", 
-        "alternatePlugStyle": 0, 
-        "alternateUiPlugLabel": "", 
-        "plugAvailability": 0
-    }, 
-    "blacklisted": false, 
-    "acquireUnlockHash": 0, 
-    "displaySource": "", 
-    "perks": [
-        {
-            "requirementDisplayString": "", 
-            "perkHash": 1054437662, 
-            "perkVisibility": 0
-        }
-    ], 
-    "specialItemType": 0, 
-    "action": {
-        "progressionRewards": [], 
-        "requiredCooldownHash": 0, 
-        "verbName": "Dismantle", 
-        "deleteOnAction": false, 
-        "requiredItems": [], 
-        "rewardItemHash": 0, 
-        "actionTypeLabel": "shard", 
-        "useOnAcquire": false, 
-        "isPositive": false, 
-        "requiredCooldownSeconds": 0, 
-        "rewardSheetHash": 0, 
-        "verbDescription": "", 
-        "rewardSiteHash": 0, 
-        "consumeEntireStack": false
-    }
+	"displayProperties": {
+		"description": "Improved mobility.",
+		"name": "Mobile Titan Armor",
+		"icon": "/common/destiny2_content/icons/cb887230998d14cdb0eef1d3b3e9b8f7.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/cb887230998d14cdb0eef1d3b3e9b8f7.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/d57f3252102c64befac91ae6ebce22a1.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"tooltipNotifications": [],
+	"backgroundColor": {
+		"colorHash": 0,
+		"red": 0,
+		"green": 0,
+		"blue": 0,
+		"alpha": 0
+	},
+	"itemTypeDisplayName": "Intrinsic",
+	"uiItemDisplayStyle": "ui_display_style_intrinsic_plug",
+	"itemTypeAndTierDisplayName": "Common Intrinsic",
+	"displaySource": "",
+	"action": {
+		"verbName": "Dismantle",
+		"verbDescription": "",
+		"isPositive": false,
+		"requiredCooldownSeconds": 0,
+		"requiredItems": [],
+		"progressionRewards": [],
+		"actionTypeLabel": "shard",
+		"rewardSheetHash": 0,
+		"rewardItemHash": 0,
+		"rewardSiteHash": 0,
+		"requiredCooldownHash": 0,
+		"deleteOnAction": false,
+		"consumeEntireStack": false,
+		"useOnAcquire": false
+	},
+	"inventory": {
+		"maxStackSize": 1,
+		"bucketTypeHash": 3313201758,
+		"recoveryBucketTypeHash": 0,
+		"tierTypeHash": 3340296461,
+		"isInstanceItem": false,
+		"nonTransferrableOriginal": false,
+		"tierTypeName": "Common",
+		"tierType": 2,
+		"expirationTooltip": "",
+		"expiredInActivityMessage": "",
+		"expiredInOrbitMessage": "",
+		"suppressExpirationWhenObjectivesComplete": true
+	},
+	"plug": {
+		"insertionRules": [],
+		"plugCategoryIdentifier": "intrinsics",
+		"plugCategoryHash": 1744546145,
+		"onActionRecreateSelf": false,
+		"actionRewardSiteHash": 0,
+		"actionRewardItemOverrideHash": 0,
+		"insertionMaterialRequirementHash": 0,
+		"previewItemOverrideHash": 0,
+		"enabledMaterialRequirementHash": 0,
+		"enabledRules": [],
+		"uiPlugLabel": "",
+		"plugStyle": 0,
+		"plugAvailability": 0,
+		"alternateUiPlugLabel": "",
+		"alternatePlugStyle": 0,
+		"isDummyPlug": false
+	},
+	"acquireRewardSiteHash": 0,
+	"acquireUnlockHash": 0,
+	"investmentStats": [
+		{
+			"statTypeHash": 2996146975,
+			"value": 10,
+			"isConditionallyActive": false
+		},
+		{
+			"statTypeHash": 392767087,
+			"value": 10,
+			"isConditionallyActive": false
+		},
+		{
+			"statTypeHash": 144602215,
+			"value": 5,
+			"isConditionallyActive": false
+		},
+		{
+			"statTypeHash": 4244567218,
+			"value": 5,
+			"isConditionallyActive": false
+		},
+		{
+			"statTypeHash": 1735777505,
+			"value": 5,
+			"isConditionallyActive": false
+		}
+	],
+	"perks": [
+		{
+			"requirementDisplayString": "",
+			"perkHash": 1054437662,
+			"perkVisibility": 0
+		}
+	],
+	"allowActions": true,
+	"doesPostmasterPullHaveSideEffects": false,
+	"nonTransferrable": true,
+	"itemCategoryHashes": [
+		2237038328,
+		610365472,
+		59
+	],
+	"specialItemType": 0,
+	"itemType": 19,
+	"itemSubType": 0,
+	"classType": 3,
+	"breakerType": 0,
+	"equippable": false,
+	"defaultDamageType": 0,
+	"isWrapper": false,
+	"hash": 1248391073,
+	"index": 1131,
+	"redacted": false,
+	"blacklisted": false
 }

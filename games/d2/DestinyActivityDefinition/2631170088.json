@@ -1,64 +1,64 @@
 {
-    "originalDisplayProperties": {
-        "icon": "/img/misc/missing_icon_d2.png", 
-        "hasIcon": false, 
-        "description": "Unique reward space for the best of the best. You must be found worthy by achieving 7 flawless wins with no losses to gain access.", 
-        "name": "The Lighthouse"
-    }, 
-    "pgcrImage": "/img/theme/destiny/bgs/pgcrs/placeholder.jpg", 
-    "placeHash": 1259908504, 
-    "activityTypeHash": 4276116472, 
-    "redacted": false, 
-    "destinationHash": 1993421442, 
-    "challenges": [], 
-    "loadouts": [], 
-    "activityLightLevel": 0, 
-    "index": 6, 
-    "activityLevel": 1, 
-    "playlistItems": [], 
-    "insertionPoints": [], 
-    "isPlaylist": false, 
-    "completionUnlockHash": 0, 
-    "suppressOtherRewards": false, 
-    "rewards": [
-        {
-            "rewardItems": [
-                {
-                    "itemHash": 73143230, 
-                    "quantity": 0
-                }
-            ]
-        }, 
-        {
-            "rewardItems": [
-                {
-                    "itemHash": 2127149322, 
-                    "quantity": 0
-                }
-            ]
-        }
-    ], 
-    "hash": 2631170088, 
-    "releaseIcon": "/img/misc/missing_icon_d2.png", 
-    "tier": -1, 
-    "isPvP": false, 
-    "modifiers": [], 
-    "blacklisted": false, 
-    "optionalUnlockStrings": [], 
-    "activityLocationMappings": [], 
-    "inheritFromFreeRoam": false, 
-    "displayProperties": {
-        "icon": "/img/misc/missing_icon_d2.png", 
-        "hasIcon": false, 
-        "description": "Unique reward space for the best of the best. You must be found worthy by achieving 7 flawless wins with no losses to gain access.", 
-        "name": "The Lighthouse"
-    }, 
-    "releaseTime": 0, 
-    "matchmaking": {
-        "minParty": 1, 
-        "requiresGuardianOath": false, 
-        "maxPlayers": 3, 
-        "maxParty": 3, 
-        "isMatchmade": false
-    }
+	"displayProperties": {
+		"description": "Unique reward space for the best of the best. You must be found worthy by achieving 7 wins with no losses to gain access.",
+		"name": "The Lighthouse",
+		"icon": "/img/misc/missing_icon_d2.png",
+		"hasIcon": false
+	},
+	"originalDisplayProperties": {
+		"description": "Unique reward space for the best of the best. You must be found worthy by achieving 7 wins with no losses to gain access.",
+		"name": "The Lighthouse",
+		"icon": "/img/misc/missing_icon_d2.png",
+		"hasIcon": false
+	},
+	"releaseIcon": "/img/misc/missing_icon_d2.png",
+	"releaseTime": 0,
+	"activityLevel": 1,
+	"completionUnlockHash": 0,
+	"activityLightLevel": 0,
+	"destinationHash": 1993421442,
+	"placeHash": 1259908504,
+	"activityTypeHash": 4276116472,
+	"tier": -1,
+	"pgcrImage": "/img/theme/destiny/bgs/pgcrs/placeholder.jpg",
+	"rewards": [
+		{
+			"rewardItems": [
+				{
+					"itemHash": 73143230,
+					"quantity": 0
+				}
+			]
+		},
+		{
+			"rewardItems": [
+				{
+					"itemHash": 2127149322,
+					"quantity": 0
+				}
+			]
+		}
+	],
+	"modifiers": [],
+	"isPlaylist": false,
+	"challenges": [],
+	"optionalUnlockStrings": [],
+	"inheritFromFreeRoam": false,
+	"suppressOtherRewards": false,
+	"playlistItems": [],
+	"matchmaking": {
+		"isMatchmade": false,
+		"minParty": 1,
+		"maxParty": 3,
+		"maxPlayers": 3,
+		"requiresGuardianOath": false
+	},
+	"loadouts": [],
+	"isPvP": false,
+	"insertionPoints": [],
+	"activityLocationMappings": [],
+	"hash": 2631170088,
+	"index": 6,
+	"redacted": false,
+	"blacklisted": false
 }

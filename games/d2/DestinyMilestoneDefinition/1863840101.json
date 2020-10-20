@@ -1,42 +1,42 @@
 {
-    "index": 16, 
-    "hash": 1863840101, 
-    "blacklisted": false, 
-    "isInGameMilestone": true, 
-    "showInExplorer": false, 
-    "quests": {
-        "2388937381": {
-            "displayProperties": {
-                "icon": "/common/destiny2_content/icons/ab84d289dc409aca385c44d7aa8025da.png", 
-                "hasIcon": true, 
-                "description": "Speak to the Drifter in the Tower.", 
-                "name": "Gambit"
-            }, 
-            "trackingUnlockValueHash": 0, 
-            "questItemHash": 2388937381, 
-            "questRewards": {
-                "items": [
-                    {
-                        "vendorHash": 248695599, 
-                        "itemHash": 3013363601, 
-                        "vendorItemIndex": 3, 
-                        "quantity": 1
-                    }
-                ]
-            }
-        }
-    }, 
-    "redacted": false, 
-    "explorePrioritizesActivityImage": false, 
-    "showInMilestones": true, 
-    "milestoneType": 1, 
-    "hasPredictableDates": false, 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/ab84d289dc409aca385c44d7aa8025da.png", 
-        "hasIcon": true, 
-        "description": "Speak to the Drifter in the Tower.", 
-        "name": "Gambit"
-    }, 
-    "defaultOrder": 100, 
-    "recruitable": false
+	"displayProperties": {
+		"description": "Speak to the Drifter in the Tower.",
+		"name": "Gambit",
+		"icon": "/common/destiny2_content/icons/ab84d289dc409aca385c44d7aa8025da.png",
+		"hasIcon": true
+	},
+	"milestoneType": 1,
+	"recruitable": false,
+	"showInExplorer": false,
+	"showInMilestones": true,
+	"explorePrioritizesActivityImage": false,
+	"hasPredictableDates": false,
+	"quests": {
+		"2388937381": {
+			"questItemHash": 2388937381,
+			"displayProperties": {
+				"description": "Speak to the Drifter in the Tower.",
+				"name": "Gambit",
+				"icon": "/common/destiny2_content/icons/ab84d289dc409aca385c44d7aa8025da.png",
+				"hasIcon": true
+			},
+			"questRewards": {
+				"items": [
+					{
+						"vendorHash": 248695599,
+						"vendorItemIndex": 3,
+						"itemHash": 3013363601,
+						"quantity": 1
+					}
+				]
+			},
+			"trackingUnlockValueHash": 0
+		}
+	},
+	"isInGameMilestone": true,
+	"defaultOrder": 100,
+	"hash": 1863840101,
+	"index": 15,
+	"redacted": false,
+	"blacklisted": false
 }

@@ -1,71 +1,71 @@
 {
-    "index": 1388, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        518769846
-    ], 
-    "parentNodeHashes": [
-        2039028930, 
-        4214538151
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 300, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/8b1bfd1c1ce1cab51d23c78235a6e067.png", 
-                    "/common/destiny2_content/icons/d944701252190c6dfbd7751205d5e85f.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/896bd6837a4452235e663fcc1f81ba30.png", 
-                    "/common/destiny2_content/icons/d0834b5e0163e0e1c7afa8fe95edd328.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/5b0540f4bc64b45bbc92d76ebc55200a.png", 
-                    "/common/destiny2_content/icons/33a920e32c0dab15e02a640d05ff544f.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/8b1bfd1c1ce1cab51d23c78235a6e067.png", 
-        "hasIcon": true, 
-        "description": "Complete the flawless version of the \"Scourge of the Past\" raid.", 
-        "name": "Like a Diamond"
-    }, 
-    "scope": 0, 
-    "hash": 2648109757
+	"displayProperties": {
+		"description": "Complete the flawless version of the \"Scourge of the Past\" raid.",
+		"name": "Like a Diamond",
+		"icon": "/common/destiny2_content/icons/8b1bfd1c1ce1cab51d23c78235a6e067.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/8b1bfd1c1ce1cab51d23c78235a6e067.png",
+					"/common/destiny2_content/icons/d944701252190c6dfbd7751205d5e85f.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/896bd6837a4452235e663fcc1f81ba30.png",
+					"/common/destiny2_content/icons/d0834b5e0163e0e1c7afa8fe95edd328.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/5b0540f4bc64b45bbc92d76ebc55200a.png",
+					"/common/destiny2_content/icons/33a920e32c0dab15e02a640d05ff544f.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		518769846
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 300,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		2039028930,
+		4214538151
+	],
+	"hash": 2648109757,
+	"index": 1400,
+	"redacted": false,
+	"blacklisted": false
 }

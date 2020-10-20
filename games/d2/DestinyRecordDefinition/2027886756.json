@@ -1,52 +1,52 @@
 {
-    "index": 1014, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        80482969, 
-        80482968, 
-        80482971
-    ], 
-    "parentNodeHashes": [
-        1330303807
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 100, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "icon": "/common/destiny2_content/icons/1c2ad3a94f74af9d93d4f4702f36c21f.png", 
-        "hasIcon": true, 
-        "description": "Win matches with a full fireteam comprised of the same class.", 
-        "name": "Class Action"
-    }, 
-    "scope": 0, 
-    "hash": 2027886756
+	"displayProperties": {
+		"description": "Win matches with a full fireteam comprised of the same class.",
+		"name": "Class Action",
+		"icon": "/common/destiny2_content/icons/1c2ad3a94f74af9d93d4f4702f36c21f.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		80482969,
+		80482968,
+		80482971
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 100,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		1330303807
+	],
+	"hash": 2027886756,
+	"index": 1026,
+	"redacted": false,
+	"blacklisted": false
 }

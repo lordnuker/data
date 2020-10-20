@@ -1,41 +1,41 @@
 {
-    "index": 613, 
-    "hash": 3276661397, 
-    "blacklisted": false, 
-    "avoidDuplicatesOnInitialization": false, 
-    "insertAction": {
-        "actionSoundHash": 0, 
-        "isPositiveAction": false, 
-        "actionType": 2, 
-        "actionExecuteSeconds": 1
-    }, 
-    "plugWhitelist": [
-        {
-            "reinitializationPossiblePlugHashes": [
-                2923440561, 
-                2458328740, 
-                2458328743, 
-                2458328742
-            ], 
-            "categoryIdentifier": "penumbra.chalice.upgrades.power", 
-            "categoryHash": 1221051048
-        }, 
-        {
-            "categoryIdentifier": "penumbra.runes.chalice_upgrade1", 
-            "categoryHash": 589156345
-        }
-    ], 
-    "currencyScalars": [], 
-    "redacted": false, 
-    "visibility": 0, 
-    "isPreviewEnabled": false, 
-    "alwaysRandomizeSockets": false, 
-    "overridesUiAppearance": false, 
-    "displayProperties": {
-        "hasIcon": false, 
-        "description": "Improve this aspect of your Chalice to maximize powerful gear drops from the final chest in the Menagerie.", 
-        "name": "Power and Efficiency"
-    }, 
-    "socketCategoryHash": 2529820344, 
-    "hideDuplicateReusablePlugs": false
+	"displayProperties": {
+		"description": "Improve this aspect of your Chalice to maximize powerful gear drops from the final chest in the Menagerie.",
+		"name": "Power and Efficiency",
+		"hasIcon": false
+	},
+	"insertAction": {
+		"actionExecuteSeconds": 1,
+		"actionSoundHash": 0,
+		"isPositiveAction": false,
+		"actionType": 2
+	},
+	"plugWhitelist": [
+		{
+			"categoryHash": 1221051048,
+			"categoryIdentifier": "penumbra.chalice.upgrades.power",
+			"reinitializationPossiblePlugHashes": [
+				2923440561,
+				2458328740,
+				2458328743,
+				2458328742
+			]
+		},
+		{
+			"categoryHash": 589156345,
+			"categoryIdentifier": "penumbra.runes.chalice_upgrade1"
+		}
+	],
+	"socketCategoryHash": 2529820344,
+	"visibility": 0,
+	"alwaysRandomizeSockets": false,
+	"isPreviewEnabled": false,
+	"hideDuplicateReusablePlugs": false,
+	"overridesUiAppearance": false,
+	"avoidDuplicatesOnInitialization": false,
+	"currencyScalars": [],
+	"hash": 3276661397,
+	"index": 613,
+	"redacted": false,
+	"blacklisted": false
 }

@@ -1,62 +1,62 @@
 {
-    "index": 1854, 
-    "traitHashes": [], 
-    "requirements": {
-        "entitlementUnavailableMessage": ""
-    }, 
-    "blacklisted": false, 
-    "intervalInfo": {
-        "originalObjectiveArrayInsertionIndex": 0, 
-        "intervalObjectives": [], 
-        "isIntervalVersionedFromNormalRecord": false
-    }, 
-    "presentationNodeType": 3, 
-    "stateInfo": {
-        "claimedUnlockHash": 0, 
-        "featuredPriority": 2147483647, 
-        "completeUnlockHash": 0
-    }, 
-    "titleInfo": {
-        "hasTitle": false
-    }, 
-    "redacted": false, 
-    "objectiveHashes": [
-        3923597897
-    ], 
-    "parentNodeHashes": [
-        1596399902
-    ], 
-    "expirationInfo": {
-        "hasExpiration": false, 
-        "description": ""
-    }, 
-    "traitIds": [], 
-    "completionInfo": {
-        "partialCompletionObjectiveCountThreshold": 0, 
-        "toastStyle": 1, 
-        "ScoreValue": 100, 
-        "shouldFireToast": true
-    }, 
-    "recordValueStyle": 0, 
-    "rewardItems": [], 
-    "displayProperties": {
-        "iconSequences": [
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/8c0706add485858efbfa140c55949940.png"
-                ]
-            }, 
-            {
-                "frames": [
-                    "/common/destiny2_content/icons/a3b75307eddc0921d43b2af225f7d68b.png"
-                ]
-            }
-        ], 
-        "icon": "/common/destiny2_content/icons/8c0706add485858efbfa140c55949940.png", 
-        "hasIcon": true, 
-        "description": "Defeat Vex to complete this lore book.", 
-        "name": "Aspect"
-    }, 
-    "scope": 0, 
-    "hash": 1850466452
+	"displayProperties": {
+		"description": "Defeat Vex to complete this lore book.",
+		"name": "Aspect",
+		"icon": "/common/destiny2_content/icons/8c0706add485858efbfa140c55949940.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/8c0706add485858efbfa140c55949940.png"
+				]
+			},
+			{
+				"frames": [
+					"/common/destiny2_content/icons/a3b75307eddc0921d43b2af225f7d68b.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [
+		3923597897
+	],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 100,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 2147483647,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": false,
+		"description": ""
+	},
+	"intervalInfo": {
+		"intervalObjectives": [],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		1596399902
+	],
+	"hash": 1850466452,
+	"index": 1866,
+	"redacted": false,
+	"blacklisted": false
 }

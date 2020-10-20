@@ -1,41 +1,41 @@
 {
-    "scaledStats": [
-        {
-            "displayInterpolation": [
-                {
-                    "weight": -10000, 
-                    "value": -10000
-                }, 
-                {
-                    "weight": 10000, 
-                    "value": 10000
-                }
-            ], 
-            "maximumValue": 10000, 
-            "statHash": 2733264856, 
-            "displayAsNumeric": true
-        }, 
-        {
-            "displayInterpolation": [
-                {
-                    "weight": -10000, 
-                    "value": -10000
-                }, 
-                {
-                    "weight": 10000, 
-                    "value": 10000
-                }
-            ], 
-            "maximumValue": 10000, 
-            "statHash": 2341766298, 
-            "displayAsNumeric": true
-        }
-    ], 
-    "index": 61, 
-    "hash": 4265987870, 
-    "uiPosition": 0, 
-    "maximumValue": 10000, 
-    "overrides": {}, 
-    "redacted": false, 
-    "blacklisted": false
+	"maximumValue": 10000,
+	"uiPosition": 0,
+	"scaledStats": [
+		{
+			"statHash": 2733264856,
+			"maximumValue": 10000,
+			"displayAsNumeric": true,
+			"displayInterpolation": [
+				{
+					"value": -10000,
+					"weight": -10000
+				},
+				{
+					"value": 10000,
+					"weight": 10000
+				}
+			]
+		},
+		{
+			"statHash": 2341766298,
+			"maximumValue": 10000,
+			"displayAsNumeric": true,
+			"displayInterpolation": [
+				{
+					"value": -10000,
+					"weight": -10000
+				},
+				{
+					"value": 10000,
+					"weight": 10000
+				}
+			]
+		}
+	],
+	"overrides": {},
+	"hash": 4265987870,
+	"index": 61,
+	"redacted": false,
+	"blacklisted": false
 }

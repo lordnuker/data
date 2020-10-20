@@ -1,0 +1,78 @@
+{
+	"displayProperties": {
+		"description": "Purchase Gift upgrades from the Prismatic Recaster.",
+		"name": "Upgrade Gift Ranks",
+		"icon": "/common/destiny2_content/icons/04f067d372547155bd699d8887c7ccf5.png",
+		"hasIcon": true
+	},
+	"scope": 0,
+	"objectiveHashes": [],
+	"recordValueStyle": 0,
+	"titleInfo": {
+		"hasTitle": false
+	},
+	"completionInfo": {
+		"partialCompletionObjectiveCountThreshold": 0,
+		"ScoreValue": 0,
+		"shouldFireToast": true,
+		"toastStyle": 1
+	},
+	"stateInfo": {
+		"featuredPriority": 91000,
+		"completeUnlockHash": 0,
+		"claimedUnlockHash": 0
+	},
+	"requirements": {
+		"entitlementUnavailableMessage": ""
+	},
+	"expirationInfo": {
+		"hasExpiration": true,
+		"description": "Available only during Season 11."
+	},
+	"intervalInfo": {
+		"intervalObjectives": [
+			{
+				"intervalObjectiveHash": 765187329,
+				"intervalScoreValue": 10
+			},
+			{
+				"intervalObjectiveHash": 765187328,
+				"intervalScoreValue": 15
+			},
+			{
+				"intervalObjectiveHash": 765187331,
+				"intervalScoreValue": 25
+			},
+			{
+				"intervalObjectiveHash": 765187330,
+				"intervalScoreValue": 25
+			},
+			{
+				"intervalObjectiveHash": 765187333,
+				"intervalScoreValue": 25
+			},
+			{
+				"intervalObjectiveHash": 765187332,
+				"intervalScoreValue": 25
+			},
+			{
+				"intervalObjectiveHash": 765187335,
+				"intervalScoreValue": 50
+			}
+		],
+		"originalObjectiveArrayInsertionIndex": 0,
+		"isIntervalVersionedFromNormalRecord": false
+	},
+	"rewardItems": [],
+	"presentationNodeType": 3,
+	"traitIds": [],
+	"traitHashes": [],
+	"parentNodeHashes": [
+		2699827342,
+		1852271144
+	],
+	"hash": 1012728572,
+	"index": 2112,
+	"redacted": false,
+	"blacklisted": false
+}

@@ -1,0 +1,283 @@
+{
+	"displayProperties": {
+		"largeIcon": "/common/destiny2_content/icons/b26c28e6aa362ee6b89eecf61dfd77da.jpg",
+		"subtitle": "Ramshackle Cryptarch",
+		"originalIcon": "/common/destiny2_content/icons/26a3c580befaa0426a02f68dc3cadbf2.png",
+		"requirementsDisplay": [],
+		"smallTransparentIcon": "/common/destiny2_content/icons/26a3c580befaa0426a02f68dc3cadbf2.png",
+		"mapIcon": "/common/destiny2_content/icons/25cb99cbbe842bd7e9102e9efa3cb0a9.png",
+		"largeTransparentIcon": "/common/destiny2_content/icons/1ce9f709222be8e12d2f35a06c81f9de.png",
+		"description": "Drifter built this device to extract the Darkness from Umbral Engrams and reveal the equipment hiding within.",
+		"name": "Umbral Decoder",
+		"icon": "/common/destiny2_content/icons/a983ff3d012b184110221e508283145b.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/26a3c580befaa0426a02f68dc3cadbf2.png",
+					"/common/destiny2_content/icons/25cb99cbbe842bd7e9102e9efa3cb0a9.png",
+					"/common/destiny2_content/icons/1ce9f709222be8e12d2f35a06c81f9de.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"BungieNet.Engine.Contract.Destiny.World.Definitions.IDestinyDisplayDefinition.displayProperties": {
+		"largeIcon": "/common/destiny2_content/icons/b26c28e6aa362ee6b89eecf61dfd77da.jpg",
+		"subtitle": "Ramshackle Cryptarch",
+		"originalIcon": "/common/destiny2_content/icons/26a3c580befaa0426a02f68dc3cadbf2.png",
+		"requirementsDisplay": [],
+		"smallTransparentIcon": "/common/destiny2_content/icons/26a3c580befaa0426a02f68dc3cadbf2.png",
+		"mapIcon": "/common/destiny2_content/icons/25cb99cbbe842bd7e9102e9efa3cb0a9.png",
+		"largeTransparentIcon": "/common/destiny2_content/icons/1ce9f709222be8e12d2f35a06c81f9de.png",
+		"description": "Drifter built this device to extract the Darkness from Umbral Engrams and reveal the equipment hiding within.",
+		"name": "Umbral Decoder",
+		"icon": "/common/destiny2_content/icons/a983ff3d012b184110221e508283145b.png",
+		"iconSequences": [
+			{
+				"frames": [
+					"/common/destiny2_content/icons/26a3c580befaa0426a02f68dc3cadbf2.png",
+					"/common/destiny2_content/icons/25cb99cbbe842bd7e9102e9efa3cb0a9.png",
+					"/common/destiny2_content/icons/1ce9f709222be8e12d2f35a06c81f9de.png"
+				]
+			}
+		],
+		"hasIcon": true
+	},
+	"displayItemHash": 3159615086,
+	"inhibitBuying": false,
+	"inhibitSelling": false,
+	"factionHash": 1772285985,
+	"resetIntervalMinutes": 10080,
+	"resetOffsetMinutes": 1860,
+	"failureStrings": [],
+	"unlockRanges": [],
+	"enabled": false,
+	"visible": false,
+	"consolidateCategories": false,
+	"unlockValueHash": 0,
+	"actions": [],
+	"categories": [
+		{
+			"categoryIndex": 0,
+			"sortValue": 0,
+			"categoryHash": 1220364428,
+			"quantityAvailable": 0,
+			"showUnavailableItems": false,
+			"hideIfNoCurrency": true,
+			"hideFromRegularPurchase": false,
+			"buyStringOverride": "Decode",
+			"disabledDescription": "",
+			"displayTitle": "Decode Engram",
+			"overlay": {
+				"choiceDescription": "Select engram to decode:",
+				"description": "Each engram decoded sheds light on lost history.",
+				"icon": "/common/destiny2_content/icons/e2f64b69186dd6e34b7a1eca168593af.png",
+				"title": "Decode Engram"
+			},
+			"vendorItemIndexes": [],
+			"isPreview": false,
+			"isDisplayOnly": false,
+			"resetIntervalMinutesOverride": -1,
+			"resetOffsetMinutesOverride": -1
+		},
+		{
+			"categoryIndex": 1,
+			"sortValue": 0,
+			"categoryHash": 2073587192,
+			"quantityAvailable": 0,
+			"showUnavailableItems": false,
+			"hideIfNoCurrency": true,
+			"hideFromRegularPurchase": false,
+			"buyStringOverride": "Decode",
+			"disabledDescription": "",
+			"displayTitle": "Decode Engram",
+			"overlay": {
+				"choiceDescription": "Select engram to decode:",
+				"description": "Each engram decoded sheds light on lost history.",
+				"icon": "/common/destiny2_content/icons/e2f64b69186dd6e34b7a1eca168593af.png",
+				"title": "Decode Engram"
+			},
+			"vendorItemIndexes": [
+				0
+			],
+			"isPreview": false,
+			"isDisplayOnly": false,
+			"resetIntervalMinutesOverride": -1,
+			"resetOffsetMinutesOverride": -1
+		}
+	],
+	"originalCategories": [
+		{
+			"categoryIndex": 0,
+			"sortValue": 0,
+			"categoryHash": 1220364428,
+			"quantityAvailable": 0,
+			"showUnavailableItems": false,
+			"hideIfNoCurrency": true,
+			"hideFromRegularPurchase": false,
+			"buyStringOverride": "Decode",
+			"disabledDescription": "",
+			"overlay": {
+				"choiceDescription": "Select engram to decode:",
+				"description": "Each engram decoded sheds light on lost history.",
+				"icon": "/common/destiny2_content/icons/e2f64b69186dd6e34b7a1eca168593af.png",
+				"title": "Decode Engram"
+			},
+			"vendorItemIndexes": [],
+			"isPreview": false,
+			"isDisplayOnly": false,
+			"resetIntervalMinutesOverride": -1,
+			"resetOffsetMinutesOverride": -1
+		},
+		{
+			"categoryIndex": 1,
+			"sortValue": 0,
+			"categoryHash": 2073587192,
+			"quantityAvailable": 0,
+			"showUnavailableItems": false,
+			"hideIfNoCurrency": true,
+			"hideFromRegularPurchase": false,
+			"buyStringOverride": "Decode",
+			"disabledDescription": "",
+			"overlay": {
+				"choiceDescription": "Select engram to decode:",
+				"description": "Each engram decoded sheds light on lost history.",
+				"icon": "/common/destiny2_content/icons/e2f64b69186dd6e34b7a1eca168593af.png",
+				"title": "Decode Engram"
+			},
+			"vendorItemIndexes": [
+				0
+			],
+			"isPreview": false,
+			"isDisplayOnly": false,
+			"resetIntervalMinutesOverride": -1,
+			"resetOffsetMinutesOverride": -1
+		}
+	],
+	"displayCategories": [],
+	"interactions": [
+		{
+			"interactionIndex": 0,
+			"replies": [
+				{
+					"itemRewardsSelection": 0,
+					"rewardSiteHash": 0,
+					"reply": "",
+					"replyType": 2
+				}
+			],
+			"vendorCategoryIndex": -1,
+			"questlineItemHash": 0,
+			"sackInteractionList": [],
+			"uiInteractionType": 2716011929,
+			"interactionType": 2,
+			"rewardBlockLabel": "",
+			"rewardVendorCategoryIndex": -1,
+			"flavorLineOne": "As you approach the Umbral Decoder, Drifter's pre-recorded voice plays from its tinny speakers.\n\n\"Whoa, there! If you're hearin' this, you're touchin' my machines in the wrong order! There'll be plenty of time for decoding later, but now you gotta check out the Recaster!\"\n\nYou look over at the Drifter, who can barely contain his joy. \"Gotcha, Hero!\" he manages to say before dissolving into peals of laughter.",
+			"flavorLineTwo": "",
+			"headerDisplayProperties": {
+				"description": "",
+				"name": "Hold Up, Guardian!",
+				"hasIcon": false
+			},
+			"instructions": ""
+		},
+		{
+			"interactionIndex": 1,
+			"replies": [
+				{
+					"itemRewardsSelection": 1,
+					"rewardSiteHash": 0,
+					"reply": "",
+					"replyType": 2
+				}
+			],
+			"vendorCategoryIndex": 1,
+			"questlineItemHash": 0,
+			"sackInteractionList": [],
+			"uiInteractionType": 3784864740,
+			"interactionType": 7,
+			"rewardBlockLabel": "",
+			"rewardVendorCategoryIndex": -1,
+			"flavorLineOne": "The branch gifted to you by the Pyramid has gorged on paracausal power and been bound to you through Eris's repurposing of Savathûn's twisted rituals. Contained within an engram structure, the branch is ready to be forged within the Umbral Decoder. As you grip it, a cold emptiness stings your fingers briefly before subsiding, barely noticed. It is time for this gift to find its final shape.",
+			"flavorLineTwo": "",
+			"headerDisplayProperties": {
+				"description": "",
+				"name": "Shape",
+				"hasIcon": false
+			},
+			"instructions": ""
+		},
+		{
+			"interactionIndex": 2,
+			"replies": [],
+			"vendorCategoryIndex": -1,
+			"questlineItemHash": 0,
+			"sackInteractionList": [
+				{
+					"sackType": 1118804527
+				}
+			],
+			"uiInteractionType": 1503645381,
+			"interactionType": 8,
+			"rewardBlockLabel": "",
+			"rewardVendorCategoryIndex": -1,
+			"flavorLineOne": "Decode Umbral Engrams into weapons and armor. Drifter swears this device is perfectly safe to use.",
+			"flavorLineTwo": "",
+			"headerDisplayProperties": {
+				"description": "",
+				"name": "Decrypt Umbral Engrams",
+				"hasIcon": false
+			},
+			"instructions": "Select Engram"
+		}
+	],
+	"inventoryFlyouts": [],
+	"itemList": [
+		{
+			"vendorItemIndex": 0,
+			"itemHash": 3551862167,
+			"quantity": 1,
+			"failureIndexes": [],
+			"priceOverrideEnabled": false,
+			"currencies": [],
+			"refundPolicy": 0,
+			"refundTimeLimit": 0,
+			"rewardAdjustorPointerHash": 0,
+			"creationLevels": [
+				{
+					"level": 0
+				}
+			],
+			"displayCategoryIndex": -1,
+			"seedOverride": 0,
+			"categoryIndex": 1,
+			"originalCategoryIndex": 1,
+			"weight": 0,
+			"minimumLevel": 0,
+			"maximumLevel": 0,
+			"licenseUnlockHash": 0,
+			"action": {
+				"executeSeconds": 0,
+				"isPositive": false
+			},
+			"displayCategory": "",
+			"inventoryBucketHash": 2422292810,
+			"visibilityScope": 3,
+			"purchasableScope": 3,
+			"exclusivity": -1,
+			"sortValue": 0,
+			"expirationTooltip": "",
+			"redirectToSaleIndexes": [],
+			"socketOverrides": []
+		}
+	],
+	"services": [],
+	"acceptedItems": [],
+	"returnWithVendorRequest": false,
+	"ignoreSaleItemHashes": [],
+	"hash": 3354375995,
+	"index": 470,
+	"redacted": false,
+	"blacklisted": false
+}
